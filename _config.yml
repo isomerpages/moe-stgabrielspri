@@ -1,6 +1,6 @@
 title: St Gabriels Primary School
 url: https://stgabrielspri.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/BOSTCrest-trans-colour.gif
 colors:
   primary-color: "#07416f"
   secondary-color: "#fed101"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1h9v4thj07mn3.amplifyapp.com
 prod: https://master.d1h9v4thj07mn3.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/BOSTCrest-trans-colour.gif
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
