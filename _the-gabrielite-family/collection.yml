@@ -2,6 +2,7 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - School Staff/.keep
       - Achievements/2021.md
       - Achievements/2020.md
       - Achievements/2019.md
