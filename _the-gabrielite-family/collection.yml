@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Achievements/.keep
-      - Achievements/2016.md
       - Achievements/2017.md
+      - Achievements/2016.md
       - Personal Data Protection Policy.md
