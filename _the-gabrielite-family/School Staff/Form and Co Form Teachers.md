@@ -173,10 +173,10 @@ third_nav_title: School Staff
 .tg .tg-tv7y{color:#232323;text-align:center;vertical-align:middle}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
 <colgroup>
 <col style="width: 210px">
-<col style="width: 260px">
+<col style="width: 270px">
 <col style="width: 330px">
 </colgroup>
 <tbody>
