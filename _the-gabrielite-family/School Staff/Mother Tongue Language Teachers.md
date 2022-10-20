@@ -116,3 +116,43 @@ third_nav_title: School Staff
   </tr>
 </tbody>
 </table>
+
+### TAMIL LANGUAGE
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7bcz{color:#232323;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 500px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-7bcz">Name</td>
+    <td class="tg-7bcz">Email Address</td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0">Miss Palani</td>
+    <td class="tg-bjk0">palaniammal_murugiah@schools.gov.sg     </td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0">Mdm Aisha</td>
+    <td class="tg-bjk0">noor_aisha@schools.gov.sg     </td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0">Miss Safila Afreen Basheer Ahamed </td>
+    <td class="tg-bjk0">safila_afreen_basheer_ahamed@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0">Mdm Sumathi </td>
+    <td class="tg-bjk0">vaidynathan_sumathi@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
