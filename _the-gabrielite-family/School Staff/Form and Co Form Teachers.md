@@ -160,3 +160,55 @@ third_nav_title: School Staff
   </tr>
 </tbody>
 </table>
+
+### PRIMARY 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ku8i{color:#232323;text-align:center;vertical-align:top}
+.tg .tg-tv7y{color:#232323;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 210px">
+<col style="width: 260px">
+<col style="width: 330px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">CLASS </span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">FORM TEACHER</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">CO-FORM TEACHER(S)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">4 Loyalty<br></td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Dr Elaine Cai</span><br>elaine_cai_yu_ling@schools.gov.sg </td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mdm Liu Yi Lei, Lily</span><br>liu_yi_lei_lily@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y"> 4 Orderliness</td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Ms Irfana Banu </span><br>irfana_banu_khider_mohamed@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Ms Jane Lim</span><br>lim_boey_huang_jane@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">4 Respect<br></td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Mrs Serene Huang</span><br>lee_huay_chin_serene@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mr Hamzah</span><br>muhamad_hamzah_rohi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">4 Diligence<br></td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Mdm Christine Lee</span><br>lee_xiu_en_christine@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mr Sean De Zilva</span><br>sean_de_zilva@schools.gov.sg<br><br><span style="font-weight:bold">Mr Mohamad Hafiz Juraimi</span><br>mohamad_hafiz_juraimi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">4 Self-Discipline<br></td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Mrs Radha Vishnu</span><br>sai_radha_k_suppiah@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mdm Chitra</span><br>chitra_devi_kasiviswanathan@schools.gov.sg<br><br><span style="font-weight:bold">Mr Quek Guan Hui</span><br>chitra_devi_kasiviswanathan@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
