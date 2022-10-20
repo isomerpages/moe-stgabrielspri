@@ -2,6 +2,7 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - Financial Information.md
       - School Rules.md
       - School Staff/School Executive Committee.md
       - School Staff/Form and Co Form Teachers.md
