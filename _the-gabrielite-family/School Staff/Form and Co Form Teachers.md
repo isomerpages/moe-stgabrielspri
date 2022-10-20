@@ -212,3 +212,55 @@ third_nav_title: School Staff
   </tr>
 </tbody>
 </table>
+
+### PRIMARY 5
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ku8i{color:#232323;text-align:center;vertical-align:top}
+.tg .tg-tv7y{color:#232323;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 210px">
+<col style="width: 270px">
+<col style="width: 330px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">CLASS</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">FORM TEACHER</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">CO-FORM TEACHER(S)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y"> 5 Self-Discipline <br></td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Ms Jolene Low</span><br>low_yun_yi_jolene@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mdm Aisha</span><br>noor_aisha@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y"> 5 Generosity</td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Mr Andy Kong</span><br>kong_jia_wei@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mrs Sabrina Tan </span><br>sabrina_tan@schools.gov.sg<br><br><span style="font-weight:bold">Mdm Nisfawati Md Zainuddin</span><br>nisfawati_md_zainuddin@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y"> 5 Perseverance</td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Mr Kelvin Loy</span><br>loy_shingwan_kelvin@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mrs Sara Liyu</span><br> sara_liyu_lee_cheng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y"> 5 Sincerity<br></td>
+    <td class="tg-tv7y"><span style="font-weight:bold">Mrs Jo-Marie Matthews</span><br>jo-marie_malathi_alagu@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mr Jimmy Tong</span><br>tong_weng_thim_jimmy@schools.gov.sg<br><br><span style="font-weight:bold">Mdm Jean Heng Choo Ching</span> <br>heng_choo_ching@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y"> 5 Loyalty</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mdm Sharifah Nurulhuda</span><br>sharifah_nurulhuda_taha_a@schools.gov.sg</td>
+    <td class="tg-ku8i"><span style="font-weight:bold">Mrs Wendy Chee </span><br>boey_yun_kwan@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
