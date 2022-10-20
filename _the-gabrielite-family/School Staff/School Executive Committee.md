@@ -12,10 +12,10 @@ third_nav_title: School Staff
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 578px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 277px">
-<col style="width: 301px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
