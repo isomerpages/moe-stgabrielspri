@@ -80,4 +80,39 @@ third_nav_title: School Staff
 </tbody>
 </table>
 
-###
+### MALAY LANGUAGE
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7bcz{color:#232323;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 500px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-7bcz">Name</td>
+    <td class="tg-7bcz">Email Address</td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">Mr Muhamad Hamzah</td>
+    <td class="tg-g1uo">muhamad_hamzah_rohi@schools.gov.sg     </td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">Ms Dina Farhana</td>
+    <td class="tg-g1uo">dina_farhana_hashim@schools.gov.sg     </td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0">Mdm Nisfawati Md Zainuddin  </td>
+    <td class="tg-bjk0">nisfawati_md_zainuddin@schools.gov.sg   </td>
+  </tr>
+</tbody>
+</table>
