@@ -12,7 +12,11 @@ description: ""
 .tg .tg-ge7m{color:#232323;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-7qht{color:#232323;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 300px">
+<col style="width: 450px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-7qht">Session</td>
