@@ -14,11 +14,11 @@ third_nav_title: School Staff
 .tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
 .tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
 <colgroup>
 <col style="width: 250px">
 <col style="width: 230px">
-<col style="width: 320px">
+<col style="width: 330px">
 </colgroup>
 <tbody>
   <tr>
