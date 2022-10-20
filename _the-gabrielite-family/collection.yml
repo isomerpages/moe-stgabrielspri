@@ -2,6 +2,7 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - School Staff/Form and Co Form Teachers.md
       - School Staff/Mother Tongue Language Teachers.md
       - School Staff/Allied Educators.md
       - School Staff/Executive and Administrative Staff.md
