@@ -24,9 +24,9 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-baqh"><img src="/images/John%20Lim.jpeg" 
-     style="width:75%"><span style="font-weight:bold">Vice Principal</span><br>Mr John Lim<br>lim_chong_eng@schools.gov.sg</td>
+     style="width:70%"><span style="font-weight:bold">Vice Principal</span><br>Mr John Lim<br>lim_chong_eng@schools.gov.sg</td>
     <td class="tg-baqh"><img src="/images/Christina%20Tan.jpg" 
-     style="width:75%"><span style="font-weight:bold">Vice Principal (Administration)</span><br><span style="font-weight:400;font-style:normal">Mrs Christina Tan</span><br><span style="font-weight:400;font-style:normal">christina_tee@schools.gov.sg</span></td>
+     style="width:70%"><span style="font-weight:bold">Vice Principal (Administration)</span><br><span style="font-weight:400;font-style:normal">Mrs Christina Tan</span><br><span style="font-weight:400;font-style:normal">christina_tee@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
