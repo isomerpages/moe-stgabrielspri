@@ -18,8 +18,8 @@ third_nav_title: School Staff
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 250px">
-<col style="width: 250px">
-<col style="width: 300px">
+<col style="width: 230px">
+<col style="width: 320px">
 </colgroup>
 <tbody>
   <tr>
