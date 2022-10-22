@@ -29,3 +29,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+![](/images/Completed%20Heritage%20Gallery.jpeg)
