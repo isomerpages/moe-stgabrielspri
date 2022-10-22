@@ -2,4 +2,5 @@ collections:
   character-formation:
     output: true
     order:
+      - Student Discipline, Safety & Partnerships.md
       - Student Development.md
