@@ -222,7 +222,7 @@ An authentic learning experience on Tamil Language and Culture
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix" colspan="2">video 1</td>
+    <td class="tg-nrix" colspan="2"></td>
     <td class="tg-nrix" colspan="2">v2</td>
     <td class="tg-nrix" colspan="2">v3</td>
   </tr>
