@@ -3,7 +3,9 @@ title: School Motto
 permalink: /the-gabrielite-family/school-motto/
 description: ""
 ---
-![](/images/motto.gif)
+<img src="/images/motto.gif" 
+     style="width:65%">
+
 
 The Latin motto "Labor Omnia Vincit" stands for "**Labour conquers all things.**" Hard work embodied in diligence and perseverance leads one to achieve greater things in life. **It can thus be said that in whatever you do, do your best.**
 
