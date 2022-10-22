@@ -36,7 +36,7 @@ Primary 4: Craftwork – Bunga Mangah
 Primary 5: Wayang Kulit
 
 <img src="/images/malay2-2.png" 
-     style="width:65%">
+     style="width:85%">
 
 **Primary 1 to 6 Traditional Games and Music Day**   
 To build students’ vocabulary through exposure to local games
