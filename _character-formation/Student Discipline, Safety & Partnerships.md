@@ -199,3 +199,23 @@ c. Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
+**Information for Parents**
+
+8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents in due course. A hardcopy of the form, duly completed and signed, is to be submitted to the form teacher by the stipulated date.
+
+10\. Parents can contact the school at [stgps@moe.edu.sg](mailto:stgps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.
+
+
+### MODIFIED RESTORATIVE PRACTICES (MRP)
+
+
+![](/images/MRP%20DSP%20Page2.jpeg)
+
+
+### STUDENT REWARDS AND RECOGNITION
+
+![](/images/R&R%20DSP%20Page_1.jpeg)
