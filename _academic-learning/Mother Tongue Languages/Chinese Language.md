@@ -19,17 +19,22 @@ To enhance students' interest in learning Chinese Language, the following activi
 **1) Mother Tongue Fortnight / Inquiry Based Projects (IBL)**
 2 weeks of language / cultural activities to inculcate the love and interest in the learning Chinese Language through related activities.
 
-![](/images/MTF%20IBL.png)
+<img src="/images/MTF%20IBL.png" 
+     style="width:65%">
 
 **2) Inquiry Based Projects (IBL)**    
 An inquiry-based approach shifts the focus to the students themselves, who become active learners as they choose which topics to explore; research these topics; decide what to produce, create, or solve; and then reflect on what they have learned. With a student-centred approach, it helps students to develop knowledge, skills and conceptual understanding.
 
-![](/images/IBL.png)
+<img src="/images/IBL.png" 
+     style="width:65%">
+
 
 **3) P3 Language/Cultural Camp**   
 Interesting Speech & Drama camp to inculcate interest in the learning of Chinese Language through language and cultural activities.
 
-![](/images/Cultural%20Camp.png)
+<img src="/images/Cultural%20Camp.png" 
+     style="width:75%">
+
 
 
 **4) Assembly Programme**   
@@ -39,7 +44,9 @@ Chinese New Year Celebrations
 Penmanship Competition  
 Reading Activities
 
-![](/images/CLinterclass.png)
+<img src="/images/CLinterclass.png" 
+     style="width:85%">
+
 
 **6) Inter-School Competitions and Activities**   
 _Fo Guang Shan Penmanship Competition_    
@@ -80,4 +87,3 @@ A learning portal for students to learn Chinese Language so as to enhance their 
 Dudu Town  
 **[http://go.dudu.town](http://go.dudu.town/)**   
 An interesting portal to encourage the students in reading Chinese Language story books.
-
