@@ -126,6 +126,76 @@ c. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
-<br>
 
+<center><strong><u>Primary 6</u></strong></center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+.tg .tg-tv7y{color:#232323;text-align:center;vertical-align:middle}
+.tg .tg-ujr7{color:#232323;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 817px">
+<colgroup>
+<col style="width: 152px">
+<col style="width: 190px">
+<col style="width: 343px">
+<col style="width: 132px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ujr7">UNIT</td>
+    <td class="tg-ujr7">LESSONS / DURATION</td>
+    <td class="tg-95g1">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-ujr7">TIME PERIOD</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y" rowspan="5">Are We More Than Friends?</td>
+    <td class="tg-tv7y">Who Are My Friends?<br>(30 min)</td>
+    <td class="tg-g1uo">– identify the qualities of a healthy friendship<br><span style="font-weight:400;font-style:normal">–</span> recognise the importance of making wise choices in friendship</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">Am I A Good Friend?<br>(30 min)</td>
+    <td class="tg-g1uo"><span style="font-weight:400;font-style:normal">–</span> identify the qualities that they have as a friend<br><span style="font-weight:400;font-style:normal">–</span> recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">What is Love?<br>(30 min)</td>
+    <td class="tg-g1uo"><span style="font-weight:400;font-style:normal">–</span> identify the characteristics of love and infatuation ·<br><span style="font-weight:400;font-style:normal">–</span> distinguish between the characteristics of love versus infatuation<br><span style="font-weight:400;font-style:normal">–</span> identify strong feelings arising from infatuation</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">Am I Falling In Love?<br>(30 min)</td>
+    <td class="tg-g1uo"><span style="font-weight:400;font-style:normal">–</span> manage strong feelings arising from infatuation<br><span style="font-weight:400;font-style:normal">–</span> identify ways to manage and cope with teasing from peers</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">Main Task<br>(30 min)</td>
+    <td class="tg-g1uo">Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y" rowspan="3">Friends or Foes?</td>
+    <td class="tg-tv7y">Are You Really My Friend?<br>(30 min)</td>
+    <td class="tg-g1uo"><span style="font-weight:400;font-style:normal">–</span> identify the pros and cons of forming relationships through social networking websites<br><span style="font-weight:400;font-style:normal">–</span> know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">Is It All Safe?<br>(30 min)</td>
+    <td class="tg-g1uo"><span style="font-weight:400;font-style:normal">– </span>know that some information (like pornography) received through the Internet may be harmful<br><span style="font-weight:400;font-style:normal">–</span> know ways to keep themselves safe when using social networking website or the Internet</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+  <tr>
+    <td class="tg-tv7y">Main Task<br>(30 min)</td>
+    <td class="tg-g1uo">Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
+    <td class="tg-tv7y">Term 4</td>
+  </tr>
+</tbody>
+</table>
 
