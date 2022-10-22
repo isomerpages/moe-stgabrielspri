@@ -2,6 +2,7 @@ collections:
   character-formation:
     output: true
     order:
+      - CCE/Student Leadership.md
       - CCE/Catholic Formation.md
       - CCE/.keep
       - Student Discipline, Safety & Partnerships.md
