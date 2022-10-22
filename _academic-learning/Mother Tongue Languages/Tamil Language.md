@@ -232,3 +232,10 @@ An authentic learning experience on Tamil Language and Culture
   </tr>
 </tbody>
 </table>
+
+### USEFUL LINKS
+
+##### SELF-HELP GROUPS    
+[www.sinda.org.sg](http://www.sinda.org.sg/)
+
+[www.siet-trust.org.sg](http://www.siet-trust.org.sg/)
