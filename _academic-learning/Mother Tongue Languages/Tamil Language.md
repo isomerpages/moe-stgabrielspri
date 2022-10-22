@@ -80,14 +80,14 @@ An authentic learning experience on Tamil Language and Culture
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 749px">
+<table class="tg" style="undefined;table-layout: fixed; width: 798px">
 <colgroup>
-<col style="width: 117px">
-<col style="width: 108px">
-<col style="width: 149px">
-<col style="width: 119px">
-<col style="width: 121px">
-<col style="width: 135px">
+<col style="width: 133px">
+<col style="width: 133px">
+<col style="width: 133px">
+<col style="width: 133px">
+<col style="width: 133px">
+<col style="width: 133px">
 </colgroup>
 <tbody>
   <tr>
