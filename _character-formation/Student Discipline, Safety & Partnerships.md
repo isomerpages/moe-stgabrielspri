@@ -67,7 +67,13 @@ c. Character and Citizenship Education (CCE)
 .tg .tg-ujr7{color:#232323;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 817px">
+<colgroup>
+<col style="width: 152px">
+<col style="width: 190px">
+<col style="width: 343px">
+<col style="width: 132px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-17an">UNIT</td>
