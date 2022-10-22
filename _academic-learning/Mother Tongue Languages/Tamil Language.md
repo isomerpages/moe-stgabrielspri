@@ -60,3 +60,37 @@ Learning of Tamil through authentic learning experiences such as learning journe
 
 **P4 Learning Jouney to Pongal Fair**  
 An authentic learning experience on Tamil Language and Culture
+
+![](/images/tamil6.png)
+
+**Nursery Rhymes**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 749px">
+<colgroup>
+<col style="width: 117px">
+<col style="width: 108px">
+<col style="width: 149px">
+<col style="width: 119px">
+<col style="width: 121px">
+<col style="width: 135px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix" colspan="2">video 1</td>
+    <td class="tg-nrix" colspan="2">v2</td>
+    <td class="tg-nrix" colspan="2">v3</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" colspan="3">v4</td>
+    <td class="tg-nrix" colspan="3">v5</td>
+  </tr>
+</tbody>
+</table>
