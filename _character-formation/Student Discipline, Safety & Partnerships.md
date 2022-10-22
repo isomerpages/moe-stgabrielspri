@@ -212,10 +212,12 @@ c. Character and Citizenship Education (CCE)
 
 ### MODIFIED RESTORATIVE PRACTICES (MRP)
 
+<img src="/images/MRP%20DSP%20Page2.jpeg" 
+     style="width:55%">
 
-![](/images/MRP%20DSP%20Page2.jpeg)
 
 
 ### STUDENT REWARDS AND RECOGNITION
 
-![](/images/R&R%20DSP%20Page_1.jpeg)
+<img src="/images/R&R%20DSP%20Page_1.jpeg" 
+     style="width:55%">
