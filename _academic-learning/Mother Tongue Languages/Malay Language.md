@@ -21,7 +21,9 @@ Mr Muhamad Hamzah Rohi
 
 _Use of various strategies and engaging activities such as group work, games, drama etc to engage students in the learning of Malay Language._
 
-![](/images/malay1.png)
+<img src="/images/malay1.png" 
+     style="width:65%">
+
 
 **Mother Tongue Fortnight Activities:** 
 
@@ -33,18 +35,21 @@ Primary 3: Carpet Weaving
 Primary 4: Craftwork – Bunga Mangah  
 Primary 5: Wayang Kulit
 
-![](/images/malay2-2.png)
+<img src="/images/malay2-2.png" 
+     style="width:65%">
 
 **Primary 1 to 6 Traditional Games and Music Day**   
 To build students’ vocabulary through exposure to local games
 
-![](/images/malay3.png)
+<img src="/images/malay3.png" 
+     style="width:65%">
 
 **_P3 Cultural Experience_**     
 An authentic experience of Malay Language and Culture: Silat
 
-![](/images/malay4.png)
-
+<img src="/images/malay4.png" 
+     style="width:65%">
+		 
 **_EXPOSE, ENRICH_**
 
 **Reading Programme (P2 to P6)**
@@ -57,7 +62,8 @@ Objective: To develop students’ as effective communicators in the Malay langua
 
 Objective: To build students’ vocabulary and competency in the language through the reading of Malay books / articles.
 
-![](/images/malay6.png)
+<img src="/images/malay6.png" 
+     style="width:65%">
 
 
 **E-Learning Platforms**
