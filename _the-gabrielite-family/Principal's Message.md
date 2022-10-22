@@ -4,7 +4,7 @@ permalink: /the-gabrielite-family/principals-message/
 description: ""
 ---
 <img src="/images/mrmartintan2.jpeg" 
-     style="width:25%">
+     style="width:20%">
 <strong><center>Mr Martin Tan<br>Principal</center></strong>
 
 Our school mission “Shaping Lives for Service to God and Nation” requires us to constantly reflect on the purpose of a Gabrielite education. I have had the privilege of meeting many of the old boys who have pledged their strong support for their alma mater. This is heartening as it is a testimony of their pride, loyalty and confidence in the quality of the Gabrielite education. In line with the school’s core educational philosophy ‘Love each child as your own’, I am constantly heartened by the teachers’ enthusiasm and positivity toward student learning in the school. I can sense their love for the children and the desire to help every child realize their potential. 
