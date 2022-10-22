@@ -84,13 +84,13 @@ An authentic learning experience on Tamil Language and Culture
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix" colspan="2">video 1</td>
-    <td class="tg-nrix" colspan="2">v2</td>
-    <td class="tg-nrix" colspan="2">v3</td>
+    <td class="tg-nrix" colspan="2"><iframe width="291" height="216" src="https://www.youtube.com/embed/x48P3Bseorg" title="Nursery Rhymes 2021 - Tevin Roshan (1 SEL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-nrix" colspan="2"><iframe width="288" height="216" src="https://www.youtube.com/embed/yamdPdAk2Ng" title="Nursery Rhymes 2021 - Santosh (1 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-nrix" colspan="2"><iframe width="289" height="216" src="https://www.youtube.com/embed/Q8G-7kTZO4o" title="Nursery Rhymes 2021 - Noel Arya Jacob (1 PER)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
   <tr>
-    <td class="tg-nrix" colspan="3">v4</td>
-    <td class="tg-nrix" colspan="3">v5</td>
+    <td class="tg-nrix" colspan="3"><iframe width="291" height="218" src="https://www.youtube.com/embed/BF7FpVM_Gcg" title="Nursery Rhymes 2021 - Amrith Havesh (1 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td class="tg-nrix" colspan="3"><iframe width="291" height="218" src="https://www.youtube.com/embed/Okb8DcHzIdk" title="Nursery Rhymes 2021 - Aaryan Zarshan (1GEN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
 </tbody>
 </table>
