@@ -18,7 +18,9 @@ Miss Palaniammal Murugiah
 
 Use of various strategies and engaging activities such as group work, games, drama etc to engage students in the learning of Tamil Language.
 
-![](/images/tamil1.png)
+<img src="/images/tamil1.png" 
+     style="width:65%">
+
 
 **Mother Tongue Fortnight Activities:**   
 **A week of fun-filled activities to expose students to the Tamil Culture through the introduction of Indian food and art forms so as to arouse students’ interest and love for the language.**  
@@ -29,13 +31,16 @@ Primary 3: Ranggoli Kolum – Indian Floor Art 
 Primary 4: Clay Pot Painting – Pongal Pot    
 Primary 5: Tanjore Painting
 
-![](/images/tamil2.png)
-![](/images/tamil3.png)
+<img src="/images/tamil2.png" 
+     style="width:65%">
+<img src="/images/tamil3.png" 
+     style="width:65%">
 
 **Primary 1 to 6 Traditional Games and Music Day**   
 To build students’ vocabulary through exposure to local games
 
-![](/images/tamil4.png)
+<img src="/images/tamil4.png" 
+     style="width:65%">
 
 **_EXPOSE, ENRICH_**   
 **_Reading / Oral  Programmes_**   
@@ -46,7 +51,8 @@ _Objective: To develop students’ as effective communicators in the Tamil langu
 **_2) Silent Reading on Tuesdays and Thursdays (P1 - P6)_**     
  _Objective: To build students’ vocabulary and competency in the language through the reading of Tamil books / articles._
  
-![](/images/tamil5.png)
+<img src="/images/tamil5.png" 
+     style="width:65%">
 
 **E-Learning Platforms**
 * vaandu.sg  
@@ -61,7 +67,8 @@ Learning of Tamil through authentic learning experiences such as learning journe
 **P4 Learning Jouney to Pongal Fair**  
 An authentic learning experience on Tamil Language and Culture
 
-![](/images/tamil6.png)
+<img src="/images/tamil6.png" 
+     style="width:65%">
 
 **Nursery Rhymes**
 
