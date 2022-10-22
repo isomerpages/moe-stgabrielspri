@@ -52,6 +52,8 @@ c. Character and Citizenship Education (CCE)
 
 **At St. Gabriel’s Primary School, the following lessons from the Growing Years Programme** **will be taught in <u>2022</u>:**
 
+<center><strong><u>Primary 5</u></strong></center>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -124,3 +126,7 @@ c. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<br>
+
+
