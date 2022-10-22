@@ -45,3 +45,18 @@ _Objective: To develop students’ as effective communicators in the Tamil langu
 
 **_2) Silent Reading on Tuesdays and Thursdays (P1 - P6)_**     
  _Objective: To build students’ vocabulary and competency in the language through the reading of Tamil books / articles._
+ 
+![](/images/tamil5.png)
+
+**E-Learning Platforms**
+* vaandu.sg  
+* TheenTamil Website  
+* Student Learning Space (SLS)
+
+Objective: To embark on various ICT platforms to enhance the learning of Tamil.
+
+**Learning Journey**   
+Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances.
+
+**P4 Learning Jouney to Pongal Fair**  
+An authentic learning experience on Tamil Language and Culture
