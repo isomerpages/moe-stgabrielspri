@@ -3,7 +3,9 @@ title: Student Development
 permalink: /character-formation/student-development/
 description: ""
 ---
-![](/images/SDT%20Framework%20version%201_Resized.jpeg)
+<img src="/images/SDT%20Framework%20version%201_Resized.jpeg" 
+     style="width:75%">
+
 
 ### PILLARS OF STUDENT DEVELOPMENT
 
