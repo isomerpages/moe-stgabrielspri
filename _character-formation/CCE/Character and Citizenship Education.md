@@ -31,7 +31,7 @@ Recognising the need for social cohesion and civic responsibility, we aim to dev
 
 VIA activities are segmented into 3 tiers – whole school, level-specific, and tier-specific. The students are undergo a process where they take ownership of the VIA projects with the teachers taking on a facilitation role.
 
-![](/images/VIA%20(1).jpeg)
+![](/images/via-1-2.png)
 
 Some examples of VIA projects include a collaboration with Braddell Heights grassroots on a Used Books Collection, and a Gabrielite School Experience project that our young Primary Two students undergo to host groups of kindergarten students. The Primary Three cohort also visit St. Luke’s Eldercare and engage the seniors in a series of activities that they have designed and prepared.
 
@@ -55,4 +55,5 @@ The vocabulary learnt by the students during their MTL lessons at each level pro
 **National Education (NE) Shows**   
 Every year, the Primary 5 students attend the NE Show to bask in the national celebrations and to evoke in them, a sense of patriotism
 
-![](/images/via4.jpeg)
+<img src="/images/via4.jpeg" 
+     style="width:35%">
