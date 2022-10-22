@@ -6,7 +6,6 @@ description: ""
 <img src="/images/SDT%20Framework%20version%201_Resized.jpeg" 
      style="width:75%">
 
-
 ### PILLARS OF STUDENT DEVELOPMENT
 
 <style type="text/css">
