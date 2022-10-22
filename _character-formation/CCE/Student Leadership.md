@@ -52,5 +52,4 @@ The Joint Leaders’ Investiture is an annual prestigious event which is held in
 
 <img src="/images/sl2.png" 
      style="width:65%">
-
 <center>Joint Leaders’ Investiture 2021</center>
