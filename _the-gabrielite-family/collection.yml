@@ -2,6 +2,7 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - School Philosophy, Culture and Ethos.md
       - School Motto.md
       - School History.md
       - School Badge.md
