@@ -40,7 +40,7 @@ Some examples of VIA projects include a collaboration with Braddell Heights gras
 **Religious Education (RE)**   
 Catholic students, and non-Catholics who have chosen to opt-in,  attend the RE classes where our teachers work with a team of dedicated and experienced Catechists to impart the Catholic Faith to our children.  All topics are aligned with those taught in MCLE classes, but discussions would be from a Christian perspective, incorporating lessons from the life of Christ and that of the Saints.
 
-
+![](/images/via3.png)
 
 
 **Character and Citizenship Education (MTL)**     
@@ -50,6 +50,9 @@ During Mother Tongue Lessons (MTL), students deepen their learning of moral valu
 
 The vocabulary learnt by the students during their MTL lessons at each level provides a guide in the choice of proverbs and the activities in the journals for CCE (MTL). Activities are contextualized and applicable to their daily experiences.
 
+![](/images/via4.png)
 
 **National Education (NE) Shows**   
 Every year, the Primary 5 students attend the NE Show to bask in the national celebrations and to evoke in them, a sense of patriotism
+
+![](/images/via4.jpeg)
