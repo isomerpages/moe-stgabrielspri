@@ -2,5 +2,6 @@ collections:
   character-formation:
     output: true
     order:
+      - CCE/.keep
       - Student Discipline, Safety & Partnerships.md
       - Student Development.md
