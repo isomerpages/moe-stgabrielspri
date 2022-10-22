@@ -1,4 +1,5 @@
 collections:
   character-formation:
     output: true
-    order: []
+    order:
+      - Student Development.md
