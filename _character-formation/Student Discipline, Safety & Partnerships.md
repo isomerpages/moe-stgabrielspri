@@ -167,7 +167,7 @@ c. Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-tv7y">What is Love?<br>(30 min)</td>
-    <td class="tg-g1uo"><span style="font-weight:400;font-style:normal">–</span> identify the characteristics of love and infatuation ·<br><span style="font-weight:400;font-style:normal">–</span> distinguish between the characteristics of love versus infatuation<br><span style="font-weight:400;font-style:normal">–</span> identify strong feelings arising from infatuation</td>
+    <td class="tg-g1uo"><span style="font-weight:400;font-style:normal">–</span> identify the characteristics of love and infatuation<br><span style="font-weight:400;font-style:normal">–</span> distinguish between the characteristics of love versus infatuation<br><span style="font-weight:400;font-style:normal">–</span> identify strong feelings arising from infatuation</td>
     <td class="tg-tv7y">Term 4</td>
   </tr>
   <tr>
