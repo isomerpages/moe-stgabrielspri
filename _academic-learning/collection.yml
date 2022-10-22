@@ -2,4 +2,5 @@ collections:
   academic-learning:
     output: true
     order:
+      - Mother Tongue Languages/Tamil Language.md
       - Mother Tongue Languages/.keep
