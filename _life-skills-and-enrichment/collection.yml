@@ -2,6 +2,7 @@ collections:
   life-skills-and-enrichment:
     output: true
     order:
+      - Physical & Health Education/P5 Camp.md
       - Physical & Health Education/Post Exam Activities.md
       - Physical & Health Education/School Health Programmes.md
       - Physical & Health Education/.keep
