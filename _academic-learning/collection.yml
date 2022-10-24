@@ -2,6 +2,7 @@ collections:
   academic-learning:
     output: true
     order:
+      - Mathematics.md
       - Science.md
       - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/Malay Language.md
