@@ -95,3 +95,10 @@ In St Gabriel’s Primary School, we align our PHE curriculum to the Goals of Ph
 **<u>Physical Health and Fitness</u>**
 
 Physical Health and Fitness stimulates students’ interest in physical activity as meaningful connections between health concepts and practical applications are made through experiential learning. Through meaningful health-enhancing physical activities and learning tasks, we aim to help our students understand good health practices in nutrition, exercise, safety and hygiene. With these, they will then be equipped with the knowledge, skills and motivation to make informed personal decisions to stay active and healthy.
+
+![](/images/phe5.png)
+
+
+**Annual Games Day**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/0dqcRUZxzjE" title="Annual Games Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
