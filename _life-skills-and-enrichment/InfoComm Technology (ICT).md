@@ -58,3 +58,5 @@ There are 7 key Cyberwellness topics which students are engaged in through schoo
 **Sense – Think – Act at Home** 
 
 To complement the CW curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace. To ensure that their children are safe and have positive experiences online, parents can:
+
+![](/images/ict5.jpeg)
