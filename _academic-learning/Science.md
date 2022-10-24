@@ -62,7 +62,7 @@ Senior Teacher: Mdm Chitra Devi
   </tr>
   <tr>
     <td class="tg-nrix" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:underline">E-Waste Collection Drive</span><img src="/images/ewcd.jpeg" 
-     style="width:85%"></td>
+     style="width:45%"></td>
   </tr>
 </tbody>
 </table>
