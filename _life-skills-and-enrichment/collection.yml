@@ -2,6 +2,7 @@ collections:
   life-skills-and-enrichment:
     output: true
     order:
+      - Physical & Health Education/Physical & Health Education.md
       - Physical & Health Education/P1 Mini Olympics.md
       - Physical & Health Education/P2 Mini Olympics.md
       - Physical & Health Education/P5 Camp.md
