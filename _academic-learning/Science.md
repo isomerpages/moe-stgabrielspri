@@ -48,18 +48,21 @@ Senior Teacher: Mdm Chitra Devi
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 771px">
+<table class="tg" style="undefined;table-layout: fixed; width: 770px">
 <colgroup>
-<col style="width: 386px">
+<col style="width: 385px">
 <col style="width: 385px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Buddy Clean Workshop</span></td>
-    <td class="tg-nrix"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Food Waste Collection Drive</span></td>
+    <td class="tg-nrix"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Buddy Clean Workshop</span><img src="/images/bcw.jpeg" 
+     style="width:85%"></td>
+    <td class="tg-nrix"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Food Waste Collection Drive</span><img src="/images/fwcd.jpeg" 
+     style="width:85%"></td>
   </tr>
   <tr>
-    <td class="tg-nrix" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:underline">E-Waste Collection Drive</span></td>
+    <td class="tg-nrix" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:underline">E-Waste Collection Drive</span><img src="/images/ewcd.jpeg" 
+     style="width:85%"></td>
   </tr>
 </tbody>
 </table>
