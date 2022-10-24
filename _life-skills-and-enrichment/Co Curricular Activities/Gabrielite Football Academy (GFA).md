@@ -109,9 +109,12 @@ In addition to all these football related activities, our boys are expected to d
 
 <img src="/images/gfa4.jpeg" 
      style="width:75%">
+		 
 <img src="/images/gfa5.jpeg" 
      style="width75%">
+		 
 <img src="/images/gfa6.jpeg" 
      style="width:75%">
+		 
 <img src="/images/gfa7.jpeg" 
-     style="width:75%">
+     style="width:95%">
