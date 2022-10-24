@@ -45,3 +45,13 @@ Mrs Sabrina Tan
   </tr>
 </tbody>
 </table>
+
+### AESTHETICS DEPARTMENT
+
+At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision:
+
+**Leader** – To cultivate a passion for the Arts and to foster a sense of cultural awareness for artistic development and excellence as a respectful and ethical individual
+
+**Sportsman** – To develop social and life skills as an effective and resilient team player through diverse arts experiences, ethnic music groups and ensembles
+
+**Achiever** – To strengthen critical thought and creative expression with knowledge and competency, and to excel in artistic and musical mastery as an inventive and confident individual
