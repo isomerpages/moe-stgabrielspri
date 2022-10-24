@@ -19,3 +19,8 @@ Our Mathematics Program emphasizes on:
 *   Problem solving
 *   Critical and creative thinking
 *   Communication skills
+
+![](/images/math1.png)
+
+![](/images/math2.png)
+![](/images/math3.png)
