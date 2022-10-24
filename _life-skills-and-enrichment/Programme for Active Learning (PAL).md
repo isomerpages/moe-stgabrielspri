@@ -44,3 +44,15 @@ Mr Jimmy Tong
   </tr>
 </tbody>
 </table>
+
+
+The PAL pedagogy provides opportunities for our young Gabrielites to exhibit the desired behaviour aligned to our school vision and virtues. Our school vision 'A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.' is embedded in all six PAL modules - Sports and Games, and Outdoor Education, Visual Arts, and Performing Arts on Music, Dance and Drama.
+
+  
+
+Anchoring on a boy-centric approach, every module promotes multi-sensory learning experiences that are meaningful and enjoyable for our young Gabrielites; engaging the visual, auditory, tactile and kinaesthetic through stories, imagery and manipulatives. During a 2-hour PAL lesson each week, the boys will participate in interactive and hands-on activities to embrace social-emotional learning competencies such as social awareness, responsible decision-making and relationship management while working as a team. They will also encounter problems and challenges so that they live up to the school vision while displaying the school virtues like self-discipline, respect and generosity.
+
+
+![](/images/pal1.png)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9mJXtblaq88" title="2019 PAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
