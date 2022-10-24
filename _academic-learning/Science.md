@@ -33,7 +33,33 @@ Senior Teacher: Mdm Chitra Devi
 
 ![](/images/sci3.png)
 
+<u>**Science Recess Programmes**</u>
+
+![](/images/sci4.png)
 
 
+<u>**Environmental Programmes and Initiatives**</u>
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 771px">
+<colgroup>
+<col style="width: 386px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Buddy Clean Workshop</span></td>
+    <td class="tg-nrix"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Food Waste Collection Drive</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:underline">E-Waste Collection Drive</span></td>
+  </tr>
+</tbody>
+</table>
