@@ -22,9 +22,9 @@ third_nav_title: Co Curricular Activities
 <tbody>
   <tr>
     <td class="tg-nrix"><img src="/images/gfa2.jpeg" 
-     style="width:65%"></td>
+     style="width:100%"></td>
     <td class="tg-nrix"><img src="/images/gfa3.jpeg" 
-     style="width:65%"></td>
+     style="width:100%"></td>
   </tr>
 </tbody>
 </table>
