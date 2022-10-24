@@ -19,7 +19,7 @@ Senior Teacher: Mdm Chitra Devi
 
 
 ### PROGRAMMES AND ACTIVITES 
-<u>**Primary 3 – 6 Student Centric Curriculum & Experiential Learning**</u>
+<u><strong>Primary 3 – 6 Student Centric Curriculum & Experiential Learning</strong></u>
 
 * **Inquiry-Based Learning**
 
@@ -33,12 +33,12 @@ Senior Teacher: Mdm Chitra Devi
 
 ![](/images/sci3.png)
 
-<u>**Science Recess Programmes**</u>
+<u><strong>Science Recess Programmes</strong></u>
 
 ![](/images/sci4.png)
 
 
-<u>**Environmental Programmes and Initiatives**</u>
+<u><strong>Environmental Programmes and Initiatives</strong></u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
