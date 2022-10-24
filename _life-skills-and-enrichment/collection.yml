@@ -2,6 +2,7 @@ collections:
   life-skills-and-enrichment:
     output: true
     order:
+      - Physical & Health Education/.keep
       - Aesthetics.md
       - Trips for International Experiences (TIE).md
       - InfoComm Technology (ICT).md
