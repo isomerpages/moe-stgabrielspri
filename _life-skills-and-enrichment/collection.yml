@@ -2,5 +2,6 @@ collections:
   life-skills-and-enrichment:
     output: true
     order:
+      - Co Curricular Activities/Scouts.md
       - Co Curricular Activities/Wushu.md
       - Co Curricular Activities/.keep
