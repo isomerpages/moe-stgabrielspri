@@ -11,3 +11,7 @@ The Media Club provides a platform for students to develop and showcase their id
 During the CCA sessions, students are exposed to the use of digital tools to create their artwork. In addition, members learn the fundamental theories of photography and how different camera lenses, shot angles and sizes are used to achieve different effects. They then transfer their learning as they embark on the hands-on experiences in taking photographs, applying the skills they have learned and adopting alternative perspectives as they make progress in their learning. Last year, our students embarked on the journey of game creation using Microsoft MakeCode. It is an open platform for students to create engaging arcade games using block coding.
 
 ![](/images/media1.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lwZ7RXmSJlI" title="St Gabriel's Primary School - SDMA (Digital Citizenship)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NmmVEBhPZrc" title="SGP   SDMA   Respect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
