@@ -38,3 +38,6 @@ By Wee Chuan Jie, 5LMM
 
 The Xi’an trip was really enjoyable as I could prove to my parents that I was able to take good care of myself for the entire week. This trip allowed me to understand the history of China and helped me learn a lot about another country. I also enjoyed spending a lot of time with my friends during the trip as I learned to look out for them whenever they needed my help.   
 By Ryu Ji, 5LMM
+
+
+![](/images/tie1.png)
