@@ -2,6 +2,7 @@ collections:
   life-skills-and-enrichment:
     output: true
     order:
+      - Co Curricular Activities/Golf.md
       - Co Curricular Activities/Media Club.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Robotics.md
