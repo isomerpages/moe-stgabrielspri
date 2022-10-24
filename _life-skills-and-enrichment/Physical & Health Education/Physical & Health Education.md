@@ -85,3 +85,8 @@ In St Gabriel’s Primary School, we align our PHE curriculum to the Goals of Ph
   </tr>
 </tbody>
 </table>
+
+![](/images/phe1.png)
+![](/images/phe2.png)
+![](/images/phe3.png)
+![](/images/phe4.png)
