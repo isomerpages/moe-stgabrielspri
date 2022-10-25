@@ -10,7 +10,9 @@ Mr Xie Zhengyang  (Subject Head, Student Leadership Internal)
 
 MLP is designed based on the theoretical underpinnings of the “Student Leadership Challenge” by Kouzes and Posner. The emphasis of The Leadership Challenge® is about how student leaders mobilize others to want to get extraordinary things done. It is about the practices student leaders use to transform values into actions, visions into realities, obstacles into innovations, separateness into solidarity, and risks into rewards. It is about a climate in which people turn challenging opportunities into remarkable successes.
 
-![](/images/TLC%20Framework.png)
+<img src="/images/TLC%20Framework.png" 
+     style="width:35%">
+
 
 1\. Encourage the Heart (Primary 1)  
 Accomplishing extraordinary things in school is hard work. To keep hope and determination alive, student leaders recognize contributions that individuals make. In every winning team, the members need to share the rewards of efforts, so young student leaders celebrate accomplishments. They make people feel like heroes.  
@@ -47,3 +49,9 @@ Since 2015, all Primary 1 to 6 students go through MLP Lessons, 2 hours a term, 
   
 
 * **MLP**
+
+![](/images/mlp1.png)
+
+* **MLP@OEL**
+
+![](/images/mlp2.png)
