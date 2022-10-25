@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Louis Marie de Montfort/Higher Chinese Language Programme.md
       - Louis Marie de Montfort/Louis Marie de Montfort (LMM).md
       - Louis Marie de Montfort/.keep
       - Montfortian Leadership Programme (MLP).md
