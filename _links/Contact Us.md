@@ -187,3 +187,21 @@ If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your in
   </tr>
 </tbody>
 </table>
+
+
+##### St Gabriel\`s Old Boys\` Association Membership Application Form  
+[St Gabriels School OBA Membership (updated 2016) 22 March 2016 - $200.pdf](https://www.stgabrielspri.moe.edu.sg/qql/slot/u173/Contact%20Info/St%20Gabriels%20School%20OBA%20Membership%20(updated%202016)%2022%20March%202016%20-%20$200.pdf).  
+  
+##### MOE Financial Assistance Application Form  
+[MOE FAS Application Form (SEP 21)](https://www.stgabrielspri.moe.edu.sg/qql/slot/u173/Contact%20Info/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)  
+  
+##### School Wait List Application Form
+
+Thank you for your interest in enrolling your child/ward in St. Gabriel’s Primary School.
+
+1. Please complete the online [**Wait List Application Form**](https://go.gov.sg/sgps-waitlist).
+2. Your application is valid for a year from the date of submission. Successful applicants will be contacted via the email address / contact number indicated in the form. 
+3. Please be informed that International student cannot be placed on wait list. Do approach MOE Customer Service for more information.
+4. Application for P1 (2023) admission will only be considered after the conclusion of the 2022 P1 Registration Exercise.  
+
+Thank you.
