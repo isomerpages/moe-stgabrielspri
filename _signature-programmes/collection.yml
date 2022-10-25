@@ -2,12 +2,12 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Louis Marie de Montfort/.keep
+      - Louis Marie de Montfort/Louis Marie de Montfort (LMM).md
       - Louis Marie de Montfort/Literature Programme.md
       - Louis Marie de Montfort/E2K (Mathematics and Science).md
       - Louis Marie de Montfort/Innovation Programme (IvP).md
       - Louis Marie de Montfort/Coding Enrichment Programme.md
       - Louis Marie de Montfort/Higher Chinese Language Programme.md
-      - Louis Marie de Montfort/Louis Marie de Montfort (LMM).md
-      - Louis Marie de Montfort/.keep
       - Montfortian Leadership Programme (MLP).md
       - PRIDE.md
