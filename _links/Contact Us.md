@@ -39,7 +39,7 @@ If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your in
  
  <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7114502360687!2d103.8578601205608!3d1.3496446588280593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da170c009f5ec1%3A0x54bbb4cbbba03c2e!2sSt.%20Gabriel's%20Primary%20School!5e0!3m2!1sen!2ssg!4v1666668636671!5m2!1sen!2ssg"></iframe>
 
-### TONG TAR TRANSPORT SERVICES PTE LTD (SCHOOL BUS SERVICE)
+#### TONG TAR TRANSPORT SERVICES PTE LTD (SCHOOL BUS SERVICE)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -75,7 +75,7 @@ If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your in
 </tbody>
 </table>
 
-### PACIFIC BOOKSTORES PTE LTD (SCHOOL BOOKSHOP)
+#### PACIFIC BOOKSTORES PTE LTD (SCHOOL BOOKSHOP)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -116,3 +116,9 @@ If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your in
   </tr>
 </tbody>
 </table>
+
+#### SHIRLEY SEASON WEAR (SCHOOL UNIFORM)
+
+
+
+#### Morning Star Community Services (Student Care Centre-Based in St Gabriel’s Pri Sch)
