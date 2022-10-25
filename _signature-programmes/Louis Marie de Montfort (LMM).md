@@ -45,3 +45,40 @@ In alignment with Gabrielite 2025, apart from developing our students to be a Le
 
 <img src="/images/LMM%20Framework.png" 
      style="width:65%">
+
+
+At the end of three years of LMM education, we aim to develop every student to be:
+
+• Empathetic and Morally Responsible Citizens
+
+• Resilient and Self-Directed Learners
+
+• Convincing and Confident Communicators
+
+• Critical and Inventive Thinkers
+
+  
+
+**Structural of the LMM Curriculum**  
+
+Students in these LMM classes follow the mainstream curriculum during school hours with differential instruction in subject areas like Mathematics, e.g. LE³ during its lessons. A selected group of LMM students is also offered Higher Mother Tongue as a non-examinable subject. This is to allow them to be immersed in the language and to appreciate the culture of their Mother Tongue. To extend the students’ learning, an array of mandatory and optional programmes have been carefully curated for them to participate. These programmes take into consideration the students’ cognitive needs and interests and include the following programmes:
+
+• [Literature Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/literature-programme)
+
+• [E2K (Mathematics and Science)](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/e2k-mathematics-and-science)
+
+• [Innovation (IvP) Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/innovation-programme-ivp) 
+
+• [Coding Enrichment Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/coding-enrichment-programme)
+
+• [Higher Chinese Language Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/higher-chinese-language-programme)
+
+  
+
+Apart from engaging the students cognitively, the LMM students also connect with the community through VIA programmes such as being advocates for the Gabrielite Foundation Flag Day and promoting recycling through upcycling.
+
+![](/images/lmm1.png)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/U2bUJbEgcJY" title="4LMM Students Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/MfyAMscDfdg" title="LMM Video Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
