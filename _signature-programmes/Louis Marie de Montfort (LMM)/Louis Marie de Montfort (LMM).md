@@ -4,10 +4,6 @@ permalink: /signature-programmes/Louis-Marie-de-Montfort/lmm/
 description: ""
 third_nav_title: Louis Marie de Montfort (LMM)
 ---
-
-
-
-
 **LMM Programme Coordinator**   
 Mr Andy Kong
 
@@ -68,17 +64,11 @@ At the end of three years of LMM education, we aim to develop every student to b
 
 Students in these LMM classes follow the mainstream curriculum during school hours with differential instruction in subject areas like Mathematics, e.g. LE³ during its lessons. A selected group of LMM students is also offered Higher Mother Tongue as a non-examinable subject. This is to allow them to be immersed in the language and to appreciate the culture of their Mother Tongue. To extend the students’ learning, an array of mandatory and optional programmes have been carefully curated for them to participate. These programmes take into consideration the students’ cognitive needs and interests and include the following programmes:
 
-• [Literature Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/literature-programme)
-
-• [E2K (Mathematics and Science)](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/e2k-mathematics-and-science)
-
-• [Innovation (IvP) Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/innovation-programme-ivp) 
-
-• [Coding Enrichment Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/coding-enrichment-programme)
-
-• [Higher Chinese Language Programme](https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm/higher-chinese-language-programme)
-
-  
+* [Literature Programme](/signature-programmes/Louis-Marie-de-Montfort/literature-programme/)
+* [E2K (Mathematics and Science)](/signature-programmes/Louis-Marie-de-Montfort/e2k/)
+* [Innovation (IvP) Programme](/signature-programmes/Louis-Marie-de-Montfort/ivp/)
+* [Coding Enrichment Programme](/signature-programmes/Louis-Marie-de-Montfort/coding-enrichment-programme/)
+* [Higher Chinese Language Programme](/signature-programmes/Louis-Marie-de-Montfort/higher-chinese-language-programme/)
 
 Apart from engaging the students cognitively, the LMM students also connect with the community through VIA programmes such as being advocates for the Gabrielite Foundation Flag Day and promoting recycling through upcycling.
 
