@@ -3,17 +3,7 @@ title: Contact Us
 permalink: /links/contact-us/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
-.tg .tg-dfr2{color:#4067AE;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 642px">
+<table style="undefined;table-layout: fixed; width: 642px" class="tg">
 <colgroup>
 <col style="width: 262px">
 <col style="width: 380px">
@@ -44,3 +34,7 @@ description: ""
 
 If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your interest. Thank you.
 
+
+&nbsp;Map of St Gabriel's Primary School
+ 
+ <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7114502360687!2d103.8578601205608!3d1.3496446588280593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da170c009f5ec1%3A0x54bbb4cbbba03c2e!2sSt.%20Gabriel's%20Primary%20School!5e0!3m2!1sen!2ssg!4v1666668636671!5m2!1sen!2ssg"></iframe>
