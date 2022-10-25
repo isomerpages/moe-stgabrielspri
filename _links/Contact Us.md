@@ -190,10 +190,10 @@ If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your in
 
 
 ##### St Gabriel\`s Old Boys\` Association Membership Application Form  
-[St Gabriels School OBA Membership (updated 2016) 22 March 2016 - $200.pdf](https://www.stgabrielspri.moe.edu.sg/qql/slot/u173/Contact%20Info/St%20Gabriels%20School%20OBA%20Membership%20(updated%202016)%2022%20March%202016%20-%20$200.pdf).  
+[St Gabriels School OBA Membership (updated 2016) 22 March 2016 - $200.pdf](/files/St%20Gabriels%20School%20OBA%20Membership%20(updated%202016)%2022%20March%202016%20-%20$200.pdf)
   
 ##### MOE Financial Assistance Application Form  
-[MOE FAS Application Form (SEP 21)](https://www.stgabrielspri.moe.edu.sg/qql/slot/u173/Contact%20Info/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)  
+[MOE FAS Application Form (SEP 21)](/files/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)
   
 ##### School Wait List Application Form
 
