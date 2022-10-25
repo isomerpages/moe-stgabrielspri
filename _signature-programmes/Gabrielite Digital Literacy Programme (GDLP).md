@@ -83,7 +83,7 @@ The importance of digital literacy will be emphasised through authentic learning
   <tr>
     <td class="tg-nrix"><img src="/images/GDLP4.jpeg" 
      style="width:95%"></td>
-    <td class="tg-cly1">Figure 1 - Applied Learning Model: Adopting Kolb’s Experiential Learning Theory to Strengthen Learners’ Digital Literacy with 21st Century Skills and Competencies</td>
+    <td class="tg-cly1"><span style="font-weight:bold">Figure 1 - Applied Learning Model: Adopting Kolb’s Experiential Learning Theory to Strengthen Learners’ Digital Literacy with 21st Century Skills and Competencies</span></td>
   </tr>
 </tbody>
 </table>
