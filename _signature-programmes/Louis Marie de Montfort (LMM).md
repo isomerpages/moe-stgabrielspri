@@ -82,3 +82,5 @@ Apart from engaging the students cognitively, the LMM students also connect with
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/U2bUJbEgcJY" title="4LMM Students Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/MfyAMscDfdg" title="LMM Video Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+**[Frequently Asked Questions (FAQ)](/files/LMM%20Programme%20Frequently%20Asked%20Questions.pdf)**
