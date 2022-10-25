@@ -40,3 +40,8 @@ In alignment with Gabrielite 2025, apart from developing our students to be a Le
 * Provide a compelling learning experience that cultivates the spirit of life-long learning
 * Cater to the needs of a group of students with a different ability and pace of learning
 * Expose students to a wide variety of educational opportunities and disciplines that are not provided through regular instructional programme.
+
+**LMM Framework**
+
+<img src="/images/LMM%20Framework.png" 
+     style="width:65%">
