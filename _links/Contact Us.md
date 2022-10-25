@@ -157,3 +157,33 @@ If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your in
 
 
 #### Morning Star Community Services (Student Care Centre-Based in St Gabriel’s Pri Sch)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-blvx{background-color:#D9E4F2;color:#36F;text-align:left;vertical-align:top}
+.tg .tg-0nkb{background-color:#E4EFFD;color:#36F;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0nkb"><span style="color:#36F">Address:</span></td>
+    <td class="tg-0nkb"><span style="color:#36F">4 Lorong Low Koon, Singapore 536450</span></td>
+  </tr>
+  <tr>
+    <td class="tg-blvx"><span style="color:#36F">Contact Number 1:</span></td>
+    <td class="tg-blvx"><span style="font-weight:normal;font-style:normal;background-color:#D9E4F2">6284 9524 (St Gabriel’s Primary School)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nkb"><span style="font-weight:normal;font-style:normal;color:#36F;background-color:#E4EFFD">Contact Number  2:</span></td>
+    <td class="tg-0nkb"><span style="font-weight:normal;font-style:normal;background-color:#E4EFFD">6285 1377 (Head Office)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-blvx"><span style="font-weight:normal;font-style:normal;background-color:#D9E4F2">Fax Number:</span></td>
+    <td class="tg-blvx"><span style="font-weight:normal;font-style:normal;background-color:#D9E4F2">6285 2702</span></td>
+  </tr>
+</tbody>
+</table>
