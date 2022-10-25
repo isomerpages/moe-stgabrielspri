@@ -49,14 +49,10 @@ In alignment with Gabrielite 2025, apart from developing our students to be a Le
 
 
 At the end of three years of LMM education, we aim to develop every student to be:
-
-• Empathetic and Morally Responsible Citizens
-
-• Resilient and Self-Directed Learners
-
-• Convincing and Confident Communicators
-
-• Critical and Inventive Thinkers
+* Empathetic and Morally Responsible Citizens
+* Resilient and Self-Directed Learners
+* Convincing and Confident Communicators
+* Critical and Inventive Thinkers
 
   
 
