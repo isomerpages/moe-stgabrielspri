@@ -22,31 +22,31 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/sls.jpg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/studenticon.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/koobits.png" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/ezhishi.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/dudutown.png" 
      style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/studentsecg.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/nlb.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/spydus.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"></td>
   </tr>
