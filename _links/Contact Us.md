@@ -119,6 +119,41 @@ If you wish to visit us, please write in to stgps@moe.edu.sg to indicate your in
 
 #### SHIRLEY SEASON WEAR (SCHOOL UNIFORM)
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rvrt{background-color:#D9E4F2;color:#096AB5;text-align:left;vertical-align:top}
+.tg .tg-f6e3{background-color:#E4EFFD;color:#096AB5;text-align:left;vertical-align:top}
+.tg .tg-ergf{background-color:#D9E4F2;color:#4067AE;text-align:left;vertical-align:top}
+.tg .tg-1zwf{background-color:#E4EFFD;color:#4067AE;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-f6e3"><span style="color:#096AB5">Contact Person: </span></td>
+    <td class="tg-f6e3"><span style="color:#096AB5">Shirley Goh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rvrt"><span style="color:#096AB5">Contact Number:</span></td>
+    <td class="tg-rvrt">62804917</td>
+  </tr>
+  <tr>
+    <td class="tg-f6e3"><span style="color:#096AB5">Address:</span></td>
+    <td class="tg-f6e3">Northstar 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) Singapore 569880</td>
+  </tr>
+  <tr>
+    <td class="tg-rvrt"><span style="color:#096AB5">Website: </span></td>
+    <td class="tg-ergf"><a href="http://www.shirleyuni.com/"><span style="text-decoration:none;color:#4067AE">http://www.shirleyuni.com/</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-f6e3"><span style="color:#096AB5">Email:</span></td>
+    <td class="tg-1zwf"><a href="mailto:shirleyseasonwear@hotmail.com"><span style="text-decoration:none;color:#4067AE">shirleyseasonwear@hotmail.com</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 #### Morning Star Community Services (Student Care Centre-Based in St Gabriel’s Pri Sch)
