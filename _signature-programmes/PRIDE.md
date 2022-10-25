@@ -41,3 +41,7 @@ It has been noticed that students who were tasked to deposit books into their te
 * Recycling Bins in School
 
 Students in the school are highly encouraged to recycle things that they do not want anymore. However, there are only 2 recycling bins in the school and they are located at Level 1. Having only 2 recycling bins also meant that these bins would often be filled up quickly. Thus, the PRIDE team identified this problem and worked together with the members of the Science, Horticulture and Mathematics (SHM) club to purchase and design more recycling bins to be placed at every level. This initiative allowed students to be able to drop off their recyclable items much easily. Apart from that, the collaboration also saw the students coming up with slides to be presented to the rest of the school during assembly on raising the awareness of recycling.
+
+![](/images/pride1.png)
+![](/images/pride2.png)
+![](/images/pride3.png)
