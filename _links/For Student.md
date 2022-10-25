@@ -21,31 +21,31 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://vle.learning.moe.edu.sg/login" target = "_self"> 
           <img src="/images/sls.jpg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://workspace.google.com/dashboard" target = "_self"> 
           <img src="/images/studenticon.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://member.koobits.com/" target = "_self"> 
           <img src="/images/koobits.png" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://www.ezhishi.net/Contents/" target = "_self"> 
           <img src="/images/ezhishi.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://go.dudu.town/cos/o.x?c=/ca4_dd/user&func=login" target = "_self"> 
           <img src="/images/dudutown.png" 
      style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target = "_self"> 
           <img src="/images/studentsecg.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://eresources.nlb.gov.sg/Main" target = "_self"> 
           <img src="/images/nlb.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://schoolibrary.moe.edu.sg/stgabrielspri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target = "_self"> 
           <img src="/images/spydus.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"></td>
