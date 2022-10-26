@@ -83,7 +83,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Unordered List</label>
+    <label for="accordion1">Character Formation</label>
     <div>
       <ul>
 				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/character-and-citizenship-education" target="">Character And Citizenship Education</a></li>
