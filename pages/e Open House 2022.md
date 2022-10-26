@@ -169,7 +169,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     <label for="accordion3">Uniform Group</label>
     <div>
 			<ul>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/scouts">Cadet Scouts</a></li>
+				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/scouts/">Cadet Scouts</a></li>
 			</ul>
 		</div>
 	</li>
@@ -178,9 +178,9 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     <label for="accordion4">Visual and Performing Arts</label>
     <div>
 			<ul>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/brass-band">Brass Band</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/performing-arts">Performing Arts</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/art-club">Art Club</a></li>
+				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/brass-band/">Brass Band</a></li>
+				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/performing-arts/">Performing Arts</a></li>
+				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/art-club/">Art Club</a></li>
 			</ul>
 		</div>
 	</li>
