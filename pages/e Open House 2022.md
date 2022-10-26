@@ -3,7 +3,6 @@ title: e Open House 2022
 permalink: /e-open-house-2022/
 description: ""
 ---
-
 ![](/images/2022%20SGPS%20e-Open%20House%20Website%20Poster.png)
 
 
