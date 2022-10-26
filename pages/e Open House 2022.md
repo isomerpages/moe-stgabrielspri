@@ -83,42 +83,40 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Unordered List</label>
     <div>
-      <p>This is a simple one line item</p>
+      <ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/character-and-citizenship-education" target="">Character And Citizenship Education</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-leadership">Student Leadership</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-discipline-safety-n-partnerships">Student Discipline, Safety &amp; Partnerships</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-well-being">Student Well-Being</a
+					</li>
+					</ul>
     </div>
-	</li>  
-  <li>
+  </li> 
+	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Unordered List</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
-    <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
+      <ul>
         <li>Item 1</li>
-        <li>Item 2</li>        <li>Item 3</li>
-      </ol>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
     </div>
   </li>
-    
-  <li>
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Unordered List</label>
+    <div>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
+  </li>
+	<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Unordered List</label>
     <div>
