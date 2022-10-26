@@ -122,14 +122,16 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Signature Programmes</label>
     <div>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+				<li><a href="https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/signature-programmes/gabrielite-digital-literacy-programme-gdlp" target="_blank" rel="noopener">Gabrielite Digital Literacy Programme (GDLP)</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/signature-programmes/gabrielite-football-academy-gfa" target="_blank" rel="noopener">Gabrielite Football Academy&nbsp;(GFA)</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/signature-programmes/louis-marie-de-montfort-lmm">Louis Marie De Montfort (LMM)</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/signature-programmes/montfortian-leadership-programme-mlp" target="">Montfortian Leadership Program (MLP)</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/signature-programmes/pride">PRIDE</a></li>
+			</ul>
     </div>
   </li>
 </ul>
