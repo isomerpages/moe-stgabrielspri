@@ -109,14 +109,16 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Life Skills & Enrichment</label>
     <div>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/programme-for-active-learning-pal">Programme For Active Learning (PAL)</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/physical-n-health-education">Physical &amp; Health Education</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/aesthetics">Aesthetics</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/trips-for-international-experiences-tie" target="">Trips For International Experiences (TIE)</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/infocomm-technology-ict">InfoComm Technology (ICT)</a></li>
+			</ul>
     </div>
   </li>
 	<li>
