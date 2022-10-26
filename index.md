@@ -33,5 +33,5 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: view
-      url: /e-open-house-2022/
+      url: /e-Open-house-2022/
 ---
