@@ -96,13 +96,16 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
   </li> 
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Unordered List</label>
+    <label for="accordion2">Academic Learning</label>
     <div>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/academic-learning/english-language">English Language</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/academic-learning/mathematics">Mathematics</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/academic-learning/science">Science</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/academic-learning/mother-tongue-languages/chinese-language">Chinese Language</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/academic-learning/mother-tongue-languages/malay-language">Malay Language</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/academic-learning/mother-tongue-languages/tamil-language">Tamil Language</a></li>
+			</ul>
     </div>
   </li>
 	<li>
