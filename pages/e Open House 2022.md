@@ -92,7 +92,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-well-being">Student Well-Being</a></li>
 			</ul>
     </div>
-  </li> 
+	</li> 
 	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Academic Learning</label>
