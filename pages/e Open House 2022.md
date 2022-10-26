@@ -135,7 +135,33 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
   </li>
 </ul>
 
-fffff
-
-
 #### Co-Curricular Activities (CCAs)
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Character Formation</label>
+    <div>
+      <ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/science-horticulture-and-math-shm-club" target="">Science/ Horticulture. Maths Club (SHM)</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/media-club">Media Club</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/robotics">Robotics Club</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/catholic-club">Catholic Club</a></li>
+			</ul>
+		</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Character Formation</label>
+    <div>
+			<ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/golf">Golf</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/badminton">Badminton</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/signature-programmes/gabrielite-football-academy-gfa">Gabrielite Football Academy</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/wushu">Wushu</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/basketball">Basketball</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/athletics">Athletics</a></li>
+			</ul>
+		</div>
+	</li>
+</ul>
