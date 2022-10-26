@@ -89,9 +89,8 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/character-and-citizenship-education" target="">Character And Citizenship Education</a></li>
 				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-leadership">Student Leadership</a></li>
 				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-discipline-safety-n-partnerships">Student Discipline, Safety &amp; Partnerships</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-well-being">Student Well-Being</a
-					</li>
-					</ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-well-being">Student Well-Being</a></li>
+			</ul>
     </div>
   </li> 
 	<li>
@@ -137,3 +136,6 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 </ul>
 
 fffff
+
+
+#### Co-Curricular Activities (CCAs)
