@@ -140,7 +140,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Character Formation</label>
+    <label for="accordion1">Clubs and Societies</label>
     <div>
       <ul>
 				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/science-horticulture-and-math-shm-club" target="">Science/ Horticulture. Maths Club (SHM)</a></li>
@@ -152,7 +152,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Character Formation</label>
+    <label for="accordion2">Physical Sports</label>
     <div>
 			<ul>
 				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/golf">Golf</a></li>
@@ -164,4 +164,25 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 			</ul>
 		</div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Uniform Group</label>
+    <div>
+			<ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/scouts">Cadet Scouts</a></li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion4">
+    <label for="accordion4">Visual and Performing Arts</label>
+    <div>
+			<ul>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/brass-band">Brass Band</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/performing-arts">Performing Arts</a></li>
+				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/co-curricular-activites/art-club">Art Club</a></li>
+			</ul>
+		</div>
+	</li>
 </ul>
+
