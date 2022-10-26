@@ -112,11 +112,11 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     <label for="accordion3">Life Skills & Enrichment</label>
     <div>
       <ul>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/programme-for-active-learning-pal">Programme For Active Learning (PAL)</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/physical-n-health-education">Physical &amp; Health Education</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/aesthetics">Aesthetics</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/trips-for-international-experiences-tie" target="">Trips For International Experiences (TIE)</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/infocomm-technology-ict">InfoComm Technology (ICT)</a></li>
+				<li><a href="/life-skills-and-enrichment/pal/">Programme For Active Learning (PAL)</a></li>
+				<li><a href="/life-skills-and-enrichment/Physical-and-Health-Education/physical-health-and-education/">Physical &amp; Health Education</a></li>
+				<li><a href="/life-skills-and-enrichment/aesthetics/">Aesthetics</a></li>
+				<li><a href="/life-skills-and-enrichment/tie/" target="">Trips For International Experiences (TIE)</a></li>
+				<li><a href="/life-skills-and-enrichment/ict/">InfoComm Technology (ICT)</a></li>
 			</ul>
     </div>
   </li>
