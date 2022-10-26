@@ -29,9 +29,9 @@ sections:
       button: Button text
       url: /faq/
   - infobar:
-      title: Infobar Title
+      title: e-open house 2022
       subtitle: Infobar Subtitle
       description: Infobar description
-      button: Button Text
+      button: view
       url: /e-open-house-2022/
 ---
