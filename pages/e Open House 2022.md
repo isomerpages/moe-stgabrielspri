@@ -86,10 +86,10 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     <label for="accordion1">Character Formation</label>
     <div>
       <ul>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/character-and-citizenship-education" target="">Character And Citizenship Education</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-leadership">Student Leadership</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-discipline-safety-n-partnerships">Student Discipline, Safety &amp; Partnerships</a></li>
-				<li><a href="https://www.stgabrielspri.moe.edu.sg/character-formation/student-well-being">Student Well-Being</a></li>
+				<li><a href="/character-formation/CCE/character-and-citizenship-education/" target="">Character And Citizenship Education</a></li>
+				<li><a href="/character-formation/CCE/student-leadership/">Student Leadership</a></li>
+				<li><a href="/character-formation/student-discipline-and-partnerships/">Student Discipline, Safety &amp; Partnerships</a></li>
+				<li><a href="/character-formation/student-discipline-and-partnerships/">Student Well-Being</a></li>
 			</ul>
     </div>
 	</li> 
