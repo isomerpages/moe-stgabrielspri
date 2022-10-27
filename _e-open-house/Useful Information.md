@@ -114,11 +114,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-g1uo">Phase 2A</td>
-    <td class="tg-g1uo"><span style="color:inherit">For proof that</span> <span style="color:inherit">you, your spouse or your older child has studied in the same primary school, you will need to submit:</span><br><br>·         A scanned copy of relevant pages of the school report book that clearly shows the name of you, your spouse or your older child and the primary school, or the Primary School Leaving Examination (PSLE) certificate.<br> <br>·         Birth certificate of  Older Child as proof of relationship (if applicable)<br>For proof of membership of the School Advisory/ Management Committee, you will need to summit:<br>·         Proof of membership that parent is a member of the School Advisory/ Management Committee.</td>
+    <td class="tg-g1uo"><span style="color:inherit">For proof that</span> <span style="color:inherit">you, your spouse or your older child has studied in the same primary school, you will need to submit:</span><br><br>•         A scanned copy of relevant pages of the school report book that clearly shows the name of you, your spouse or your older child and the primary school, or the Primary School Leaving Examination (PSLE) certificate.<br> <br>•        Birth certificate of  Older Child as proof of relationship (if applicable)<br>For proof of membership of the School Advisory/ Management Committee, you will need to summit:<br>•        Proof of membership that parent is a member of the School Advisory/ Management Committee.</td>
   </tr>
   <tr>
     <td class="tg-g1uo">Phase 2B</td>
-    <td class="tg-g1uo"><span style="text-decoration:underline">Relevant Documents certifying one of the status of the parent:</span><br>·         School’s email to parent on the completion of at least 40 hours of parent volunteer service at the school by 30 June 2022 (not required to print the email as school can verify via internal records).<br>·         Baptism Certificate of one parent who is a baptised member of the Catholic Church in Singapore.<br>If parent was baptised overseas and the parent now attends mass in a Catholic Church in Singapore, parent is to approach the local church, which he/she is attending for a letter to endorse that he/she is a member of the church or to approach church to endorse on the overseas Baptism Certificate of the parent.<br>·         Eligibility letter issued by People’s Association (PA) informing you to proceed to your school of choice on the day of registration.</td>
+    <td class="tg-g1uo"><span style="text-decoration:underline">Relevant Documents certifying one of the status of the parent:</span><br>•         School’s email to parent on the completion of at least 40 hours of parent volunteer service at the school by 30 June 2022 (not required to print the email as school can verify via internal records).<br>•         Baptism Certificate of one parent who is a baptised member of the Catholic Church in Singapore.<br>If parent was baptised overseas and the parent now attends mass in a Catholic Church in Singapore, parent is to approach the local church, which he/she is attending for a letter to endorse that he/she is a member of the church or to approach church to endorse on the overseas Baptism Certificate of the parent.<br>•         Eligibility letter issued by People’s Association (PA) informing you to proceed to your school of choice on the day of registration.</td>
   </tr>
 </tbody>
 </table></p>
@@ -129,4 +129,3 @@ description: ""
 	<input type="checkbox" id="accordion2">
 	<label for="accordion2">P1 Registration Phases and Timeframe</label>
     <div>
-	
