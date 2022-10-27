@@ -33,6 +33,6 @@ sections:
       description: Hear the Voice of Gabrielites
       button: View Video
       url: https://youtu.be/Qp7yWFBum-s
-      image: /images/BOSTCrest-trans-colour.gif
+      image: /images/vidicondemo.png
       alt: Image alt text
 ---
