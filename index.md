@@ -12,9 +12,9 @@ sections:
         - title: News Feed
           description: SGPS Facebook Page
           url: https://www.facebook.com/1389395454608849
-        - title: School Corporate Video
-          description: More on SGPS
-          url: https://youtu.be/Qp7yWFBum-s
+        - title: Useful Links
+          description: For Parents, Students & Staff
+          url: /links/for-parent/
   - resources:
       title: Announcements
       subtitle: Our Latest News
