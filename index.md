@@ -39,5 +39,5 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-      url: /
+      url: /e-open-house/useful-information/
 ---
