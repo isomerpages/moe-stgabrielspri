@@ -466,7 +466,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">What is PAL?</span></td>
-    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Programme for Active Learning. Click</span> <a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/programme-for-active-learning-pal"><span style="text-decoration:none;color:#4067AE">here</span></a><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/programme-for-active-learning-pal"> </a><span style="color:inherit;background-color:transparent">to find out more.</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Programme for Active Learning. Click</span> <a href="/life-skills-and-enrichment/pal/"><span style="text-decoration:none;color:#4067AE">here</span></a><a href="/life-skills-and-enrichment/pal/"> </a><span style="color:inherit;background-color:transparent">to find out more.</span></td>
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Can my child sign up for more than 1 CCA?</span></td>
