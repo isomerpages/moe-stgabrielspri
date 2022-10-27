@@ -139,8 +139,8 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Clubs and Societies</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Clubs and Societies</label>
     <div>
       <ul>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/science-horticulture-math-club/" target="">Science/ Horticulture. Maths Club (SHM)</a></li>
@@ -151,8 +151,8 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 		</div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Physical Sports</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Physical Sports</label>
     <div>
 			<ul>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/golf/">Golf</a></li>
@@ -165,8 +165,8 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 		</div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Uniform Group</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Uniform Group</label>
     <div>
 			<ul>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/scouts/">Cadet Scouts</a></li>
@@ -174,8 +174,8 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 		</div>
 	</li>
 	<li>
-		<input type="checkbox" id="accordion4">
-    <label for="accordion4">Visual and Performing Arts</label>
+		<input type="checkbox" id="accordion8">
+    <label for="accordion8">Visual and Performing Arts</label>
     <div>
 			<ul>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/brass-band/">Brass Band</a></li>
@@ -185,5 +185,3 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
 		</div>
 	</li>
 </ul>
-
-
