@@ -9,15 +9,12 @@ sections:
   - hero:
       background: /images/homepagedemo2.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: News Feed
+          description: SGPS Facebook Page
+          url: https://www.facebook.com/1389395454608849
+        - title: School Corporate Video
+          description: More on SGPS
+          url: https://youtu.be/Qp7yWFBum-s
   - resources:
       title: Announcements
       subtitle: Our Latest News
