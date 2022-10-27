@@ -514,6 +514,64 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
     <td class="tg-g1uo"><span style="text-decoration:underline">Tamil Language</span><br><span style="color:inherit;background-color:transparent">The Primary 1 and 2 Tamil Syllabus focuses mainly on the introduction of the Tamil alphabets and building of the Tamil vocabulary. The teachers take extra care to teach the nuances of the language, especially in reading and oral communication, to familiarize students with the language and to build their vocabulary. At Primary 2, students go through the in-house reading programme where they start reading graded booklets. At this stage, parents also play an active role in supporting and monitoring their son's progress.</span><br><br><span style="text-decoration:underline">Malay Language</span><br><span style="color:inherit;background-color:transparent">Primary 1 Malay students go through the Phonetics and Reading Programme by MOE to establish the foundation for the learning of the Malay Language before embarking on the Primary 1 syllabus.</span><br><br><span style="color:inherit;background-color:transparent">At St. Gabriel’s Primary School, there is also a reading and oral communication programme for Primary 2 to 6 Malay and Tamil students. This programme renders support to students who face challenges when communicating in their respective languages. The respective teachers give extra support in the form of reading and oral communication practices in class, with the use of ICT to minimize and close the gap in oracy.</span><br><br><span style="text-decoration:underline">Chinese Language</span><br><span style="color:inherit;background-color:transparent">Teachers use an approach that scaffolds learning in the classroom, emphasizing on the development of the four essential language skills: Listening, Speaking, Reading and Writing. Teachers tap on the “Dudu Town Reading” programme to cultivate the interest for reading. It is a self-paced, personalised learning system for the Chinese language by providing students with Chinese Story eBooks that are appropriately matched to their reading abilities. It increases students’ motivation in reading, improve their reading skills, build vocabulary and enhance the comprehension skills of the students. It encourages some self-directed learning.</span></td>
   </tr>
 </tbody>
-</table>
+			</table></p>
+	</div>
+	</li>
+	<input type="checkbox" id="accordion11">
+	<label for="accordion11">Others</label>
+		<div>
+	<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 760px">
+<colgroup>
+<col style="width: 280px">
+<col style="width: 460px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-95g1">Questions</td>
+    <td class="tg-95g1">Answers</td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">What is the class size for a Primary 1 class?</span><br></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">There is a maximum of 30 students in each class.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">What are the different modes of communication with the class teachers?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Parents may call the school or teacher for an appointment before they come to speak to the teacher. Parents may also e-mail their request to the teacher or send a message to the teacher via “Classdojo”.  Parents can also use the Student Diary to correspond with the teacher. </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Will there be any weighted assessments at Primary 1?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">At Primary 1 and 2, there will be no examinations and weighted assessments so that our students can ease into formal schooling more smoothly. Teachers will provide timely and targeted feedback to students to move the students’ learning forward.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">My child is a non-Catholic but I would like him to participate in Religious Education (RE) classes. Is that possible?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Yes, it is possible. Upon registration, there will be an option form to be completed for non-Catholics to opt-in to the RE programme.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">My child is non-Catholic. Will he be taught religious education during character classes?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Although our school is a mission school, only Catholics will attend Religious Education (RE) classes. Non-Catholics can opt in upon P1 registration. All students, Catholics and non-Catholics, go through character lessons based on the universal values (e.g. respect and diligence) of our Founder, St. Louis Marie de Montfort using his life stories.</span></td>
+  </tr>
+</tbody>
+</table></p>
+</div>
+</li>
+</ul>
+
+**<u>Parent Support Group (PSG)</u>**
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Parent Support Group (PSG) @ St Gabriel's Primary School</label>
+    <div>
+			<p>The PSG @ SGPS was established around 2008. For the past 12 years, parents @ SGPS have been playing a vital role in the school. We are important partners in enriching your child’s learning. Being involved in your child’s school sends a clear signal to your child as a form of concern for them, thus, encouraging them to adopt positive life attitudes towards learning. Communication is key and a two-way process that benefits the children, parents and the school.<br><br>The Parent Support Group is a great opportunity to foster a closer bond with our children, understanding them better. PSG@SGPS is made up of a group of dedicated parents who comes together to offer collaboration and support; playing an active and important role in being the bridge between the parents, students and the school. With the advice from the school’s advisors, PSG complements by aligning the school’s programs further improving our children’s well-being and learning. Meetings are held on a termly basis where parents come together to meet, discuss and share our collective efforts for our children at SGPS.<br><br>As a member of the PSG@SGPS, we strive to promote the spirit of community within the SGPS family. Not only does it allow you to have greater awareness of how the school is run but it also helps identify more with your child in their schooling experience. If you are keen to join us, pick up a form from the General Office or you may email your interest to sgps.psg@gmail.com.<br><br>Thank you.<br><br><a href="https://www.stgabrielspri.moe.edu.sg/qql/slot/u173/Links/PSG/PSG%20Reg%20Form_Revised.pdf" target="">Parent Support Group Registration Form</a></p>
 			
 	
