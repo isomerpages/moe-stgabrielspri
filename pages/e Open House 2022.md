@@ -99,7 +99,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     <div>
       <ul>
 				<li><a href="/academic-learning/english-language/">English Language</a></li>
-				<li><a href=/academic-learning/mathematics/">Mathematics</a></li>
+				<li><a href="/academic-learning/mathematics/">Mathematics</a></li>
 				<li><a href="/academic-learning/science/">Science</a></li>
 				<li><a href="/academic-learning/Mother-Tongue-Languages/chinese-language/">Chinese Language</a></li>
 				<li><a href="/academic-learning/Mother-Tongue-Languages/malay-language/">Malay Language</a></li>
