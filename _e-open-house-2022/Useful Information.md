@@ -391,7 +391,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">How do I get information about school programmes?</span></td>
-    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Once your child is registered with St. Gabriel’s Primary School, you can log on Parents Gateway to access announcements.</span> (more information will be provided during P1 Orientation Day)<br><br><span style="color:inherit;background-color:transparent">Alternatively, if you wish to find out more about upcoming programmes, you may wish to click</span> <a href="https://www.stgabrielspri.moe.edu.sg/others/calendar-of-events"><span style="text-decoration:none;color:#4067AE">here</span></a><a href="https://www.stgabrielspri.moe.edu.sg/others/calendar-of-events"> </a><span style="color:inherit;background-color:transparent">to access the school’s Calendar of Events.</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Once your child is registered with St. Gabriel’s Primary School, you can log on Parents Gateway to access announcements.</span> (more information will be provided during P1 Orientation Day)<br><br><span style="color:inherit;background-color:transparent">Alternatively, if you wish to find out more about upcoming programmes, you may wish to click</span> <a href="/calendar-of-events/"><span style="text-decoration:none;color:#4067AE">here</span></a><a href="/calendar-of-events/"> </a><span style="color:inherit;background-color:transparent">to access the school’s Calendar of Events.</span></td>
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">What are the curriculum hours from Monday to Friday?</span></td>
@@ -581,4 +581,3 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
 		</div>
 	</li>
 	</ul>
-
