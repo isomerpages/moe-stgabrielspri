@@ -203,3 +203,6 @@ Catholic students attend the Religious Education classes. Our teachers work with
 	</div>
 	</li>
 	<li>
+	<input type="checkbox" id="accordion4">
+	<label for="accordion4">P1 Registration Frequently Asked Questions</label>
+	
