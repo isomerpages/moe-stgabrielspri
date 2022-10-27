@@ -122,8 +122,11 @@ description: ""
   </tr>
 </tbody>
 </table></p>
-
-	</div>
-	</li>
-	<li>
+<p><center><b>Singapore Citizens (SCs) will be given absolute priority over Singapore Permanent Residents (PRs) when balloting is necessary in a specific phase.<br><br>SCs and PRs will continue to be eligible for the same phases, and all applicants will be admitted if the total number of applications in any phase does not exceed the number of vacancies.<br><br>However, if the number of applications exceeds the number of vacancies in a specific phase, SCs will be admitted first ahead of PRs, before home-school distance is considered.</b></center></p>
+</div>
+</li>
+<li>
+	<input type="checkbox" id="accordion2">
+	<label for="accordion2">P1 Registration Phases and Timeframe</label>
+    <div>
 	
