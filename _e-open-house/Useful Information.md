@@ -299,9 +299,9 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
 </div>
 </li>
 <li>
-<input type="checkbox" id="accordion6">
-<label for="accordion6">Dismissal and Pickup points</label>
-<div>
+	<input type="checkbox" id="accordion6">
+	<label for="accordion6">Dismissal and Pickup points</label>
+	<div>
 	<p>To ensure the safety and security of our students during dismissal, students taking the school bus will be allowed to board their school buses before we allow other motor vehicles into the school compound.<br><br>All P1 students will have to assemble in the school hall first and will then be taken to the various dismissal points by the teachers.</p>
 	<p><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -344,6 +344,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
 </div>
 </li>
 </ul>
+
 
 
 **<u>Frequently Asked Questions</u>**
