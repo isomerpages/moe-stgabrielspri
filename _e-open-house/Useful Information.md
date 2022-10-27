@@ -196,8 +196,3 @@ description: ""
 	<li>
 	<input type="checkbox" id="accordion3">
 	<label for="accordion3">Montfortian Character, Citizenship and Leadership Education (MCLE) Programme</label>
-	
-	
-
-			
-			
