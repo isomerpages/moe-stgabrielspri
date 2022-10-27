@@ -122,10 +122,82 @@ description: ""
   </tr>
 </tbody>
 </table></p>
-<p><center><b>Singapore Citizens (SCs) will be given absolute priority over Singapore Permanent Residents (PRs) when balloting is necessary in a specific phase.<br><br>SCs and PRs will continue to be eligible for the same phases, and all applicants will be admitted if the total number of applications in any phase does not exceed the number of vacancies.<br><br>However, if the number of applications exceeds the number of vacancies in a specific phase, SCs will be admitted first ahead of PRs, before home-school distance is considered.</b></center></p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 750px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold">Singapore Citizens (SCs) will be given absolute priority over Singapore Permanent Residents (PRs) when balloting is necessary in a specific phase.</span><br><br><span style="font-weight:bold">SCs and PRs will continue to be eligible for the same phases, and all applicants will be admitted if the total number of applications in any phase does not exceed the number of vacancies.</span><br><br><span style="font-weight:bold">However, if the number of applications exceeds the number of vacancies in a specific phase, SCs will be admitted first ahead of PRs, before home-school distance is considered.</span></td>
+  </tr>
+</tbody>
+</table></p>
+<p>You may refer to the MOE website at [go.gov.sg/P1reg](go.gov.sg/P1reg) for updates on the 2022 P1 Registration exercise.</p>
 </div>
 </li>
 <li>
 	<input type="checkbox" id="accordion2">
-	<label for="accordion2">P1 Registration Phases and Timeframe</label>
+	<label for="accordion2">P1 Registration Frequently Asked Questions</label>
     <div>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 757px">
+<colgroup>
+<col style="width: 66px">
+<col style="width: 273px">
+<col style="width: 418px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-g1uo">1.</td>
+    <td class="tg-g1uo">Do both parents need to be present during registration<br> <br> </td>
+    <td class="tg-g1uo">In light of the COVID-19 precautionary measures on safe distancing and ensure minimal contact among the public, parents will register their child online via MOE P1 Registration Website.  There will be NO physical registration at schools. The form and user guides will be available during the <a href="https://beta.moe.gov.sg/primary/p1-registration/registration-phases-key-dates">registration period</a>.<br> <br>You may refer to the MOE website at go.gov.sg/P1reg for updates on the 2022 P1 Registration exercise. <br> </td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">2.</td>
+    <td class="tg-g1uo">What address can be used for registering my child in the P1 Registration Exercise?</td>
+    <td class="tg-g1uo">The address used for Primary 1 (P1) registration should be the parents' official residential address as reflected on the NRICs. If the addresses on both parents’ NRICs are different, parents should decide on the address to be used for registration.<br> <br>This address will be used to determine the home-school distance category, where required for consideration of priority admission. If the child gains priority admission under the home-school distance category, you will have to reside at the address used for registration for at least 30 months from the commencement of the P1 Registration Exercise. If this condition is subsequently not met, MOE reserves the right to transfer the child out of the school to another school.<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">3</td>
+    <td class="tg-g1uo">How can I find out the home-school distance category between my primary school of choice and my residence?<br> <br> </td>
+    <td class="tg-g1uo">From the 2022 P1 Registration Exercise, HSD will be calculated based on the <a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=82614&Mesid=96321027">School Land Boundary (SLB)</a>. The HSD used will be the shortest distance from a point on the boundary around the school (instead of from a single reference point) to the registrant’s home.<br> <br>You can check the home-school distance category from the Singapore Land Authority's (SLA) OneMap SchoolQuery Service.<br><br>To use this service:<br>Go to <a href="https://va.ecitizen.gov.sg/flexAnsAPI/UrlHandler.aspx?MesId=422836&MgpId=422836&GPFId=0&PNodeId=0&PId=5993205&Source=Browse&UrlSeq=1&CType=1&SId=c4a88851-df0e-4765-88e9-1d7540e2b9a4&LangId=1">SchoolQuery on the OneMap website</a>.<br>Read the "School Query - Disclaimer" information and select "I Agree"<br>Select the "Find Schools Near a Building" option.<br>Enter your residential address in the "Search and Explore" box. Your address will be displayed in the dropdown address list.<br>Select your address. A list of "Schools within 1km" and "Schools between 1-2km" will be displayed.<br> <br>For more information, you can email SLA_enquiry@sla.gov.sg or call the SLA helpdesk at 1800 323 9829.<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">4.</td>
+    <td class="tg-g1uo">Can I register my child in more than one school</td>
+    <td class="tg-g1uo">No. You can only register your child in one school at any particular phase. Our computer system will be able to detect duplicate registrations. You must withdraw your application in order to register at another school.<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">5.</td>
+    <td class="tg-g1uo">When and how will I know the outcome of my child’s P1 Registration?</td>
+    <td class="tg-g1uo">Parents of SC/PR children will be notified of their registration outcome on the date of result announcement, through Short Messaging System (SMS) if a Singapore Mobile Number is provided.<br> <br>Should you not receive your registration outcome on result announcement day, you could contact the school directly in the afternoon to check on the results.<br>Parents of SC/PR children will be notified of their registration outcome on the <a href="https://beta.moe.gov.sg/primary/p1-registration/results/">date of result announcement</a>, through Short Messaging System (SMS). Should you not receive your registration outcome on result announcement day, you could contact the school directly in the afternoon to check on the results.</td>
+  </tr>
+</tbody>
+			</table></p>
+	<p><img src="/images/P1%20Registration%20FAQ.jpeg" 
+					style="width:65%"></p>
+	</div>
+	</li>
+	<li>
+	<input type="checkbox" id="accordion3">
+	<label for="accordion3">Montfortian Character, Citizenship and Leadership Education (MCLE) Programme</label>
+	
+	
+
+			
+			
