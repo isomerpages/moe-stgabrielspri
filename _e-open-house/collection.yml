@@ -2,5 +2,6 @@ collections:
   e-open-house:
     output: true
     order:
+      - Get to know SGPS.md
       - Get to know our programmes.md
       - Useful Information.md
