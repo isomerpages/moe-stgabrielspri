@@ -343,3 +343,177 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
 </div>
 </li>
 </ul>
+
+
+**<u>Frequently Asked Questions</u>**
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">School Daily Operation</label>
+		<div>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 740px">
+<colgroup>
+<col style="width: 280px">
+<col style="width: 460px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-95g1">Questions</td>
+    <td class="tg-95g1">Answers</td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Is there a Parent Support Group (PSG) in St Gabriel’s Primary School ?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Yes. Parents are encouraged to be part of their child’s schooling life by being part of the PSG.</span><br><br><span style="color:inherit;background-color:transparent">Information on the PSG is also available on the same page. Please refer to the Parent Support Group link.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">What are the operating hours of the General Office?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Mondays to Fridays 7.00 a.m. to 4.30 p.m.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">When will the school gate be open in the morning and during dismissal?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">The school gate will be opened at 6.30 a.m. in the morning and at 1.30 p.m. during dismissal from Mondays to Thursdays and 1.00 p.m. on Fridays.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Can I enter the classroom during school hours to pick up my child if he is unwell?</span><br></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Parents are not allowed to enter the classrooms or explore the school premises during school hours on your own due to security reasons. Parents are to report to the security guard post upon entry to pick up a ‘Visitor Pass’ before entering the school.</span><br><br><span style="color:inherit;background-color:transparent">You will then need to proceed to the General Office where the staff will assist you.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">How do I get information about school programmes?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Once your child is registered with St. Gabriel’s Primary School, you can log on Parents Gateway to access announcements.</span> (more information will be provided during P1 Orientation Day)<br><br><span style="color:inherit;background-color:transparent">Alternatively, if you wish to find out more about upcoming programmes, you may wish to click</span> <a href="https://www.stgabrielspri.moe.edu.sg/others/calendar-of-events"><span style="text-decoration:none;color:#4067AE">here</span></a><a href="https://www.stgabrielspri.moe.edu.sg/others/calendar-of-events"> </a><span style="color:inherit;background-color:transparent">to access the school’s Calendar of Events.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">What are the curriculum hours from Monday to Friday?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Mondays to Thursdays: 7.30 a.m. to 1.30 p.m.</span><br><br><span style="color:inherit;background-color:transparent">Fridays: 7.30 a.m. to 1.00 p.m.</span></td>
+  </tr>
+</tbody>
+			</table></p>
+		</div>
+		</li>
+		<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Services</label>
+		<div>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 760px">
+<colgroup>
+<col style="width: 280px">
+<col style="width: 460px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-95g1">Questions</td>
+    <td class="tg-g1uo"><span style="font-weight:bold">Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Where can parents buy the school uniform from?</span></td>
+    <td class="tg-g1uo"><span style="font-weight:bold">Shirley Season Wear</span><br><br><span style="color:inherit;background-color:transparent">NORTHSTAR</span><br><br><span style="color:inherit;background-color:transparent">7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) Singapore 569880</span><br><br><span style="color:inherit;background-color:transparent">Tel: 6280 4917 Fax: 62859727</span><br><br><span style="color:inherit;background-color:transparent">H/P: 9695 4800 (Shirley Goh)</span><br><br><span style="color:inherit;background-color:transparent">Email : getintouch@shirleyuni.com</span><br><br><span style="color:inherit;background-color:transparent">Website :</span> <a href="http://www.shirleyuni.com/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">www.shirleyuni.com</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Is Student Care service available in St Gabriel’s Primary School?</span></td>
+    <td class="tg-g1uo"><span style="font-weight:bold">Morning Star Services</span><br><br><span style="color:inherit;background-color:transparent">Office Number: +65 8261 5182</span><br><br><span style="color:inherit;background-color:transparent">Morning Star HQ: 6285-1377</span><br><br><span style="color:inherit;background-color:transparent">SG SCC: 6284-9524</span><br><br><span style="color:inherit;background-color:transparent">Email:</span> <a href="mailto:studentcare@morningstar.org.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">studentcare@morningstar.org.sg</span></a><br><br><a href="https://www.youtube.com/watch?v=RkwshhcKZBM&feature=youtu.be" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Morning Star Student Care @ St. Gabriel's Primary School</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Is there school bus service available in St Gabriel’s Primary School?</span></td>
+    <td class="tg-g1uo"><span style="font-weight:bold">Tong Tar Transport Service Pte Ltd</span><br><br><span style="color:inherit;background-color:transparent">Mobile Phone: 9848 9964 Fax: 6268 6620</span><br><br><span style="color:inherit;background-color:transparent">Office Number: 6261 5537</span><br><br><span style="color:inherit;background-color:transparent">Office: 8 Soon lee Road, Singapore 628073</span><br><br><span style="color:inherit;background-color:transparent">Email:</span> <a href="mailto:sgps@tongtar.com" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">sgps@tongtar.com</span></a><br><br>Parents can register for bus transport online via www.tongtar.com after they have registered with the school. More information will be provided during P1 Orientation Day)</td>
+  </tr>
+</tbody>
+			</table></p>
+	</div>
+	</li>
+	<li>
+	<input type="checkbox" id="accordion9">
+	<label for="accordion9">School Programmes</label>
+		<div>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 760px">
+<colgroup>
+<col style="width: 280px">
+<col style="width: 460px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-95g1">Questions</td>
+    <td class="tg-95g1">Answers</td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">What is PAL?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Programme for Active Learning. Click</span> <a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/programme-for-active-learning-pal"><span style="text-decoration:none;color:#4067AE">here</span></a><a href="https://www.stgabrielspri.moe.edu.sg/life-skills-n-enrichment/programme-for-active-learning-pal"> </a><span style="color:inherit;background-color:transparent">to find out more.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Can my child sign up for more than 1 CCA?</span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">At primary one, your child is still learning how to adapt to the new school setting and routines. Hence, primary one students are not encouraged to register for a CCA.</span></td>
+  </tr>
+</tbody>
+			</table></p>
+	</div>
+	</li>
+	<li>
+	<input type="checkbox" id="accordion10">
+	<label for="accordion10">School Support</label>
+		<div>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 760px">
+<colgroup>
+<col style="width: 260px">
+<col style="width: 480px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent"> </span>Questions</td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent"> </span>Answers</td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">How does the school manage bullying cases? </span></td>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">The school will not condone bullying. Bullying constitutes using deliberate actions / words to hurt or frighten someone else, often over a period of time, and often forcing them to do something that they do not want to do. </span><br><br><span style="color:inherit;background-color:transparent">The school will investigate the situation and take the students through a Modified Restorative Approach (MRP) to manage the issue. Parents of the students involved would also be notified for them to work in partnership with the school to guide/ monitor their boys. Appropriate disciplinary measures will also be meted out where necessary. </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">How does the school help students who require extra support in Mathematics?</span></td>
+    <td class="tg-g1uo"><span style="color:inherit;background-color:transparent">The Learning Support for Math (LSM) Programme is designed for identified students who need extra support in acquiring basic numeracy skills when they enter Primary 1. Support will be for 2 years in a small class size and covers P1 / 2 Mathematics syllabus for all students during Mathematics period during school hours. LSM focuses on building good Mathematical understanding and aims to build students’ confidence positive beliefs about their ability to do Math. Students learn through varied activities.</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">How does the school help students who require extra support in English?</span></td>
+    <td class="tg-g1uo"><span style="color:inherit;background-color:transparent">Learning Support Programme (LSP) is an early intervention programme that aims to provide additional support to students with weak literacy and language skills. Identified students will attend a half an hour lesson daily during English lessons. The main focus of the lessons is to develop reading, spelling and comprehension skills. In addition to LSP, St Gabriel’s Primary School also offers Buddy Reading Programme which is a weekly programme that focuses on helping developing readers in Primary 1 and 2. The programme’s objectives are to increase the students' exposure to reading and build their confidence and skills in reading high frequency words.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">How does the school help students who require extra support in Mother Tongue Languages?</span></td>
+    <td class="tg-g1uo"><span style="text-decoration:underline">Tamil Language</span><br><span style="color:inherit;background-color:transparent">The Primary 1 and 2 Tamil Syllabus focuses mainly on the introduction of the Tamil alphabets and building of the Tamil vocabulary. The teachers take extra care to teach the nuances of the language, especially in reading and oral communication, to familiarize students with the language and to build their vocabulary. At Primary 2, students go through the in-house reading programme where they start reading graded booklets. At this stage, parents also play an active role in supporting and monitoring their son's progress.</span><br><br><span style="text-decoration:underline">Malay Language</span><br><span style="color:inherit;background-color:transparent">Primary 1 Malay students go through the Phonetics and Reading Programme by MOE to establish the foundation for the learning of the Malay Language before embarking on the Primary 1 syllabus.</span><br><br><span style="color:inherit;background-color:transparent">At St. Gabriel’s Primary School, there is also a reading and oral communication programme for Primary 2 to 6 Malay and Tamil students. This programme renders support to students who face challenges when communicating in their respective languages. The respective teachers give extra support in the form of reading and oral communication practices in class, with the use of ICT to minimize and close the gap in oracy.</span><br><br><span style="text-decoration:underline">Chinese Language</span><br><span style="color:inherit;background-color:transparent">Teachers use an approach that scaffolds learning in the classroom, emphasizing on the development of the four essential language skills: Listening, Speaking, Reading and Writing. Teachers tap on the “Dudu Town Reading” programme to cultivate the interest for reading. It is a self-paced, personalised learning system for the Chinese language by providing students with Chinese Story eBooks that are appropriately matched to their reading abilities. It increases students’ motivation in reading, improve their reading skills, build vocabulary and enhance the comprehension skills of the students. It encourages some self-directed learning.</span></td>
+  </tr>
+</tbody>
+</table>
+			
+	
