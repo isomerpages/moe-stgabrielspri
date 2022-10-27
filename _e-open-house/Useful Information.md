@@ -519,6 +519,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
 			</table></p>
 	</div>
 	</li>
+	<li>
 	<input type="checkbox" id="accordion11">
 	<label for="accordion11">Others</label>
 		<div>
