@@ -34,4 +34,10 @@ sections:
       description: Infobar description
       button: view
       url: /e-open-house-2022/
+  - infobar:
+      title: e open house folder
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+      url: /
 ---
