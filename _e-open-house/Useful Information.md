@@ -204,5 +204,145 @@ Catholic students attend the Religious Education classes. Our teachers work with
 	</li>
 	<li>
 	<input type="checkbox" id="accordion4">
-	<label for="accordion4">P1 Registration Frequently Asked Questions</label>
-	
+	<label for="accordion4">School Hours</label>
+	<div>
+		<p>Students are advised to be in school by 7.30 a.m. As a mark of respect during our flag-raising ceremony, the school gate will be closed by the stipulated time. 
+All Primary One students are to report to their classrooms on Tuesdays and Wednesdays. On Mondays, Thursdays and Fridays, they are to report to the hall. The flag raising ceremony will be conducted at 7.30 a.m. daily.</p>
+		<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-17an{color:#232323;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-17an" rowspan="3">School Hours</td>
+    <td class="tg-95g1">Day</td>
+    <td class="tg-95g1">Reporting time</td>
+    <td class="tg-95g1">Start of School day</td>
+    <td class="tg-95g1">End of School day</td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">Monday to Thursday</td>
+    <td class="tg-g1uo">By 7.30 a.m.</td>
+    <td class="tg-g1uo">7.30 a.m.</td>
+    <td class="tg-g1uo">1.30 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">Friday</td>
+    <td class="tg-g1uo">By 7.30 a.m.</td>
+    <td class="tg-g1uo">7.30 a.m.</td>
+    <td class="tg-g1uo">1.00 p.m.</td>
+  </tr>
+</tbody>
+		</table></p>
+	</div>
+	</li>
+	<li>
+	<input type="checkbox" id="accordion5">
+	<label for="accordion5">Recess</label>
+	<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-17an{color:#232323;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+.tg .tg-tv7y{color:#232323;text-align:center;vertical-align:middle}
+.tg .tg-bjk0{color:#232323;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 764px">
+<colgroup>
+<col style="width: 185px">
+<col style="width: 188px">
+<col style="width: 195px">
+<col style="width: 196px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-17an" rowspan="2">Recess</td>
+    <td class="tg-95g1">P1 &amp; P5 students</td>
+    <td class="tg-95g1">P2 &amp; P4 students</td>
+    <td class="tg-95g1">P3 &amp; P6 students</td>
+  </tr>
+  <tr>
+    <td class="tg-g1uo">9.30 a.m. – 10.00 a.m.</td>
+    <td class="tg-g1uo">10.00 a.m. – 10.30 a.m.</td>
+    <td class="tg-g1uo">10.30 a.m. – 11.00 a.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-95g1">#Daily Short Break - Mondays to Thursdays</td>
+    <td class="tg-g1uo">11.45 a.m.</td>
+    <td class="tg-g1uo">12.15 a.m.</td>
+    <td class="tg-g1uo">12.45 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-bjk0"><span style="color:inherit;background-color:transparent"> </span>#Daily Short Break - Fridays</td>
+    <td class="tg-tv7y"><span style="color:inherit;background-color:transparent"> 11.15 a.m.</span></td>
+    <td class="tg-tv7y"><span style="color:inherit;background-color:transparent"> 11.45 a.m.</span></td>
+    <td class="tg-tv7y"><span style="color:inherit;background-color:transparent"> 12.15 p.m.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-95g1" colspan="4"><span style="color:#232323"># short rest, snacks, drinks</span></td>
+  </tr>
+</tbody>
+</table></p>
+<p>Students are encouraged to pack dry food (e.g. cereal, bread and biscuits and etc.) We strongly encourage our students to choose water over sugared beverages.</p>
+</div>
+</li>
+</li>
+<input type="checkbox" id="accordion6">
+<label for="accordion6">Dismissal and Pickup points</label>
+<div>
+	<p>To ensure the safety and security of our students during dismissal, students taking the school bus will be allowed to board their school buses before we allow other motor vehicles into the school compound.<br><br>All P1 students will have to assemble in the school hall first and will then be taken to the various dismissal points by the teachers.<p>
+	<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95g1{color:#232323;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-g1uo{color:#232323;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 710px">
+<colgroup>
+<col style="width: 197px">
+<col style="width: 364px">
+<col style="width: 149px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-95g1">Line</td>
+    <td class="tg-95g1">Description</td>
+    <td class="tg-95g1">Pickup point</td>
+  </tr>
+  <tr>
+    <td class="tg-95g1">Car Line</td>
+    <td class="tg-g1uo">For students whose parents drive<br>(Kindly put up an A4-sized label with your child’s name &amp; class on the car dashboard as you drive in to the Foyer for easy identification.)</td>
+    <td class="tg-g1uo">Foyer</td>
+  </tr>
+  <tr>
+    <td class="tg-95g1">Walk Line</td>
+    <td class="tg-g1uo">For students walking home or taking public transport</td>
+    <td class="tg-g1uo">Guardhouse</td>
+  </tr>
+  <tr>
+    <td class="tg-95g1">School Bus Line</td>
+    <td class="tg-g1uo">For students taking the school bus</td>
+    <td class="tg-g1uo">School Hall</td>
+  </tr>
+</tbody>
+</table></p>
+</div>
+</li>
+</ul>
+
+
+		
