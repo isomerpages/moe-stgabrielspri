@@ -4,14 +4,10 @@ title: St Gabriels Primary School
 description: An Isomer site of the Singapore Government
 image: /images/BOSTCrest-trans-colour.gif
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/homepagedemo2.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
