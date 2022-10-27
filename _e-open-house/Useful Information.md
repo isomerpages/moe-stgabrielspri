@@ -297,7 +297,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
 <p>Students are encouraged to pack dry food (e.g. cereal, bread and biscuits and etc.) We strongly encourage our students to choose water over sugared beverages.</p>
 </div>
 </li>
-</li>
+<li>
 <input type="checkbox" id="accordion6">
 <label for="accordion6">Dismissal and Pickup points</label>
 <div>
