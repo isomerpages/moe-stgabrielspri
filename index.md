@@ -27,4 +27,12 @@ sections:
       url: /e-open-house/webinar/
       image: /images/2022 SGPS e-Open House Website Poster.png
       alt: e-open house
+  - infopic:
+      title: School Corporate Video
+      subtitle: More on SGPS
+      description: Hear the Voice of Gabrielites
+      button: View Video
+      url: https://youtu.be/Qp7yWFBum-s
+      image: /images/BOSTCrest-trans-colour.gif
+      alt: Image alt text
 ---
