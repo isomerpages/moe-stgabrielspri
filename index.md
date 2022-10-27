@@ -18,6 +18,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - resources:
+      title: Announcements
+      subtitle: Our Latest News
+      button: View All
   - infopic:
       title: E-Open House 2022
       subtitle: SGPS in a nutsehll
@@ -26,8 +30,4 @@ sections:
       url: /e-open-house/webinar/
       image: /images/2022 SGPS e-Open House Website Poster.png
       alt: e-open house
-  - resources:
-      title: Announcements
-      subtitle: Our Latest News
-      button: View All
 ---
