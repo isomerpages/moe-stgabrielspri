@@ -26,4 +26,8 @@ sections:
       url: /e-open-house/webinar/
       image: /images/2022 SGPS e-Open House Website Poster.png
       alt: e-open house
+  - resources:
+      title: Announcements
+      subtitle: Our Latest News
+      button: View All
 ---
