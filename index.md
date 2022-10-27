@@ -18,22 +18,12 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
-      title: e-open house 2022
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: view
-      url: /e-open-house-2022/
-  - infobar:
-      title: e open house folder
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-      url: /e-open-house/useful-information/
+  - infopic:
+      title: E-Open House 2022
+      subtitle: SGPS in a nutsehll
+      description: Our Virtual Open House
+      button: View More
+      url: /e-open-house/webinar/
+      image: /images/2022 SGPS e-Open House Website Poster.png
+      alt: e-open house
 ---
