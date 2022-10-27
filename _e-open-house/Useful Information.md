@@ -572,8 +572,8 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">Parent Support Group (PSG) @ St Gabriel's Primary School</label>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Parent Support Group (PSG) @ St Gabriel's Primary School</label>
     <div>
 			<p>The PSG @ SGPS was established around 2008. For the past 12 years, parents @ SGPS have been playing a vital role in the school. We are important partners in enriching your child’s learning. Being involved in your child’s school sends a clear signal to your child as a form of concern for them, thus, encouraging them to adopt positive life attitudes towards learning. Communication is key and a two-way process that benefits the children, parents and the school.<br><br>The Parent Support Group is a great opportunity to foster a closer bond with our children, understanding them better. PSG@SGPS is made up of a group of dedicated parents who comes together to offer collaboration and support; playing an active and important role in being the bridge between the parents, students and the school. With the advice from the school’s advisors, PSG complements by aligning the school’s programs further improving our children’s well-being and learning. Meetings are held on a termly basis where parents come together to meet, discuss and share our collective efforts for our children at SGPS.<br><br>As a member of the PSG@SGPS, we strive to promote the spirit of community within the SGPS family. Not only does it allow you to have greater awareness of how the school is run but it also helps identify more with your child in their schooling experience. If you are keen to join us, pick up a form from the General Office or you may email your interest to sgps.psg@gmail.com.<br><br>Thank you.<br><br><a href="https://www.stgabrielspri.moe.edu.sg/qql/slot/u173/Links/PSG/PSG%20Reg%20Form_Revised.pdf" target="">Parent Support Group Registration Form</a></p>
 			<p><img src="/images/uipsg.png" 
