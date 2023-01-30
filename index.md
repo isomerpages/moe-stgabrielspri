@@ -20,7 +20,7 @@ sections:
       subtitle: Our Latest News
       button: View All
   - infopic:
-      title: E-Open House 2022
+      title: E-Open House
       subtitle: SGPS in a nutsehll
       description: Our Virtual Open House
       button: View More
