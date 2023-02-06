@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: CHARACTER FORMATION
           description: ""
-          url: ""
+          url: /academic-learning/english-language/
         - title: ACADEMIC LEARNING
           description: ""
           url: ""
