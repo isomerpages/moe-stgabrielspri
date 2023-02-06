@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/homepagedemo2.gif
       key_highlights:
-        - title: News Feed
-          description: SGPS Facebook Page
-          url: https://www.facebook.com/1389395454608849
-        - title: Useful Links
-          description: For Parents, Students & Staff
-          url: /links/for-parent/
+        - title: CHARACTER FORMATION
+          description: ""
+          url: ""
+        - title: ACADEMIC LEARNING
+          description: ""
+          url: ""
   - resources:
       title: Announcements
       subtitle: Our Latest News
