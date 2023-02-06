@@ -20,7 +20,7 @@ sections:
           url: /life-skills-and-enrichment/pal/
         - title: SIGNATURE PROGRAMMES
           description: ""
-          url: ""
+          url: /signature-programmes/gdlp/
   - resources:
       title: Announcements
       subtitle: Our Latest News
