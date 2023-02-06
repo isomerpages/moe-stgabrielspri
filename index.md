@@ -14,7 +14,7 @@ sections:
           url: /academic-learning/english-language/
         - title: ACADEMIC LEARNING
           description: ""
-          url: ""
+          url: /academic-learning/english-language/
         - title: LIFE SKILLS & ENRICHMENT
           description: ""
           url: ""
