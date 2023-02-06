@@ -17,7 +17,7 @@ sections:
           url: /academic-learning/english-language/
         - title: LIFE SKILLS & ENRICHMENT
           description: ""
-          url: ""
+          url: /life-skills-and-enrichment/pal/
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: ""
