@@ -15,6 +15,12 @@ sections:
         - title: ACADEMIC LEARNING
           description: ""
           url: ""
+        - title: LIFE SKILLS & ENRICHMENT
+          description: ""
+          url: ""
+        - title: SIGNATURE PROGRAMMES
+          description: ""
+          url: ""
   - resources:
       title: Announcements
       subtitle: Our Latest News
