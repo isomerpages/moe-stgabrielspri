@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: CHARACTER FORMATION
           description: ""
-          url: /academic-learning/english-language/
+          url: /character-formation/CCE/character-and-citizenship-education/
         - title: ACADEMIC LEARNING
           description: ""
           url: /academic-learning/english-language/
