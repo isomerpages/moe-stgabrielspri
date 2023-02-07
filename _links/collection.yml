@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Staff/.keep
       - For Parent.md
       - For Student.md
       - For Staff.md
