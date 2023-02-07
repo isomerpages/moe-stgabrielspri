@@ -23,7 +23,6 @@ sections:
           url: /signature-programmes/gdlp/
   - infopic:
       title: School Corporate Video
-      description: Hear the Voice of Gabrielites
       button: View Video
       url: https://youtu.be/Qp7yWFBum-s
       image: /images/vidicondemo.png
