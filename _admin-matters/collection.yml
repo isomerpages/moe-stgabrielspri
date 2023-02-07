@@ -2,5 +2,6 @@ collections:
   admin-matters:
     output: true
     order:
+      - School Bus.md
       - Others.md
       - Contact Us.md
