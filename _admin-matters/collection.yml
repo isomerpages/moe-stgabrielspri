@@ -2,7 +2,7 @@ collections:
   admin-matters:
     output: true
     order:
-      - Student Care Center.md
+      - Student Care Centre.md
       - School Uniform.md
       - School Bookshop.md
       - School Bus.md
