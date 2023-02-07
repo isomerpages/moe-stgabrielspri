@@ -19,13 +19,8 @@ locations:
     title: St. Gabriel's Primary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6280 3628
+      - email: stgps@moe.edu.sg
       - other: ""
-    title: Careers
+    title: "Phone:"
 ---
