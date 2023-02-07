@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parent.md
-      - For Parents (P1 students of 2022).md
       - For Staff.md
       - For Student.md
       - Parent Support Group.md
