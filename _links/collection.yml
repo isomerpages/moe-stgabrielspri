@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - For Parent.md
-      - For Staff.md
       - For Student.md
+      - For Staff.md
       - Parent Support Group.md
