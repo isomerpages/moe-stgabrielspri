@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepagedemo2.gif
+      background: /images/homepgdemo.gif
       key_highlights:
         - title: CHARACTER FORMATION
           description: ""
