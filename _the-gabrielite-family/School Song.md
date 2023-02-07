@@ -25,7 +25,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-School Song:
-
-(embed youtube video of school song her)
