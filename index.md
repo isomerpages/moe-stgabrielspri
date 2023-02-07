@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: School Corporate Video
       button: View Video
-      url: https://youtu.be/Qp7yWFBum-s
+      url: https://youtu.be/Ym_EcHQKj3E
       image: /images/vidicondemo.png
       alt: Image alt text
 ---
