@@ -16,4 +16,4 @@ Updated: Dec 2022
 
 3. The Key Messages of Sexuality Education are: (a) Love and respect yourself as you love and respect others; (b) Build positive relationships based on love and respect (which are the foundation for strong families); (c) Make responsible decisions for yourself, your family and society; and (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. 
 
-You may click [here](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Website%20Info%20for%20SEd.pdf) for more information on St. Gabriel's Primary School's Sexuality Education.
+You may click [here (SGPS Sexuality Education)](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Website%20Info%20for%20SEd.pdf) for more information on St. Gabriel's Primary School's Sexuality Education.
