@@ -40,7 +40,7 @@ Mr Jimmy Tong
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mrs Sheryl Toh</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mrs Sabrina Tan </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> </span></td>
   </tr>
 </tbody>
 </table>
