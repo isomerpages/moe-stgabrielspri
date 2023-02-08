@@ -2,11 +2,12 @@ collections:
   life-skills-and-enrichment:
     output: true
     order:
-      - Physical & Health Education.md
       - Programme for Active Learning (PAL).md
+      - Physical & Health Education.md
       - Aesthetics.md
       - Trips for International Experiences (TIE).md
       - InfoComm Technology (ICT).md
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/Art Club.md
       - Co Curricular Activities/Athletics.md
       - Co Curricular Activities/Badminton.md
@@ -21,4 +22,3 @@ collections:
       - Co Curricular Activities/Science, Horticulture and Math (SHM) Club.md
       - Co Curricular Activities/Scouts.md
       - Co Curricular Activities/Wushu.md
-      - Co Curricular Activities/.keep
