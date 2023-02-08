@@ -4,7 +4,7 @@ permalink: /signature-programmes/pride/
 description: ""
 ---
 **Head of Department / Subject Head:**   
-Mr Xie Zhengyang (Subject Head, Student Leadership Internal)
+Mr Xie Zhengyang (Subject Head, Student Leadership)
 
   
 
