@@ -2,10 +2,10 @@ collections:
   character-formation:
     output: true
     order:
-      - CCE/Sexuality Education.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Student Leadership.md
       - CCE/Catholic Formation.md
+      - CCE/Sexuality Education.md
       - Student Discipline, Safety & Partnerships.md
       - Student Development.md
