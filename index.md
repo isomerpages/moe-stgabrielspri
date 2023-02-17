@@ -21,12 +21,17 @@ sections:
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/gdlp/
+  - resources:
+      title: Announcement
+  - infopic:
+      title: Facebook
+      button: Feed
+      url: https://www.facebook.com/StGabrielsPrimarySchool
+      alt: Image alt text
   - infopic:
       title: School Corporate Video
       button: View Video
       url: https://youtu.be/Ym_EcHQKj3E
       image: /images/vidicondemo.png
       alt: Image alt text
-  - resources:
-      title: Announcement
 ---
