@@ -27,4 +27,6 @@ sections:
       url: https://youtu.be/Ym_EcHQKj3E
       image: /images/vidicondemo.png
       alt: Image alt text
+  - resources:
+      title: Announcement
 ---
