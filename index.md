@@ -28,6 +28,7 @@ sections:
       button: Feed
       url: https://www.facebook.com/StGabrielsPrimarySchool
       alt: Image alt text
+      image: /images/Facebook Image.jpg
   - infopic:
       title: School Corporate Video
       button: View Video
