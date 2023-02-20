@@ -3,19 +3,19 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School History.md
       - School Vision, Mission, Motto and Philosophy.md
+      - School History.md
       - School Badge & School Song.md
       - School Information.md
       - School Rules.md
+      - School Staff/.keep
       - School Staff/School Executive Committee.md
       - School Staff/Form and Co Form Teachers.md
       - School Staff/Mother Tongue Language Teachers.md
       - School Staff/Allied Educators.md
       - School Staff/Executive and Administrative Staff.md
-      - School Staff/.keep
+      - Achievements/.keep
       - Achievements/2021.md
       - Achievements/2020.md
       - Achievements/2019.md
-      - Achievements/.keep
       - Personal Data Protection Policy.md
