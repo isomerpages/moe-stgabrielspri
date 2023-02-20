@@ -3,23 +3,16 @@ title: School Safety & Security
 permalink: /the-gabrielite-family/permalink/
 description: ""
 ---
-For the safety and security of the staff, students and visitors to the school, we seek your cooperation to adhere to the following measures at all times:
+<p align="justify"> For the safety and security of the staff, students and visitors to the school, we seek your cooperation to adhere to the following measures at all times:
 
 **Security in the School**
 
-1.       All visitors must register at the security counter located just after the main school entrance before reporting to the General Office for assistance.
-
-2.       Please wear the visitor pass or display the security sticker prominently at all times when you are in the school premises.
-
-3.       If you wish to pick up your child early from school before the end of the school day, please proceed to the General Office for assistance.
-
-4.       Please refrain from walking around the school compound. Should you require any assistance regarding student matters, do approach the General  Office staff.
+<p align="justify"> 1. All visitors must register at the security counter located just after the main school entrance before reporting to the General Office for assistance. <br> 2. Please wear the visitor pass or display the security sticker prominently at all times when you are in the school premises. <br> 3. If you wish to pick up your child early from school before the end of the school day, please proceed to the General Office for assistance. <br> 4. Please refrain from walking around the school compound. Should you require any assistance regarding student matters, do approach the General  Office staff.
 
 **Safety in the School (Carline)**
 
-1.       Cooperate with staff on duty to ensure overall safety and smooth traffic flow.
-
-2.       Reduce vehicle speed (max. 15km/hr) and stay alert for pedestrians in the school compound.
+<p align="justify"> 
+1. Cooperate with staff on duty to ensure overall safety and smooth traffic flow. <br> 2. Reduce vehicle speed (max. 15km/hr) and stay alert for pedestrians in the school compound.
 
 3.       Drop off your child at the designated drop‐off point only (see Annex A on Page 4).
 
