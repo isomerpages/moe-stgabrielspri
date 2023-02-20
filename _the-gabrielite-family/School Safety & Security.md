@@ -62,3 +62,4 @@ Please exercise care and consideration by not waiting at these critical areas: 
 We sincerely seek your co-operation to please keep all the relevant person(s) in charge of your child’s commuting arrangement informed of the above reminders. 
 
 **Annex A: Pick-up and Temporary Waiting Procedures**
+![](/images/School%20Safety1.jpg)
