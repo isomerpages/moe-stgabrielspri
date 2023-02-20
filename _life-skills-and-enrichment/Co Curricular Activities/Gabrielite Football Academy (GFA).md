@@ -68,7 +68,7 @@ third_nav_title: Co Curricular Activities
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="font-weight:normal">P3 and P4 Manager</span></td>
-    <td class="tg-bjk0"><span style="font-weight:normal;color:#232323">Ms Irfana</span>Ms Isabella Sim<span style="color:#222"> </span></td>
+    <td class="tg-bjk0"><span style="font-weight:normal;color:#232323">Ms Irfana</span><br>Ms Isabella Sim<span style="color:#222"> </span></td>
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:#232323">P5 and P6 Managers</span></td>
@@ -76,11 +76,18 @@ third_nav_title: Co Curricular Activities
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:#232323">Coaches (</span><span style="font-weight:400">With the generous partnership and support from ActiveSG Football Academy and ActiveSG Coaches)</span></td>
-    <td class="tg-vl7p"><span style="font-weight:normal">Mr Andre Danke (AFC ‘C’) – P2 and Senior Team Coach</span><br><span style="font-weight:normal">Mr Adelard (AFC ‘C’) – P1 and Junior Team Coach</span><br><span style="font-weight:normal">Mr Jimmy Tong – Junior Team Manager</span>Mr Sean de Zilva – Senior Team Manager<span style="color:#222"> </span></td>
+    <td class="tg-vl7p">ActiveSG Coaches<br><span style="font-weight:normal">Mr Jimmy Tong – Junior Team Manager</span><br>Mr Sean de Zilva – Senior Team Manager<span style="color:#222"> </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="font-weight:normal">Parent-Coaches</span></td>
     <td class="tg-vl7p"><span style="font-weight:normal"> TBD</span></td>
+  </tr>
+	<tr>
+    <td class="tg-vl7p"><span style="font-weight:normal">Achievements</span></td>
+    <td class="tg-vl7p"><span style="font-weight:normal"> 2022<br>
+			South Zone Senior Division Champions <br>
+National Tier 1 Junior Division League Champions
+</span></td>
   </tr>
 </tbody>
 </table>
