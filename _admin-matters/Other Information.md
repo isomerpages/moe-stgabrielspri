@@ -22,11 +22,6 @@ Thank you for your interest in enrolling your child/ward in St. Gabriel’s Prim
 2.     Your application is valid for a year from the date of submission. Successful applicants will be contacted via the email address / contact number indicated in the form. 3.     Please be informed that International student cannot be placed on wait list. Do approach MOE Customer Service for more information.  
 4. Application for P1 (2023) admission will only be considered after the conclusion of the 2022 P1 Registration Exercise.
 
--------------------
-**ST GABRIEL`S OLD BOYS` ASSOCIATION Membership Application Form**
-
-[St Gabriels School OBA Membership (updated 2016) 22 March 2016 - $200.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/St%20Gabriels%20School%20OBA%20Membership%20(updated%202016)%2022%20March%202016%20-%20$200.pdf).
-
 ------------------
 **SGPS Parent Volunteer Scheme (July 2022 to Jun 2023)**
 
@@ -37,6 +32,9 @@ Applicable only if the child is a Singapore Citizen / Singapore Permanent Reside
 Deadline for submission is on **31 May 2022**. The application for Parent Volunteer Scheme (for child to be registered in 2023) is closed.
 
 ----------------------
+
+[ST GABRIEL'S OLD BOYS ASSOCIATION Membership Application Form](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/St%20Gabriels%20School%20OBA%20Membership%20(updated%202016)%2022%20March%202016%20-%20$200.pdf).
+
 [St Gabriel’s Secondary School](http://stgabrielssec.moe.edu.sg/)  
  
 --------------------- 
