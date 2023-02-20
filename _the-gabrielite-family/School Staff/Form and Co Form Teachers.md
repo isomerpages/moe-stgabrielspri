@@ -24,37 +24,15 @@ third_nav_title: School Staff
 
 | CLASS | FORM TEACHER | CO-FORM TEACHER(S) |
 | --- | --- | --- |
-| 2 Loyalty  | **Ms Karen Loo** loo_xinyi_karen@schools.gov.sg | **Miss Goh Ruoyi** goh_ruoyi@schools.gov.sg  
+| 2 Loyalty  | **Ms Karen Loo**  loo_xinyi_karen@schools.gov.sg | **Miss Goh Ruoyi** goh_ruoyi@schools.gov.sg  
 ||| **Ms Priscilla Yong**  priscilla_yong@schools.gov.sg  
-**Mr Steven Tay**  
-steven\_tay\_choon\_huat@schools.gov.sg  
- |
-| 2 Orderliness  
- | **Ms Elsa Teng  
-**teng\_hui\_khim\_elsa@schools.gov.sg   
- | **Ms Cindy Liong  
-**liong\_cindy@schools.gov.sg |
-| 2 Respect  
- | **Ms Siti Nurhayaty**  
-siti\_nurhayaty\_saptu@schools.gov.sg  
- | **Ms Lim Annie  
-**lim\_annie@schools.gov.sg  
-**Ms Lytessia Soh  
-**soh\_xin\_hui\_lytessia@schools.gov.sg  
- |
-| 2 Diligence  
- | **Mrs Sheryl Toh**  
-siew\_sheryl@schools.gov.sg  
- | **Mdm Sharifah Nurulhuda**  
-sharifah\_nurulhuda\_taha\_a@schools.gov.sg**  
-  
-Miss Safila  
-**safila\_afreen\_basheer\_ahamed@schools.gov.sg |
-|  2 Self-Discipline  
- | **Mr Neo Yong Teck**   
-neo\_yong\_teck@schools.gov.sg  
- | **Ms Chua Suting  
-**chua\_suting@schools.gov.sg  
+||| **Mr Steven Tay**  steven_tay_choon_huat@schools.gov.sg  
+| 2 Orderliness | **Ms Elsa Teng** teng_hui_khim_elsa@schools.gov.sg | **Ms Cindy Liong** liong_cindy@schools.gov.sg |
+| 2 Respect | **Ms Siti Nurhayaty** siti_nurhayaty_saptu@schools.gov.sg | **Ms Lim Annie** lim_annie@schools.gov.sg 
+||| **Ms Lytessia Soh** soh_xin_hui_lytessia@schools.gov.sg  
+| 2 Diligence  | **Mrs Sheryl Toh**  siew_sheryl@schools.gov.sg  | **Mdm Sharifah Nurulhuda** sharifah_nurulhuda_taha_a@schools.gov.sg
+||| **Miss Safila** safila_afreen_basheer_ahamed@schools.gov.sg |
+|  2 Self-Discipline | **Mr Neo Yong Teck** neo_yong_teck@schools.gov.sg | **Ms Chua Suting** chua_suting@schools.gov.sg  
  |
 
   
