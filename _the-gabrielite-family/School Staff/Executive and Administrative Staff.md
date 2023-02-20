@@ -4,11 +4,6 @@ permalink: /the-gabrielite-family/School-Staff/executive-and-administrative-staf
 description: ""
 third_nav_title: School Staff
 ---
-Updating.....
-
------
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -57,20 +52,21 @@ Updating.....
     <td class="tg-bjk0">ICT Associate </td>
     <td class="tg-bjk0">mohamed_hafiz_mustafa@schools.gov.sg </td>
   </tr>
+	  <tr>
+    <td class="tg-bjk0">Tay Siew Luang  </td>
+    <td class="tg-bjk0">ICT Associate </td>
+    <td class="tg-bjk0">mohamed_hafiz_mustafa@schools.gov.sg </td>
+  </tr>
   <tr>
     <td class="tg-g1uo"><span style="color:#000">Miss Siti Rohaini    </span></td>
     <td class="tg-g1uo"><span style="color:#000">Corporate Support Officer</span></td>
     <td class="tg-bjk0">siti_rohaini_abdul_rahman@schools.gov.sg</td>
   </tr>
+  
   <tr>
-    <td class="tg-g1uo"><span style="color:#000">Mr Clarence Tan</span></td>
+    <td class="tg-g1uo"><span style="color:#000">Miss Chan Moy Yoke</span></td>
     <td class="tg-g1uo"><span style="color:#000">Corporate Support Officer</span></td>
-    <td class="tg-bjk0">tan_kian_chye_clarence@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-g1uo"><span style="color:#000">Ms Tan Ai Hwa</span></td>
-    <td class="tg-g1uo"><span style="color:#000">Corporate Support Officer</span></td>
-    <td class="tg-g1uo"><span style="color:#000">tan_ai_hwa@</span>schools.gov.sg</td>
+    <td class="tg-g1uo"><span style="color:#000">chan_moy_yoke@</span>schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-g1uo"><span style="color:#000">Mdm Kunasundari</span> </td>
@@ -109,6 +105,11 @@ Updating.....
   </tr>
   <tr>
     <td class="tg-bjk0">Ms Dewi Kirana Safira Binti Johari</td>
+    <td class="tg-g1uo"><span style="color:#000">Desktop Engineer</span> </td>
+    <td class="tg-g1uo"></td>
+  </tr>
+	  <tr>
+    <td class="tg-bjk0">Mr Kelvin Tan</td>
     <td class="tg-g1uo"><span style="color:#000">Desktop Engineer</span> </td>
     <td class="tg-g1uo"></td>
   </tr>
