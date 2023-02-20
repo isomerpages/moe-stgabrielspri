@@ -5,10 +5,9 @@ description: ""
 ---
 **Parent Notification**
 
-[January](/files/Parent%20Notification_Jan%202023%20(Final).pdf)
-
 [February](/files/Parent%20Notification_Feb%202023%20(Final).pdf)
 
+For past issues, please refer to Parents Gateway.
 <br>
 
 **Assessment Plans**  
