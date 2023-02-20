@@ -4,7 +4,7 @@ permalink: /life-skills-and-enrichment/Co-Curricular-Activities/grabrielite-foot
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/gfa1.jpeg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
