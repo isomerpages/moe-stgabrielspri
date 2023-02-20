@@ -1,0 +1,25 @@
+collections:
+  life-skills-and-enrichment:
+    output: true
+    order:
+      - Physical & Health Education.md
+      - InfoComm Technology (ICT).md
+      - Aesthetics.md
+      - Programme for Active Learning (PAL).md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Art Club.md
+      - Co Curricular Activities (CCA)/Athletics.md
+      - Co Curricular Activities (CCA)/Basketball.md
+      - Co Curricular Activities (CCA)/Brass Band.md
+      - Co Curricular Activities (CCA)/Catholic Club.md
+      - Co Curricular Activities (CCA)/Gabrielite Badminton Academy (GBA).md
+      - Co Curricular Activities (CCA)/Gabrielite Football Academy (GFA).md
+      - Co Curricular Activities (CCA)/Golf.md
+      - Co Curricular Activities (CCA)/Media Club.md
+      - Co Curricular Activities (CCA)/Performing Arts Club.md
+      - Co Curricular Activities (CCA)/Robotics Club.md
+      - Co Curricular Activities (CCA)/Science and Maths Club.md
+      - Co Curricular Activities (CCA)/Scouts.md
+      - Co Curricular Activities (CCA)/Wushu.md
+      - Co Curricular Activities (CCA)/Floorball.md
+      - Trips for International Experiences (TIE).md

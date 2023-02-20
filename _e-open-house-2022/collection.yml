@@ -1,0 +1,10 @@
+collections:
+  e-open-house-2022:
+    output: true
+    order:
+      - Webinar.md
+      - SGPS E Open House Infographic.md
+      - Principal's Message.md
+      - Get to know SGPS.md
+      - Get to know our programmes.md
+      - Useful Information.md

@@ -1,15 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: "The Gabrielite Family "
+    collection: the-gabrielite-family
+  - title: E-Open House
+    collection: e-open-house-2022
+  - title: Admin Matters
+    collection: admin-matters
+  - title: Useful Links
+    url: /
+    sublinks:
+      - title: For Parents
+        url: /links/for-parent/
+      - title: For Students
+        url: /links/for-student/
+      - title: For Staff
+        url: https://sites.google.com/moe.edu.sg/sgpsstaffportal/home
+      - title: Parent Support Group
+        url: /links/parent-support-group/
+  - title: Calendar of Events
+    url: /permalink
