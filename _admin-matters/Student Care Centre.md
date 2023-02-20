@@ -3,14 +3,13 @@ title: Student Care Centre
 permalink: /admin-matters/student-care-centre/
 description: ""
 ---
-
 **Morning Star Community Services  
 (Student Care Centre-Based in St Gabriel’s Pri Sch)**
 
-**Address:** 4 Lorong Low Koon, Singapore 536450
+**Address:** 25 Lorong 33 Geylang, #04-01 Putian Building, S 387985
 
 **Contact Number 1:** 6284 9524 (St Gabriel’s Primary School)
 
 **Contact Number  2:** 6285 1377 (Head Office)
 
-**Fax Number:**  6285 2702 
+**Fax Number:**  6285 2702
