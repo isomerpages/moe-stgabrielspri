@@ -108,7 +108,7 @@ third_nav_title: School Staff
     <td class="tg-brl1"> low_mei_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Subject Head / Student Leadership (Internal)</td>
+    <td class="tg-brl1">Subject Head / Student Leadership</td>
     <td class="tg-brl1"> Mr Xie Zhengyang</td>
     <td class="tg-brl1"> xie_zhengyang@schools.gov.sg</td>
   </tr>
