@@ -77,10 +77,15 @@ third_nav_title: School Staff
     <td class="tg-brl1"> Mrs Cecilia Koh</td>
     <td class="tg-brl1"> lee_hiang_hoon_cecilia@schools.gov.sg<br></td>
   </tr>
-  <tr>
-    <td class="tg-brl1">Level Head / Mathematics<br></td>
+	 <tr>
+    <td class="tg-brl1">HOD / Mathematics<br></td>
     <td class="tg-brl1"> Ms Low Yun Hui</td>
     <td class="tg-brl1"> low_yun_hui@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">Level Head / Mathematics (Internal)<br></td>
+    <td class="tg-brl1"> Ms Elsa Teng</td>
+    <td class="tg-brl1"> teng_hui_khim_elsa@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="color:#000">HOD / Science</span><br></td>
