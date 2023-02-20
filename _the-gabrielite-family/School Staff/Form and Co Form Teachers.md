@@ -6,7 +6,7 @@ third_nav_title: School Staff
 ---
 |**Primary 1**|||
 | --- | --- | --- |
-| CLASS | FORM TEACHER | CO-FORM TEACHER(S) |
+| **CLASS** | **FORM TEACHER** | **CO-FORM TEACHER(S)**|
 | 1 Self-Discipline | **Mrs Shelena Lim** <br> tan_li_ing_shelena@schools.gov.sg | **Mrs Kareen Wong** <br> teoh_kareen@schools.gov.sg | 
 ||| **Mr Sng Cheng Kiang** <br> sng_cheng_kiang@schools.gov.sg  
 | 1 Generosity  | **Mrs Goh Yuniarti** <br> chan_yuniarti@schools.gov.sg | **Ms Dina Farhana** <br> dina_farhana_hashim@schools.gov.sg
