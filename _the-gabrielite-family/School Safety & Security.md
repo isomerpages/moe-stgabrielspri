@@ -12,17 +12,7 @@ description: ""
 **Safety in the School (Carline)**
 
 <p align="justify"> 
-1. Cooperate with staff on duty to ensure overall safety and smooth traffic flow. <br> 2. Reduce vehicle speed (max. 15km/hr) and stay alert for pedestrians in the school compound.
-
-3.       Drop off your child at the designated drop‐off point only (see Annex A on Page 4).
-
-4.       Drop off or pick up your child on the side nearest to the kerb as quickly as possible. Do not alight from the car to assist your child as our staff on duty will be able to do so.
-
-5.       Do not wait or park at drop-off points at all times. Wait at the temporary waiting area if your child is not ready (see Annex A). Turn into the foyer again when you see your child. Do not allow your child to cross over to the temporary parking area.
-
-6.       Do not sound the horn indiscriminately.
-
-7.       Upon exiting the school, vehicles are to turn left only (do not make a U‐turn and refrain from turning right).
+1. Cooperate with staff on duty to ensure overall safety and smooth traffic flow. <br> 2. Reduce vehicle speed (max. 15km/hr) and stay alert for pedestrians in the school compound. <br> 3. Drop off your child at the designated drop‐off point only (see Annex A on Page 4). <br> 4. Drop off or pick up your child on the side nearest to the kerb as quickly as possible. Do not alight from the car to assist your child as our staff on duty will be able to do so. <br> 5. Do not wait or park at drop-off points at all times. Wait at the temporary waiting area if your child is not ready (see Annex A). Turn into the foyer again when you see your child. Do not allow your child to cross over to the temporary parking area. <br> 6. Do not sound the horn indiscriminately. <br> 7. Upon exiting the school, vehicles are to turn left only (do not make a U‐turn and refrain from turning right).
 
 8.       Proceed with caution when turning right into the school from Braddell Road.
 
