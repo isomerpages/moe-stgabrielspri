@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Vision, Mission, Motto and Philosophy.md
+      - School Vision, Mission, Motto & Philosophy.md
       - School History, School Crest & School Song.md
       - School Information.md
       - School Staff/.keep
