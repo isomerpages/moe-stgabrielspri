@@ -7,4 +7,5 @@ description: ""
 
 
 <center><strong>Principal's Live Engagement Session with Parents via Webinar</strong></center>
-<center><iframe width="900" height="500" src="https://www.youtube.com/embed/pK5kssmqoLc" title="SGPS e-Open House Webinar 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pK5kssmqoLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
