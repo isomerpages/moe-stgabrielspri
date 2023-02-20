@@ -9,25 +9,9 @@ third_nav_title: School Staff
 
 | CLASS | FORM TEACHER | CO-FORM TEACHER(S) |
 | --- | --- | --- |
-| 1 Self-Discipline | **Mrs Shelena Lim** tan_li_ing_shelena@schools.gov.sg  | **Mrs Kareen Wong**  teoh_kareen@schools.gov.sg
-| | | **Mr Sng Cheng Kiang** sng_cheng_kiang@schools.gov.sg  
-| 1 Generosity  
- | **Mrs Goh Yuniarti**  
-chan\_yuniarti@schools.gov.sg  
- | **Mdm Aisha  
-**noor\_aisha@schools.gov.sg**  
-  
-Mr Ng Chiong Hoe  
-**ng\_chiong\_hoe@schools.gov.sg  
- |
-|   
- 1 Perseverance  
-  
- | **Mdm Rohaya**   
-rohaya\_awie@schools.gov.sg  
- | 
-**Ms Dina Farhana**  
-dina\_farhana\_hashim@schools.gov.sg
+| 1 Self-Discipline | **Mrs Shelena Lim** tan_li_ing_shelena@schools.gov.sg  | **Mrs Kareen Wong** teoh_kareen@schools.gov.sg | **Mr Sng Cheng Kiang** sng_cheng_kiang@schools.gov.sg  
+| 1 Generosity  | **Mrs Goh Yuniarti** chan_yuniarti@schools.gov.sg   | **Mdm Aisha** noor_aisha@schools.gov.sg **Mr Ng Chiong Hoe** ng_chiong_hoe@schools.gov.sg  
+| 1 Perseverance | **Mdm Rohaya** rohaya_awie@schools.gov.sg  | **Ms Dina Farhana** dina_farhana_hashim@schools.gov.sg
 
  |
 |   
