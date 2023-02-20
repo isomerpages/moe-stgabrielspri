@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Physical & Health Education.md
-      - Aesthetics.md
       - InfoComm Technology (ICT).md
+      - Aesthetics.md
       - Programme for Active Learning (PAL).md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Art Club.md
