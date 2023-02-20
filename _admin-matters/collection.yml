@@ -2,7 +2,6 @@ collections:
   admin-matters:
     output: true
     order:
-      - Parent Volunteer Scheme.md
       - School Bus.md
       - School Bookshop.md
       - School Uniform.md
@@ -10,4 +9,5 @@ collections:
       - School Dental Clinic.md
       - MOE Financial Assistance Application Form.md
       - School Wait List Application Form.md
+      - Parent Volunteer Scheme.md
       - Other Information.md
