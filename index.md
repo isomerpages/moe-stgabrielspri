@@ -28,7 +28,7 @@ sections:
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
       alt: Image alt text
-      image: /images/Facebook Image.jpg
+      image: /images/Gabrielite 2025 Banner.jpeg
   - infopic:
       title: School Corporate Video
       button: View Video
