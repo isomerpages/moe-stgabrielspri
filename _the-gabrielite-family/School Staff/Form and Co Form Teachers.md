@@ -16,35 +16,16 @@ third_nav_title: School Staff
 | 1 Perseverance | **Mdm Rohaya** rohaya_awie@schools.gov.sg  | **Ms Dina Farhana** dina_farhana_hashim@schools.gov.sg
 | 1 Sincerity  | **Ms Glenda Ng** glenda_ng@schools.gov.sg | **Mrs Dorin Lee** tan_siew_lay_a@schools.gov.sg 
 |||**Mdm Shofia** shofia_sukma_nasirjaya@schools.gov.sg |
-|    
-1 Loyalty  
-  
- | **Mrs Jessica Hoon**  
-li\_xin\_hui@schools.gov.sg  
- | **Mdm Goh Siew Ping  
-**goh\_siew\_ping@schools.gov.sg  
-**Mrs Isabel Wong**  
-ng\_su\_min\_isabel@schools.gov.sg  
- |
-
-  
-
-**
+| 1 Loyalty | **Mrs Jessica Hoon**  li_xin_hui@schools.gov.sg |**Mdm Goh Siew Ping** goh_siew_ping@schools.gov.sg  
+|||**Mrs Isabel Wong**  ng_su_min_isabel@schools.gov.sg  
 
 **PRIMARY 2**
 -------------
 
-**
-
 | CLASS | FORM TEACHER | CO-FORM TEACHER(S) |
 | --- | --- | --- |
-| 2 Loyalty  
- | **Ms Karen Loo**   
-loo\_xinyi\_karen@schools.gov.sg   
- | **Miss Goh Ruoyi  
-**goh\_ruoyi@schools.gov.sg  
-**Ms Priscilla Yong**  
-priscilla\_yong@schools.gov.sg  
+| 2 Loyalty  | **Ms Karen Loo** loo_xinyi_karen@schools.gov.sg | **Miss Goh Ruoyi** goh_ruoyi@schools.gov.sg  
+||| **Ms Priscilla Yong**  priscilla_yong@schools.gov.sg  
 **Mr Steven Tay**  
 steven\_tay\_choon\_huat@schools.gov.sg  
  |
