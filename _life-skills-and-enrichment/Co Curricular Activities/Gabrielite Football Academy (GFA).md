@@ -4,7 +4,7 @@ permalink: /life-skills-and-enrichment/Co-Curricular-Activities/grabrielite-foot
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
+![](/images/GFA%202023.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -113,9 +113,6 @@ In addition to all these football related activities, our boys are expected to d
 * Meeting the needs of our boys and parents.
 * Using football as a means to achieving all round student development.
 * Developing and enhancing the Gabrielite Spirit and Culture.
-
-<img src="/images/gfa4.jpeg" 
-     style="width:75%">
 		 
 <img src="/images/gfa5.jpeg" 
      style="width:75%">
@@ -123,9 +120,3 @@ In addition to all these football related activities, our boys are expected to d
 <img src="/images/gfa6.jpeg" 
      style="width:75%">
 		 
-<img src="/images/gfa7.jpeg" 
-     style="width:95%">
-
-![](/images/gfa8.png)
-![](/images/gfa9.png)
-![](/images/gfa10.png)
