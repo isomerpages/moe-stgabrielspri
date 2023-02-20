@@ -32,10 +32,7 @@ third_nav_title: School Staff
 ||| **Ms Lytessia Soh** soh_xin_hui_lytessia@schools.gov.sg  
 | 2 Diligence  | **Mrs Sheryl Toh**  siew_sheryl@schools.gov.sg  | **Mdm Sharifah Nurulhuda** sharifah_nurulhuda_taha_a@schools.gov.sg
 ||| **Miss Safila** safila_afreen_basheer_ahamed@schools.gov.sg |
-|  2 Self-Discipline | **Mr Neo Yong Teck** neo_yong_teck@schools.gov.sg | **Ms Chua Suting** chua_suting@schools.gov.sg  
- |
-
-  
+|  2 Self-Discipline | **Mr Neo Yong Teck** neo_yong_teck@schools.gov.sg | **Ms Chua Suting** chua_suting@schools.gov.sg
 
 **PRIMARY 3**
 -------------
