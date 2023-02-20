@@ -4,10 +4,8 @@ permalink: /faq/
 ---
 **1\. What are the operating hours of the General Office?**<br>
 Monday – Thursday : 7.00 a.m. to 5.30 p.m.<br>
-Friday                   : 7.00 a.m. to 5.00 p.m.  <br>
+Friday                    : 7.00 a.m. to 5.00 p.m.  <br>
 Closed on Saturday, Sunday and Public Holidays  
-
-  
 
 **2\. Are student care services available in SGPS?**<br>
 Yes. Morning Star Community Services<br>
