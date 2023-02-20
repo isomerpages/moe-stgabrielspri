@@ -4,11 +4,7 @@ permalink: /the-gabrielite-family/School-Staff/school-executive-committee/
 description: ""
 third_nav_title: School Staff
 ---
-Updating.....
-
-
-
------
+----
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -92,9 +88,9 @@ Updating.....
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> </span>heng_choo_ching@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Subject Head / Science</td>
-    <td class="tg-brl1"> Mdm Sharifah </td>
-    <td class="tg-brl1"> sharifah_nurulhuda_taha_a@schools.gov.sg</td>
+    <td class="tg-brl1">Level Head / Science</td>
+    <td class="tg-brl1"> Ms Jolene Low </td>
+    <td class="tg-brl1"> low_yun_yi_jolene@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Level Head / Mother Tongue Languages (MTL)</td>
