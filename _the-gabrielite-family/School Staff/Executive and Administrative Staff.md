@@ -53,9 +53,9 @@ third_nav_title: School Staff
     <td class="tg-bjk0">mohamed_hafiz_mustafa@schools.gov.sg </td>
   </tr>
 	  <tr>
-    <td class="tg-bjk0">Tay Siew Luang  </td>
-    <td class="tg-bjk0">ICT Associate </td>
-    <td class="tg-bjk0">mohamed_hafiz_mustafa@schools.gov.sg </td>
+    <td class="tg-bjk0">Ms Tay Siew Luang  </td>
+    <td class="tg-bjk0">Admin Executive</td>
+    <td class="tg-bjk0">tay_siew_luang@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-g1uo"><span style="color:#000">Miss Siti Rohaini    </span></td>
