@@ -9,19 +9,13 @@ third_nav_title: School Staff
 
 | CLASS | FORM TEACHER | CO-FORM TEACHER(S) |
 | --- | --- | --- |
-| 1 Self-Discipline | **Mrs Shelena Lim** tan_li_ing_shelena@schools.gov.sg  | **Mrs Kareen Wong** teoh_kareen@schools.gov.sg | **Mr Sng Cheng Kiang** sng_cheng_kiang@schools.gov.sg  
-| 1 Generosity  | **Mrs Goh Yuniarti** chan_yuniarti@schools.gov.sg   | **Mdm Aisha** noor_aisha@schools.gov.sg **Mr Ng Chiong Hoe** ng_chiong_hoe@schools.gov.sg  
+| 1 Self-Discipline | **Mrs Shelena Lim** tan_li_ing_shelena@schools.gov.sg | **Mrs Kareen Wong** teoh_kareen@schools.gov.sg | 
+||| **Mr Sng Cheng Kiang** sng_cheng_kiang@schools.gov.sg  
+| 1 Generosity  | **Mrs Goh Yuniarti** chan_yuniarti@schools.gov.sg | **Mdm Aisha** noor_aisha@schools.gov.sg |
+|||**Mr Ng Chiong Hoe** ng_chiong_hoe@schools.gov.sg  
 | 1 Perseverance | **Mdm Rohaya** rohaya_awie@schools.gov.sg  | **Ms Dina Farhana** dina_farhana_hashim@schools.gov.sg
-
- |
-|   
- 1 Sincerity  
-  
- | **Ms Glenda Ng**   
-glenda\_ng@schools.gov.sg  
- | **Mrs Dorin Lee**   
-tan\_siew\_lay\_a@schools.gov.sg**Mdm Shofia**   
-shofia\_sukma\_nasirjaya@schools.gov.sg |
+| 1 Sincerity  | **Ms Glenda Ng** glenda_ng@schools.gov.sg | **Mrs Dorin Lee** tan_siew_lay_a@schools.gov.sg 
+|||**Mdm Shofia** shofia_sukma_nasirjaya@schools.gov.sg |
 |    
 1 Loyalty  
   
