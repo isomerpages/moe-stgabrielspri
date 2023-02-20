@@ -66,7 +66,7 @@ description: ""
     <label for="accordion5">Clubs and Societies</label>
     <div>
       <ul>
-				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/science-horticulture-math-club/" target="">Science/ Horticulture. Maths Club (SHM)</a></li>
+				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/science-horticulture-math-club/" target="">Science and Maths Club (SMC)</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/media-club/">Media Club</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/robotics/">Robotics Club</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/catholic-club/">Catholic Club</a></li>
@@ -79,7 +79,7 @@ description: ""
     <div>
 			<ul>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/golf/">Golf</a></li>
-				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/badminton/">Badminton</a></li>
+				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/badminton/">Gabrielte Badminton Academy</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/grabrielite-football-academy/">Gabrielite Football Academy</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/wushu/">Wushu</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/basketball/">Basketball</a></li>
@@ -102,7 +102,7 @@ description: ""
     <div>
 			<ul>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/brass-band/">Brass Band</a></li>
-				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/performing-arts/">Performing Arts</a></li>
+				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/performing-arts/">Performing Arts Club</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/art-club/">Art Club</a></li>
 			</ul>
 		</div>
