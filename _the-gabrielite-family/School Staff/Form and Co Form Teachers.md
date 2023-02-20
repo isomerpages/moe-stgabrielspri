@@ -17,7 +17,7 @@ third_nav_title: School Staff
 | 1 Sincerity  | **Ms Glenda Ng** glenda_ng@schools.gov.sg | **Mrs Dorin Lee** tan_siew_lay_a@schools.gov.sg 
 |||**Mdm Shofia** shofia_sukma_nasirjaya@schools.gov.sg |
 | 1 Loyalty | **Mrs Jessica Hoon**  li_xin_hui@schools.gov.sg |**Mdm Goh Siew Ping** goh_siew_ping@schools.gov.sg  
-|||**Mrs Isabel Wong**  ng_su_min_isabel@schools.gov.sg  
+|||**Mrs Isabel Wong**  ng_su_min_isabel@schools.gov.sg|
 
 **PRIMARY 2**
 -------------
@@ -32,7 +32,7 @@ third_nav_title: School Staff
 ||| **Ms Lytessia Soh** soh_xin_hui_lytessia@schools.gov.sg  
 | 2 Diligence  | **Mrs Sheryl Toh**  siew_sheryl@schools.gov.sg  | **Mdm Sharifah Nurulhuda** sharifah_nurulhuda_taha_a@schools.gov.sg
 ||| **Miss Safila** safila_afreen_basheer_ahamed@schools.gov.sg |
-|  2 Self-Discipline | **Mr Neo Yong Teck** neo_yong_teck@schools.gov.sg | **Ms Chua Suting** chua_suting@schools.gov.sg
+|  2 Self-Discipline | **Mr Neo Yong Teck** neo_yong_teck@schools.gov.sg | **Ms Chua Suting** chua_suting@schools.gov.sg |
 
 **PRIMARY 3**
 -------------
@@ -42,29 +42,9 @@ third_nav_title: School Staff
 | 3 Generosity  | **Mdm Cecilia Wong**  ang_lay_ngo@schools.gov.sg  | **Mrs Isabella Tan** isabella_sim@schools.gov.sg  
 | 3 Perseverance  | **Mdm Jean Heng Choo Ching**   heng_choo_ching@schools.gov.sg  |**Ms Shirlee**  moo_pei_san@schools.gov.sg  
 ||| **Ms Maureen** jansen_maureen_anne@schools.gov.sg  
-
-
- |
-|  3 Sincerity  
- | **Ms Low Yun Hui**  
- low\_yun\_hui@schools.gov.sg  
- | 
-
-**Mdm Chitra  
-**chitra\_devi\_kasiviswanathan@schools.gov.sg  
-**Mr Quek Guan Hui  
-**chitra\_devi\_kasiviswanathan@schools.gov.sg  
-
-
- |
-|  3 Loyalty  
- | **Ms Jane Lim  
-**lim\_boey\_huang\_jane@schools.gov.sg  
- | **Mr Hamzah**  
-muhamad\_hamzah\_rohi@schools.gov.sg  
- |
-
-  
+|  3 Sincerity  | **Ms Low Yun Hui** low_yun_hui@schools.gov.sg  | **Mdm Chitra** chitra_devi_kasiviswanathan@schools.gov.sg  
+|||**Mr Quek Guan Hui** quek_guan_hui@schools.gov.sg  
+|  3 Loyalty  | **Ms Jane Lim** lim_boey_huang_jane@schools.gov.sg  | **Mr Hamzah**  muhamad_hamzah_rohi@schools.gov.sg |
 
 **PRIMARY 4**
 -------------
