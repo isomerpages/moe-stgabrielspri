@@ -2,6 +2,7 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - School Safety and Security.md
       - Principal's Message.md
       - School Vision, Mission, Motto and Philosophy.md
       - School History.md
