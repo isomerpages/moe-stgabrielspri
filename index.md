@@ -25,7 +25,7 @@ sections:
       title: Announcement
   - infopic:
       title: Facebook
-      button: Feed
+      button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
       alt: Image alt text
       image: /images/Facebook Image.jpg
