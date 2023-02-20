@@ -2,7 +2,6 @@ collections:
   the-gabrielite-family:
     output: true
     order:
-      - Student Outcomes.md
       - Principal's Message.md
       - School Vision, Mission, Motto & Philosophy.md
       - School History, School Crest & School Song.md
@@ -13,6 +12,7 @@ collections:
       - School Staff/Mother Tongue Language Teachers.md
       - School Staff/Allied Educators.md
       - School Staff/Executive and Administrative Staff.md
+      - Student Outcomes.md
       - Student Achievements/.keep
       - Student Achievements/2021.md
       - Student Achievements/2020.md
