@@ -4,10 +4,6 @@ permalink: /the-gabrielite-family/School-Staff/mother-tongue-language-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-Updating......
-
---------
-
 ### CHINESE LANGUAGE
 
 <style type="text/css">
@@ -50,10 +46,6 @@ Updating......
     <td class="tg-bjk0">goh_ruoyi@schools.gov.sg     </td>
   </tr>
   <tr>
-    <td class="tg-bjk0">Mdm Jacqueline Lai</td>
-    <td class="tg-bjk0">lai_huijun_jacqueline@schools.gov.sg     </td>
-  </tr>
-  <tr>
     <td class="tg-bjk0">Mr Lim Tong Hai</td>
     <td class="tg-bjk0">lim_tong_hai@schools.gov.sg     </td>
   </tr>
@@ -80,6 +72,14 @@ Updating......
   <tr>
     <td class="tg-bjk0">Mdm Teo Hwee Joo </td>
     <td class="tg-bjk0">teo_hwee_joo@schools.gov.sg </td>
+  </tr>
+	  <tr>
+    <td class="tg-bjk0">Ms Ren Ting  </td>
+    <td class="tg-bjk0">ren_ting@schools.gov.sg  </td>
+  </tr>
+	  <tr>
+    <td class="tg-bjk0">Ms Shirlee Moo Pei San  </td>
+    <td class="tg-bjk0">moo_pei_san@schools.gov.sg  </td>
   </tr>
 </tbody>
 </table>
