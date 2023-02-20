@@ -2,27 +2,19 @@
 title: FAQ
 permalink: /faq/
 ---
-**1\. What are the operating hours of the General Office?**
-
-Monday – Thursday : 7.00 a.m. to 5.30 p.m.
-
-Friday                   : 7.00 a.m. to 5.00 p.m.  
-
+**1\. What are the operating hours of the General Office?**<br>
+Monday – Thursday : 7.00 a.m. to 5.30 p.m.<br>
+Friday                   : 7.00 a.m. to 5.00 p.m.  <br>
 Closed on Saturday, Sunday and Public Holidays  
 
   
 
-**2\. Are student care services available in SGPS?**
-
-Yes. Morning Star Community Services
-
-Address:  4 Lorong Low Koon, Singapore 536450
-
-Contact Number 1:  6284 9524 (St Gabriel’s Primary School)    
-
-Contact Number  2:  6285 1377 (Head Office)  
-
-Fax Number:  6285 2702 
+**2\. Are student care services available in SGPS?**<br>
+Yes. Morning Star Community Services<br>
+**Address:** 25 Lorong 33 Geylang, #04-01 Putian Building, S 387985<br>
+**Contact Number 1:** 6285 1377 ext 132 (St Gabriel’s Primary School) <br>
+**Contact Number  2:** 6285 1377 (Head Office)
+<br>
 <br>
 <br>
 
