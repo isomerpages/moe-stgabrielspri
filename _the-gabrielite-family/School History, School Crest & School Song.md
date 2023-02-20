@@ -3,7 +3,6 @@ title: School History, School Crest & School Song
 permalink: /the-gabrielite-family/school-profile/
 description: ""
 ---
-
 **School Profile**
 
 St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. St Gabriel's School opened its doors on 3 June 1953 to its first intake of 212 pupils who attended classes ranging from Primary One to Standard Two under the supervision of Rev Bro Louis Gonzaga and seven pioneer teachers. The school was then located at the junction of Hillside Drive and Upper Serangoon Road.
@@ -18,29 +17,16 @@ The school is streamlining all its programme to achieve the school mission and v
 
 **School History**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 785px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 385px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-x5q1"><span style="font-weight:400;font-style:normal">   St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. It was originally part of St Gabriel's School that was established by the Gabrielite Brothers to cater to the educational needs of the fast-growing population in Paya Lebar and Upper Serangoon.</span><br><br><span style="font-weight:400;font-style:normal">    </span>St Gabriel's School opened its doors on 3 June 1953 to its first intake of 212 pupils who attended classes ranging from Primary One to Standard Two under the supervision of Rev Bro Louis Gonzaga and seven pioneer teachers. The school was then located at the junction of Hillside Drive and Upper Serangoon Road. It was officially declared open on 13 December 1953 by the then Bishop of the Diocese of Singapore and Malacca, Mgr Michael Olcomendy.</td>
+St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. It was originally part of St Gabriel's School that was established by the Gabrielite Brothers to cater to the educational needs of the fast-growing population in Paya Lebar and Upper Serangoon.
+
+St Gabriel's School opened its doors on 3 June 1953 to its first intake of 212 pupils who attended classes ranging from Primary One to Standard Two under the supervision of Rev Bro Louis Gonzaga and seven pioneer teachers. The school was then located at the junction of Hillside Drive and Upper Serangoon Road. It was officially declared open on 13 December 1953 by the then Bishop of the Diocese of Singapore and Malacca, Mgr Michael Olcomendy.
     <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
           <img src="/images/History%203.jpeg" 
 							 style="width:100%"></a><em>Click on the image below to read more.</em><br>(FILE SIZE EXCEEDS 5MB)</td>
   </tr>
   <tr>
-    <td class="tg-x5q1" colspan="2"><span style="font-weight:bold">    </span>When the enrolment of the school rose to over two thousand pupils in the 1960s, it became necessary to provide more space and facilities for the pupils. A project to build a separate primary school was launched.<br><br>    On 2 January 1969, the whole of the primary section of St Gabriel's School comprising 31 classes with an enrolment of 1350 pupils moved into the new building at the junction of Highland Road and Yio Chu Kang Road. The first Principal of the primary school was Mr Paul Lee Poh Soon.<br><br>    The primary school was blessed by Archbishop Michael Olcomendy and officially declared open by the Hon Parliamentary Secretary, Ministry of Labour and Member of Parliament for Upper Serangoon, Mr Sia Kah Hui on 12 July 1969.<br><br>    On 2 January 1988, the 31 classes of 1350 pupils of the school moved to its present premises in Lorong Chuan. The official opening celebration of the school was held on 29 September 1989. The school was blessed by the Archbishop of Singapore, Rt Rev Gregory Yong, and declared open by Dr Lee Boon Yang, Senior Minister of State, Ministry of National Development and Home Affairs.<br><br>    The next wave of development saw the young Gabrielites returning to their home ground after the completion of PRIME on 17th November 2005. Despite the heavy downpour, spirits were not dampened as Gabrielites from the different eras turned up to mark the joyous celebration. It was indeed heart-warming as the whole school cheered their lungs out when the school flag was once again brought into the hall by the walk leader and handed over to our Principal, Miss Antonia Teng who in turn passed it to the Head Prefect to symbolise the return of the Gabrielites. When the school song was played, it was an emotional affair for many as the boys were singing with so much gusto. There was simply so much pride in the air. It was indeed a homecoming ceremony befitting the importance of the event. The boys cheered even more loudly when Bro. Emmanuel (Supervisor), Bro. Gasper (Titular Superior), Mr. Henry Phang (Chairman, SMC) and Mr Yeo Ann Tai (Vice-Chairman, SMC) went on stage for the ribbon-cutting ceremony. The day ended with a mass in the hall for the Catholics while the rest of the school proceeded to explore the new home of the young Gabrielites.<br><br>    For more information of the school’s history, please visit the school’s Heritage Gallery.</td>
+   
+When the enrolment of the school rose to over two thousand pupils in the 1960s, it became necessary to provide more space and facilities for the pupils. A project to build a separate primary school was launched.<br><br>    On 2 January 1969, the whole of the primary section of St Gabriel's School comprising 31 classes with an enrolment of 1350 pupils moved into the new building at the junction of Highland Road and Yio Chu Kang Road. The first Principal of the primary school was Mr Paul Lee Poh Soon.<br><br>    The primary school was blessed by Archbishop Michael Olcomendy and officially declared open by the Hon Parliamentary Secretary, Ministry of Labour and Member of Parliament for Upper Serangoon, Mr Sia Kah Hui on 12 July 1969.<br><br>    On 2 January 1988, the 31 classes of 1350 pupils of the school moved to its present premises in Lorong Chuan. The official opening celebration of the school was held on 29 September 1989. The school was blessed by the Archbishop of Singapore, Rt Rev Gregory Yong, and declared open by Dr Lee Boon Yang, Senior Minister of State, Ministry of National Development and Home Affairs.<br><br>    The next wave of development saw the young Gabrielites returning to their home ground after the completion of PRIME on 17th November 2005. Despite the heavy downpour, spirits were not dampened as Gabrielites from the different eras turned up to mark the joyous celebration. It was indeed heart-warming as the whole school cheered their lungs out when the school flag was once again brought into the hall by the walk leader and handed over to our Principal, Miss Antonia Teng who in turn passed it to the Head Prefect to symbolise the return of the Gabrielites. When the school song was played, it was an emotional affair for many as the boys were singing with so much gusto. There was simply so much pride in the air. It was indeed a homecoming ceremony befitting the importance of the event. The boys cheered even more loudly when Bro. Emmanuel (Supervisor), Bro. Gasper (Titular Superior), Mr. Henry Phang (Chairman, SMC) and Mr Yeo Ann Tai (Vice-Chairman, SMC) went on stage for the ribbon-cutting ceremony. The day ended with a mass in the hall for the Catholics while the rest of the school proceeded to explore the new home of the young Gabrielites.<br><br>    For more information of the school’s history, please visit the school’s Heritage Gallery.</td>
   </tr>
 </tbody>
 </table>
@@ -64,23 +50,22 @@ The Crest is adorned with green olive branches, which is derived from Ancient Gr
 
 **School Song**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 600px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 200px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-x5q1"><span style="font-weight:400;font-style:normal">St Gabriel's boys, here on this day unite</span><br><span style="font-weight:400;font-style:normal">With one true heart let us all sing and cheer</span><br><span style="font-weight:400;font-style:normal">The stately home where our boyhood is guided</span><br><span style="font-weight:400;font-style:normal">Learning to live and through right paths to steer</span><br><span style="font-weight:400;font-style:normal">In cheering blue and spotless white apparel</span><br><span style="font-weight:400;font-style:normal">A cheerful band, St Gabriel's boys unite! </span><br><span style="font-weight:400;font-style:normal">All white and blue, all bent to reap the laurel</span><br><span style="font-weight:400;font-style:normal">Hold and defend Alma Mater's Glory with heart and might</span><br><br>Chorus:<br><br><span style="font-weight:400;font-style:normal">Saint Gabriel's School dear </span><br><span style="font-weight:400;font-style:normal">Here willing hearts behold </span><br><span style="font-weight:400;font-style:normal">When duty's call rings clear</span><br><span style="font-weight:400;font-style:normal">Mid sorrows as through joys</span><br><span style="font-weight:400;font-style:normal">For Singapore and God </span><br><span style="font-weight:400;font-style:normal">For Justice to uphold </span><br><span style="font-weight:400;font-style:normal">Let us live and thus prove</span><br><span style="font-weight:400;font-style:normal">Saint Gabriel's boys.</span></td>
+St Gabriel's boys, here on this day unite <br> 
+With one true heart let us all sing and cheer <br>
+The stately home where our boyhood is guided<br>
+Learning to live and through right paths to steer<br>
+In cheering blue and spotless white apparel <br>
+A cheerful band, St Gabriel's boys unite! <br>
+All white and blue, all bent to reap the laurel <br>
+Hold and defend Alma Mater's Glory with heart and might<br><br>Chorus:<br><br>
+Saint Gabriel's School dear <br>
+Here willing hearts behold <br>
+When duty's call rings clear <br>
+Mid sorrows as through joys <br>
+For Singapore and God <br>
+For Justice to uphold <br>
+Let us live and thus prove <br>
+Saint Gabriel's boys.
     <td class="tg-nrix"><img src="/images/musictreble.gif" 
      style="width:45%"></td>
   </tr>
