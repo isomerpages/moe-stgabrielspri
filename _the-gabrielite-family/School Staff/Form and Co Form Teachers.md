@@ -36,34 +36,12 @@ third_nav_title: School Staff
 
 **PRIMARY 3**
 -------------
-
-  
-
 | CLASS | FORM TEACHER | CO-FORM TEACHER(S) |
 | --- | --- | --- |
-| 3 Self-Discipline  
- | **Ms** **Nur Halimah  
-**nur\_halimah\_mohamed\_ramlee@schools.gov.sg  
- | **Mr Sean De Zilva  
-**sean\_de\_zilva@schools.gov.sg  
-**Mdm Teo Hwee Joo**  
-teo\_hwee\_joo@schools.gov.sg  
- |
-| 3 Generosity  
- | **Mdm Cecilia Wong**  
- ang\_lay\_ngo@schools.gov.sg  
- | **Mrs Isabella Tan  
-**isabella\_sim@schools.gov.sg  
- |
-| 3 Perseverance  
- | **Mdm Jean Heng Choo Ching**   
-heng\_choo\_ching@schools.gov.sg  
- | 
-**Ms Shirlee**  
-moo\_pei\_san@schools.gov.sg  
-
-**Ms Maureen**  
-jansen\_maureen\_anne@schools.gov.sg  
+| 3 Self-Discipline | **Ms Nur Halimah** nur_halimah_mohamed_ramlee@schools.gov.sg  | **Mr Sean De Zilva** sean_de_zilva@schools.gov.sg  
+| 3 Generosity  | **Mdm Cecilia Wong**  ang_lay_ngo@schools.gov.sg  | **Mrs Isabella Tan** isabella_sim@schools.gov.sg  
+| 3 Perseverance  | **Mdm Jean Heng Choo Ching**   heng_choo_ching@schools.gov.sg  |**Ms Shirlee**  moo_pei_san@schools.gov.sg  
+||| **Ms Maureen** jansen_maureen_anne@schools.gov.sg  
 
 
  |
