@@ -3,7 +3,6 @@ title: School Bookshop
 permalink: /admin-matters/school-bookshop/
 description: ""
 ---
-
 **PACIFIC BOOKSTORES PTE LTD**
 
 **Contact Number:**  64640111 (Main Office) / 64877260 (School Bookstore) 
@@ -17,7 +16,7 @@ description: ""
 
 **Email:** sales@pacificbookstores.com 
 
-**Remarks:** | Online purchase available
+**Remarks:**  Online purchase available
 
 **Booklists (2023):**
 
