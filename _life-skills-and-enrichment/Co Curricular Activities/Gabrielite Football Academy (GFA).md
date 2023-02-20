@@ -120,11 +120,11 @@ In addition to all these football related activities, our boys are expected to d
 		 
 <br><img src="/images/GFA%20photo1.jpg">
 Half-Time Talk for Our Senior Team During South Zone Football Championships in 2023
- <br><img src="/images/GFA%20photo2.jpg">
+ <br><br><img src="/images/GFA%20photo2.jpg">
 P3 Boys Training on Our Field		 	
  <br><img src="/images/gfa%20photo3.jpg">
  Leadership Development - P5 Boys Planning and Running the Lower Primary Football Leagues in Our School
- <br><img src="/images/gfa%20photo4.jpg">
+ <br><br><img src="/images/gfa%20photo4.jpg">
  Combined Senior and Junior School Team Training in 2022
-  <br><img src="/images/gfa%20photo5.jpg">
+  <br><br><img src="/images/gfa%20photo5.jpg">
 	Our South Zone Senior Division Championship Team in 2022
