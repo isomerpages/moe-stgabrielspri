@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7qht"> CCAs</td>
-    <td class="tg-ge7m"><span style="font-weight:bold">Sports and Games</span><br>Sports Club<br>Badminton<br>Gabrielite Football Academy<br>Golf<br>Wushu<br>Basketball<br>Athletics <br>   <br><span style="font-weight:bold">Clubs and society</span><br>Science, Horticulture and Math (SHM) Club<br>Media Club<br>Robotics Club<br>Art Club<br>Catholic Club<br><br><span style="font-weight:bold">Performing Arts</span><br>Brass Band<br>Performing Arts<br><br><span style="font-weight:bold">Uniformed Group</span><br>Scouts<span style="color:#222"> </span></td>
+    <td class="tg-ge7m">Gabrielite Badminton Academy (GBA)<br>Gabrielite Football Academy (GFA)<br>Golf<br>Wushu<br>Basketball<br>Athletics <br>   <br><span style="font-weight:bold">Clubs and society</span><br>Science and Maths Club (SMC)<br>Media Club<br>Robotics Club<br>Art Club<br>Catholic Club<br><br><span style="font-weight:bold">Performing Arts</span><br>Brass Band<br>Performing Arts Club<br><br><span style="font-weight:bold">Uniformed Group</span><br>Scouts<span style="color:#222"> </span></td>
   </tr>
   <tr>
     <td class="tg-7qht">Our Catholic Ethos </td>
