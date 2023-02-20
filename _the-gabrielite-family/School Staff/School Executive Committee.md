@@ -117,6 +117,11 @@ third_nav_title: School Staff
     <td class="tg-brl1"> Mr Xie Zhengyang</td>
     <td class="tg-brl1"> xie_zhengyang@schools.gov.sg</td>
   </tr>
+	<tr>
+    <td class="tg-brl1">Subject Head / Student Wellbeing (Internal)</td>
+    <td class="tg-brl1"> Ms Karen Loo </td>
+    <td class="tg-brl1"> loo_xinyi_karen@schools.gov.sg</td>
+  </tr>
   <tr>
     <td class="tg-brl1">HOD / Aesthetics &amp; Applied Learning Programme (ALP)</td>
     <td class="tg-brl1"> Mrs Catherine Low</td>
@@ -143,17 +148,17 @@ third_nav_title: School Staff
     <td class="tg-brl1"> sean_de_zilva@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Assistant Year Head (P1 - P2) <br></td>
+    <td class="tg-brl1">Year Head (P1 - P2) <br></td>
     <td class="tg-brl1"> Mrs Dorin Lee<br></td>
     <td class="tg-brl1"> tan_siew_lay_a@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="color:#000">Assistant Year Head (P3 - P4)</span><br></td>
+    <td class="tg-brl1">Year Head (P3 - P4)<br></td>
     <td class="tg-brl1"> Mdm Christine Lee</td>
     <td class="tg-brl1"> lee_xiu_en_christine@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="color:#000">Assistant Year Head (P5 - P6)</span><br></td>
+    <td class="tg-brl1">Year Head (P5 - P6)<br></td>
     <td class="tg-brl1"> Mr Andy Kong</td>
     <td class="tg-brl1"> kong_jia_wei@schools.gov.sg</td>
   </tr>
