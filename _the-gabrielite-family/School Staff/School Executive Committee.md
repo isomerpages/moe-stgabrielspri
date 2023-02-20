@@ -93,14 +93,14 @@ third_nav_title: School Staff
     <td class="tg-brl1"> low_yun_yi_jolene@schools.gov.sg</td>
   </tr>
   <tr>
+    <td class="tg-brl1">HOD / Mother Tongue Languages (MTL) & School Library (Internal)</td>
+    <td class="tg-brl1"> Ms Wan Chui Ting</td>
+    <td class="tg-brl1"> wan_chui_ting@schools.gov.sg</td>
+  </tr>
+  <tr>
     <td class="tg-brl1">Level Head / Mother Tongue Languages (MTL)</td>
     <td class="tg-brl1"> Ms Palaniammal</td>
     <td class="tg-brl1"> palaniammal_murugiah@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">Level Head / Chinese Language &amp; School Library</td>
-    <td class="tg-brl1"> Ms Wan Chui Ting</td>
-    <td class="tg-brl1"> wan_chui_ting@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">HOD / Discipline, Safety &amp; Partnerships</td>
