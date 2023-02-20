@@ -2,6 +2,7 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - Student Outcomes.md
       - Principal's Message.md
       - School Vision, Mission, Motto & Philosophy.md
       - School History, School Crest & School Song.md
