@@ -5,9 +5,11 @@ description: ""
 ---
 **Parent Notification**
 
-January
+[January](/files/Parent%20Notification_Jan%202023%20(Final).pdf)
 
-February
+[February](/files/Parent%20Notification_Feb%202023%20(Final).pdf)
+
+<br>
 
 **Assessment Plans**  
 
