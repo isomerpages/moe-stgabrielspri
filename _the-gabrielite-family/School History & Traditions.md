@@ -3,7 +3,6 @@ title: School History & Traditions
 permalink: /the-gabrielite-family/school-profile/
 description: ""
 ---
-
 **School Profile**
 
 <p align="justify"> St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. St Gabriel's School opened its doors on 3 June 1953 to its first intake of 212 pupils who attended classes ranging from Primary One to Standard Two under the supervision of Rev Bro Louis Gonzaga and seven pioneer teachers. The school was then located at the junction of Hillside Drive and Upper Serangoon Road.
@@ -16,6 +15,7 @@ description: ""
 
 <p align="justify"> The school is streamlining all its programme to achieve the school mission and vision. The school management team is continually refining the school's strategic plan to ensure that all programmes are aligned to the school and the Ministry's objectives.
 
+	
 **School History**
 
 St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. It was originally part of St Gabriel's School that was established by the Gabrielite Brothers to cater to the educational needs of the fast-growing population in Paya Lebar and Upper Serangoon.
