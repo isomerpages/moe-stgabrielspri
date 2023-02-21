@@ -3,6 +3,8 @@ title: Get to know our programmes
 permalink: /e-open-house/get-to-know-our-programmes/
 description: ""
 ---
+**Student Programmes**
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
