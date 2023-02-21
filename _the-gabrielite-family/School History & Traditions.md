@@ -25,7 +25,6 @@ St Gabriel's Primary is a government-aided Catholic school run by the Brothers o
 	<td class="tg-0lax"><a href = "linkhere" target = "_self"> 
           <img src="/images/History%203.jpeg" 
 							 style="width:100%"></a><em></em><br></td>
-  </tr>
    
 <p align="justify"> When the enrolment of the school rose to over two thousand pupils in the 1960s, it became necessary to provide more space and facilities for the pupils. A project to build a separate primary school was launched.<br><br>    On 2 January 1969, the whole of the primary section of St Gabriel's School comprising 31 classes with an enrolment of 1350 pupils moved into the new building at the junction of Highland Road and Yio Chu Kang Road. The first Principal of the primary school was Mr Paul Lee Poh Soon.<br><br>    The primary school was blessed by Archbishop Michael Olcomendy and officially declared open by the Hon Parliamentary Secretary, Ministry of Labour and Member of Parliament for Upper Serangoon, Mr Sia Kah Hui on 12 July 1969.
 	
