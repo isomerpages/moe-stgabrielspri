@@ -24,13 +24,10 @@ SGPS may collect Personal Data as follows: <br>
 <br>(c) Through the interaction with SGPS staff for official purposes;
 <br>(d) When responding to a request for additional Personal Data; 
 <br>(e) When Personal Data is submitted to the school for any other reason.
-<br>
 
 **3. Purposes for the Collection, Use and Disclosure of Personal Data** <br>
 
-SGPS may collect, use and/or disclose Personal Data as follows:
-
-(a) Evaluative purposes;   
+SGPS may collect, use and/or disclose Personal Data as follows: <br> (a) Evaluative purposes;   
 (b) Educational and student care purposes;    
 (c) Administration purposes;    
 (d) Publicity and communication purposes;   
