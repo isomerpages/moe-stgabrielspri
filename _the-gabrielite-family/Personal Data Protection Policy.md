@@ -59,8 +59,9 @@ SGPS will take reasonable effort to ensure that your personal data is accurate a
 SGPS will also put in place reasonable security arrangements to ensure that your personal data is adequately protected and secured. Appropriate security arrangements will be taken to prevent any unauthorised access, collection, use, disclosure, copying, modification, leakage, loss, damage and/or alteration of your personal data. However, SGPS cannot assume responsibility for any unauthorised use of your personal data by third parties which are wholly attributable to factors beyond SGPS’s control.
 <p align="justify">
 SGPS retain personal data in accordance with legal, regulatory, business and operational obligations. When SGPS cease retention, the personal data will be disposed of in an appropriate manner.  
-
-**6\. Withdrawal of Consent**
+<br>
+	
+**6. Withdrawal of Consent**
 <p align="justify">
 Withdrawal of consent for the collection, use and/or disclosure of personal data in SGPS’s possession can be made in person at the SGPS office, by telephone or by email to <u>stgps@moe.edu.sg</u>.
 <p align="justify">
