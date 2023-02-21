@@ -3,10 +3,6 @@ title: Get to know SGPS
 permalink: /e-open-house/get-to-know-sgps/
 description: ""
 ---
-Our Vision - <br> A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.  
-Our Mission - <br>Shaping Lives for Service to God and Nation.  
-Our Motto - <br>The Latin motto "Labor Omnia Vincit" stands for "Labour conquers all things."  
-
 <p align="justify">
 Our School's Corporate Video showcases the student as the centre of focus for his well-being and development here in St. Gabriel's Primary School. We would also like to highlight our Gabrielite 2025 Outcomes - a Leader, a Sportsman and an Achiever towards realising our school's Vision, Mission and Motto.
 
