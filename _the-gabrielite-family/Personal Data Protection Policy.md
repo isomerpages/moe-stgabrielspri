@@ -64,13 +64,16 @@ SGPS retain personal data in accordance with legal, regulatory, business and ope
 **6. Withdrawal of Consent**
 <p align="justify">
 Withdrawal of consent for the collection, use and/or disclosure of personal data in SGPS’s possession can be made in person at the SGPS office, by telephone or by email to <u>stgps@moe.edu.sg</u>.
+	
 <p align="justify">
 From such a request for withdrawal of consent being made, SGPS will process the request and thereafter not collect, use and/or disclose your personal data in the manner stated in your request. Please note that with the withdrawal of consent to any or all use or disclosure of personal data, depending on the nature of the request, SGPS may not be in a position to continue to provide the services or administer any contractual relationship that is in place. Such withdrawal may also result in the termination of any agreement with SGPS. SGPS’s legal rights and remedies are expressly reserved in such a case.
-
-**7\. Access and Correction of Personal Data** 
+<br>
+	
+**7. Access and Correction of Personal Data** 
 <p align="justify">
-Request can be made to have access to or make corrections to Personal Data records, but SGPS has the right to charge a reasonable fee for processing such a request.  Such request can be submitted in person at the SGPS office, by telephone or by email at stgps@moe.edu.sg. 
-
-**8\. Contacting SGPS**
+Request can be made to have access to or make corrections to Personal Data records, but SGPS has the right to charge a reasonable fee for processing such a request.  Such request can be submitted in person at the SGPS office, by telephone or by email at <u>stgps@moe.edu.sg</u>. 
+<br>
+	
+**8. Contacting SGPS**
 <p align="justify">
-For any question or complaint relating to the use or disclosure of Personal Data, or if more information about SGPS data protection practices is needed, please contact us at stgps@moe.edu.sg.
+For any question or complaint relating to the use or disclosure of Personal Data, or if more information about SGPS data protection practices is needed, please contact us at <u>stgps@moe.edu.sg</u>.
