@@ -11,4 +11,4 @@ Our School's Corporate Video showcases the student as the centre of focus for hi
 <p align="justify">
 Our doors are still open ... online! Click on the video to view our vibrant school campus from the comfort of your home!
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UAuxd8_oqw0" title="Virtual Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+[Virtual Tour](https://www.youtube.com/embed/UAuxd8_oqw0)
