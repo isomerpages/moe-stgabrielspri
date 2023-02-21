@@ -20,7 +20,6 @@ Shaping Lives for Service to God and Nation.
 <img src="/images/motto.gif" 
      style="width:65%">
 
-
 <p align="justify"> 
 The Latin motto "Labor Omnia Vincit" stands for
 <b>Labour conquers all things.</b> Hard work embodied in diligence and perseverance leads one to achieve greater things in life. <b>It can thus be said that in whatever you do, do your best.</b>
