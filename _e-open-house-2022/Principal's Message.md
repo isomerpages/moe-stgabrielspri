@@ -13,35 +13,3 @@ In St. Gabriel’s Primary School, our Primary 1 to Primary 5 Gabrielites embark
   
 
 Gabrielites learn through constructivism, this allows them to build knowledge through exploration, construction, experience, and meaningful conversation. These provide Gabrielites with experiences which build on their interest and stimulate their curiosity about the world.
-
-<center>Click on the image below to read more.</center>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 450px">
-<colgroup>
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/eo221.jpg" 
-     style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/eo222.jpg" 
-     style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/eo223.jpeg" 
-     style="width:100%"></a></td>
-  </tr>
-</tbody>
-</table>
-
-(FILE SIZES LARGER THAN 5MB)
