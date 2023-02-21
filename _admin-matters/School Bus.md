@@ -25,6 +25,7 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 <br>
 	
 ![Tong Tar 2023 Bus Fare.PNG](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2022/Tong%20Tar%202023%20Bus%20Fare.PNG)  
+	
 <br>	
 	
 <p align="justify">
