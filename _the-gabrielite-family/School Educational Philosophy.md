@@ -3,22 +3,20 @@ title: School Educational Philosophy
 permalink: /the-gabrielite-family/school-vision-and-mission/
 description: ""
 ---
-**Our Vision** 
-
+**Our Vision** <br>
 A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.  
   
-**Our Mission**  
-
+**Our Mission**  <br>
 Shaping Lives for Service to God and Nation.  
   
-**Our Strategic Plan**
-
+**Our Strategic Plan** <br>
 ![](/images/Gabrielite%202025.jpeg)
 
-**School Motto**
-
+**School Motto** <br>
 <img src="/images/motto.gif" 
      style="width:65%">
+
+<br>
 
 <p align="justify"> 
 The Latin motto "Labor Omnia Vincit" stands for
