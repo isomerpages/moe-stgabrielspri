@@ -48,5 +48,3 @@ For Singapore and God <br>
 For Justice to uphold <br>
 Let us live and thus prove <br>
 Saint Gabriel's boys.
-    <td class="tg-nrix"><img src="/images/musictreble.gif" 
-     style="width:20%"></td>
