@@ -21,9 +21,10 @@ description: ""
 St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. It was originally part of St Gabriel's School that was established by the Gabrielite Brothers to cater to the educational needs of the fast-growing population in Paya Lebar and Upper Serangoon.
 
 <p align="justify"> St Gabriel's School opened its doors on 3 June 1953 to its first intake of 212 pupils who attended classes ranging from Primary One to Standard Two under the supervision of Rev Bro Louis Gonzaga and seven pioneer teachers. The school was then located at the junction of Hillside Drive and Upper Serangoon Road. It was officially declared open on 13 December 1953 by the then Bishop of the Diocese of Singapore and Malacca, Mgr Michael Olcomendy.
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+ <br><br>   Click on the image below to read more.
+	<td class="tg-0lax"><a href = "linkhere" target = "_self"> 
           <img src="/images/History%203.jpeg" 
-							 style="width:100%"></a><em>Click on the image below to read more.</em><br>(FILE SIZE EXCEEDS 5MB)</td>
+							 style="width:100%"></a><em></em><br></td>
   </tr>
   <tr>
    
