@@ -33,7 +33,7 @@ St Gabriel's Primary is a government-aided Catholic school run by the Brothers o
 ![](/images/Completed%20Heritage%20Gallery.jpeg)
 	<br>
 	
-**School Crest**
+**School Crest** <br>
 
 <img src="/images/BOSTCrest-trans-colour.gif" 
      style="width:65%">
