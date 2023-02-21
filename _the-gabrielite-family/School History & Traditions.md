@@ -49,7 +49,7 @@ St Gabriel's Primary is a government-aided Catholic school run by the Brothers o
 <p align="justify"> The Crest is adorned with green olive branches, which is derived from Ancient Greece, to symbolize peace and prosperity. It is thus the duty of each one to promote peace in the world, a peace that will last. Coupled with peace is that of prosperity which connotes not only the generation of wealth but also the integral development of human society. The Crest carries the Latin motto "Labor Omnia Vincit" which stands for "Labour conquers all things". Hard work embodied in diligence and perseverance leads one to achieve greater things in life. It can thus be said that in whatever you do, do your best.
 <br>
 	
-**School Song**
+**School Song** <br>
 
 St Gabriel's boys, here on this day unite <br> 
 With one true heart let us all sing and cheer <br>
