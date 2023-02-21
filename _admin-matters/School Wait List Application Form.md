@@ -4,9 +4,8 @@ permalink: /admin-matters/permalink/
 description: ""
 ---
 Thank you for your interest in enrolling your child/ward in St. Gabriel’s Primary School.
-
-1.      Please complete the online [Wait List Application Form](https://go.gov.sg/sgps-waitlist).  
-
+<br>
+1.      Please complete the online [Wait List Application Form](https://go.gov.sg/sgps-waitlist).  <br>
 2.     Your application is valid for a year from the date of submission. Successful applicants will be contacted via the email address / contact number indicated in the form. 
-
+<br>
 3.     Please be informed that International student cannot be placed on wait list. Do approach MOE Customer Service for more information.
