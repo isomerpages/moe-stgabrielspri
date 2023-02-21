@@ -19,8 +19,7 @@ description: ""
 	
 **Safety in the vicinity of the School (Carline) – Advisory from LTA**
 <p align="justify">
-1.  Before dismissal, please refrain from queuing along the stretch after the signalised junction at Serangoon Avenue 3 and Lorong Chuan before the school gate opens at 1.40pm (Mondays to Thursdays) and 1.10pm (Fridays). The leftmost lane is marked with a continuous white zig-zag line before the zebra crossing. Vehicles are not allowed to park, wait or stop along the continuous white zig-zag line at all times.  This would help prevent obstruction to left-turning vehicles and delay public bus operations. 
-	</p>
+1.  Before dismissal, please refrain from queuing along the stretch after the signalised junction at Serangoon Avenue 3 and Lorong Chuan before the school gate opens at 1.40pm (Mondays to Thursdays) and 1.10pm (Fridays). The leftmost lane is marked with a continuous white zig-zag line before the zebra crossing. Vehicles are not allowed to park, wait or stop along the continuous white zig-zag line at all times.  This would help prevent obstruction to left-turning vehicles and delay public bus operations. </p>
 
 Please exercise care and consideration by not waiting at these critical areas: 
 <br>
