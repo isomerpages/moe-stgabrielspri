@@ -11,7 +11,7 @@ The Parent Support Group is a great opportunity to foster a closer bond with our
 As a member of the PSG@SGPS, we strive to promote the spirit of community within the SGPS family. Not only does it allow you to have greater awareness of how the school is run but it also helps identify more with your child in their schooling experience. 
 
 	
-If you are keen to join us, please submit the completed [registration form](/files/PSG%20Reg%20Form_Revised.pdf) and email to  [sgps.psg@gmail.com](mailto:sgps.psg@gmail.com).
+If you are keen to join us, please submit the completed [registration form](/files/PSG%20Reg%20Form_Revised.pdf) and email to  [sgps.psg@gmail.com](mailto:sgps.psg@gmail.com).</p>
 
 
 Thank you. 
