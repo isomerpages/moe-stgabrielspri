@@ -10,7 +10,7 @@ This Data Protection Policy outlines the management of Personal Data in accordan
 This policy seeks the understanding for the purposes for which SGPS collects, uses and/or discloses Personal Data. This policy states the agreement and consent given to SGPS as well as authorised service providers and relevant third parties collecting, using, disclosing and/or sharing Personal Data as stated in this Data Protection Policy. </p>
 
 <p align="justify">
-SGPS may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements. If any change is made, it will be published at the school’s website <u>https://www.stgabrielspri.moe.edu.sg</u>.  </p>
+SGPS may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements. If any change is made, it will be published at the school’s website  <u>https://www.stgabrielspri.moe.edu.sg</u>. </p>
 
 **1. Personal Data**
 <p align="justify">
