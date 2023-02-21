@@ -39,7 +39,9 @@ Please exercise care and consideration by not waiting at these critical areas: 
 <br>
 	
 <p align="justify">
-2.  Do not violate traffic rules by driving recklessly or making illegal manoeuvres such as turning into the school from the outer lane(s) of the road. <br> 3.  Do not to park and wait along the road and avoid arriving earlier to pick up your child/ward. <br> <br>We sincerely seek your co-operation to please keep all the relevant person(s) in charge of your child’s commuting arrangement informed of the above reminders. 
+2.  Do not violate traffic rules by driving recklessly or making illegal manoeuvres such as turning into the school from the outer lane(s) of the road. <br> 
+<br>3.  Do not to park and wait along the road and avoid arriving earlier to pick up your child/ward. <br> <br>We sincerely seek your co-operation to please keep all the relevant person(s) in charge of your child’s commuting arrangement informed of the above reminders. 
 
 **Annex A: Pick-up and Temporary Waiting Procedures**
+	<br>
 ![](/images/School%20Safety1.jpg)
