@@ -13,7 +13,7 @@ description: ""
 <br>
 
 <p align="justify">
-	Tong Tar Transport uses a standardized method to calculate distance. The distance measured is based on Google Maps, using the shortest distance reflected, from school to home. 
+Tong Tar Transport uses a standardized method to calculate distance. The distance measured is based on Google Maps, using the shortest distance reflected, from school to home. 
 
 Please refer to the bus fares in the table below.
 
