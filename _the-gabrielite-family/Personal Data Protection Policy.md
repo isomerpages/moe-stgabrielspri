@@ -4,22 +4,21 @@ permalink: /the-gabrielite-family/pdpa/
 description: ""
 ---
 <p align="justify"> 
-This Data Protection Policy outlines the management of Personal Data in accordance with the Personal Data Protection Act (“PDPA”). 
+This Data Protection Policy outlines the management of Personal Data in accordance with the Personal Data Protection Act (“PDPA”). </p>
 
 <p align="justify">
-This policy seeks the understanding for the purposes for which SGPS collects, uses and/or discloses Personal Data. This policy states the agreement and consent given to SGPS as well as authorised service providers and relevant third parties collecting, using, disclosing and/or sharing Personal Data as stated in this Data Protection Policy. 
+This policy seeks the understanding for the purposes for which SGPS collects, uses and/or discloses Personal Data. This policy states the agreement and consent given to SGPS as well as authorised service providers and relevant third parties collecting, using, disclosing and/or sharing Personal Data as stated in this Data Protection Policy. </p>
 
 <p align="justify">
 SGPS may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements. If any change is made, it will be published at the school’s website <u>https://www.stgabrielspri.moe.edu.sg</u>.  </p>
-	
+
 **1. Personal Data**
 <p align="justify">
 In this Data Protection Policy, “Personal Data” refers to any data or information from which a person can be identified either (a) from that data; or (b) from that data and other information to which the school has or is likely to have access. Examples of such Personal Data include Full name, NRIC Number or FIN (Foreign Identification Number), Passport number, Photograph or video image of an individual, Mobile telephone number, Personal email address, Thumbprint, DNA profile and any other information relating to the person that has been provided to the school in one form or another. </p>
-	
-**2. Collection of Personal Data**
 
-SGPS may collect Personal Data as follows: 
+**2. Collection of Personal Data** <br>
 
+SGPS may collect Personal Data as follows: <br>
 (a) Through an application to join the school for work or study;
 <br>(b) Through an application to be a service provider to the school; 
 <br>(c) Through the interaction with SGPS staff for official purposes;
