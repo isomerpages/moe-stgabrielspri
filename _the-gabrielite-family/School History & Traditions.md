@@ -28,7 +28,7 @@ description: ""
 
 <p align="justify"> On the bottom-left quadrant there is the Star and the man in the boat. This symbolizes the Star of the sea, where seamen navigate to their destination in the vast ocean. If we are focused on the essential values of life, we shall reach our ultimate destiny in life. The Star of the sea shall be the guiding light that lights up the way in our life.  </p>
 
-<p align="justify"> The Crest is adorned with green olive branches, which is derived from Ancient Greece, to symbolize peace and prosperity. It is thus the duty of each one to promote peace in the world, a peace that will last. Coupled with peace is that of prosperity which connotes not only the generation of wealth but also the integral development of human society. The Crest carries the Latin motto "Labor Omnia Vincit" which stands for "Labour conquers all things". Hard work embodied in diligence and perseverance leads one to achieve greater things in life. It can thus be said that in whatever you do, do your best. </p><br>
+<p align="justify"> The Crest is adorned with green olive branches, which is derived from Ancient Greece, to symbolize peace and prosperity. It is thus the duty of each one to promote peace in the world, a peace that will last. Coupled with peace is that of prosperity which connotes not only the generation of wealth but also the integral development of human society. The Crest carries the Latin motto "Labor Omnia Vincit" which stands for "Labour conquers all things". Hard work embodied in diligence and perseverance leads one to achieve greater things in life. It can thus be said that in whatever you do, do your best. </p>
 	
 **School Song** <br>
 
