@@ -60,11 +60,9 @@ Withdrawal of consent for the collection, use and/or disclosure of personal data
 <p align="justify">
 From such a request for withdrawal of consent being made, SGPS will process the request and thereafter not collect, use and/or disclose your personal data in the manner stated in your request. Please note that with the withdrawal of consent to any or all use or disclosure of personal data, depending on the nature of the request, SGPS may not be in a position to continue to provide the services or administer any contractual relationship that is in place. Such withdrawal may also result in the termination of any agreement with SGPS. SGPS’s legal rights and remedies are expressly reserved in such a case. </p>
 
-
 **7. Access and Correction of Personal Data** <br>
 <p align="justify">
 Request can be made to have access to or make corrections to Personal Data records, but SGPS has the right to charge a reasonable fee for processing such a request.  Such request can be submitted in person at the SGPS office, by telephone or by email at <u>stgps@moe.edu.sg</u>.  </p>
-
 
 **8. Contacting SGPS** <br>
 <p align="justify">
