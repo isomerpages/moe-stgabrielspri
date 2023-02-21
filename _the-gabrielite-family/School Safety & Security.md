@@ -26,17 +26,18 @@ description: ""
 1.  Before dismissal, please refrain from queuing along the stretch after the signalised junction at Serangoon Avenue 3 and Lorong Chuan before the school gate opens at 1.40pm (Mondays to Thursdays) and 1.10pm (Fridays). The leftmost lane is marked with a continuous white zig-zag line before the zebra crossing. Vehicles are not allowed to park, wait or stop along the continuous white zig-zag line at all times.  This would help prevent obstruction to left-turning vehicles and delay public bus operations. <br>
 
 Please exercise care and consideration by not waiting at these critical areas: 
-
+<br>
                      i.          6 metres within a junction;
-
+<br>
                    ii.          9 metres within a bus stop;
-
+<br>
                  iii.          Single white zig-zag line (zebra-controlled zone);
-
+<br>
                  iv.          On grass verge and footway; &
-
+<br>
                    v.          At any entrance or exit of any premises.
-
+<br>
+	
 <p align="justify">
 2.  Do not violate traffic rules by driving recklessly or making illegal manoeuvres such as turning into the school from the outer lane(s) of the road. <br> 3.  Do not to park and wait along the road and avoid arriving earlier to pick up your child/ward. <br> <br>We sincerely seek your co-operation to please keep all the relevant person(s) in charge of your child’s commuting arrangement informed of the above reminders. 
 
