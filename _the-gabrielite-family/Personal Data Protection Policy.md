@@ -11,8 +11,9 @@ This policy seeks the understanding for the purposes for which SGPS collects, us
 
 <p align="justify">
 SGPS may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements. If any change is made, it will be published at the school’s website <u>https://www.stgabrielspri.moe.edu.sg/</u>.  
-
-**1\. Personal Data**
+<br>
+	
+**1. Personal Data**
 <p align="justify">
 In this Data Protection Policy, “Personal Data” refers to any data or information from which a person can be identified either (a) from that data; or (b) from that data and other information to which the school has or is likely to have access. Examples of such Personal Data include Full name, NRIC Number or FIN (Foreign Identification Number), Passport number, Photograph or video image of an individual, Mobile telephone number, Personal email address, Thumbprint, DNA profile and any other information relating to the person that has been provided to the school in one form or another.
 
