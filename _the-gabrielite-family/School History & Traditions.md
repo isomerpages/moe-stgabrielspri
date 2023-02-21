@@ -14,7 +14,8 @@ description: ""
 <p align="justify"> On 19 November 2003, the school moved to its holding site at 30 Parry Avenue while the school undergoes PRIME. In November 2005, the school moved back to new buildings and improved facilities at its Lorong Chuan premises.
 
 <p align="justify"> The school is streamlining all its programme to achieve the school mission and vision. The school management team is continually refining the school's strategic plan to ensure that all programmes are aligned to the school and the Ministry's objectives.
-
+<br>
+	
 	
 **School History**
 
