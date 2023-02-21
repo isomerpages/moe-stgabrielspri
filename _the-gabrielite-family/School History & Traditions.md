@@ -33,7 +33,8 @@ St Gabriel's Primary is a government-aided Catholic school run by the Brothers o
 <p align="justify">On 2 January 1988, the 31 classes of 1350 pupils of the school moved to its present premises in Lorong Chuan. The official opening celebration of the school was held on 29 September 1989. The school was blessed by the Archbishop of Singapore, Rt Rev Gregory Yong, and declared open by Dr Lee Boon Yang, Senior Minister of State, Ministry of National Development and Home Affairs.<br><br>    The next wave of development saw the young Gabrielites returning to their home ground after the completion of PRIME on 17th November 2005. Despite the heavy downpour, spirits were not dampened as Gabrielites from the different eras turned up to mark the joyous celebration. It was indeed heart-warming as the whole school cheered their lungs out when the school flag was once again brought into the hall by the walk leader and handed over to our Principal, Miss Antonia Teng who in turn passed it to the Head Prefect to symbolise the return of the Gabrielites. When the school song was played, it was an emotional affair for many as the boys were singing with so much gusto. There was simply so much pride in the air. It was indeed a homecoming ceremony befitting the importance of the event. The boys cheered even more loudly when Bro. Emmanuel (Supervisor), Bro. Gasper (Titular Superior), Mr. Henry Phang (Chairman, SMC) and Mr Yeo Ann Tai (Vice-Chairman, SMC) went on stage for the ribbon-cutting ceremony. The day ended with a mass in the hall for the Catholics while the rest of the school proceeded to explore the new home of the young Gabrielites.<br><br>    For more information of the school’s history, please visit the school’s Heritage Gallery.
 
 ![](/images/Completed%20Heritage%20Gallery.jpeg)
-
+	<br>
+	
 **School Crest**
 
 <img src="/images/BOSTCrest-trans-colour.gif" 
