@@ -8,4 +8,4 @@ Our School's Corporate Video showcases the student as the centre of focus for hi
 
 <center><iframe width="800" height="600" src="https://www.youtube.com/embed/Ym_EcHQKj3E" title="SGPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-Our doors are still open ... online! Click [here](https://www.youtube.com/embed/UAuxd8_oqw0) to view our vibrant school campus from the comfort of your home!
+Our doors are still open ... online! Click [here](https://www.youtube.com/watch?v=UAuxd8_oqw0) to view our vibrant school campus from the comfort of your home!
