@@ -58,7 +58,7 @@ description: ""
   </li>
 </ul>
 
-#### Co-Curricular Activities (CCAs)
+**Co-Curricular Activities (CCAs)**
 
 <ul class="jekyllcodex_accordion">
   <li>
