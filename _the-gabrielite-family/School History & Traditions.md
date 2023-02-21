@@ -15,9 +15,8 @@ description: ""
 
 <p align="justify"> The school is streamlining all its programme to achieve the school mission and vision. The school management team is continually refining the school's strategic plan to ensure that all programmes are aligned to the school and the Ministry's objectives.
 <br>
-	
-	
-**School History**
+
+**School History** <br>
 
 St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. It was originally part of St Gabriel's School that was established by the Gabrielite Brothers to cater to the educational needs of the fast-growing population in Paya Lebar and Upper Serangoon.
 
