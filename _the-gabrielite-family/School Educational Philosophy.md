@@ -22,7 +22,7 @@ The Latin motto "Labor Omnia Vincit" stands for
 <p align="justify"> The motto personifies the importance of giving one's best in all endeavours. It is our hope that each student will approach learning with passion and perseverance; that he will form lasting friendships and thus understand the meaning of loyalty, sincerity and fellowship; that he will become socially responsible citizens who would learn from the youngest age how to give of themselves for the greater good; that he will laugh and play and enjoy being a boy. Above all, he must always be mindful of God's grace and presence.</p>
 
 **School Philosophy**
-	<br>
+<br>
 Core Belief: Loving Each Child as our Own
 <br>
 	
