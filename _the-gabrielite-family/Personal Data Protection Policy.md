@@ -43,8 +43,8 @@ SGPS may collect, use and/or disclose Personal Data as follows:
 (j) Managing and terminating an employment relationship.    
 (k) Security purposes    
 (l) Any other purposes which the school may notify you of at the time of obtaining your consent.
-<br><br>
-	
+<br>
+
 **4.  Disclosure of Personal Data** <br>
 <p align="justify">
 Personal Data will be protected and kept confidential but, this is subject to the provisions of any applicable law.  SGPS will not disclose your personal data to third parties without first obtaining your consent permitting to do so. However, please note that SGPS may disclose your personal data to third parties without first obtaining your consent in certain situations where such disclosure without your consent is permitted by the PDPA or by law. For more information on the exceptions, you are encouraged to peruse the Second, Third and Fourth Schedules of the PDPA which is publicly available at <u>https://statutes.agc.gov.sg</u>. </p>
