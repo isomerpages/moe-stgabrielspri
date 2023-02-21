@@ -44,7 +44,6 @@ SGPS may collect, use and/or disclose Personal Data as follows: <br> (a) Evaluat
 **4.  Disclosure of Personal Data** <br>
 <p align="justify">
 Personal Data will be protected and kept confidential but, this is subject to the provisions of any applicable law.  SGPS will not disclose your personal data to third parties without first obtaining your consent permitting to do so. However, please note that SGPS may disclose your personal data to third parties without first obtaining your consent in certain situations where such disclosure without your consent is permitted by the PDPA or by law. For more information on the exceptions, you are encouraged to peruse the Second, Third and Fourth Schedules of the PDPA which is publicly available at <u>https://statutes.agc.gov.sg</u>. </p>
-<br>
 
 **5.  Administration and Management of Personal Data**
 <p align="justify">
@@ -53,7 +52,6 @@ SGPS will take reasonable effort to ensure that your personal data is accurate a
 SGPS will also put in place reasonable security arrangements to ensure that your personal data is adequately protected and secured. Appropriate security arrangements will be taken to prevent any unauthorised access, collection, use, disclosure, copying, modification, leakage, loss, damage and/or alteration of your personal data. However, SGPS cannot assume responsibility for any unauthorised use of your personal data by third parties which are wholly attributable to factors beyond SGPS’s control.</p>
 <p align="justify">
 SGPS retain personal data in accordance with legal, regulatory, business and operational obligations. When SGPS cease retention, the personal data will be disposed of in an appropriate manner.  </p>
-<br>
 
 **6. Withdrawal of Consent**
 <p align="justify">
@@ -61,12 +59,12 @@ Withdrawal of consent for the collection, use and/or disclosure of personal data
 	
 <p align="justify">
 From such a request for withdrawal of consent being made, SGPS will process the request and thereafter not collect, use and/or disclose your personal data in the manner stated in your request. Please note that with the withdrawal of consent to any or all use or disclosure of personal data, depending on the nature of the request, SGPS may not be in a position to continue to provide the services or administer any contractual relationship that is in place. Such withdrawal may also result in the termination of any agreement with SGPS. SGPS’s legal rights and remedies are expressly reserved in such a case. </p>
-<br>
+
 
 **7. Access and Correction of Personal Data** <br>
 <p align="justify">
 Request can be made to have access to or make corrections to Personal Data records, but SGPS has the right to charge a reasonable fee for processing such a request.  Such request can be submitted in person at the SGPS office, by telephone or by email at <u>stgps@moe.edu.sg</u>.  </p>
-<br>
+
 
 **8. Contacting SGPS** <br>
 <p align="justify">
