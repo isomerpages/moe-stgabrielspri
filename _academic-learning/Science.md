@@ -13,8 +13,8 @@ description: ""
 
  
 **Head of Department:**    
-Head of Department: Mdm Heng Choo Ching   
-Subject Head: Mdm Sharifah Nurulhuda   
+Head of Department: Mdm Jean Heng  
+Level Head (Internal): Ms Jolene Low   
 Senior Teacher: Mdm Chitra Devi   
 
 
