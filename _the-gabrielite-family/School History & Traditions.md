@@ -8,7 +8,6 @@ description: ""
 <p align="justify"> St Gabriel's Primary is a government-aided Catholic school run by the Brothers of St Gabriel. It was originally part of St Gabriel's School that was established by the Gabrielite Brothers to cater to the educational needs of the fast-growing population in Paya Lebar and Upper Serangoon. </p>
 
 <p align="justify"> St Gabriel's School opened its doors on 3 June 1953 to its first intake of 212 pupils who attended classes ranging from Primary One to Standard Two under the supervision of Rev Bro Louis Gonzaga and seven pioneer teachers. The school was then located at the junction of Hillside Drive and Upper Serangoon Road. It was officially declared open on 13 December 1953 by the then Bishop of the Diocese of Singapore and Malacca, Mgr Michael Olcomendy. </p>
-<br>
 	
 <p align="justify"> When the enrolment of the school rose to over two thousand pupils in the 1960s, it became necessary to provide more space and facilities for the pupils. A project to build a separate primary school was launched.<br><br>    On 2 January 1969, the whole of the primary section of St Gabriel's School comprising 31 classes with an enrolment of 1350 pupils moved into the new building at the junction of Highland Road and Yio Chu Kang Road. The first Principal of the primary school was Mr Paul Lee Poh Soon.<br><br>    The primary school was blessed by Archbishop Michael Olcomendy and officially declared open by the Hon Parliamentary Secretary, Ministry of Labour and Member of Parliament for Upper Serangoon, Mr Sia Kah Hui on 12 July 1969. </p>
 	
