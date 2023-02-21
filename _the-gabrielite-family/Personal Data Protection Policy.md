@@ -18,7 +18,7 @@ SGPS may update this Policy to ensure that it is consistent with any changes in 
 In this Data Protection Policy, “Personal Data” refers to any data or information from which a person can be identified either (a) from that data; or (b) from that data and other information to which the school has or is likely to have access. Examples of such Personal Data include Full name, NRIC Number or FIN (Foreign Identification Number), Passport number, Photograph or video image of an individual, Mobile telephone number, Personal email address, Thumbprint, DNA profile and any other information relating to the person that has been provided to the school in one form or another.
 <br>
 	
-**2\. Collection of Personal Data**
+**2. Collection of Personal Data**
 
 SGPS may collect Personal Data as follows: 
 
@@ -27,8 +27,9 @@ SGPS may collect Personal Data as follows: 
 <br>(c) Through the interaction with SGPS staff for official purposes;
 <br>(d) When responding to a request for additional Personal Data; 
 <br>(e) When Personal Data is submitted to the school for any other reason.
-
-**3\. Purposes for the Collection, Use and Disclosure of Personal Data** 
+<br>
+	
+**3. Purposes for the Collection, Use and Disclosure of Personal Data** 
 
 SGPS may collect, use and/or disclose Personal Data as follows:
 
