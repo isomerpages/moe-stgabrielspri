@@ -28,6 +28,7 @@ Core Belief: Loving Each Child as our Own
 <br>
 	
 <p align="justify"> Established as part of the St. Gabriel’s School in 1953, the school follows the footsteps of our founder, St. Louis Marie de Montfort, whose belief was to ‘Love each child as a son of God’. Staff strives to love each child as our own. </p>
+<br>
 
 **School Strategic Plan** <br>
 ![](/images/Gabrielite%202025.jpeg)
