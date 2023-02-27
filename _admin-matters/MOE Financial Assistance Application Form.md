@@ -8,4 +8,4 @@ You may submit your application [online](https://go.gov.sg/moe-efas) if you are
 <br>
 	
 Guide for FAS students on Public Transport  <br>
-[Transport Subsidy for Students on FAS revised.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/Transport%20Subsidy%20for%20Students%20on%20FAS%20revised.pdf)
+[Transport Subsidy for Students on FAS revised.pdf](https://drive.google.com/file/d/1ENRKMYy4HwOMs576Q3GJpi1Aa4b-NEWn/view?usp=sharing)
