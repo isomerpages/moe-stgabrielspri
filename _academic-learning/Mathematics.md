@@ -8,13 +8,16 @@ description: ""
 The Mathematics Department aims to develop critical and creative problem-solvers and motivated lifelong learners. 
 
   
-**HOD / LH / Coordinator**  
+**Key Personnel**  
 Head of Department: Ms Low Yun Hui <br>
 Level Head (Internal) : Ms Elsa Teng
 
-  
+**Our National Programme**
+<br>**Learning Support for Mathematics (LSM) Programme**
 
-Our Mathematics Program emphasizes on:  
+Learning Support for Mathematics (LSM) Programme is an early intervention programme for P1 to P3 students in the area of Mathematics. Through a small group setting and varied activities, the programme aims to provide additional guidance to identified students in developing their numeracy skills.
+
+Our Mathematics Programme emphasizes on:  
 
 *   Mastery of knowledge and skills
 *   Problem solving
