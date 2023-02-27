@@ -31,7 +31,7 @@ sections:
       image: /images/Gabrielite 2025 Banner.jpeg
   - infopic:
       title: School Corporate Video
-      button: View Video
+      button: Get To Know Us
       url: https://youtu.be/Ym_EcHQKj3E
       image: /images/vidicondemo.png
       alt: Image alt text
