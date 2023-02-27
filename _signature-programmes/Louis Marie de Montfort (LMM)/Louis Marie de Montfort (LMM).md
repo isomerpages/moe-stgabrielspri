@@ -68,5 +68,4 @@ Apart from engaging the students cognitively, the LMM students also connect with
 
 ![](/images/Food%20Donation%20Drive_1.jpg)
 
-![](/images/Food%20Donation%20Drive_2.jpg) 
-
+![](/images/Food%20Donation%20Drive_2.jpg)
