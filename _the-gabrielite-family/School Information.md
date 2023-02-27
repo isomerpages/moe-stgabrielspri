@@ -56,4 +56,4 @@ Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/
 -----
 
 **Annual Report 2021**  <br>
-Please click [here](/files/Annual%20Report%20template%20(%20%202022).pdf) to view the Annual Report 2021.
+Please click [here](https://drive.google.com/file/d/1j52gs8hNNsAcZqIJIDO2mq0BZbtRTr3G/view?usp=sharing) to view the Annual Report 2021.
