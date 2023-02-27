@@ -69,3 +69,9 @@ Request can be made to have access to or make corrections to Personal Data recor
 **8. Contacting SGPS** <br>
 <p align="justify">
 For any question or complaint relating to the use or disclosure of Personal Data, or if more information about SGPS data protection practices is needed, please contact us at <u>stgps@moe.edu.sg</u>. </p>
+<br>
+
+**Notice of Filming and Photography**
+ 
+<p align="justify">
+You are entering a school area to take part in an activity where photography, audio and video recording may occur. By entering the event premises, you consent to interview(s), photography, audio recording, video recording and its/their release, publication, exhibition, or reproduction to be used for news, inclusion on school website and social media, or any other purpose by the school.
