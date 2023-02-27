@@ -64,7 +64,4 @@ Students in these LMM classes follow the mainstream curriculum during school hou
 * [Higher Chinese Language Programme](/signature-programmes/Louis-Marie-de-Montfort/higher-chinese-language-programme/)
 
 <p align="justify">
-Apart from engaging the students cognitively, the LMM students also connect with the community through VIA programmes such as being advocates for the Gabrielite Foundation Flag Day and promoting recycling through upcycling. </p>
-
-
-
+Apart from engaging the students cognitively, the LMM students also connect with the community through VIA programmes such as planning, implementing and executing a school-wide food donation drive.</p>
