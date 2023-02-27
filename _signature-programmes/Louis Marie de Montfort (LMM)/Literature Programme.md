@@ -11,7 +11,7 @@ Designed to ignite a passion for reading and to challenge the way students inter
 From a critical literacy perspective, the world is seen as a socially constructed text that can be read. Critical literacy involves making sense of the sociopolitical systems through which we live our lives and questioned these systems. Through critical literacy, students explore social issues, including inequalities of race, class, gender, or disability and the ways in which language is used and other semiotic resources to shape their understanding of these issues. Film Literacy has been embedded into the Literature programme so that students can make comparisons between written and visual representations of a story. 
 </p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="302" valign="top" style="width:226.45pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="mso-no-proof:yes"><img width="174" height="268" src="/images/Literature%20Text%20for%20Primary%204.jpg"></span></p></td><td width="321" valign="top" style="width:241.05pt;border:solid windowtext 1.0pt;
