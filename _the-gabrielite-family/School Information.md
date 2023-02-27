@@ -9,9 +9,6 @@ description: ""
 **Levels Offered:** <br>Primary One to Primary Six
 
 ------
-**After School Care Services:** <br>Morning Star Community Services
-
-------
 **School-Based Programmes:** <br>Holistic Assessment (PERI) <br>Religious Education / Character Education <br>Mass is conducted at the first Tuesday of each month <br> School Family Education Programme <br> School Leadership Programme
 
 ------
