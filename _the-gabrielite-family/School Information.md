@@ -56,4 +56,4 @@ Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/
 -----
 
 **Annual Report 2021**  <br>
-Please click [here](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/About%20Us/Financial%20Information/Annual%20Report%202021.pdf) to view the Annual Report 2021.
+Please click [here](/files/Annual%20Report%20template%20(%20%202022).pdf) to view the Annual Report 2021.
