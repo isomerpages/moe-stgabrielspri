@@ -37,10 +37,10 @@ Students learn Science by assimilating the process that scientists use to genera
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:233.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/Our%20students%20busy%20creating%20their%20Storyboards%20for%20Filming.jpeg" height="291" width="291"></span></p></td><td style="width:233.75pt;border:solid windowtext 1.0pt;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/E2K%20Sci%202.jpeg" height="291" width="291"></span></p></td><td style="width:233.75pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="images/Our%20students%20busy%20creating%20their%20Storyboards%20for%20Filming%202.jpeg" height="218" width="291"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/E2K%20Sci%201.jpeg" height="218" width="291"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="623"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Our students busy creating their Storyboards before they start filming a short scene from the story, ‘Sadako &amp; the Thousand Paper Cranes’</p></td></tr></tbody></table>
+  line-height:normal" align="center" class="MsoNormal">Students attempting to address their hypothesis through experimental protocols that they have written</p></td></tr></tbody></table>
