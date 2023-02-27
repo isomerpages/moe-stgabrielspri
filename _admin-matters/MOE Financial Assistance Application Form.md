@@ -4,7 +4,7 @@ permalink: /admin-matters/moe-fas-application-form/
 description: ""
 ---
 You may submit your application [online](https://go.gov.sg/moe-efas) if you are eligible and wish to apply for the MOE FAS. Alternatively, you may submit the completed application form to the school. <br>
-[GGAS FAS Application Form](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/GGAS_FAS%20Application%20Form.pdf)  
+[GGAS FAS Application Form](https://drive.google.com/file/d/13N4_IUUR2X5aFFaxuxt38sAkzhHfu3hG/view?usp=sharing)  
 <br>
 	
 Guide for FAS students on Public Transport  <br>
