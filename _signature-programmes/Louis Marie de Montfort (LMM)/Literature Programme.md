@@ -4,20 +4,9 @@ permalink: /signature-programmes/Louis-Marie-de-Montfort/literature-programme/
 description: ""
 third_nav_title: Louis Marie de Montfort (LMM)
 ---
-
-
-
-The Literature Programme exposes students to novels and short texts of different genres so that they will be exposed to different styles of writing. A collaboration with a former Principal Master Teacher and Teaching Fellow (NIE, NTU), the programme is customised to the needs of the LMM students such that it stretches their thinking, reading, writing and communication skills. Students will also get to keep the reading materials. The lessons will be conducted during curriculum.
-
-<img src="/images/lp1.png" 
-     style="width:45%">
-<center><strong>Literatures that our LMM students are exposed to</strong></center>
-
-<img src="/images/lp2.jpeg" 
-     style="width:45%">
-<center><strong>Students coming together to study about the characters in the story</strong></center>
-
-
-<img src="/images/lp3.jpeg" 
-     style="width:65%">
-<center><strong>Acting a scene from one of the chapters</strong></center>
+<p align="justify">
+Designed to ignite a passion for reading and to challenge the way students interact with the stories that they read, the Literature programme aims to unravel literary elements such as the Characters, Setting, Plot, Conflict and Resolution of popular children’s stories. The stories in the programme are carefully chosen and curated to develop and strengthen Critical Literacy, Film Literacy and 21st Century Competencies in the students. 
+</p>
+<p align="justify">
+From a critical literacy perspective, the world is seen as a socially constructed text that can be read. Critical literacy involves making sense of the sociopolitical systems through which we live our lives and questioned these systems. Through critical literacy, students explore social issues, including inequalities of race, class, gender, or disability and the ways in which language is used and other semiotic resources to shape their understanding of these issues. Film Literacy has been embedded into the Literature programme so that students can make comparisons between written and visual representations of a story. 
+</p>
