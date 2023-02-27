@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 <p align="justify">
-Thank you for visiting https://www.stgabrielspri.moe.edu.sg By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.</p>
+Thank you for visiting <a href = "https://www.stgabrielspri.moe.edu.sg"> https://www.stgabrielspri.moe.edu.sg</a>. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.</p>
 
 **General**
 <p align="justify">
