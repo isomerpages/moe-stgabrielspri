@@ -49,7 +49,7 @@ MRT Stations: <br>
 Lorong Chuan MRT (Circle line)
 
 ------
-**School Report** <br>
+**School Reports** <br>
 Financial Information <br>
 Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest financial information.  
 Annual Report 2021  <br>
