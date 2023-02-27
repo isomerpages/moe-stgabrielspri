@@ -24,7 +24,8 @@ Thank you for visiting https://www.stgabrielspri.moe.edu.sg By accessing and usi
 **Restrictions on use of Materials**
 <p align="justify">
 1.  Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of St. Gabriel's Primary School.
-
+</p>
+<p align="justify">
 2.  Modification of any of the Contents or use of the Contents for any other purpose will be a violation of St. Gabriel's Primary School’s copyright and other intellectual property rights. Graphics and imge on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of St. Gabriel's Primary School.</p>
     
 **Disclaimer of Warranties and Liability**
