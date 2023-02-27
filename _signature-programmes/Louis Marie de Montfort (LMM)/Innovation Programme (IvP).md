@@ -28,3 +28,18 @@ Selected students will then partake in the IvP Project Judging where their innov
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Conducting research on existing solutions</span></p></td></tr></tbody></table>
+	
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="302" valign="top" style="width:226.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-no-proof:yes"><img width="174" height="268" src="/images/Creating%20prototypes.jpeg"></span></p></td><td width="321" valign="top" style="width:241.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-no-proof:yes"><img width="190" height="266" src="/images/E-consultation%20session%20with%20expert%20mentors%20.jpg"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="302" valign="top" style="width:226.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Creating prototypes</span></p></td><td width="321" valign="top" style="width:241.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">E-consultation session with expert mentors </span></p></td></tr></tbody></table>
