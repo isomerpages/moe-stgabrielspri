@@ -42,18 +42,15 @@ Virtues, which is the results of good habits acquired, leads to good character. 
 In establishing certain academic rigour and behaviour standards, we seek to develop within our young Gabrielites the sort of self-respect that comes only when one contributes meaningfully to his own community. In all persuits and daily interactions, our Gabrielites are reminded of the importance of character, and of their responsibilities to the community.</p>
 
 ------
-**Bus Services:** <br>
+**Transport Services** <br>
+Bus Services:<br>
 73, 105, 59 <br>
-
-------
-**MRT Stations:** <br>
+MRT Stations: <br>
 Lorong Chuan MRT (Circle line)
 
 ------
-**Financial Information** <br>
+**School Report** <br>
+Financial Information <br>
 Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest financial information.  
-
------
-
-**Annual Report 2021**  <br>
+Annual Report 2021  <br>
 Please click [here](https://drive.google.com/file/d/1j52gs8hNNsAcZqIJIDO2mq0BZbtRTr3G/view?usp=sharing) to view the Annual Report 2021.
