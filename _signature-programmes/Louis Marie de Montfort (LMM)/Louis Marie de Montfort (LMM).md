@@ -65,3 +65,8 @@ Students in these LMM classes follow the mainstream curriculum during school hou
 
 <p align="justify">
 Apart from engaging the students cognitively, the LMM students also connect with the community through VIA programmes such as planning, implementing and executing a school-wide food donation drive.</p>
+
+![](/images/Food%20Donation%20Drive_1.jpg)
+
+![](/images/Food%20Donation%20Drive_2.jpg) 
+
