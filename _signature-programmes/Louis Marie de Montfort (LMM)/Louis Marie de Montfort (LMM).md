@@ -54,8 +54,8 @@ At the end of three years of LMM education, we aim to develop every student to b
   
 
 **Structural of the LMM Curriculum**  
-
-Students in these LMM classes follow the mainstream curriculum during school hours with differential instruction in subject areas like Mathematics, e.g. LE³ during its lessons. A selected group of LMM students is also offered Higher Mother Tongue as a non-examinable subject. This is to allow them to be immersed in the language and to appreciate the culture of their Mother Tongue. To extend the students’ learning, an array of mandatory and optional programmes have been carefully curated for them to participate. These programmes take into consideration the students’ cognitive needs and interests and include the following programmes:
+<p align="justify">
+Students in these LMM classes follow the mainstream curriculum during school hours with differential instruction in subject areas like Mathematics, e.g. LE³ during its lessons. A selected group of LMM students is also offered Higher Mother Tongue as a non-examinable subject. This is to allow them to be immersed in the language and to appreciate the culture of their Mother Tongue. To extend the students’ learning, an array of mandatory and optional programmes have been carefully curated for them to participate. These programmes take into consideration the students’ cognitive needs and interests and include the following programmes: </p>
 
 * [Literature Programme](/signature-programmes/Louis-Marie-de-Montfort/literature-programme/)
 * [E2K (Mathematics and Science)](/signature-programmes/Louis-Marie-de-Montfort/e2k/)
@@ -63,12 +63,8 @@ Students in these LMM classes follow the mainstream curriculum during school hou
 * [Coding Enrichment Programme](/signature-programmes/Louis-Marie-de-Montfort/coding-enrichment-programme/)
 * [Higher Chinese Language Programme](/signature-programmes/Louis-Marie-de-Montfort/higher-chinese-language-programme/)
 
-Apart from engaging the students cognitively, the LMM students also connect with the community through VIA programmes such as being advocates for the Gabrielite Foundation Flag Day and promoting recycling through upcycling.
+<p align="justify">
+Apart from engaging the students cognitively, the LMM students also connect with the community through VIA programmes such as being advocates for the Gabrielite Foundation Flag Day and promoting recycling through upcycling. </p>
 
-![](/images/lmm1.png)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/U2bUJbEgcJY" title="4LMM Students Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/MfyAMscDfdg" title="LMM Video Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-**[Frequently Asked Questions (FAQ)](/files/LMM%20Programme%20Frequently%20Asked%20Questions.pdf)**
