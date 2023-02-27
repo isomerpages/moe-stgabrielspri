@@ -50,10 +50,17 @@ Speech & Drama, Composition Writing and Oracy Skills
 •	Movie screenings <br>
 •	Outdoor learning experience
 
-Ezhishi website  
-**[http://ezhishi.net](http://ezhishi.net/)**  
+Information on Chinese Language Learning Resources
+ICT Resources for Chinese Curriculum to help the students to learn Chinese language
+
+1.	Ezhishi <br>
+http://ezhishi.net <br>
 A learning portal for students to learn Chinese Language so as to enhance their four skills, which are listening, speaking, reading and writing.
 
-Dudu Town  
-**[http://go.dudu.town](http://go.dudu.town/)**   
-An interesting portal to encourage the students in reading Chinese Language story books.
+2.	Dudu Town <br>
+http://go.dudu.town <br>
+An interesting portal to encourage the students in reading Chinese Language story books
+
+3.	Listening Practices <br>
+https://stgabriels.of-stars.com/ <br>
+An E-portal for students to access listening practices based on examination format.
