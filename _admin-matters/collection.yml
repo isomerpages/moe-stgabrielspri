@@ -2,7 +2,6 @@ collections:
   admin-matters:
     output: true
     order:
-      - Forms.md
       - School Bus.md
       - School Bookshop.md
       - School Uniform.md
@@ -12,3 +11,4 @@ collections:
       - School Wait List Application Form.md
       - Parent Volunteer Scheme.md
       - Other Information.md
+      - Forms.md
