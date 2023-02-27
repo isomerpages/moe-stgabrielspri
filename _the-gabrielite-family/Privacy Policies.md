@@ -3,6 +3,7 @@ title: Privacy Policies
 permalink: /the-gabrielite-family/pdpa/
 description: ""
 ---
+**Personal Data Protection Policy**
 
 <p align="justify"> 
 This Data Protection Policy outlines the management of Personal Data in accordance with the Personal Data Protection Act (“PDPA”). </p>
