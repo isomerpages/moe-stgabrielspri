@@ -20,7 +20,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6280 3628
-      - email: stgps@moe.edu.sg
+      - email: ""
       - other: ""
     title: "Phone:"
 ---
