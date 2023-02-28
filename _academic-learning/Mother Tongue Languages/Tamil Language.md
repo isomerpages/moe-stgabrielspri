@@ -47,9 +47,12 @@ Primary 5: Clay Art <br>
 To build students’ vocabulary through exposure to local and traditional games
 </p>
 <p align="justify">
-4. P3 Cultural Exxperience
-An authentic experience of Indian Folk Culture: Oiyilattam
+4. P3 Cultural Exxperience <br>
+An authentic experience of Indian Folk Culture: Oiyillattam
 </p>
+
+![](/images/Oiyillatham_pic%203.jpeg)
+
 <p align="justify">
 5. Tamil Language Festival @ UPTLC
 </p>
