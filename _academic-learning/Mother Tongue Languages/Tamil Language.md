@@ -28,6 +28,21 @@ Primary 5: Clay Art <br>
 </p>
 
 
+<table style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img height="357" width="200"></span></p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img height="203" width="270"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P1 - Indian Food</p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P2 - Masala Tea - Decorating our Tea cup</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img height="197" width="262"></span></p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img height="142" width="315"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P2 - Masala Tea - Mixing the spices for the perfect taste</p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P3 - Kolum Making</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img height="141" width="314"></span></p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img height="205" width="274"></span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P4 - Pongal Clay Pot</p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P5 - miniature Indian banaba leaf meal</p></td></tr></tbody></table>
+
 <p align="justify">
 3. Primary 1 to 6 Traditional Games Day
 To build students’ vocabulary through exposure to local and traditional games
