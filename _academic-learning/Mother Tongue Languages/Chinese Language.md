@@ -35,24 +35,36 @@ A customised programme to support the learning of pupils in Mother Tongue.</p>
 1. Mother Tongue Fortnight <br>
 2 weeks of language / cultural activities to inculcate the love and interest in the learning Chinese Language through related activities.
 	</p>
+
+![](/images/MTFN.jpg)
+
 <p align="justify">
 2. Inquiry Based Projects (IBL)
 An inquiry-based approach shifts the focus to the students themselves, who become active learners as they choose which topics to explore; research these topics; decide what to produce, create, or solve; and then reflect on what they have learned. With a student-centred approach, it helps students to develop knowledge, skills and conceptual understanding.
 </p>
+
+![](/images/Chinese%20IBL.png)
 <p align="justify">
 3. P3 Language/Cultural Camp
 Interesting language and cultural activities to inculcate the love of learning of Chinese Language.
 	</p>
-	<p align="justify">
+	
+![](/images/Cultural%20Camp.jpg)
+	
+<p align="justify">
 4 Assembly Programme <br>
 Chinese New Year Celebrations
 	</p>
 	<p align="justify">
 5. Inter-Class Competitions and Activities <br>
-Penmanship Competition <br>
-Reading Activities
 	</p>
-	<p align="justify">
+	
+* Penmanship Competition <br>
+* Reading Activities
+	
+	
+![](/images/Interclass.jpg)
+<p align="justify">
 6. Oral Programme (P6) <br>
 Weekly oral practices to develop students’ reading and oratorical skills.
 	</p>
