@@ -83,16 +83,7 @@ third_nav_title: School Staff
     <td class="tg-g1uo"><span style="color:#000">Operations Support Officer</span> </td>
     <td class="tg-tv7y"> </td>
   </tr>
-  <tr>
-    <td class="tg-bjk0">Mr Goh Kim Hung </td>
-    <td class="tg-g1uo"><span style="color:#000">Operations Support Officer</span>  </td>
-    <td class="tg-tv7y"> </td>
-  </tr>
-  <tr>
-    <td class="tg-bjk0">Mr Lee Hiang Boon </td>
-    <td class="tg-g1uo"><span style="color:#000">Operations Support Officer</span> </td>
-    <td class="tg-tv7y"> </td>
-  </tr>
+
   <tr>
     <td class="tg-g1uo"><span style="color:#000">Mdm Nancy Tan Hee Tian</span></td>
     <td class="tg-g1uo"><span style="color:#000">Library Aide</span></td>
