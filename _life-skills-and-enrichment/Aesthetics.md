@@ -44,8 +44,7 @@ Mrs Catherine Low
 </tbody>
 </table>
 
-### AESTHETICS DEPARTMENT
-
+**Department Programmes**
 At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision:
 
 **Leader** – To cultivate a passion for the Arts and to foster a sense of cultural awareness for artistic development and excellence as a respectful and ethical individual
