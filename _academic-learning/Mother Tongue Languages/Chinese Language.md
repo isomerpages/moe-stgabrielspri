@@ -35,39 +35,62 @@ A customised programme to support the learning of pupils in Mother Tongue.</p>
 1) Mother Tongue Fortnight <br>
 2 weeks of language / cultural activities to inculcate the love and interest in the learning Chinese Language through related activities.
 	</p>
+<p align="justify">
 2) Inquiry Based Projects (IBL)
 An inquiry-based approach shifts the focus to the students themselves, who become active learners as they choose which topics to explore; research these topics; decide what to produce, create, or solve; and then reflect on what they have learned. With a student-centred approach, it helps students to develop knowledge, skills and conceptual understanding.
+</p>
+<p align="justify">
 3) P3 Language/Cultural Camp
-Interesting language and cultural activities to inculcate the love of learning of Chinese Language. 
+Interesting language and cultural activities to inculcate the love of learning of Chinese Language.
+	</p>
+	<p align="justify">
 4) Assembly Programme <br>
 Chinese New Year Celebrations
+	</p>
+	<p align="justify">
 5) Inter-Class Competitions and Activities <br>
 Penmanship Competition <br>
 Reading Activities
+	</p>
+	<p align="justify">
 6) Oral Programme (P6) <br>
 Weekly oral practices to develop students’ reading and oratorical skills.
+	</p>
+	<p align="justify">
 7) Silent Reading during pre-assembly on Tuesdays and Thursdays (P1 - P6) <br>
 To encourage reading of Chinese books / articles so as to improve pupils' language competency.
+	</p>
+	<p align="justify">
 8) Reading Programme <br>
 Structured reading programme which encourages reading of Chinese Language books
+	</p>
+	<p align="justify">
 9) Enrichment Programmes <br>
 Speech & Drama, Composition Writing and Oracy Skills
+	</p>
+	<p align="justify">
 10) Local Learning Journeys <br>
-•	Arts and cultural performances <br>
-•	Movie screenings <br>
-•	Outdoor learning experience
+	</p>
+	
+* Arts and cultural performances <br>
+* Movie screenings <br>
+* Outdoor learning experience
 
-Information on Chinese Language Learning Resources
+
+**Information on Chinese Language Learning Resources**
 ICT Resources for Chinese Curriculum to help the students to learn Chinese language
-
+<p align="justify">
 1.	Ezhishi <br>
 http://ezhishi.net <br>
 A learning portal for students to learn Chinese Language so as to enhance their four skills, which are listening, speaking, reading and writing.
-
+</p>
+<p align="justify">
 2.	Dudu Town <br>
 http://go.dudu.town <br>
 An interesting portal to encourage the students in reading Chinese Language story books
-
+</p>
+<p align="justify">
 3.	Listening Practices <br>
 https://stgabriels.of-stars.com/ <br>
 An E-portal for students to access listening practices based on examination format.
+</p>
