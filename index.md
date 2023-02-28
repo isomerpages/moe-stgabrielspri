@@ -20,6 +20,7 @@ sections:
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/gdlp/
+      background: /images/Mock-up Website GIF (3) - Banners.gif
   - resources:
       title: Announcement
   - infopic:
