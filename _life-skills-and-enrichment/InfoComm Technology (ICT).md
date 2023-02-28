@@ -3,19 +3,17 @@ title: InfoComm Technology (ICT)
 permalink: /life-skills-and-enrichment/ict/
 description: ""
 ---
-**Department Goal**
-<p align="justify">
-Every Gabrielite will be a proficient, innovative and responsible user of ICT. </p>
+**Department Goal**<br>
+Every Gabrielite will be a proficient, innovative and responsible user of ICT.
 
 **Key Personnel**  <br>
 Mdm Lim Jia Shyuan (Subject Head / InfoComm Technologies) 
 
-  
 
 **Department Programmes**
 
-**Baseline ICT Skills and New Media Literacies**   
-Our 6 year programme aims to equip every student in St Gabriel's Primary School with the essential ICT skills to enable them to be future-ready citizens. Each year, our Gabrielites will focus on mastering a set of ICT skills as follows:&nbsp;
+**Baseline ICT Skills and New Media Literacies** <p align="justify">
+Our 6 year programme aims to equip every student in St Gabriel's Primary School with the essential ICT skills to enable them to be future-ready citizens. Each year, our Gabrielites will focus on mastering a set of ICT skills as follows:</p>
 
 Primary 1 – Basics of Computer Operation and Touch Typing, Organising Information using Microsoft Word&nbsp;
 
