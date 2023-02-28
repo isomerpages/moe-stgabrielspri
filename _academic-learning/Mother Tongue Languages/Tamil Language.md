@@ -18,13 +18,13 @@ Miss Palaniammal Murugiah  (Subject Head Mother Tongue Languages)
 1. Mother Tongue Support Programme (MTSP)</p>
 <p align="justify">
 2. Mother Tongue Fortnight Activities:<br>
-A week of fun-filled activities to expose students to the Tamil Culture through the introduction of Indian food and art forms so as to arouse students’ interest and love for the language.
+A week of fun-filled activities to expose students to the Tamil Culture through the introduction of Indian food and art forms so as to arouse students’ interest and love for the language. <br>
 
-Primary 1: Indian Foods      
-Primary 2: Masala Tea   
-Primary 3: Ranggoli Kolum – Indian Floor Art    
-Primary 4: Clay Pot Painting – Pongal Pot    
-Primary 5: Clay Art
+Primary 1: Indian Foods <br>
+Primary 2: Masala Tea <br>
+Primary 3: Ranggoli Kolum – Indian Floor Art <br>
+Primary 4: Clay Pot Painting – Pongal Pot <br>
+Primary 5: Clay Art <br>
 </p>
 <p align="justify">
 3. Primary 1 to 6 Traditional Games Day
