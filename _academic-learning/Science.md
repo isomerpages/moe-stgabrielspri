@@ -18,10 +18,11 @@ Level Head (Internal): Ms Jolene Low
 Senior Teacher: Mdm Chitra Devi   
 
 
-### PROGRAMMES AND ACTIVITES 
-<u><strong>Primary 3 – 6 Student Centric Curriculum & Experiential Learning</strong></u>
+**Department Programmes**<br>
+Primary 3 – 6 Student Centric Curriculum & Experiential Learning
 
-* **Inquiry-Based Learning**
+* Inquiry-Based Learning<br> <p align="justify">
+At SGPS, the IBL approach places the learning more so in the hands of students as they take part in investigative activities to understand concepts while making connections with their surroundings. </p>
 
 ![](/images/sci1.png)
 
@@ -66,37 +67,3 @@ Senior Teacher: Mdm Chitra Devi
   </tr>
 </tbody>
 </table>
-
-
-### LINKS AND ONLINE RESOURCES 
-**Links**
-
-1. Singapore Zoological Gardens  
-[www.zoo.com.sg](http://www.zoo.com.sg/)
-
-2. Jurong Bird Park  
-[www.birdpark.com.sg](http://www.birdpark.com.sg/)
-
-3. Singapore Science Centre  
-[www.science.edu.sg/ssc](http://www.science.edu.sg/ssc)
-
-4. Sungei Buloh  
-[www.sbwr.org.sg](http://www.sbwr.org.sg/)
-
-5. Botanic Gardens  
-[www.sbg.org.sg](http://www.sbg.org.sg/)
-
-6. Fort Canning  
-[www.nparks.gov.sg](http://www.nparks.gov.sg/)
-
-7. Newater  
-[www.pub.gov.sg/water/newater/visitors/Pages/default.aspx](http://www.pub.gov.sg/water/newater/visitors/Pages/default.aspx)
-
-8. Raffles Museum of Biodiversity Research  
-[rmbr.nus.edu.sg/](http://rmbr.nus.edu.sg/)
-
-**Online Resources**
-
-1. Science Syllabus  
-[http://www.moe.gov.sg/education/syllabuses/sciences/files/science-primary-2014.pdf] 
-(NO FILE)
