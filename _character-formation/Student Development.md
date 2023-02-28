@@ -4,9 +4,9 @@ permalink: /character-formation/student-development/
 description: ""
 ---
 <img src="/images/SDT%20Framework%20version%201_Resized.jpeg" 
-     style="width:75%">
+     style="width:100%">
 
-### PILLARS OF STUDENT DEVELOPMENT
+**PILLARS OF STUDENT DEVELOPMENT**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
