@@ -4,7 +4,7 @@ permalink: /academic-learning/Mother-Tongue-Languages/tamil-language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-**Department Goal**   
+**Department Goal**
 <p align="justify">
 Develop engaged learners, effective communicators, through engaging activities which enthuse and enrich our students' learning 
 </p>
