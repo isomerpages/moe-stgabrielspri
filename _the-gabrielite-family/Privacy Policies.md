@@ -12,7 +12,7 @@ This Data Protection Policy outlines the management of Personal Data in accordan
 This policy seeks the understanding for the purposes for which SGPS collects, uses and/or discloses Personal Data. This policy states the agreement and consent given to SGPS as well as authorised service providers and relevant third parties collecting, using, disclosing and/or sharing Personal Data as stated in this Data Protection Policy. </p>
 
 <p align="justify">
-SGPS may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements. If any change is made, it will be published at the school’s website  <u>https://www.stgabrielspri.moe.edu.sg</u>. </p>
+SGPS may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements. If any change is made, it will be published at the school’s website  <a href="https://www.stgabrielspri.moe.edu.sg">https://www.stgabrielspri.moe.edu.sg</a>. </p>
 
 **1. Personal Data**
 <p align="justify">
@@ -45,7 +45,7 @@ SGPS may collect, use and/or disclose Personal Data as follows: <br> (a) Evaluat
 
 **4.  Disclosure of Personal Data** <br>
 <p align="justify">
-Personal Data will be protected and kept confidential but, this is subject to the provisions of any applicable law.  SGPS will not disclose your personal data to third parties without first obtaining your consent permitting to do so. However, please note that SGPS may disclose your personal data to third parties without first obtaining your consent in certain situations where such disclosure without your consent is permitted by the PDPA or by law. For more information on the exceptions, you are encouraged to peruse the Second, Third and Fourth Schedules of the PDPA which is publicly available at <u>https://statutes.agc.gov.sg</u>. </p>
+Personal Data will be protected and kept confidential but, this is subject to the provisions of any applicable law.  SGPS will not disclose your personal data to third parties without first obtaining your consent permitting to do so. However, please note that SGPS may disclose your personal data to third parties without first obtaining your consent in certain situations where such disclosure without your consent is permitted by the PDPA or by law. For more information on the exceptions, you are encouraged to peruse the Second, Third and Fourth Schedules of the PDPA which is publicly available at <a href="https://statutes.agc.gov.sg">https://statutes.agc.gov.sg</a>. </p>
 
 **5.  Administration and Management of Personal Data**
 <p align="justify">
