@@ -21,10 +21,10 @@ Senior Teacher: Mdm Chitra Devi
 **Department Programmes**<br>
 Primary 3 – 6 Student Centric Curriculum & Experiential Learning
 
-* Inquiry-based Learning (IBL) and Experential Learning Approach<br> <p align="justify">
+* **Inquiry-based Learning (IBL) and Experential Learning Approach**<br> <p align="justify">
 At SGPS, the IBL approach places the learning more so in the hands of students as they take part in investigative activities to understand concepts while making connections with their surroundings. </p>
 
-
+![](/images/Science%20IBL.jpg)
 
 * **Experiential Learning**
 
@@ -42,11 +42,13 @@ Teaching students about the environment helps them understand that small actions
 * The importance of Food Drives
 * Lower Primary Green Fingers Programme
 
-
+![](/images/Env.jpg)
 
 **Junior Science (JS) programme**
 
 Aimed at easing the lower primary students into the subject of Science, this programme taps on the natural curiosity of the Primary 1 and 2 students to further hone their Science skills and concepts. 
+
+![](/images/Junior%20Science.jpg)
 
 **Science Talent Development Programmes**
 
