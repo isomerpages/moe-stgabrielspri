@@ -11,9 +11,8 @@ third_nav_title: CCE
 This is done through various vehicles like National Education (NE), CCE lessons which are conducted during Mother Tongue lessons, our school’s in-house Montfortian Character, Citizenship and Leadership Education (MCLE) lessons, as well as through valuable school experiences such as Values-In-Action (VIA) projects and CCAs. </p>
 
 <img src="/images/CCE%20Curriculum.jpeg" 
-     style="width:65%">
+     style="width:100%">
 
-	
 **Key Personnel**  
 Mrs Jessica Hoon  
   
