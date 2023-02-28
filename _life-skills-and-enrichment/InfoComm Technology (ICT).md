@@ -35,13 +35,13 @@ Primary 5 – Basic Photography and Photo Manipulation
 Primary 6 – Basic Video Production using Windows Movie Maker
 </p>
 
-![](/images/Our%20lower%20primary%20Gabrielites%20at%20Baseline%20ICT%20Programme.jpeg)1. Our lower primary Gabrielites at Baseline ICT Programme
+![](/images/Our%20lower%20primary%20Gabrielites%20at%20Baseline%20ICT%20Programme.jpeg)Our lower primary Gabrielites at Baseline ICT Programme
 
 ![](/images/Our%20Gabrielite%20coding%20a%20Sphereo%20Bolt%20at%20Code%20For%20Fun%20(CFF).jpeg)
-3. Our Gabrielite coding a Sphereo Bolt at Code For Fun (CFF)
+Our Gabrielite coding a Sphereo Bolt at Code For Fun (CFF)
 
 ![](/images/Our%20Gabrielite%20testing%20out%20his%20Sphero%20Bolt%20programming%20at%20Code%20For%20Fun%20(CFF).jpeg)
-4. Our Gabrielite testing out his Sphero Bolt programming at Code For Fun (CFF)
+Our Gabrielite testing out his Sphero Bolt programming at Code For Fun (CFF)
 
 
 
@@ -148,16 +148,16 @@ There are 5 key Cyberwellness topics which students are engaged in through schoo
        mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:AR-SA">Respecting copyright</span></li></ul></td></tr></tbody></table>
 
 ![](/images/Safer%20Internet%20Day%20during%20school%20assembly.jpeg)
-5. Our Cyber Wellness Student Ambassadors Basil Quek and Stefan Snodgrass Danker sharing with the school about Safer Internet Day during school assembly.
+Our Cyber Wellness Student Ambassadors Basil Quek and Stefan Snodgrass Danker sharing with the school about Safer Internet Day during school assembly.
 
 ![](/images/Our%20Gabrielites%20accessing%20the%20Go%20Safe%20Online%20mobile%20booth.jpeg)
-6. Our Gabrielites accessing the Go Safe Online mobile booth set up by the Cyber Security Agency of Singapore (CSA)
+Our Gabrielites accessing the Go Safe Online mobile booth set up by the Cyber Security Agency of Singapore (CSA)
 
 ![](/images/Our%20CWSA%20Stefan%20Snodgrass%20Danker%20guiding%20a%20fellow%20Gabrielite%20at%20the%20mobile%20booth.jpg)
-7. Our CWSA Stefan Snodgrass Danker guiding a fellow Gabrielite at the mobile booth
+Our CWSA Stefan Snodgrass Danker guiding a fellow Gabrielite at the mobile booth
 
 ![](/images/Classroom%20activity%20where%20students%20learn%20about%20Media%20Balance.jpeg)
-8. Classroom activity where students learn about Media Balance
+Classroom activity where students learn about Media Balance
 
 
 **Support at Home**
