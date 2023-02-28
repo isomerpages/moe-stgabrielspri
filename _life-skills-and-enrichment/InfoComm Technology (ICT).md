@@ -34,6 +34,16 @@ Primary 5 – Basic Photography and Photo Manipulation
 Primary 6 – Basic Video Production using Windows Movie Maker
 </p>
 
+![](/images/Our%20lower%20primary%20Gabrielites%20at%20Baseline%20ICT%20Programme.jpeg)1. Our lower primary Gabrielites at Baseline ICT Programme
+
+![](/images/Our%20Gabrielite%20coding%20a%20Sphereo%20Bolt%20at%20Code%20For%20Fun%20(CFF).jpeg)
+3. Our Gabrielite coding a Sphereo Bolt at Code For Fun (CFF)
+
+![](/images/Our%20Gabrielite%20testing%20out%20his%20Sphero%20Bolt%20programming%20at%20Code%20For%20Fun%20(CFF).jpeg)
+4. Our Gabrielite testing out his Sphero Bolt programming at Code For Fun (CFF)
+
+
+
 **Cyber Wellness Education**   
 <p align="justify">
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. The 3 Cyber Wellness key messages are: </p>
