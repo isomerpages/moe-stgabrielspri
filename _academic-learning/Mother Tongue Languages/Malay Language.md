@@ -55,11 +55,13 @@ To build students’ vocabulary through exposure to local and traditional games
 An authentic experience of Malay Language and Culture: Silat
 </p>
 
+![](/images/Silat_Malay%20Martial%20Art.jpg)
+
 **School Level**<br>
 <p align="justify">
 1. Reading Programmes (P2 to P6)</p>
 <p align="justify">
-Objective: To develop students’ as effective communicators in the Malay language through customized reading and oratorical resources.&nbsp;</p>
+Objective: To develop students’ as effective communicators in the Malay language through customized reading and oratorical resources.</p>
 
 * MOE Phonetics and Reading Programme at Primary 1
 * Internal Reading Support Programme (P2 - P4)
@@ -67,5 +69,6 @@ Objective: To develop students’ as effective communicators in the Malay langua
 	
 <p align="justify">
 Objective: To build students’ vocabulary and competency in the language through the reading of Malay books / articles. </p>
+
 <p align="justify">
 2. Internal \ External Competitions </p>
