@@ -37,15 +37,6 @@ An authentic experience of Indian Folk Culture: Oiyilattam
 1. Reading Programme (P2 to P6)
 Objective: To develop students’ as effective communicators in the Tamil language through customized reading and oratorical resources.
 
-
-
-**E-Learning Platforms**
-* vaandu.sg  
-* TheenTamil Website  
-* Student Learning Space (SLS)
-
-Objective: To embark on various ICT platforms to enhance the learning of Tamil.
-
 **Learning Journey**   
 Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances.
 
