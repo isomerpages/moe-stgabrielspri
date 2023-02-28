@@ -74,4 +74,3 @@ Objective: To build students’ vocabulary and competency in the language throug
 2. Internal \ External Competitions </p>
 <p align="justify">
 Providing students with the opportunity to use the Malay Language at various platforms in various creative forms to build their confidence in public speaking. </p>
-
