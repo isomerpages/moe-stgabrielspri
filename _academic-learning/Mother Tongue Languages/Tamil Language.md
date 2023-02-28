@@ -14,9 +14,10 @@ Miss Palaniammal Murugiah  (Subject Head Mother Tongue Languages)
 
 **Department Programmes** <br>
 **National Level**
-
-1. Mother Tongue Support Programme (MTSP)
-2. Mother Tongue Fortnight Activities:
+<p align="justify">
+1. Mother Tongue Support Programme (MTSP)</p>
+<p align="justify">
+2. Mother Tongue Fortnight Activities:<br>
 A week of fun-filled activities to expose students to the Tamil Culture through the introduction of Indian food and art forms so as to arouse students’ interest and love for the language.
 
 Primary 1: Indian Foods      
@@ -24,24 +25,32 @@ Primary 2: Masala Tea 
 Primary 3: Ranggoli Kolum – Indian Floor Art    
 Primary 4: Clay Pot Painting – Pongal Pot    
 Primary 5: Clay Art
-
+</p>
+<p align="justify">
 3. Primary 1 to 6 Traditional Games Day
 To build students’ vocabulary through exposure to local and traditional games
-
+</p>
+<p align="justify">
 4. P3 Cultural Exxperience
 An authentic experience of Indian Folk Culture: Oiyilattam
-
+</p>
+<p align="justify">
 5. Tamil Language Festival @ UPTLC
+</p>
 
 **School Level**
+<p align="justify">
 1. Reading Programme (P2 to P6)
-Objective: To develop students’ as effective communicators in the Tamil language through customized reading and oratorical resources.
+Objective: To develop students’ as effective communicators in the Tamil language through customized reading and oratorical resources.</p>
 
-**Learning Journey**   
-Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances.
+**Learning Journey**
+<p align="justify">
+Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances. </p>
 
-**P4 Learning Jouney to Pongal Fair**  
+**P4 Learning Jouney to Pongal Fair**
+<p align="justify">
 An authentic learning experience on Tamil Language and Culture
+</p>
 
 **Useful Links**<br>
 [www.sinda.org.sg](http://www.sinda.org.sg/)
