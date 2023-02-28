@@ -56,9 +56,12 @@ Objective: To develop students’ as effective communicators in the Tamil langua
 <p align="justify">
 Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances. </p>
 
+<p align="justify">
 P4 Learning Jouney to Pongal Fair
-
+</p>
+<p align="justify">
 4. Touchtyping in Tamil
+</p>
 
 **Useful Links**<br>
 [www.sinda.org.sg](http://www.sinda.org.sg/)
