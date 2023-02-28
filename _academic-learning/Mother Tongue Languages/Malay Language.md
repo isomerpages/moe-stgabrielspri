@@ -14,7 +14,7 @@ Ms Palaniammal Murugiah  (Subject Head Mother Tongue Languages)
 Mr Muhamad Hamzah Rohi  (Malay Language Coordinator)
 
 **Department Programmes** <br>
-National Level
+**National Level**
 <p align="justify">
 1. Mother Tongue Support Programme (MTSP)
 <br>
@@ -40,39 +40,17 @@ To build students’ vocabulary through exposure to local and traditional games
 An authentic experience of Malay Language and Culture: Silat
 </p>
 
-**Reading Programme (P2 to P6)**
+**School Level**<br>
+<p align="justify">
+1. Reading Programmes (P2 to P6)</p>
+<p align="justify">
+Objective: To develop students’ as effective communicators in the Malay language through customized reading and oratorical resources. </p>
 
-Objective: To develop students’ as effective communicators in the Malay language through customized reading and oratorical resources. 
-
-**_1) MOE Phonetics and Reading Programme at Primary 1_**
-
-**_2) Silent Reading on Tuesdays and Thursdays (P1 - P6)_**
-
-Objective: To build students’ vocabulary and competency in the language through the reading of Malay books / articles.
-
-<img src="/images/malay6.png" 
-     style="width:65%">
-
-
-**E-Learning Platforms**
-* Cekap Website 
-* Student Learning Space (SLS)
-
-Objective: To embark on various ICT platforms to enhance the learning of Malay.  
-
- **Achievements:**
-
-2019 PSLE : 100 % passes in Standard Malay 
-
-  
-
-### USEFUL LINKS
-
-Information on ML (Primary) 2015 Syllabus  
-* [http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/](http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/)
-
-Berita Harian website  
-* [http://beritaharian.sg/](http://beritaharian.sg/)
-
-Online Bilingual Dictionaries  
-* [http://www.mykamus.com/](http://www.mykamus.com/)
+* MOE Phonetics and Reading Programme at Primary 1
+* Internal Reading Support Programme (P2 - P4)
+* Silent Reading on Tuesdays and Thursdays (P1 - P6)
+	
+<p align="justify">
+Objective: To build students’ vocabulary and competency in the language through the reading of Malay books / articles. </p>
+<p align="justify">
+2. Internal \ External Competitions </p>
