@@ -43,14 +43,22 @@ An authentic experience of Indian Folk Culture: Oiyilattam
 1. Reading Programme (P2 to P6)
 Objective: To develop students’ as effective communicators in the Tamil language through customized reading and oratorical resources.</p>
 
-**Learning Journey**
+*  Graded Reading Programme (P2 - P3) <br>
+*  Internal Reading Support Programme (P2 - P4) <br>
+*  Silent Read on Tuesdays and Thursdays (P1 - P6) <br>
+
+<p align="justify">
+2. Internal / External Competitions
+</p>
+<p align="justify">
+3. Learning Journey
+	</p>
 <p align="justify">
 Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances. </p>
 
-**P4 Learning Jouney to Pongal Fair**
-<p align="justify">
-An authentic learning experience on Tamil Language and Culture
-</p>
+P4 Learning Jouney to Pongal Fair
+
+4. Touchtyping in Tamil
 
 **Useful Links**<br>
 [www.sinda.org.sg](http://www.sinda.org.sg/)
