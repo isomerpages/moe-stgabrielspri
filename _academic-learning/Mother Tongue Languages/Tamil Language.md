@@ -83,6 +83,9 @@ Learning of Tamil through authentic learning experiences such as learning journe
 <p align="justify">
 P4 Learning Jouney to Pongal Fair
 </p>
+
+![](/images/P4%20boys%20at%20the%20Pongal%20Fair.jpg)
+
 <p align="justify">
 4. Touchtyping in Tamil
 </p>
