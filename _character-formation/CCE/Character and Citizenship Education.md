@@ -66,4 +66,4 @@ The vocabulary learnt by the students during their MTL lessons at each level pro
 	Every year, the Primary 5 students attend the NE Show to bask in the national celebrations and to evoke in them, a sense of patriotism</p>
 
 <img src="/images/via4.jpeg" 
-     style="width:35%">
+     style="width:100%">
