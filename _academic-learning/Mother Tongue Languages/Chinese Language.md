@@ -81,16 +81,16 @@ Speech & Drama, Composition Writing and Oracy Skills
 ICT Resources for Chinese Curriculum to help the students to learn Chinese language
 <p align="justify">
 1.	Ezhishi <br>
-http://ezhishi.net <br>
+	<a href="http://ezhishi.net">http://ezhishi.net </a> <br>
 A learning portal for students to learn Chinese Language so as to enhance their four skills, which are listening, speaking, reading and writing.
 </p>
 <p align="justify">
 2.	Dudu Town <br>
-http://go.dudu.town <br>
+<a href="http://go.dudu.town">http://go.dudu.town </a> <br>
 An interesting portal to encourage the students in reading Chinese Language story books
 </p>
 <p align="justify">
 3.	Listening Practices <br>
-https://stgabriels.of-stars.com/ <br>
+<a href="https://stgabriels.of-stars.com/">https://stgabriels.of-stars.com/ </a> <br>
 An E-portal for students to access listening practices based on examination format.
 </p>
