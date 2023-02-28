@@ -23,4 +23,9 @@ contacts:
       - email: ""
       - other: ""
     title: "Phone:"
+  - content:
+      - phone: ""
+      - email: stgps@moe.edu.sg
+      - other: ""
+    title: "Email:"
 ---
