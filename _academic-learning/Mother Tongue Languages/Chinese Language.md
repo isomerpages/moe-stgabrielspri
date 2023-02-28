@@ -30,7 +30,7 @@ A customised programme to support the learning of pupils in Mother Tongue.</p>
 * National Bilingual Creative Writing Competition<br>
 
 
-**SCHOOL-BASED** <br>
+**SCHOOL-BASED**
 <p align="justify">
 1) Mother Tongue Fortnight <br>
 2 weeks of language / cultural activities to inculcate the love and interest in the learning Chinese Language through related activities.
