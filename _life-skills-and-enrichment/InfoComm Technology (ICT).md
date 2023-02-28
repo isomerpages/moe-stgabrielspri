@@ -30,9 +30,9 @@ Primary 6 – Basic Video Production using Windows Movie Maker
 
 **Cyber Wellness Education**   
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. The 3 Cyber Wellness key messages are: <br>
-•	Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities. <br>
-•	Be a safe and responsible user of technology and maintain a positive online presence.<br>
-•	Be responsible for personal well-being in the cyberspace. <br>
+* Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities. 
+* Be a safe and responsible user of technology and maintain a positive online presence.
+* Be responsible for personal well-being in the cyberspace. 
 
 There are 5 key Cyberwellness topics which students are engaged in through school assembly programmes as well as within our school’s Montfortian Character, Citizenship &amp; Leadership Education (MCLE). They are: 
 
