@@ -12,7 +12,8 @@ Mdm Lim Jia Shyuan (Subject Head / InfoComm Technologies)
 
 **Department Programmes**
 
-**Baseline ICT Skills and New Media Literacies** <p align="justify">
+**Baseline ICT Skills and New Media Literacies** 
+<p align="justify">
 Our 6 year programme aims to equip every student in St Gabriel's Primary School with the essential ICT skills to enable them to be future-ready citizens. Each year, our Gabrielites will focus on mastering a set of ICT skills as follows:</p>
 
 <p align="justify">
