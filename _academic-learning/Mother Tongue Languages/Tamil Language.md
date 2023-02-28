@@ -75,7 +75,7 @@ Objective: To develop students’ as effective communicators in the Tamil langua
 2. Internal / External Competitions
 </p>
 
-
+![](/images/Bharathiyar%20Vizha_2.jpg)
 <p align="justify">
 3. Learning Journey
 	</p>
