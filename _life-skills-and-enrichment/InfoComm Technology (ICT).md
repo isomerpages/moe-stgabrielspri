@@ -146,6 +146,19 @@ There are 5 key Cyberwellness topics which students are engaged in through schoo
        vertical-align:baseline" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
        mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:AR-SA">Respecting copyright</span></li></ul></td></tr></tbody></table>
 
+![](/images/Safer%20Internet%20Day%20during%20school%20assembly.jpeg)
+5. Our Cyber Wellness Student Ambassadors Basil Quek and Stefan Snodgrass Danker sharing with the school about Safer Internet Day during school assembly.
+
+![](/images/Our%20Gabrielites%20accessing%20the%20Go%20Safe%20Online%20mobile%20booth.jpeg)
+6. Our Gabrielites accessing the Go Safe Online mobile booth set up by the Cyber Security Agency of Singapore (CSA)
+
+![](/images/Our%20CWSA%20Stefan%20Snodgrass%20Danker%20guiding%20a%20fellow%20Gabrielite%20at%20the%20mobile%20booth.jpg)
+7. Our CWSA Stefan Snodgrass Danker guiding a fellow Gabrielite at the mobile booth
+
+![](/images/Classroom%20activity%20where%20students%20learn%20about%20Media%20Balance.jpeg)
+8. Classroom activity where students learn about Media Balance
+
+
 **Support at Home**
 <p align="justify">
 To complement the CW curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace. To ensure that their children are safe and have positive experiences online, parents can: </p>
