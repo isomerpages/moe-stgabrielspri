@@ -15,26 +15,36 @@ Mdm Lim Jia Shyuan (Subject Head / InfoComm Technologies)
 **Baseline ICT Skills and New Media Literacies** <p align="justify">
 Our 6 year programme aims to equip every student in St Gabriel's Primary School with the essential ICT skills to enable them to be future-ready citizens. Each year, our Gabrielites will focus on mastering a set of ICT skills as follows:</p>
 
-Primary 1 – Basics of Computer Operation and Touch Typing, Organising Information using Microsoft Word&nbsp;
-
+<p align="justify">
+Primary 1 – Basics of Computer Operation and Touch Typing, Organising Information using Microsoft Word
+</p>
+<p align="justify">
 Primary 2 – Internet Search, Email, Creative Presentation using Microsoft Power Point&nbsp;
-
+</p>
+<p align="justify">
 Primary 3 – Introduction to Coding and Design
-
+</p>
+<p align="justify">
 Primary 4 – Code For Fun (CFF), Data Management using Microsoft Excel
-
+</p>
+<p align="justify">
 Primary 5 – Basic Photography and Photo Manipulation 
-
+</p>
+<p align="justify">
 Primary 6 – Basic Video Production using Windows Movie Maker
+</p>
 
 **Cyber Wellness Education**   
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. The 3 Cyber Wellness key messages are: <br>
+<p align="justify">
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. The 3 Cyber Wellness key messages are: </p>
+
 * Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities. 
 * Be a safe and responsible user of technology and maintain a positive online presence.
 * Be responsible for personal well-being in the cyberspace. 
 
+<p align="justify">
 There are 5 key Cyberwellness topics which students are engaged in through school assembly programmes as well as within our school’s Montfortian Character, Citizenship &amp; Leadership Education (MCLE). They are: 
-
+</p>
 
 <table style="width:472.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;mso-border-insideh:.5pt solid windowtext;
@@ -126,11 +136,8 @@ There are 5 key Cyberwellness topics which students are engaged in through schoo
        vertical-align:baseline" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
        mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-language:AR-SA">Respecting copyright</span></li></ul></td></tr></tbody></table>
 
-
-
-
-**Support at Home**&nbsp;
-
-To complement the CW curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace. To ensure that their children are safe and have positive experiences online, parents can:
+**Support at Home**
+<p align="justify">
+To complement the CW curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace. To ensure that their children are safe and have positive experiences online, parents can: </p>
 
 <img style="width:100%" src="/images/ict5.jpeg">
