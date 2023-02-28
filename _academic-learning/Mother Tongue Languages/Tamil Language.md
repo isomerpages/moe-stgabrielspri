@@ -57,6 +57,10 @@ An authentic experience of Indian Folk Culture: Oiyillattam
 5. Tamil Language Festival @ UPTLC
 </p>
 
+![](/images/UPTLC_Tamil%20Language%20Festiival.jpeg)
+
+<br>
+
 **School Level**
 <p align="justify">
 1. Reading Programme (P2 to P6)
