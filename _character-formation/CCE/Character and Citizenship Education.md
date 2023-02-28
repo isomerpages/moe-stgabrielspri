@@ -6,18 +6,18 @@ third_nav_title: CCE
 ---
 **Department Goal**   
 <p align="justify">
-	The goal of the Character and Citizenship Education Department (CCE) in St. Gabriel’s Primary School, is to inculcate values in our Gabrielites and to develop them to be active loyal citizens who are able to contribute to the society, are civic-conscious and resilient.
+	The goal of the Character and Citizenship Education Department (CCE) in St. Gabriel’s Primary School, is to inculcate values in our Gabrielites and to develop them to be active loyal citizens who are able to contribute to the society, are civic-conscious and resilient. </p>
 <p align="justify">
-This is done through various vehicles like National Education (NE), CCE lessons which are conducted during Mother Tongue lessons, our school’s in-house Montfortian Character, Citizenship and Leadership Education (MCLE) lessons, as well as through valuable school experiences such as Values-In-Action (VIA) projects and CCAs.
+This is done through various vehicles like National Education (NE), CCE lessons which are conducted during Mother Tongue lessons, our school’s in-house Montfortian Character, Citizenship and Leadership Education (MCLE) lessons, as well as through valuable school experiences such as Values-In-Action (VIA) projects and CCAs. </p>
 
 <img src="/images/CCE%20Curriculum.jpeg" 
      style="width:65%">
 
-
-**Head Of Department**  
+	
+**Key Personnel**  
 Mrs Jessica Hoon  
   
-**Programmes /Activites** 
+**Department Programmes** 
 
 **National Education (NE)**    
 <p align="justify">NE strives to develop a better understanding of the country. In doing so, we aim to develop in our students, national cohesion, emotional rootedness and the sense of belonging to the nation.
