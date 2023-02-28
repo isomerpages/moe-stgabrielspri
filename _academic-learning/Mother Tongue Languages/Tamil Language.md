@@ -26,6 +26,8 @@ Primary 3: Ranggoli Kolum – Indian Floor Art <br>
 Primary 4: Clay Pot Painting – Pongal Pot <br>
 Primary 5: Clay Art <br>
 </p>
+
+
 <p align="justify">
 3. Primary 1 to 6 Traditional Games Day
 To build students’ vocabulary through exposure to local and traditional games
