@@ -6,11 +6,9 @@ description: ""
 **Department Goal**   
 Every Gabrielite to develop his artistic and creative capabilities with a sense of cultural awareness.
 
-**Head of Department**   
+**Key Personnel**   
 Mrs Catherine Low
 
-**Music Coordinator**   
-Mrs Sabrina Tan
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -41,7 +39,7 @@ Mrs Sabrina Tan
   </tr>
   <tr>
     <td class="tg-g1uo"><span style="color:#232323">Ms Priscilla Yong</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Faith Chiu</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"></span></td>
   </tr>
 </tbody>
 </table>
