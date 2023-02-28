@@ -10,24 +10,31 @@ To develop engaged learners, effective communicators through engaging activities
 **Key Personnel** <br>
 Ms Wan Chui Ting (Level Head/Chinese Language)
 
-**DEPARTMENT PROGRAMMES**
+**Department Programmes** <br>
 To enhance students' interest in learning Chinese Language, the following activities are organized for all pupils.
 
-**NATIONAL**
-1) Mother Tongue Support Programme
-A customised programme to support the learning of pupils in Mother Tongue.
+**National Level**<br>
+<p align="justify">
+1) Mother Tongue Support Programme <br>
+A customised programme to support the learning of pupils in Mother Tongue.</p>
 
+<p align="justify">
 2) Inter-School Competitions and Activities<br>
-Fo Guang Shan Penmanship Competition <br>
-Text Recital Competition <br>
-Chinese Memory Games Competition <br>
-National Chinese Challenge <br>
-National Crosstalk Competition <br>
-National Bilingual Creative Writing Competition<br>
+	</p>
+	
+* Fo Guang Shan Penmanship Competition <br>
+* Text Recital Competition <br>
+* Chinese Memory Games Competition <br>
+* National Chinese Challenge <br>
+* National Crosstalk Competition <br>
+* National Bilingual Creative Writing Competition<br>
 
-**SCHOOL-BASED**
+
+**SCHOOL-BASED** <br>
+<p align="justify">
 1) Mother Tongue Fortnight <br>
 2 weeks of language / cultural activities to inculcate the love and interest in the learning Chinese Language through related activities.
+	</p>
 2) Inquiry Based Projects (IBL)
 An inquiry-based approach shifts the focus to the students themselves, who become active learners as they choose which topics to explore; research these topics; decide what to produce, create, or solve; and then reflect on what they have learned. With a student-centred approach, it helps students to develop knowledge, skills and conceptual understanding.
 3) P3 Language/Cultural Camp
