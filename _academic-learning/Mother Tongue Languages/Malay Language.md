@@ -35,17 +35,10 @@ Primary 5: Wau (Malay Kite)<br>
 3. Primary 1 to 6 Traditional Games Day
 To build students’ vocabulary through exposure to local and traditional games
 </p>
-
-<img src="/images/malay3.png" 
-     style="width:65%">
-
-**_P3 Cultural Experience_**     
+<p align="justify">
+4. P3 Cultural Experience  
 An authentic experience of Malay Language and Culture: Silat
-
-<img src="/images/malay4.png" 
-     style="width:65%">
-		 
-**_EXPOSE, ENRICH_**
+</p>
 
 **Reading Programme (P2 to P6)**
 
