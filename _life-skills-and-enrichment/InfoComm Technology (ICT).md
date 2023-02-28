@@ -153,9 +153,6 @@ Our Cyber Wellness Student Ambassadors Basil Quek and Stefan Snodgrass Danker sh
 ![](/images/Our%20Gabrielites%20accessing%20the%20Go%20Safe%20Online%20mobile%20booth.jpeg)
 Our Gabrielites accessing the Go Safe Online mobile booth set up by the Cyber Security Agency of Singapore (CSA)
 
-![](/images/Our%20CWSA%20Stefan%20Snodgrass%20Danker%20guiding%20a%20fellow%20Gabrielite%20at%20the%20mobile%20booth.jpg)
-Our CWSA Stefan Snodgrass Danker guiding a fellow Gabrielite at the mobile booth
-
 ![](/images/Classroom%20activity%20where%20students%20learn%20about%20Media%20Balance.jpeg)
 Classroom activity where students learn about Media Balance
 
