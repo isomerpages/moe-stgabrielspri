@@ -9,10 +9,10 @@ description: ""
 * To develop every Gabrielite to embrace Science with passion and be responsible in caring for the environment
 
 <img src="/images/ScienceDepartmentGoal.jpeg" 
-     style="width:25%">
+     style="width:50%">
 
  
-**Head of Department:**    
+**Key Personnel**    
 Head of Department: Mdm Jean Heng  
 Level Head (Internal): Ms Jolene Low   
 Senior Teacher: Mdm Chitra Devi   
