@@ -16,7 +16,7 @@ Mr Xie Zhengyang (Subject Head, Student Leadership)
 Student leadership at St. Gabriel’s Primary School is aligned to its mission of Shaping Lives for Service to God and Nation. The school has developed a 3-tier student leadership framework based on the philosophy of “Giving Pupils a Voice”
 </p>
 <img src="/images/Student%20Leadership%20Framework_v2.png" 
-     style="width:65%">
+     style="width:100%">
 
 **Introduction**
 <p align="justify">
