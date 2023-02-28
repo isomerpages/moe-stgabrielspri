@@ -42,3 +42,11 @@ EL Syllabus 2020 seeks to develop these competencies in our learners through the
 **Events**
 <p align="justify">
 Events are organised by the department to promote a love and appreciation for language learning. The EL Fiesta is held on a termly basis to engage students in reading activities. Students also participate in NLB events such as Read for Books, a charity book drive. </p>
+
+![](/images/EL%20Events.jpg)
+
+**Competitions**
+<p align="justify">
+Gabrielites are also given the opportunity to participate in competitions such as the 2023 Wits and Words Inter-school Debate Championship, Singapore Moo-O Awards, Creative Writing Programme (CWP) etc.</p>
+
+![](/images/EL%20Competitions.jpg)
