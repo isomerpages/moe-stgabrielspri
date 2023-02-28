@@ -5,41 +5,36 @@ description: ""
 third_nav_title: Mother Tongue Languages
 ---
 **Department Goal**   
-Engaged Learners. Effective Communicators.  
+<p align="justify">
+Develop engaged leaners, effective communicators, through engaging activities with enthuse and enrich our students' learning.
+	</p>
   
-**Subject Head**   
-Ms Palaniammal Murugiah  
-  
-**Malay Language Coordinator**  
-Mr Muhamad Hamzah Rohi  
+**Key Personnel**   
+Ms Palaniammal Murugiah  (Subject Head Mother Tongue Languages)
+Mr Muhamad Hamzah Rohi  (Malay Language Coordinator)
 
-### PROGRAMMES AND ACTIVITIES
+**Department Programmes** <br>
+National Level
+<p align="justify">
+1. Mother Tongue Support Programme (MTSP)
+<br>
+<br>
+2. Mother Tongue Fortnight Activities:
+</p>
+<p align="justify">
+A week of fun-filled activities to expose students to the Malay Culture through the introduction of Malay food and art forms so as to arouse students’ interest and love for the language.  
+</p>
 
-**_ENGAGE. ENTHUSE. ENRICH._**
+Primary 1: Local Foods <br>
+Primary 2: Teh Tarik  <br>
+Primary 3: Carpet Weaving  <br>
+Primary 4: Craftwork – Bunga Mangah  <br>
+Primary 5: Wayang Kulit <br>
 
-**_Engaged Learners_**
-
-_Use of various strategies and engaging activities such as group work, games, drama etc to engage students in the learning of Malay Language._
-
-<img src="/images/malay1.png" 
-     style="width:65%">
-
-
-**Mother Tongue Fortnight Activities:** 
-
-**A week of fun-filled activities to expose students to the Malay Culture through the introduction of Malay food and art forms so as to arouse students’ interest and love for the language.**  
-
-Primary 1: Local Foods  
-Primary 2: Teh Tarik  
-Primary 3: Carpet Weaving  
-Primary 4: Craftwork – Bunga Mangah  
-Primary 5: Wayang Kulit
-
-<img src="/images/malay2-2.png" 
-     style="width:85%">
-
-**Primary 1 to 6 Traditional Games and Music Day**   
-To build students’ vocabulary through exposure to local games
+<p align="justify">
+3. Primary 1 to 6 Traditional Games Day
+To build students’ vocabulary through exposure to local and traditional games
+</p>
 
 <img src="/images/malay3.png" 
      style="width:65%">
