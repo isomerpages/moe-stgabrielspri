@@ -28,8 +28,8 @@ A week of fun-filled activities to expose students to the Malay Culture through 
 Primary 1: Local Foods <br>
 Primary 2: Teh Tarik  <br>
 Primary 3: Carpet Weaving  <br>
-Primary 4: Craftwork – Bunga Mangah  <br>
-Primary 5: Wayang Kulit <br>
+Primary 4: Wayang Kulit (Shadow Puppet)<br>
+Primary 5: Wau (Malay Kite)<br>
 
 <p align="justify">
 3. Primary 1 to 6 Traditional Games Day
