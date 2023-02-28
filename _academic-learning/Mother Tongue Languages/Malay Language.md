@@ -74,3 +74,11 @@ Objective: To build students’ vocabulary and competency in the language throug
 2. Internal \ External Competitions </p>
 <p align="justify">
 Providing students with the opportunity to use the Malay Language at various platforms in various creative forms to build their confidence in public speaking. </p>
+
+* Nursery Rhymes Competition (P1 - P2)
+* Poetry Recital Competition (P3 - P4)
+* Advertisement Skit (P5)
+
+
+![](/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg)
+Rakan Bahasa Malay Language Ambassador
