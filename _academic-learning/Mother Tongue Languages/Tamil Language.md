@@ -70,6 +70,7 @@ Objective: To develop students’ as effective communicators in the Tamil langua
 *  Internal Reading Support Programme (P2 - P4) <br>
 *  Silent Read on Tuesdays and Thursdays (P1 - P6) <br>
 
+![](/images/Reading%20Programme_pic%201.jpeg)
 <p align="justify">
 2. Internal / External Competitions
 </p>
@@ -85,6 +86,8 @@ P4 Learning Jouney to Pongal Fair
 <p align="justify">
 4. Touchtyping in Tamil
 </p>
+
+![](/images/Touchtyping%20in%20Tamil.jpeg)
 
 **Useful Links**<br>
 [www.sinda.org.sg](http://www.sinda.org.sg/)
