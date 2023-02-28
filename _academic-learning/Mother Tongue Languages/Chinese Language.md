@@ -15,11 +15,11 @@ To enhance students' interest in learning Chinese Language, the following activi
 
 **National Level**<br>
 <p align="justify">
-1) Mother Tongue Support Programme <br>
+1. Mother Tongue Support Programme <br>
 A customised programme to support the learning of pupils in Mother Tongue.</p>
 
 <p align="justify">
-2) Inter-School Competitions and Activities<br>
+2. Inter-School Competitions and Activities<br>
 	</p>
 	
 * Fo Guang Shan Penmanship Competition <br>
@@ -32,44 +32,44 @@ A customised programme to support the learning of pupils in Mother Tongue.</p>
 
 **SCHOOL-BASED**
 <p align="justify">
-1) Mother Tongue Fortnight <br>
+1. Mother Tongue Fortnight <br>
 2 weeks of language / cultural activities to inculcate the love and interest in the learning Chinese Language through related activities.
 	</p>
 <p align="justify">
-2) Inquiry Based Projects (IBL)
+2. Inquiry Based Projects (IBL)
 An inquiry-based approach shifts the focus to the students themselves, who become active learners as they choose which topics to explore; research these topics; decide what to produce, create, or solve; and then reflect on what they have learned. With a student-centred approach, it helps students to develop knowledge, skills and conceptual understanding.
 </p>
 <p align="justify">
-3) P3 Language/Cultural Camp
+3. P3 Language/Cultural Camp
 Interesting language and cultural activities to inculcate the love of learning of Chinese Language.
 	</p>
 	<p align="justify">
-4) Assembly Programme <br>
+4 Assembly Programme <br>
 Chinese New Year Celebrations
 	</p>
 	<p align="justify">
-5) Inter-Class Competitions and Activities <br>
+5. Inter-Class Competitions and Activities <br>
 Penmanship Competition <br>
 Reading Activities
 	</p>
 	<p align="justify">
-6) Oral Programme (P6) <br>
+6. Oral Programme (P6) <br>
 Weekly oral practices to develop students’ reading and oratorical skills.
 	</p>
 	<p align="justify">
-7) Silent Reading during pre-assembly on Tuesdays and Thursdays (P1 - P6) <br>
+7. Silent Reading during pre-assembly on Tuesdays and Thursdays (P1 - P6) <br>
 To encourage reading of Chinese books / articles so as to improve pupils' language competency.
 	</p>
 	<p align="justify">
-8) Reading Programme <br>
+8. Reading Programme <br>
 Structured reading programme which encourages reading of Chinese Language books
 	</p>
 	<p align="justify">
-9) Enrichment Programmes <br>
+9. Enrichment Programmes <br>
 Speech & Drama, Composition Writing and Oracy Skills
 	</p>
 	<p align="justify">
-10) Local Learning Journeys <br>
+10. Local Learning Journeys <br>
 	</p>
 	
 * Arts and cultural performances <br>
