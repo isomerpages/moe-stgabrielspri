@@ -22,7 +22,7 @@ Mr&nbsp;Muhamad Hamzah Rohi  (Malay Language Coordinator)
 2. Mother Tongue Fortnight Activities:
 </p>
 <p align="justify">
-A week of fun-filled activities to expose students to the Malay Culture through the introduction of Malay food and art forms so as to arouse students’ interest and love for the language.&nbsp;&nbsp;
+A week of fun-filled activities to expose students to the Malay Culture through the introduction of Malay food and art forms so as to arouse students’ interest and love for the language.
 </p>
 
 Primary 1: Local Foods <br>
