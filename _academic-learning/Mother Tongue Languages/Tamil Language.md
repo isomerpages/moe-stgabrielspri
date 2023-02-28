@@ -74,6 +74,8 @@ Objective: To develop students’ as effective communicators in the Tamil langua
 <p align="justify">
 2. Internal / External Competitions
 </p>
+
+
 <p align="justify">
 3. Learning Journey
 	</p>
