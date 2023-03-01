@@ -13,14 +13,19 @@ Mrs Catherine Low
 **Aesthetics Committee** 
 <br>Mr Daniel Sia <br>Mrs Shelena Lim<br>Ms Glenda Ng<br>Mdm Cecilia Wong<br>Ms Priscilla Yong
 
-**Department Programmes**
-At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision:
+**Department Programmes** <br>
+<p align="justify">
+At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision: </p>
 
-**Leader** – To cultivate a passion for the Arts and to foster a sense of cultural awareness for artistic development and excellence as a respectful and ethical individual
+<p align="justify">
+	<b>Leader</b> – To cultivate a passion for the Arts and to foster a sense of cultural awareness for artistic development and excellence as a respectful and ethical individual</p>
 
-**Sportsman** – To develop social and life skills as an effective and resilient team player through diverse arts experiences, ethnic music groups and ensembles
 
-**Achiever** – To strengthen critical thought and creative expression with knowledge and competency, and to excel in artistic and musical mastery as an inventive and confident individual
+<p align="justify">
+	<b>Sportsman</b> – To develop social and life skills as an effective and resilient team player through diverse arts experiences, ethnic music groups and ensembles</p>
+
+<p align="justify">
+	<b>Achiever</b> – To strengthen critical thought and creative expression with knowledge and competency, and to excel in artistic and musical mastery as an inventive and confident individual</p>
 
 ![](/images/aesthetics1.png)
 ![](/images/aesthetics2.png)
