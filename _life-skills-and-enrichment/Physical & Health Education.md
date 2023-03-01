@@ -34,47 +34,15 @@ Goal 6: Enjoy and value the benefits of living a physically active and healthy l
 
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 551px">
-<colgroup>
-<col style="width: 118px">
-<col style="width: 433px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-s2rg">Level</td>
-    <td class="tg-s2rg">Key Programmes / Events</td>
-  </tr>
-  <tr>
-    <td class="tg-vo25">Primary 1 &amp; 2</td>
-    <td class="tg-vo25">Programme for Active Learning, Mini Olympics, Health &amp; Wellness Week</td>
-  </tr>
-  <tr>
-    <td class="tg-vo25">Primary 3</td>
-    <td class="tg-vo25">SwimSafer Programme, NAPFA Familiarisation, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games</td>
-  </tr>
-  <tr>
-    <td class="tg-vo25">Primary 4</td>
-    <td class="tg-vo25">NAPFA Test, Sports Skills Exhibition Day, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games</td>
-  </tr>
-  <tr>
-    <td class="tg-vo25">Primary 5</td>
-    <td class="tg-vo25">NAPFA Test, Sports Skills Exhibition Day, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games, Discovery &amp; Leadership Camp, BP Initiative @ Schools Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-vo25">Primary 6</td>
-    <td class="tg-vo25">NAPFA Test, Sports Skills Exhibition Day, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games</td>
-  </tr>
-</tbody>
-</table>
+
+
+| Level | Key Programmes / Events |
+| -------- | -------- |
+| Primary 1 & 2  | Programme for Active Learning, Mini Olympics, Health & Wellness Week   |
+|Primary 3|SwimSafer Programme, NAPFA Familiarisation, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games|
+|Primary 4|NAPFA Test, Sports Skills Exhibition Day, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games|
+|Primary 5|NAPFA Test, Sports Skills Exhibition Day, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games, Discovery & Leadership Camp, BP Initiative @ Schools Programme|
+|Primary 6|NAPFA Test, Sports Skills Exhibition Day, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games|
 
 ![](/images/phe1.png)
 ![](/images/phe2.png)
