@@ -14,7 +14,7 @@ permalink: /privacy/
 
 <p align="justify">
 4. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.</p>
-	
+
 <p align="justify">
 5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. </p>
 	
