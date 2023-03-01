@@ -21,4 +21,5 @@ The NEU PC Plus Programme offers low-income households with student or person wi
 
 Click [here](https://www.imda.gov.sg/neupc) for more information. <br>
 
-For M1 Fibre Broadband application, please use the updated form.
+For M1 Fibre Broadband application, please use the updated form. <br>
+[NEU PC Plus IMDA FBB Svc Application Form](https://drive.google.com/file/d/1ai2gNc-HHmk75xfIdt5PkNZuTL0wMZYF/view?usp=sharing)
