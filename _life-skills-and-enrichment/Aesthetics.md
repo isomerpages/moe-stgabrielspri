@@ -30,10 +30,13 @@ At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, s
 ![](/images/aesthetics1.png)
 ![](/images/aesthetics2.png)
 
+<p align="justify">
+Our visual and performing arts programmes are designed to extend the arts experiences beyond the learning of skills and techniques. Students are also provided with opportunities to enhance their skills and level of proficiency with professional instructors (AISS and AMIS) on curriculum modules such as Oil Pastel and Watercolour Art, Batik Art, Angklung, Percussion Ensembles and Creative Dance, which are grounded in cultural values. </p>
 
-Our visual and performing arts programmes are designed to extend the arts experiences beyond the learning of skills and techniques. Students are also provided with opportunities to enhance their skills and level of proficiency with professional instructors (AISS and AMIS) on curriculum modules such as Oil Pastel and Watercolour Art, Batik Art, Angklung, Percussion Ensembles and Creative Dance, which are grounded in cultural values. 
-
+<p align="justify">
 The three aesthetics CCAs namely Brass Band, Performing Arts and Art Club provide avenues for students to further pursue their interest in performing and creative expression. With a wide spectrum of enriched arts experiences and showcase platforms, we hope our Gabrielites will be empowered by the arts as they discover their interests and aspirations to develop their artistic and creative capabilities in potential fields which enrich and expand their experience of life. 
+	</p>
+
 
 **Our Aesthetics Journey**
 
