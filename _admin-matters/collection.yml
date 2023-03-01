@@ -2,6 +2,7 @@ collections:
   admin-matters:
     output: true
     order:
+      - Group Personal Accident Insurance for Students.md
       - School Bus.md
       - School Bookshop.md
       - School Uniform.md
