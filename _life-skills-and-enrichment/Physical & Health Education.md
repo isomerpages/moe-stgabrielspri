@@ -9,9 +9,8 @@ Every Gabrielite a sportsman, able to pursue an active and healthy lifestyle ind
 **Mission**    
 To equip every student with 21CC knowledge, skills and attitude to lead a healthy lifestyle.
 
-**Key Personnel**
-Mr Jimmy Tong (HOD PHE/CCA)
-    
+**Key Personnel** <br>
+Mr Jimmy Tong (HOD PHE/CCA) <br>
 Mr Sean De Zilva (SH PHE/CCA)
 
 
