@@ -87,4 +87,4 @@ Physical Health and Fitness stimulates students’ interest in physical activity
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0dqcRUZxzjE" title="Annual Games Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-[Keeping Children Healthy - A Guide For Parents](/files/Parents%20Newsletter%20Edition%201.pdf)
+[Keeping Children Healthy - A Guide For Parents](https://drive.google.com/file/d/1rFqdpVg5te6O57zLRVgyY8vCl-BgwfuO/view?usp=sharing)
