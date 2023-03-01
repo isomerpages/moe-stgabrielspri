@@ -2,8 +2,8 @@ collections:
   life-skills-and-enrichment:
     output: true
     order:
-      - InfoComm Technology (ICT).md
       - Physical & Health Education.md
+      - InfoComm Technology (ICT).md
       - Aesthetics.md
       - Programme for Active Learning (PAL).md
       - Co Curricular Activities (CCA)/.keep
