@@ -68,12 +68,13 @@ Interesting language and cultural activities to inculcate the love of learning o
 	
 ![](/images/Interclass.jpg)
 
+
 <p align="justify">
 6. Oral Programme (P6) <br>
 Weekly oral practices to develop students’ reading and oratorical skills.
 	</p>
 	
-	<p align="justify">
+<p align="justify">
 7. Silent Reading during pre-assembly on Tuesdays and Thursdays (P1 - P6) <br>
 To encourage reading of Chinese books / articles so as to improve pupils' language competency.
 	</p>
