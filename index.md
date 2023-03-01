@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Mock-up Website GIF.gif
       key_highlights:
         - title: CHARACTER FORMATION
           description: ""
@@ -21,6 +20,7 @@ sections:
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/gdlp/
+      background: /images/Mock-up Website GIF (3) - Banners.gif
   - resources:
       title: Announcement
   - infopic:
@@ -28,10 +28,10 @@ sections:
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
       alt: Image alt text
-      image: /images/Facebook Image.jpg
+      image: /images/Gabrielite 2025 Banner.jpeg
   - infopic:
       title: School Corporate Video
-      button: View Video
+      button: Get To Know Us
       url: https://youtu.be/Ym_EcHQKj3E
       image: /images/vidicondemo.png
       alt: Image alt text

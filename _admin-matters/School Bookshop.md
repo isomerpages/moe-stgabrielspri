@@ -3,7 +3,6 @@ title: School Bookshop
 permalink: /admin-matters/school-bookshop/
 description: ""
 ---
-
 **PACIFIC BOOKSTORES PTE LTD**
 
 **Contact Number:**  64640111 (Main Office) / 64877260 (School Bookstore) 
@@ -17,10 +16,10 @@ description: ""
 
 **Email:** sales@pacificbookstores.com 
 
-**Remarks:** | Online purchase available
+**Remarks:**  Online purchase available
 
 **Booklists (2023):**
 
-[SGBPS P1.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/Booklist/SGBPS%20P1.pdf)        [SGBPS P2.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/Booklist/SGBPS%20P2.pdf)        [SGBPS P3.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/Booklist/SGBPS%20P3.pdf)
+[SGBPS P1.pdf](https://drive.google.com/file/d/17VUxNGgvnunVb3sllDh4IUy3eoQ9aA24/view?usp=sharing)        [SGBPS P2.pdf](https://drive.google.com/file/d/16g19MxVNi_vQW6fzRPXuFXLTeewtrZkz/view?usp=sharing)        [SGBPS P3.pdf](https://drive.google.com/file/d/1R1-vO_i0T8RrActyAbz047FHzOdH2z66/view?usp=sharing)
 
-[SGBPS P4.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/Booklist/SGBPS%20P4.pdf)       [SGBPS P5.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/Booklist/SGBPS%20P5.pdf)        [SGBPS P6.pdf](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/Contact%20Info/Booklist/SGBPS%20P6.pdf)
+[SGBPS P4.pdf](https://drive.google.com/file/d/1DXKzJTv1MRJndUXYtDk7L78sEh8s_fZ1/view?usp=sharing)       [SGBPS P5.pdf](https://drive.google.com/file/d/16_9R4Sqt-LO4vIwi9xl3UqNTuA3hiY-A/view?usp=sharing)        [SGBPS P6.pdf](https://drive.google.com/file/d/15BYjrDpSRl70AiLU4ZWmRNQ9XH13H5dS/view?usp=sharing)

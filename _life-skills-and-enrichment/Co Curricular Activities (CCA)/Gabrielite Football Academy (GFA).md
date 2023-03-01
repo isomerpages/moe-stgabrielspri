@@ -4,7 +4,6 @@ permalink: /life-skills-and-enrichment/Co-Curricular-Activities/grabrielite-foot
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 ![](/images/GFA%202023.jpg)
 
 <style type="text/css">
@@ -96,17 +95,16 @@ National Tier 1 Junior Division League Champions
 
 **Background**
 
-  
-
-The Gabrielite Football Academy (GFA) was started to provide our boys with a holistic education to develop them into Leaders, Sportsmen and Achievers in 2019. It was the brainchild of our new principal, Mr Martin Tan, who envisioned a whole school-CCA with a holistic focus for any boy who is interested to play football at St Gabriel’s Primary School.
-
-  
-
-Our boys are selected from P1 and put through training on and off the field. As a footballer, they are trained to improve their individual and team skills so that they can play football competitively or recreationally. All our boys are given Inter-School opportunities. As a leader, they are trained to become eventual junior coaches and referees, where they are expected to coach the junior players eventually and referee in school based matches. 
+ <p align="justify">
+The Gabrielite Football Academy (GFA) was started to provide our boys with a holistic education to develop them into Leaders, Sportsmen and Achievers in 2019. It was the brainchild of our new principal, Mr Martin Tan, who envisioned a whole school-CCA with a holistic focus for any boy who is interested to play football at St Gabriel’s Primary School. </p>
 
   
+<p align="justify">
+Our boys are selected from P1 and put through training on and off the field. As a footballer, they are trained to improve their individual and team skills so that they can play football competitively or recreationally. All our boys are given Inter-School opportunities. As a leader, they are trained to become eventual junior coaches and referees, where they are expected to coach the junior players eventually and referee in school based matches. </p>
 
-In addition to all these football related activities, our boys are expected to do well in their studies and character development, so that they can become contributing and useful citizens of our school and country.
+  
+<p align="justify">
+In addition to all these football related activities, our boys are expected to do well in their studies and character development, so that they can become contributing and useful citizens of our school and country. </p>
 
   
 

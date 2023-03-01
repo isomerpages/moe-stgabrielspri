@@ -4,238 +4,97 @@ permalink: /academic-learning/Mother-Tongue-Languages/tamil-language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-**Department Goal**   
-Engaged Learners. Effective Communicators.  
+**Department Goal**
+<p align="justify">
+Develop engaged learners, effective communicators, through engaging activities which enthuse and enrich our students' learning 
+</p>
   
-**Subject Head**   
-Miss Palaniammal Murugiah  
+**Key Personnel**   
+Miss Palaniammal Murugiah  (Subject Head Mother Tongue Languages)
 
-### PROGRAMMES AND ACTIVITIES
+**Department Programmes** <br>
+**National Level**
+<p align="justify">
+1. Mother Tongue Support Programme (MTSP)</p>
+<p align="justify">
+2. Mother Tongue Fortnight Activities:<br>
+A week of fun-filled activities to expose students to the Tamil Culture through the introduction of Indian food and art forms so as to arouse students’ interest and love for the language. <br>
 
-**_ENGAGE. ENTHUSE. ENRICH._**
+Primary 1: Indian Food <br>
+Primary 2: Masala Tea <br>
+Primary 3: Ranggoli Kolum – Indian Floor Art <br>
+Primary 4: Clay Pot Painting – Pongal Pot <br>
+Primary 5: Clay Art <br>
+</p>
 
-**Engaged Learners**
+<table style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/P1_Indian%20Food.jpg" height="357" width="200"></span></p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/P2_Masala%20Tea_Decorating%20our%20Tea%20cup.jpg" height="203" width="270"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P1 - Indian Food</p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P2 - Masala Tea - Decorating our Tea cup</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/P2_Masala%20Tea_Mixing%20the%20spices%20for%20the%20perfect%20taste.jpg" height="197" width="262"></span></p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/P3_Kolum%20Making.jpeg" height="142" width="315"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P2 - Masala Tea - Mixing the spices for the perfect taste</p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P3 - Kolum Making</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/P4_Pongal%20Clay%20Pot.jpeg" height="141" width="314"></span></p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-no-proof:yes"><img src="/images/P5_miniature%20Indian%20banaba%20leaf%20meal.jpeg" height="205" width="274"></span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P4 - Pongal Clay Pot</p></td><td style="width:233.75pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">P5 - miniature Indian banaba leaf meal</p></td></tr></tbody></table>
 
-Use of various strategies and engaging activities such as group work, games, drama etc to engage students in the learning of Tamil Language.
+<p align="justify">
+3. Primary 1 to 6 Traditional Games Day
+To build students’ vocabulary through exposure to local and traditional games
+</p>
+<p align="justify">
+4. P3 Cultural Exxperience <br>
+An authentic experience of Indian Folk Culture: Oiyillattam
+</p>
 
-<img src="/images/tamil1.png" 
-     style="width:65%">
+![](/images/Oiyillatham_pic%203.jpeg)
 
+<p align="justify">
+5. Tamil Language Festival @ UPTLC
+</p>
 
-**Mother Tongue Fortnight Activities:**   
-**A week of fun-filled activities to expose students to the Tamil Culture through the introduction of Indian food and art forms so as to arouse students’ interest and love for the language.**  
+![](/images/UPTLC_Tamil%20Language%20Festiival.jpeg)
 
-Primary 1: Indian Foods      
-Primary 2: Masala Tea   
-Primary 3: Ranggoli Kolum – Indian Floor Art    
-Primary 4: Clay Pot Painting – Pongal Pot    
-Primary 5: Tanjore Painting
+<br>
 
-<img src="/images/tamil2.png" 
-     style="width:65%">
-<img src="/images/tamil3.png" 
-     style="width:65%">
+**School Level**
+<p align="justify">
+1. Reading Programme (P2 to P6)
+Objective: To develop students’ as effective communicators in the Tamil language through customized reading and oratorical resources.</p>
 
-**Primary 1 to 6 Traditional Games and Music Day**   
-To build students’ vocabulary through exposure to local games
+*  Graded Reading Programme (P2 - P3) <br>
+*  Internal Reading Support Programme (P2 - P4) <br>
+*  Silent Read on Tuesdays and Thursdays (P1 - P6) <br>
 
-<img src="/images/tamil4.png" 
-     style="width:65%">
+![](/images/Reading%20Programme_pic%201.jpeg)
+<p align="justify">
+2. Internal / External Competitions
+</p>
 
-**_EXPOSE, ENRICH_**   
-**_Reading / Oral  Programmes_**   
+![](/images/Bharathiyar%20Vizha_2.jpg)
+<p align="justify">
+3. Learning Journey
+	</p>
+<p align="justify">
+Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances. </p>
 
-**_1) Reading Programme (P2 to P6)_**    
-_Objective: To develop students’ as effective communicators in the Tamil language through customized reading and oratorical resources._ 
+<p align="justify">
+P4 Learning Jouney to Pongal Fair
+</p>
 
-**_2) Silent Reading on Tuesdays and Thursdays (P1 - P6)_**     
- _Objective: To build students’ vocabulary and competency in the language through the reading of Tamil books / articles._
- 
-<img src="/images/tamil5.png" 
-     style="width:65%">
+![](/images/P4%20boys%20at%20the%20Pongal%20Fair.jpg)
 
-**E-Learning Platforms**
-* vaandu.sg  
-* TheenTamil Website  
-* Student Learning Space (SLS)
+<p align="justify">
+4. Touchtyping in Tamil
+</p>
 
-Objective: To embark on various ICT platforms to enhance the learning of Tamil.
+![](/images/Touchtyping%20in%20Tamil.jpeg)
 
-**Learning Journey**   
-Learning of Tamil through authentic learning experiences such as learning journeys and watching of theatrical performances.
+<br>
 
-**P4 Learning Jouney to Pongal Fair**  
-An authentic learning experience on Tamil Language and Culture
-
-<img src="/images/tamil6.png" 
-     style="width:65%">
-
-**Nursery Rhymes**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 798px">
-<colgroup>
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix" colspan="2"><iframe width="291" height="216" src="https://www.youtube.com/embed/x48P3Bseorg" title="Nursery Rhymes 2021 - Tevin Roshan (1 SEL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="288" height="216" src="https://www.youtube.com/embed/yamdPdAk2Ng" title="Nursery Rhymes 2021 - Santosh (1 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="289" height="216" src="https://www.youtube.com/embed/Q8G-7kTZO4o" title="Nursery Rhymes 2021 - Noel Arya Jacob (1 PER)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" colspan="3"><iframe width="291" height="218" src="https://www.youtube.com/embed/BF7FpVM_Gcg" title="Nursery Rhymes 2021 - Amrith Havesh (1 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="3"><iframe width="291" height="218" src="https://www.youtube.com/embed/Okb8DcHzIdk" title="Nursery Rhymes 2021 - Aaryan Zarshan (1GEN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-</tbody>
-</table>
-
-
-**Character Portrayal**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 798px">
-<colgroup>
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix" colspan="2"><iframe width="280" height="209" src="https://www.youtube.com/embed/5ShWuzB7lKQ" title="Character Portrayal 2021 - Satchit Sridhar (2 RES)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="279" height="208" src="https://www.youtube.com/embed/PsPiIHtY0lQ" title="Character Portrayal 2021 - Nikhil Jaitra Kannan (2 ORD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="278" height="207" src="https://www.youtube.com/embed/zn3NNyFUjOI" title="Character Portrayal 2021 - Muhammad Az Zafir (2 DIL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" colspan="3"><iframe width="290" height="216" src="https://www.youtube.com/embed/oUEOIvDfdlo" title="Character Portrayal 2021 - Dylan Devesh  (2 SEL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="3"><iframe width="288" height="216" src="https://www.youtube.com/embed/vf2L2zlJj9I" title="Character Potrayal 2021 - Christian Arun Daniel  (2DIL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-</tbody>
-</table>
-
-
-**Advertisement Skit**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 798px">
-<colgroup>
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix" colspan="2"><iframe width="284" height="213" src="https://www.youtube.com/embed/geDdpzXaCp0" title="Advertisement Skit 2021 - Yahya Mohamed Fowzan (3 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="283" height="212" src="https://www.youtube.com/embed/QhfwF05fbSA" title="Advertisement Skit 2021 - Sidharth Muraleetharan (3 SIY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="284" height="211" src="https://www.youtube.com/embed/IMpih-Iw6zw" title="Advertisement Skit - Muhammad Fazil (3 SEL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" colspan="3"><iframe width="283" height="211" src="https://www.youtube.com/embed/5Bd9e0sJ9ls" title="Advertisement Skit - Keshav Dhev Kumar (3 PER)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="3"><iframe width="281" height="210" src="https://www.youtube.com/embed/FE1-7o_H1IM" title="Advertisement Skit 2021 - Gabrriel Shivkriss Wilson (3 PER)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-</tbody>
-</table>
-
-**Story Telling**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 798px">
-<colgroup>
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix" colspan="2"><iframe width="285" height="213" src="https://www.youtube.com/embed/9RF5itYB7A4" title="Story Telling 2021 - Vishaakan Kumar (4ORD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="284" height="212" src="https://www.youtube.com/embed/jSj3deyQ1XE" title="Story Telling 2021 - Venkadesh Vilohit (4 ORD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="283" height="211" src="https://www.youtube.com/embed/3fXKfNg8HRQ" title="Story Telling 2021 - Sriraman Sayown (4 RES)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" colspan="3"><iframe width="287" height="215" src="https://www.youtube.com/embed/jYCUiLapNE0" title="Story Telling 2021 - Samanyu Satheesh Kumar (4 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="3"><iframe width="286" height="214" src="https://www.youtube.com/embed/csiwvX7srMU" title="Story Telling 2021 - Liroeshaen Asokan (4 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-</tbody>
-</table>
-
-**Radio DJ**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 798px">
-<colgroup>
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix" colspan="2"><iframe width="282" height="211" src="https://www.youtube.com/embed/27Yp05WFZOk" title="Radio DJ 2021 - Sakthiram (5 GEN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="281" height="210" src="https://www.youtube.com/embed/dxhx4AVfSD8" title="Radio DJ 2021 - Nadhish Krishnan (5 GEN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="2"><iframe width="282" height="211" src="https://www.youtube.com/embed/ud0uCJDIu5Q" title="Radio DJ 2021 - Muhammad Fahyim (5SEL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" colspan="3"><iframe width="293" height="219" src="https://www.youtube.com/embed/uTyzCOL2FEw" title="Radio DJ 2021 - Muhammad Asy Syahir (5 SEL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td class="tg-nrix" colspan="3"><iframe width="295" height="219" src="https://www.youtube.com/embed/kHNEwn9uY3E" title="Radio DJ 2021 - J Tharunesvaran  (5 LOY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </tr>
-</tbody>
-</table>
-
-### USEFUL LINKS
-
-##### SELF-HELP GROUPS    
+**Useful Links**<br>
 [www.sinda.org.sg](http://www.sinda.org.sg/)
-
-[www.siet-trust.org.sg](http://www.siet-trust.org.sg/)
