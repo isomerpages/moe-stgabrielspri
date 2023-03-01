@@ -32,11 +32,11 @@ As such, there is a need for differentiated curriculum based on these difference
 
 **Objectives**
 <p align="justify">
-In alignment with Gabrielite 2025, apart from developing our students to be a Leader, Sportsman and Achiever, the LMM classes aims to achieve the following objectives:
+In alignment with Gabrielite 2025, apart from developing our students to be a Leader, Sportsman and Achiever, the LMM classes aims to achieve the following objectives: </p>
 
 * Provide a compelling learning experience that cultivates the spirit of life-long learning
 * Cater to the needs of a group of students with a different ability and pace of learning
-* Expose students to a wide variety of educational opportunities and disciplines that are not provided through regular instructional programme.</p>
+* Expose students to a wide variety of educational opportunities and disciplines that are not provided through regular instructional programme.
 
 **LMM Framework**
 
@@ -44,13 +44,13 @@ In alignment with Gabrielite 2025, apart from developing our students to be a Le
      style="width:65%">
 
 <p align="justify">
-At the end of three years of LMM education, we aim to develop every student to be:
+At the end of three years of LMM education, we aim to develop every student to be: </p>
 
 * Empathetic and Morally Responsible Citizens
 * Resilient and Self-Directed Learners
 * Convincing and Confident Communicators
 * Critical and Inventive Thinkers
-</p>
+
   
 
 **Structural of the LMM Curriculum**  
