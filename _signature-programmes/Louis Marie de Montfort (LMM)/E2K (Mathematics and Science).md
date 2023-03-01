@@ -9,12 +9,12 @@ third_nav_title: Louis Marie de Montfort (LMM)
 The E2K Mathematics Programme is offered to students who demonstrate interest and aptitude in the subject. It develops students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
 </p>
 <p align="justify">
-During the programme, students will have opportunities to work independently or collaboratively as they engage in mathematical thinking through specially designed puzzles, games and mathematical explorations. As a result of these rich learning experiences, students will:
+During the programme, students will have opportunities to work independently or collaboratively as they engage in mathematical thinking through specially designed puzzles, games and mathematical explorations. As a result of these rich learning experiences, students will: </p>
 
 *   develop the habits, attitudes and dispositions mathematicians possess.
     
 *   gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
-</p>
+
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:233.75pt;border:solid windowtext 1.0pt;
