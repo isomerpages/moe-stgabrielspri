@@ -39,7 +39,7 @@ A customised programme to support the learning of pupils in Mother Tongue.</p>
 ![](/images/MTFN.jpg)
 
 <p align="justify">
-2. Inquiry Based Projects (IBL)
+2. Inquiry Based Projects (IBL) <br>
 An inquiry-based approach shifts the focus to the students themselves, who become active learners as they choose which topics to explore; research these topics; decide what to produce, create, or solve; and then reflect on what they have learned. With a student-centred approach, it helps students to develop knowledge, skills and conceptual understanding.
 </p>
 
