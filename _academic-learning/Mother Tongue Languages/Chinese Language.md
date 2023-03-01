@@ -55,7 +55,8 @@ Interesting language and cultural activities to inculcate the love of learning o
 4 Assembly Programme <br>
 Chinese New Year Celebrations
 	</p>
-	<p align="justify">
+	
+<p align="justify">
 5. Inter-Class Competitions and Activities <br>
 	</p>
 	
