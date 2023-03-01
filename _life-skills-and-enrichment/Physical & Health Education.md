@@ -6,7 +6,7 @@ description: ""
 **Vision**   
 Every Gabrielite a sportsman, able to pursue an active and healthy lifestyle independently.
 
-**Mission**    
+**Department Goals**    
 To equip every student with 21CC knowledge, skills and attitude to lead a healthy lifestyle.
 
 **Key Personnel** <br>
