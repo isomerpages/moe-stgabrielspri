@@ -71,7 +71,7 @@ Objective: To develop students’ as effective communicators in the Malay langua
 Objective: To build students’ vocabulary and competency in the language through the reading of Malay books / articles. </p>
 
 <p align="justify">
-2. Internal \ External Competitions </p>
+2. Internal / External Competitions </p>
 <p align="justify">
 Providing students with the opportunity to use the Malay Language at various platforms in various creative forms to build their confidence in public speaking. </p>
 
