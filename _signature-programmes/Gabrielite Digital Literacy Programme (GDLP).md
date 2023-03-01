@@ -84,5 +84,7 @@ The importance of digital literacy will be emphasised through authentic learning
   </tr>
 </tbody>
 </table>
+<br>
+
 
 ![](/images/gdlp1.png)
