@@ -15,7 +15,7 @@ Mr Jimmy Tong (HOD PHE/CCA)
 Mr Sean De Zilva (SH PHE/CCA)
 
 
-### PROGRAMMES AND ACTIVITIES
+**Department Programmes**
 
 In St Gabriel’s Primary School, we align our PHE curriculum to the Goals of Physical Education:
 
