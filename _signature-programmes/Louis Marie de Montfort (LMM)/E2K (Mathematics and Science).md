@@ -11,9 +11,9 @@ The E2K Mathematics Programme is offered to students who demonstrate interest an
 <p align="justify">
 During the programme, students will have opportunities to work independently or collaboratively as they engage in mathematical thinking through specially designed puzzles, games and mathematical explorations. As a result of these rich learning experiences, students will: </p>
 
-*   develop the habits, attitudes and dispositions mathematicians possess.
+*   develop the habits, attitudes and dispositions mathematicians possess. <br>
     
-*   gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
+*   gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills. <br>
 
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
