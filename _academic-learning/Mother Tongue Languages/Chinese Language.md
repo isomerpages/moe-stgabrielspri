@@ -77,15 +77,18 @@ Weekly oral practices to develop students’ reading and oratorical skills.
 7. Silent Reading during pre-assembly on Tuesdays and Thursdays (P1 - P6) <br>
 To encourage reading of Chinese books / articles so as to improve pupils' language competency.
 	</p>
-	<p align="justify">
+	
+<p align="justify">
 8. Reading Programme <br>
 Structured reading programme which encourages reading of Chinese Language books
 	</p>
-	<p align="justify">
+	
+<p align="justify">
 9. Enrichment Programmes <br>
 Speech & Drama, Composition Writing and Oracy Skills
 	</p>
-	<p align="justify">
+	
+<p align="justify">
 10. Local Learning Journeys <br>
 	</p>
 	
