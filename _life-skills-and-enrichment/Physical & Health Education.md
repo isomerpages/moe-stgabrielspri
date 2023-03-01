@@ -29,7 +29,7 @@ Goal 4: Display positive personal and social behaviour across different experien
 																																												
 Goal 5: Acquire and maintain health-enhancing fitness through regular participation in physical activities.<br>
 
-Goal 6: Enjoy and value the benefits of living a physically active and healthy life.<br><br>
+Goal 6: Enjoy and value the benefits of living a physically active and healthy life.<br>
 
 (Physical Education Teaching & Learning Syllabus).
 
