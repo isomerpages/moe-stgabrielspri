@@ -20,11 +20,18 @@ Mr Sean De Zilva (SH PHE/CCA)
 In St Gabriel’s Primary School, we align our PHE curriculum to the Goals of Physical Education:
 
 Goal 1: Acquire a range of movement skills to participate in a variety of physical activities.<br>
+
 Goal 2: Understand and apply movement concepts, principles and strategies in a range of physical activities.<br>
+
 Goal 3: Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.<br>
+
 Goal 4: Display positive personal and social behaviour across different experiences.<br>
+																																												
 Goal 5: Acquire and maintain health-enhancing fitness through regular participation in physical activities.<br>
-Goal 6: Enjoy and value the benefits of living a physically active and healthy life.<br><br>(Physical Education Teaching & Learning Syllabus).
+
+Goal 6: Enjoy and value the benefits of living a physically active and healthy life.<br><br>
+
+(Physical Education Teaching & Learning Syllabus).
 
 <br>
 
