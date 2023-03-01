@@ -39,7 +39,7 @@ Since established, the PRIDE team has worked on a number of projects which creat
 * Teacher’s Locker Photo   
 
 <p align="justify">
-It has been noticed that students who were tasked to deposit books into their teacher’s locker often encountered the problem of trying to locate the locker. This could be due to the students not being able to recognize their teachers’ name, which is especially true for the lower primary students. As such, the PRIDE team picked up this problem and worked on it. As a team, they discussed and eventually came up with the solution of pasting the teacher’s photo beside the locker, which they planned and executed all by themselves. <p>
+It has been noticed that students who were tasked to deposit books into their teacher’s locker often encountered the problem of trying to locate the locker. This could be due to the students not being able to recognize their teachers’ name, which is especially true for the lower primary students. As such, the PRIDE team picked up this problem and worked on it. As a team, they discussed and eventually came up with the solution of pasting the teacher’s photo beside the locker, which they planned and executed all by themselves. </p>
 
 * Recycling Bins in School
 
