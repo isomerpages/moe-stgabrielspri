@@ -17,6 +17,3 @@ Besides our scouting experiences in school, we also took part in district and na
   
 <p align="justify">
 Through these activities, we hope to develop each member into a self-reliant, supportive and responsible person. <p>
-
-
-![](/images/scouts.png)
