@@ -21,7 +21,8 @@ Senior Teacher: Mdm Chitra Devi
 **Department Programmes**<br>
 Primary 3 – 6 Student Centric Curriculum & Experiential Learning
 
-* **Inquiry-based Learning (IBL) and Experential Learning Approach**<br> <p align="justify">
+* **Inquiry-based Learning (IBL) and Experential Learning Approach**<br>
+<p align="justify">
 At SGPS, the IBL approach places the learning more so in the hands of students as they take part in investigative activities to understand concepts while making connections with their surroundings. </p>
 
 ![](/images/Science%20IBL.jpg)
