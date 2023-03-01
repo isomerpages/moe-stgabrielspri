@@ -99,7 +99,7 @@ Speech & Drama, Composition Writing and Oracy Skills
 * Outdoor learning experience
 
 
-**Information on Chinese Language Learning Resources**
+**Information on Chinese Language Learning Resources** <br>
 ICT Resources for Chinese Curriculum to help the students to learn Chinese language
 <p align="justify">
 1.	Ezhishi <br>
