@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: St. Gabriel's Primary School
 locations:
   - address:
-      - "220"
-      - " Lorong Chuan "
+      - "220 Lorong Chuan "
       - Singapore 556742
+      - ""
     operating_hours:
       - days: Mon - Thur
         time: 7.00am - 5.30pm
