@@ -9,25 +9,18 @@ description: ""
 With the Gabrielite Digital Literacy Programme (GDLP), our Primary 3 Gabrielites were presented with unique and joyful experiential learning, navigating 21st-century challenges with digital making projects.</p>
 
 <center><iframe width="480" height="360" src="https://www.youtube.com/embed/FQph8mHxp00" title="SGPS ALP-GDLP 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 <p align="justify">
 Despite the current situation, the ALP-GDLP was re-designed and implemented across four stages from May to November in 2021. Our young digital learners get to be creative and innovate ideas to design virtual Scratch games, build prototypes and solve real-world problems with Micro:bits and Strawbees for their Smart Home/School projects. Through this GDLP experience, they strengthened their team bonding and became more resilient when tackling digital challenges with their classmates. Significantly, they have experienced the digital skills of the future, developed their 21CC skill set and practised sound Cyber Wellness values within authentic contexts. </p>
+
 <p align="justify">
-Click on the ‘2021 ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together.
+Click on the ‘2021 ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together. </p>
 
 <center><iframe width="480" height="360" src="https://www.youtube.com/embed/jMovugYkIVc" title="2021 ALP-GDLP Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 	
 <p align="justify">
 The school has launched an applied learning programme known as the <b>Gabrielite Digital Literacy Programme (GDLP)</b> for Primary 3 students. We recognise that digital literacy is a vital skillset to prepare our Gabrielites for the future. GDLP will equip our young digital users with the knowledge, skills and attitude that allow them to be safe and empowered in an increasingly digital world.</p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 598px">
 <colgroup>
 <col style="width: 137px">
@@ -51,6 +44,7 @@ The school has launched an applied learning programme known as the <b>Gabrielit
   </tr>
 </tbody>
 </table>
+
 
 **Introduction**   
 <p align="justify">
