@@ -94,7 +94,7 @@ Speech & Drama, Composition Writing and Oracy Skills
 10. Local Learning Journeys <br>
 	</p>
 	
-* Arts and cultural performances <br>
+* Chinese Language related cultural performances by local and foreign performing arts groups <br>
 * Movie screenings <br>
 * Outdoor learning experience
 
