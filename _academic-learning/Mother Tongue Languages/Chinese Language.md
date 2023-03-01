@@ -44,6 +44,7 @@ An inquiry-based approach shifts the focus to the students themselves, who becom
 </p>
 
 ![](/images/Chinese%20IBL.png)
+
 <p align="justify">
 3. P3 Language/Cultural Camp <br>
 Interesting language and cultural activities to inculcate the love of learning of Chinese Language.
