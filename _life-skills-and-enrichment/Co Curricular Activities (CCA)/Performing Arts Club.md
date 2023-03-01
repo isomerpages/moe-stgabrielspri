@@ -4,8 +4,7 @@ permalink: /life-skills-and-enrichment/Co-Curricular-Activities/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-**Our Objectives**
-
+**Our Objectives** <br>
 Students will: 
 *  unlock students' hidden creative potential and passion in acting, singing and dancing progressively 
 *  develop self-confidence and competent speaking skills while delivering theatrical presentations
