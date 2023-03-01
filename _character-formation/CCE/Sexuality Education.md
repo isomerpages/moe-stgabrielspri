@@ -23,4 +23,4 @@ ST. GABRIEL’S PRIMARY SCHOOL MOE SEXUALITY EDUCATION IN SCHOOLS
 	
 <p align="justify">
 	
-You may click [here](https://drive.google.com/file/d/1T_ZP3oWvj5_Jrg0AjJPhYI_7Rd_N3H0v/view?usp=sharing) for more information on St. Gabriel's Primary School's Sexuality Education.
+You may click <a href="https://drive.google.com/file/d/1T_ZP3oWvj5_Jrg0AjJPhYI_7Rd_N3H0v/view?usp=sharing">here</a> for more information on St. Gabriel's Primary School's Sexuality Education.
