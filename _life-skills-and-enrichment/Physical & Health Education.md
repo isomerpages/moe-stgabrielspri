@@ -76,9 +76,9 @@ Goal 6: Enjoy and value the benefits of living a physically active and healthy l
 ![](/images/phe4.png)
 
 
-**<u>Physical Health and Fitness</u>**
-
-Physical Health and Fitness stimulates students’ interest in physical activity as meaningful connections between health concepts and practical applications are made through experiential learning. Through meaningful health-enhancing physical activities and learning tasks, we aim to help our students understand good health practices in nutrition, exercise, safety and hygiene. With these, they will then be equipped with the knowledge, skills and motivation to make informed personal decisions to stay active and healthy.
+**Physical Health and Fitness**
+<p align="justify">
+Physical Health and Fitness stimulates students’ interest in physical activity as meaningful connections between health concepts and practical applications are made through experiential learning. Through meaningful health-enhancing physical activities and learning tasks, we aim to help our students understand good health practices in nutrition, exercise, safety and hygiene. With these, they will then be equipped with the knowledge, skills and motivation to make informed personal decisions to stay active and healthy.</p>
 
 ![](/images/phe5.png)
 
