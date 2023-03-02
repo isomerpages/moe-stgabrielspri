@@ -14,10 +14,11 @@ Mr Jimmy Tong (HOD PHE/CCA) <br>
 Mr Sean De Zilva (SH PHE/CCA)
 
 
-**Department Programmes**
+**Department Programmes** <br>
 
 In St Gabriel’s Primary School, we align our PHE curriculum to the Goals of Physical Education:
 
+<p align="justify">
 Goal 1: Acquire a range of movement skills to participate in a variety of physical activities.<br>
 
 Goal 2: Understand and apply movement concepts, principles and strategies in a range of physical activities.<br>
@@ -31,10 +32,9 @@ Goal 5: Acquire and maintain health-enhancing fitness through regular participat
 Goal 6: Enjoy and value the benefits of living a physically active and healthy life.<br>
 
 (Physical Education Teaching & Learning Syllabus).
+</p>
 
 <br>
-
-
 
 | Level | Key Programmes / Events |
 | -------- | -------- |

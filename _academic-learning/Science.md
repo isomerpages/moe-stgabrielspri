@@ -62,5 +62,8 @@ The E2K Science Programme Singapore is a Science enrichment programme for upper 
 <p align="justify">
 The programme offers opportunities for students to engage in scientific investigations to discover and deepen their understanding of advanced Science concepts through an inquiry approach. The rich learning experiences offered by the programme serve to help students to: </p>
 
+<p align="justify">
+	
 * Develop the habits, attitudes and dispositions Scientists possess.
 * Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
+	</p>

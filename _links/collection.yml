@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Calendar of Events.md
-      - For Parent.md
-      - For Student.md
+      - For Parents.md
+      - For Students.md
       - For Parent Support Group.md
