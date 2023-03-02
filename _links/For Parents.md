@@ -28,6 +28,6 @@ For past issues, please refer to Parents Gateway.
 
 [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1f8U4LugCOQPgzrAfmC2kmgqQc_-S4hJA/view?usp=sharing)
 
-[Primary 6 Standard (28 Jan)](https://drive.google.com/file/d/1xGdMzR2h--wfG-rmArKQVAyxaWjzqn4n/view?usp=sharing)
+[Primary 6 Standard](https://drive.google.com/file/d/1xGdMzR2h--wfG-rmArKQVAyxaWjzqn4n/view?usp=sharing)
 
 [School-Based Assessment Policy](https://drive.google.com/file/d/1fCvz3jOLVLG62hxcFqnCkXCAGTzworS7/view?usp=sharing)
