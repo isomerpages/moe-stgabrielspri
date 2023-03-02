@@ -22,7 +22,7 @@ For past issues, please refer to Parents Gateway.
 
 [Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1W3sEDMh4GxfjrmIJytDWO_KTHcaG5kav/view?usp=sharing)
 
-[Primary 5 Standard (25 Jan)](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Assessment%20Plans/25%20JAN/2023_Primary%205_Assessment%20Plan_25%20January.pdf)
+[Primary 5 Standard](https://drive.google.com/file/d/1uN6Yg44wqPeWSrPBsYHOG6y4y1-BaAYL/view?usp=sharing)
 
 [Primary 6 Foundation (25 Jan)](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Assessment%20Plans/25%20JAN/2023_Primary%206%20Foundation%20Subjects_Assessment%20Plan_25%20January.pdf)
 
