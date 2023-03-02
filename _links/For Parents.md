@@ -3,15 +3,14 @@ title: For Parents
 permalink: /links/for-parents/
 description: ""
 ---
-
 **Parent Notification**
 
-[February](/files/Parent%20Notification_Feb%202023%20(Final).pdf)
+[February](https://drive.google.com/file/d/1xlOm2dIJwVIQR5gwRPLeSbbZhF3HC5gQ/view?usp=sharing)
 <br>
 For past issues, please refer to Parents Gateway.
 
 **Assessment Plans**  
-[Primary 1 (27 Jan)](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Assessment%20Plans/25%20JAN/2023_Primary%201_Non-Weighted_Assessment%20Plan_27%20January.pdf)
+[Primary 1 (27 Jan)](https://drive.google.com/file/d/1DQb7o8GVURtfs0zfSKdDgtE2qjjHyVwN/view?usp=sharing)
 
 [Primary 2  (27 Jan)](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Assessment%20Plans/25%20JAN/2023_Primary%202_Non-Weighted_Assessment%20Plan_27%20January.pdf)
 
