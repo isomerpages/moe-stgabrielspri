@@ -16,7 +16,7 @@ For past issues, please refer to Parents Gateway.
 
 [Primary 3](https://drive.google.com/file/d/1f5Rl1bIdYniSvx5STm--85eNAWuwvpVs/view?usp=sharing)
 
-[Primary 4 (25 Jan)](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Assessment%20Plans/25%20JAN/2023_Primary%204_Assessment%20Plan_25%20January.pdf)
+[Primary 4](https://drive.google.com/file/d/17_Svy5Ad0WMdpFrsMLEjz_1-BXws96fA/view?usp=sharing)
 
 [Primary 5 Foundation (25 Jan)](https://www-stgabrielspri-moe-edu-sg-admin.cwp.sg/qql/slot/u173/For%20Parent/2023/Assessment%20Plans/25%20JAN/2023_Primary%205%20Foundation%20Subjects_Assessment%20Plan_25%20January.pdf)
 
