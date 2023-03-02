@@ -16,14 +16,11 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 540px">
 <colgroup>
 <col style="width: 270px">
-<col style="width: 270px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-nrix"><img src="/images/gfa2.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-nrix"><img src="/images/gfa3.jpeg" 
-     style="width:100%"></td>
+     style="width:50%"></td>
   </tr>
 </tbody>
 </table>
