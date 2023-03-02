@@ -16,7 +16,7 @@ sections:
           url: /academic-learning/english-language/
         - title: LIFE SKILLS & ENRICHMENT
           description: ""
-          url: /life-skills-and-enrichment/pal/
+          url: /life-skills-and-enrichment/Physical-and-Health-Education/physical-health-and-education/
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/gdlp/
