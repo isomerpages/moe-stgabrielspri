@@ -3,7 +3,6 @@ title: For Students
 permalink: /links/for-students/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -54,4 +53,4 @@ description: ""
 </tbody>
 </table>
 
-[School Based SLS Helpdeks Form](https://form.gov.sg/5e7d9ae05b72a90011738172/)
+[School Based SLS Helpdesk Form](https://form.gov.sg/5e7d9ae05b72a90011738172/)
