@@ -12,7 +12,7 @@ third_nav_title: School Staff
 | 1 Generosity  | **Mrs Goh Yuniarti** <br> chan_yuniarti@schools.gov.sg | **Ms Dina Farhana** <br> dina_farhana_hashim@schools.gov.sg
 |||**Mr Ng Chiong Hoe** <br> ng_chiong_hoe@schools.gov.sg  
 | 1 Perseverance | **Mdm Rohaya** <br> rohaya_awie@schools.gov.sg  | **Mdm Aisha** <br> noor_aisha@schools.gov.sg
-| 1 Sincerity  | **Ms Glenda Ng** <br> glenda_ng@schools.gov.sg | **Mdm Teo Hwee Joo** <br> teo_hwee_joo@schools.gov.sg 
+| 1 Sincerity  | **Ms Glenda Ng** <br> glenda_ng@schools.gov.sg | **Mrs Dorin Lee** <br> tan_siew_lay_a@schools.gov.sg 
 |||**Mdm Shofia** <br> shofia_sukma_nasirjaya@schools.gov.sg |
 | 1 Loyalty | **Mrs Jessica Hoon** <br>  li_xin_hui@schools.gov.sg |**Mdm Goh Siew Ping** <br> goh_siew_ping@schools.gov.sg  
 |||**Mrs Isabel Wong**  <br> ng_su_min_isabel@schools.gov.sg|
