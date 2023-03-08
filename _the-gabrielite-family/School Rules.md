@@ -15,8 +15,7 @@ The use of smart watches will be governed by the same conditions as the use of t
 *  The use of the mobile phone is restricted to the **school canteen after school hours** for communication with parents / guardians.  <br>
 *  It is the responsibility of the students to safeguard their personal property. The school will not be held responsible for any loss or theft.  <br>
 * Students are **NOT allowed** to use the photography / recording features of a camera  phone in the school premises without the consent of his form / subject teacher.  <br>
-* Misuse of mobile devices will warrant retention by the school for safekeeping purposes. The mobile phone will only be returned to the student's parent / guardian. 
-</p>
+* Misuse of mobile devices will warrant retention by the school for safekeeping purposes. The mobile phone will only be returned to the student's parent / guardian. </p>
 
 **School Attire & Appearance**
 
