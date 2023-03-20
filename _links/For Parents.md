@@ -20,9 +20,9 @@ For past issues, please refer to Parents Gateway.
 
 [Primary 5 Foundation](https://drive.google.com/file/d/1fqZe3RHoA-9ulXWLfdgqbwP_klLRNdJD/view?usp=sharing)
 
-[Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1W3sEDMh4GxfjrmIJytDWO_KTHcaG5kav/view?usp=sharing)
+[Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1fPMPo_hruPi4p3Zb0z6CyT5KmCPLYfDo/view?usp=sharing)
 
-[Primary 5 Standard](https://drive.google.com/file/d/1uN6Yg44wqPeWSrPBsYHOG6y4y1-BaAYL/view?usp=sharing)
+[Primary 5 Standard](https://drive.google.com/file/d/1NB8Au2nHj8LoVL9_2WTlt5xBpTQO5AHt/view?usp=sharing)
 
 [Primary 6 Foundation](https://drive.google.com/file/d/1YH6mjKu-kzH5opAfYCjwj2UDEA-s4bmj/view?usp=sharing)
 
