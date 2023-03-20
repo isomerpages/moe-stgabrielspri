@@ -22,3 +22,8 @@ description: ""
 | -------- | -------- | -------- |
 | Mr Francis Wong     | Mr Francis Lee    | Mr Kelvin Poon     |
 | Member     | Member    | Member |
+
+|![](/images/Mr%20Martin%20Tan.jpg) |  |![](/images/Mr%20Shawn%20Lim.jpg) |
+| -------- | -------- | -------- |
+| Mr Martin Tan    | | Mr Shawn Lim  |
+|**SGPS Principal**| |**SGSS Principal**|
