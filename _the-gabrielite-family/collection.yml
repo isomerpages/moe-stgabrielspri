@@ -2,6 +2,7 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - School Management Committee.md
       - Principal's Message.md
       - School Educational Philosophy.md
       - School History & Traditions.md
