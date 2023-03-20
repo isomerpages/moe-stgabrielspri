@@ -14,11 +14,11 @@ For past issues, please refer to Parents Gateway.
 
 [Primary 2](https://drive.google.com/file/d/1vgsXfca0zN8jym4pXqSFRik-cHIkSo6u/view?usp=sharing)
 
-[Primary 3](https://drive.google.com/file/d/1f5Rl1bIdYniSvx5STm--85eNAWuwvpVs/view?usp=sharing)
+[Primary 3](https://drive.google.com/file/d/1xXiD4ZiL5rBQsaUhwSOc9m7WSlyE9Y1s/view?usp=sharing)
 
-[Primary 4](https://drive.google.com/file/d/17_Svy5Ad0WMdpFrsMLEjz_1-BXws96fA/view?usp=sharing)
+[Primary 4](https://drive.google.com/file/d/1MfPU4qIwvSxnRL0IUVrAYPu9leYM4G9w/view?usp=sharing)
 
-[Primary 5 Foundation](https://drive.google.com/file/d/1Qy-FSTRqjDZCDNgM9wAyiXU4q1zckyJH/view?usp=sharing)
+[Primary 5 Foundation](https://drive.google.com/file/d/1fqZe3RHoA-9ulXWLfdgqbwP_klLRNdJD/view?usp=sharing)
 
 [Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1W3sEDMh4GxfjrmIJytDWO_KTHcaG5kav/view?usp=sharing)
 
