@@ -26,8 +26,8 @@ For past issues, please refer to Parents Gateway.
 
 [Primary 6 Foundation](https://drive.google.com/file/d/1y9tJiZ4tx1yhf2Bf6nnPG8-ykRQuIl4w/view?usp=sharing)
 
-[Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1f8U4LugCOQPgzrAfmC2kmgqQc_-S4hJA/view?usp=sharing)
+[Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/19TpPyXrG98pRxER7B5rIbJG8JKCbQ1dH/view?usp=sharing)
 
-[Primary 6 Standard](https://drive.google.com/file/d/1xGdMzR2h--wfG-rmArKQVAyxaWjzqn4n/view?usp=sharing)
+[Primary 6 Standard](https://drive.google.com/file/d/1X6pAOE81xNTgZqSPAP5IaDuOWrfbcvsx/view?usp=sharing)
 
 [School-Based Assessment Policy](https://drive.google.com/file/d/1fCvz3jOLVLG62hxcFqnCkXCAGTzworS7/view?usp=sharing)
