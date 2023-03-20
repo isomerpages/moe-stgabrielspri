@@ -12,3 +12,8 @@ description: ""
 | -------- | -------- | -------- |
 | Mr Gordon Lim     | | Ms Grace Chong    |
 |**Vice Chairman**| |**Treasurer**|
+
+| ![](/images/Mr%20Henry%20Phang.jpg) |  | ![](/images/Mrs%20Esther%20Loo.jpg) |
+| -------- | -------- | -------- |
+| Mr Henry Phang     | | Mrs Esther Loo  |
+|**Advisor**| |**Associate**|
