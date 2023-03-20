@@ -17,3 +17,8 @@ description: ""
 | -------- | -------- | -------- |
 | Mr Henry Phang     | | Mrs Esther Loo  |
 |**Advisor**| |**Associate**|
+
+| ![](/images/Mr%20Francis%20Wong.jpg) | ![](/images/Mr%20Francis%20Lee.jpg) | ![](/images/Mr%20Kelvin%20Poon.jpg) |
+| -------- | -------- | -------- |
+| Mr Francis Wong     | Mr Francis Lee    | Mr Kelvin Poon     |
+| Member     | Member    | Member |
