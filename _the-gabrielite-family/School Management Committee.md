@@ -11,4 +11,4 @@ description: ""
 | ![](/images/Mr%20Gordon%20Lim.jpg) |  | ![](/images/Ms%20Grace%20Chong.jpg) |
 | -------- | -------- | -------- |
 | Mr Gordon Lim     | | Ms Grace Chong    |
-|**Vice Chairman**||**Treasurer**|
+|**Vice Chairman**| |**Treasurer**|
