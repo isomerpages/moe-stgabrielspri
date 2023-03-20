@@ -24,7 +24,7 @@ For past issues, please refer to Parents Gateway.
 
 [Primary 5 Standard](https://drive.google.com/file/d/1NB8Au2nHj8LoVL9_2WTlt5xBpTQO5AHt/view?usp=sharing)
 
-[Primary 6 Foundation](https://drive.google.com/file/d/1YH6mjKu-kzH5opAfYCjwj2UDEA-s4bmj/view?usp=sharing)
+[Primary 6 Foundation](https://drive.google.com/file/d/1y9tJiZ4tx1yhf2Bf6nnPG8-ykRQuIl4w/view?usp=sharing)
 
 [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1f8U4LugCOQPgzrAfmC2kmgqQc_-S4hJA/view?usp=sharing)
 
