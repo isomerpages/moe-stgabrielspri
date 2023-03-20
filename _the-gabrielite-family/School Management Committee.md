@@ -15,7 +15,7 @@ description: ""
 |**Advisor**| |**Associate**|
 | ![](/images/Mr%20Francis%20Wong.jpg) | ![](/images/Mr%20Francis%20Lee.jpg) | ![](/images/Mr%20Kelvin%20Poon.jpg) |
 | Mr Francis Wong     | Mr Francis Lee    | Mr Kelvin Poon     |
-| Member     | Member    | Member |
+| **Member**   | **Member**  | **Member** |
 |![](/images/Mr%20Martin%20Tan.jpg) |  |![](/images/Mr%20Shawn%20Lim.jpg) |
 | Mr Martin Tan    | | Mr Shawn Lim  |
 |**SGPS Principal**| |**SGSS Principal**|
