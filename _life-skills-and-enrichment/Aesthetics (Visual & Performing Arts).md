@@ -42,7 +42,8 @@ The three aesthetics CCAs namely Brass Band, Performing Arts and Art Club provid
 
 **Our Aesthetics Journey**
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/RcOLLRfEzJA" title="Our Aesthetics Journey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPR61gMUBps" title="Aesthetics Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ![](/images/aes3.png)
 ![](/images/aes4.png)
