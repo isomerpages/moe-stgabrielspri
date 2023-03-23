@@ -21,7 +21,7 @@ Mdm Lim Jia Shyuan, SH InfoComm Technology <br>
 **Member** <br>
 Mr Jimmy Tong, HOD Physical & Health Education and CCA <br>
 Mr Sean de Zilva, SH Physical & Health Education and CCA <br>
-Mr Xie Zheng Yang, SH Student Leadership <br>
+Mr Xie Zhengyang, SH Student Leadership <br>
 
 
 ![](/images/Copy%20of%202022%20ALP-GDLP%20for%20PN%20May.png)
