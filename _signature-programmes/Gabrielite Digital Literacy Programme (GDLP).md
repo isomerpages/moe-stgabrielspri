@@ -3,10 +3,10 @@ title: Gabrielite Digital Literacy Programme (GDLP)
 permalink: /signature-programmes/gdlp/
 description: ""
 ---
-**Vision**
+**Vision** <br>
 Nurturing Gabrielites to become digital innovators and future-ready learners with a strong foundation of 21CC knowledge and skills.
 
-**ALP-GDLP Goals**
+**ALP-GDLP Goals** <br>
 Every Gabrielite will develop their digital literacy through Coding and Design problem-based projects, enhancing their 21st-century skills and competencies with Cyber Wellness values as lifelong learners and future-ready citizens. 
 
 **Applied Learning Programme Committee** <br>
