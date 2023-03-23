@@ -4,11 +4,6 @@ permalink: /life-skills-and-enrichment/tie/
 description: ""
 ---
 **Aesthetics and Cultural Overseas Immersion Programme to Xi An, China on 24th – 29th March 2019**
-
-  
-
-“Do not follow where the path may lead. Go instead where there is no path and leave a trail.” ~ Ralph Waldo Emerson
-
   
 <p align="justify">
 Anchoring on the school’s internationalisation efforts to achieve the Desired Outcomes of Education, the school had organised an Aesthetics and Cultural Overseas Immersion Programme to Xi An, China from 24th to 29th March 2019. Twenty-four Gabrielite TIE ambassadors deepened their cultural appreciation and understanding of the Chinese culture through interaction opportunities with students from two Xi An schools. They gained experiential learning on how lessons are conducted in China, forged valuable friendships with their local buddies and explored places seaped in history, such as the National Heritage Park, Tang Daming Palace, Hancheng Lake, Muslim Street as well as the World’s Eighth Wonder - the Vaults of First Emperor Qin Shi Huang’s Terracotta Warriors and Horses, which was built during the Qin Dynasty. The immersion programme has created opportunities for our students like none other as they developed cultural literacy and broadened their horizons beyond the shores of Singapore. </p>
