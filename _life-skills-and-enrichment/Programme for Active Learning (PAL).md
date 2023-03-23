@@ -3,6 +3,13 @@ title: Programme for Active Learning (PAL)
 permalink: /life-skills-and-enrichment/pal/
 description: ""
 ---
+**Vision** <br>
+Developing young Gabrielites’ personal and social well-being with strong social-emotional competencies.
+
+**PAL Goals**<br>
+Every Gabrielite will develop personal effectiveness and well-being, build positive relationships, live out the school’s virtues and grow their character through PAL-Social and Emotional Learning (SEL).
+
+
 **PAL Coordinator**   
 Mrs Catherine Low   
 Mr Jimmy Tong
@@ -25,4 +32,4 @@ Anchoring on a boy-centric approach, every module promotes multi-sensory learnin
 
 ![](/images/pal1.png)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9mJXtblaq88" title="2019 PAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vQkElV2xScw" title="PAL Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
