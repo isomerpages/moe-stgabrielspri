@@ -3,16 +3,17 @@ title: Aesthetics (Visual & Performing Arts)
 permalink: /life-skills-and-enrichment/aesthetics/
 description: ""
 ---
+**Vision** <br> Developing Gabrielites to be creative and discerning individuals who embrace cultural diversity.
 
 **Department Goal**   
-Every Gabrielite to develop his artistic and creative capabilities with a sense of cultural awareness.
+Every Gabrielite will develop his artistic and creative capabilities with 21st-century skills and competencies as future-ready citizen.
 
 **Key Personnel**   
-Mrs Catherine Low
+Mrs Catherine Low (HOD Aesthetics & Applied Learning Programme)
 
 
-**Aesthetics Committee** 
-<br>Mr Daniel Sia <br>Mrs Shelena Lim<br>Ms Glenda Ng<br>Mdm Cecilia Wong<br>Ms Priscilla Yong
+**Aesthetics Committee**
+Mdm Cecilia Wong<br>Mr Ng Chiong Hoe<br>Mr Daniel Sia<br>Ms Glenda Ng<br>Ms Priscilla Yong<br>Mdm Lytessia Soh<br>Ms Yang Xiaoqing<br>Mr Steven Tay<br>
 
 **Department Programmes** <br>
 <p align="justify">
