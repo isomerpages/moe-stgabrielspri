@@ -3,6 +3,19 @@ title: Trips for Internationalisation Experience (TIE)
 permalink: /life-skills-and-enrichment/tie/
 description: ""
 ---
+**Vision** <br>
+<p align="justify">
+Preparing Gabrielites to brave new challenges to deepen and broaden their cross-cultural competencies with 21CC knowledge and skills, navigating the world as global citizens. </p>
+
+**TIE Goals** <br>
+<p align="justify">
+Gabrielites who have the aptitude and character to expand their scope of learning with new insights and diverse perspectives will be provided with greater learning experiences through overseas immersion programmes exposure. </p>
+
+**Key Personnel** <br>
+Mrs Catherine Low (HOD Aesthetics & Applied Learning Programme) <br>
+Ms Chua Bee Peng (Administration Manager)
+
+
 
 **Aesthetics and Cultural Overseas Immersion Programme to Xi An, China on 24th – 29th March 2019**
   
