@@ -10,18 +10,14 @@ Developing young Gabrielites’ personal and social well-being with strong socia
 Every Gabrielite will develop personal effectiveness and well-being, build positive relationships, live out the school’s virtues and grow their character through PAL-Social and Emotional Learning (SEL).
 
 
-**PAL Coordinator**   
-Mrs Catherine Low   
-Mr Jimmy Tong
+**Key Personnel (PAL Coordinators)** <br>
+Mrs Catherine Low (HOD Aesthetics & ALP) <br>
+Mr Jimmy Tong (HOD PHE & CCA) <br>
+
 
 **PAL Team** <br>
-Ms Priscilla Yong <br>
-Mr Neo Yong Teck <br>
-Ms Karen Loo <br>
-Ms Siti Nurhayaty<br>
-Ms Elsa Teng<br>
-Mrs Shelena Lim <br>
-Mrs Sheryl Toh
+Mrs Shelena Lim<br>Mdm Lytessia Soh<br>Ms Maureen Jansen<br>Mdm Goh Siew Ping<br>Mrs Priscilla Teo<br>Ms Karen Loo<br>Ms Cindy Liong<br>Ms Siti Nurhayaty<br>Mrs Sheryl Toh<br>Mr Neo Yong Teck<br>Mrs Kareen Wong <br>
+
 
 <p align="justify">
 The PAL pedagogy provides opportunities for our young Gabrielites to exhibit the desired behaviour aligned to our school vision and virtues. Our school vision 'A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.' is embedded in all six PAL modules - Sports and Games, and Outdoor Education, Visual Arts, and Performing Arts on Music, Dance and Drama. </p>
