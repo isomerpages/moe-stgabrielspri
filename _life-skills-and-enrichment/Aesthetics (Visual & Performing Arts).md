@@ -1,21 +1,22 @@
 ---
-title: Aesthetics
+title: Aesthetics (Visual & Performing Arts)
 permalink: /life-skills-and-enrichment/aesthetics/
 description: ""
 ---
+**Vision** <br> Developing Gabrielites to be creative and discerning individuals who embrace cultural diversity.
+
 **Department Goal**   
-Every Gabrielite to develop his artistic and creative capabilities with a sense of cultural awareness.
+Every Gabrielite will develop his artistic and creative capabilities with 21st-century skills and competencies as future-ready citizen.
 
 **Key Personnel**   
-Mrs Catherine Low
+Mrs Catherine Low (HOD Aesthetics & Applied Learning Programme)
 
 
-**Aesthetics Committee** 
-<br>Mr Daniel Sia <br>Mrs Shelena Lim<br>Ms Glenda Ng<br>Mdm Cecilia Wong<br>Ms Priscilla Yong
+**Aesthetics Committee**
+Mdm Cecilia Wong<br>Mr Ng Chiong Hoe<br>Mr Daniel Sia<br>Ms Glenda Ng<br>Ms Priscilla Yong<br>Mdm Lytessia Soh<br>Ms Yang Xiaoqing<br>Mr Steven Tay<br>
 
-**Department Programmes** <br>
-<p align="justify">
-At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision: </p>
+**Department Programmes**
+<p align="justify">At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision: </p>
 
 <p align="justify">
 	<b>Leader</b> – To cultivate a passion for the Arts and to foster a sense of cultural awareness for artistic development and excellence as a respectful and ethical individual</p>
@@ -40,7 +41,8 @@ The three aesthetics CCAs namely Brass Band, Performing Arts and Art Club provid
 
 **Our Aesthetics Journey**
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/RcOLLRfEzJA" title="Our Aesthetics Journey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPR61gMUBps" title="Aesthetics Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ![](/images/aes3.png)
 ![](/images/aes4.png)

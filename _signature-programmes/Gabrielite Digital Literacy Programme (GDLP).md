@@ -3,6 +3,27 @@ title: Gabrielite Digital Literacy Programme (GDLP)
 permalink: /signature-programmes/gdlp/
 description: ""
 ---
+**Vision** <br>
+Nurturing Gabrielites to become digital innovators and future-ready learners with a strong foundation of 21CC knowledge and skills.
+
+**ALP-GDLP Goals** <br>
+Every Gabrielite will develop their digital literacy through Coding and Design problem-based projects, enhancing their 21st-century skills and competencies with Cyber Wellness values as lifelong learners and future-ready citizens. 
+
+**Applied Learning Programme Committee** <br>
+**Advisor** <br>
+Mr Martin Tan, Principal <br>
+
+**Key Drivers** <br>
+Mrs Catherine Low, HOD Aesthetics and Applied Learning <br>
+Mdm Lim Jia Shyuan, SH InfoComm Technology <br>
+
+
+**Member** <br>
+Mr Jimmy Tong, HOD Physical & Health Education and CCA <br>
+Mr Sean de Zilva, SH Physical & Health Education and CCA <br>
+Mr Xie Zhengyang, SH Student Leadership <br>
+
+
 ![](/images/Copy%20of%202022%20ALP-GDLP%20for%20PN%20May.png)
 
 <p align="justify">
@@ -20,31 +41,6 @@ Click on the ‘2021 ALP-GDLP Montage’ to capture the spirit of our young Gabr
 	
 <p align="justify">
 The school has launched an applied learning programme known as the <b>Gabrielite Digital Literacy Programme (GDLP)</b> for Primary 3 students. We recognise that digital literacy is a vital skillset to prepare our Gabrielites for the future. GDLP will equip our young digital users with the knowledge, skills and attitude that allow them to be safe and empowered in an increasingly digital world.</p>
-
-<table class="tg" style="undefined;table-layout: fixed; width: 598px">
-<colgroup>
-<col style="width: 137px">
-<col style="width: 461px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-s2rg" colspan="2">Applied Learning Programme Committee</td>
-  </tr>
-  <tr>
-    <td class="tg-s2rg">Advisor</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Mr Martin Tan, Principal </span></td>
-  </tr>
-  <tr>
-    <td class="tg-s2rg">Key Drivers</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Mrs Catherine Low, HOD Aesthetics and Applied Learning</span><br><br><span style="color:#222;background-color:transparent">Mdm Lim Jia Shyuan, SH InfoComm Technology </span></td>
-  </tr>
-  <tr>
-    <td class="tg-s2rg"> Members</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Mr Jimmy Tong, HOD Physical &amp; Health Education and CCA</span><br><br><span style="color:#222;background-color:transparent">Mr Sean de Zilva, SH Physical &amp; Health Education and CCA</span><br><br><span style="color:#222;background-color:transparent">Mr Xie Zheng Yang, SH Student Leadership (Internal)</span></td>
-  </tr>
-</tbody>
-</table>
-
 
 **Introduction**   
 <p align="justify">
