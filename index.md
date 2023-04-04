@@ -20,7 +20,7 @@ sections:
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/gdlp/
-      background: /images/Mock-up Website GIF (3) - Banners.gif
+      background: /images/mock-up website gif (3).gif
   - infopic:
       title: eOpen House 2023
       button: Enter
