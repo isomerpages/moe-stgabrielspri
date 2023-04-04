@@ -2,6 +2,7 @@ collections:
   e-open-house:
     output: true
     order:
+      - Important Information for P1s/.keep
       - e Open House Infographic.md
       - Principal's Message.md
       - Get to know SGPS.md
