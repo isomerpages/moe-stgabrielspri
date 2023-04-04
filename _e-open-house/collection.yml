@@ -2,6 +2,7 @@ collections:
   e-open-house:
     output: true
     order:
+      - Useful Information/School Hours.md
       - Useful Information/Montfortian Character, Citizenship and Leadership
         Education (MCLE) Programme.md
       - Useful Information/.keep
