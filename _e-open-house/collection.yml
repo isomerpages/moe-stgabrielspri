@@ -2,12 +2,12 @@ collections:
   e-open-house:
     output: true
     order:
-      - Frequently Asked Questions/.keep
       - e Open House Infographic.md
       - Principal's Message.md
       - Get to know SGPS.md
       - Get to know our programmes.md
       - Important Information for P1s/.keep
+      - Frequently Asked Questions/.keep
       - Useful Information.md
       - Useful Information/.keep
       - Useful Information/Montfortian Character, Citizenship and Leadership
