@@ -2,6 +2,8 @@ collections:
   e-open-house:
     output: true
     order:
+      - Useful Information/Montfortian Character, Citizenship and Leadership
+        Education (MCLE) Programme.md
       - Useful Information/.keep
       - e Open House Infographic.md
       - Principal's Message.md
