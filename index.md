@@ -20,7 +20,13 @@ sections:
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/gdlp/
-      background: /images/Mock-up Website GIF (3) - Banners.gif
+      background: /images/mock-up website gif (3).gif
+  - infopic:
+      title: eOpen House 2023
+      button: Enter
+      url: https://stgabrielspri.moe.edu.sg/e-open-house/e-open-house-infographic/
+      image: /images/2023 sgps e-open house banner-poster.jpg
+      alt: Image alt text
   - resources:
       title: Announcement
   - infopic:
@@ -28,7 +34,7 @@ sections:
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
       alt: Image alt text
-      image: /images/Gabrielite 2025 Banner.jpeg
+      image: /images/900x240cm_lsa_fa.jpg
   - infopic:
       title: School Corporate Video
       button: Get To Know Us

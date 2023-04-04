@@ -2,8 +2,19 @@ collections:
   e-open-house:
     output: true
     order:
-      - Webinar.md
+      - e Open House Infographic.md
       - Principal's Message.md
       - Get to know SGPS.md
       - Get to know our programmes.md
-      - Useful Information.md
+      - Important Information for P1s/.keep
+      - Important Information for P1s/Montfortian Character, Citizenship and
+        Leadership Education (MCLE) Programme.md
+      - Important Information for P1s/School Hours.md
+      - Important Information for P1s/Recess.md
+      - Important Information for P1s/Dismissal and Pickup points.md
+      - Frequently Asked Questions/.keep
+      - Frequently Asked Questions/School Daily Operation.md
+      - Frequently Asked Questions/Services.md
+      - Frequently Asked Questions/School Programmes.md
+      - Frequently Asked Questions/School Support.md
+      - Frequently Asked Questions/Others.md
