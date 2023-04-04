@@ -2,7 +2,6 @@ collections:
   e-open-house:
     output: true
     order:
-      - Useful Information/School Programmes.md
       - Useful Information/.keep
       - Useful Information/Montfortian Character, Citizenship and Leadership
         Education (MCLE) Programme.md
@@ -11,6 +10,7 @@ collections:
       - Useful Information/Dismissal and Pickup points.md
       - Useful Information/School Daily Operation.md
       - Useful Information/Services.md
+      - Useful Information/School Programmes.md
       - e Open House Infographic.md
       - Principal's Message.md
       - Get to know SGPS.md
