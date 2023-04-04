@@ -2,6 +2,7 @@ collections:
   e-open-house:
     output: true
     order:
+      - School Programmes.md
       - e Open House Infographic.md
       - Principal's Message.md
       - Get to know SGPS.md
