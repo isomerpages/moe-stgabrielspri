@@ -10,7 +10,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P1 Registration Phases and Timeframe</label>
     <div>
-			<p><center><b>2022 P1 REGISTRATION EXERCISE (FOR ADMISSION TO P1 IN 2023)</b></center></p>
+			<p></p><center><b>2022 P1 REGISTRATION EXERCISE (FOR ADMISSION TO P1 IN 2023)</b></center><p></p>
 			<p><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -175,7 +175,7 @@ description: ""
   <tr>
     <td class="tg-g1uo">3</td>
     <td class="tg-g1uo">How can I find out the home-school distance category between my primary school of choice and my residence?<br> <br> </td>
-    <td class="tg-g1uo">From the 2022 P1 Registration Exercise, HSD will be calculated based on the <a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=82614&Mesid=96321027">School Land Boundary (SLB)</a>. The HSD used will be the shortest distance from a point on the boundary around the school (instead of from a single reference point) to the registrant’s home.<br> <br>You can check the home-school distance category from the Singapore Land Authority's (SLA) OneMap SchoolQuery Service.<br><br>To use this service:<br>Go to <a href="https://va.ecitizen.gov.sg/flexAnsAPI/UrlHandler.aspx?MesId=422836&MgpId=422836&GPFId=0&PNodeId=0&PId=5993205&Source=Browse&UrlSeq=1&CType=1&SId=c4a88851-df0e-4765-88e9-1d7540e2b9a4&LangId=1">SchoolQuery on the OneMap website</a>.<br>Read the "School Query - Disclaimer" information and select "I Agree"<br>Select the "Find Schools Near a Building" option.<br>Enter your residential address in the "Search and Explore" box. Your address will be displayed in the dropdown address list.<br>Select your address. A list of "Schools within 1km" and "Schools between 1-2km" will be displayed.<br> <br>For more information, you can email SLA_enquiry@sla.gov.sg or call the SLA helpdesk at 1800 323 9829.<br> </td>
+    <td class="tg-g1uo">From the 2022 P1 Registration Exercise, HSD will be calculated based on the <a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=82614&amp;Mesid=96321027">School Land Boundary (SLB)</a>. The HSD used will be the shortest distance from a point on the boundary around the school (instead of from a single reference point) to the registrant’s home.<br> <br>You can check the home-school distance category from the Singapore Land Authority's (SLA) OneMap SchoolQuery Service.<br><br>To use this service:<br>Go to <a href="https://va.ecitizen.gov.sg/flexAnsAPI/UrlHandler.aspx?MesId=422836&amp;MgpId=422836&amp;GPFId=0&amp;PNodeId=0&amp;PId=5993205&amp;Source=Browse&amp;UrlSeq=1&amp;CType=1&amp;SId=c4a88851-df0e-4765-88e9-1d7540e2b9a4&amp;LangId=1">SchoolQuery on the OneMap website</a>.<br>Read the "School Query - Disclaimer" information and select "I Agree"<br>Select the "Find Schools Near a Building" option.<br>Enter your residential address in the "Search and Explore" box. Your address will be displayed in the dropdown address list.<br>Select your address. A list of "Schools within 1km" and "Schools between 1-2km" will be displayed.<br> <br>For more information, you can email SLA_enquiry@sla.gov.sg or call the SLA helpdesk at 1800 323 9829.<br> </td>
   </tr>
   <tr>
     <td class="tg-g1uo">4.</td>
@@ -189,8 +189,7 @@ description: ""
   </tr>
 </tbody>
 			</table></p>
-	<p><img src="/images/P1%20Registration%20FAQ.jpeg" 
-					style="width:65%"></p>
+	<p><img src="/images/P1%20Registration%20FAQ.jpeg" style="width:65%"></p>
 	</div>
 	</li>
 	<li>
@@ -431,7 +430,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Is Student Care service available in St Gabriel’s Primary School?</span></td>
-    <td class="tg-g1uo"><span style="font-weight:bold">Morning Star Services</span><br><br><span style="color:inherit;background-color:transparent">Office Number: +65 8261 5182</span><br><br><span style="color:inherit;background-color:transparent">Morning Star HQ: 6285-1377</span><br><br><span style="color:inherit;background-color:transparent">SG SCC: 6284-9524</span><br><br><span style="color:inherit;background-color:transparent">Email:</span> <a href="mailto:studentcare@morningstar.org.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">studentcare@morningstar.org.sg</span></a><br><br><a href="https://www.youtube.com/watch?v=RkwshhcKZBM&feature=youtu.be" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Morning Star Student Care @ St. Gabriel's Primary School</span></a><br></td>
+    <td class="tg-g1uo"><span style="font-weight:bold">Morning Star Services</span><br><br><span style="color:inherit;background-color:transparent">Office Number: +65 8261 5182</span><br><br><span style="color:inherit;background-color:transparent">Morning Star HQ: 6285-1377</span><br><br><span style="color:inherit;background-color:transparent">SG SCC: 6284-9524</span><br><br><span style="color:inherit;background-color:transparent">Email:</span> <a href="mailto:studentcare@morningstar.org.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">studentcare@morningstar.org.sg</span></a><br><br><a href="https://www.youtube.com/watch?v=RkwshhcKZBM&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Morning Star Student Care @ St. Gabriel's Primary School</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Is there school bus service available in St Gabriel’s Primary School?</span></td>
@@ -576,8 +575,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
     <label for="accordion12">Parent Support Group (PSG) @ St Gabriel's Primary School</label>
     <div>
 			<p>The PSG @ SGPS was established around 2008. For the past 12 years, parents @ SGPS have been playing a vital role in the school. We are important partners in enriching your child’s learning. Being involved in your child’s school sends a clear signal to your child as a form of concern for them, thus, encouraging them to adopt positive life attitudes towards learning. Communication is key and a two-way process that benefits the children, parents and the school.<br><br>The Parent Support Group is a great opportunity to foster a closer bond with our children, understanding them better. PSG@SGPS is made up of a group of dedicated parents who comes together to offer collaboration and support; playing an active and important role in being the bridge between the parents, students and the school. With the advice from the school’s advisors, PSG complements by aligning the school’s programs further improving our children’s well-being and learning. Meetings are held on a termly basis where parents come together to meet, discuss and share our collective efforts for our children at SGPS.<br><br>As a member of the PSG@SGPS, we strive to promote the spirit of community within the SGPS family. Not only does it allow you to have greater awareness of how the school is run but it also helps identify more with your child in their schooling experience. If you are keen to join us, pick up a form from the General Office or you may email your interest to sgps.psg@gmail.com.<br><br>Thank you.<br><br><a href="/files/PSG%20Reg%20Form_Revised.pdf" target="">Parent Support Group Registration Form</a></p>
-			<p><img src="/images/uipsg.png" 
-							style="width:85%"></p>
+			<p><img src="/images/uipsg.png" style="width:85%"></p>
 		</div>
 	</li>
 	</ul>
