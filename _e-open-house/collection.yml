@@ -2,9 +2,9 @@ collections:
   e-open-house:
     output: true
     order:
-      - Useful Information/.keep
       - e Open House Infographic.md
       - Principal's Message.md
       - Get to know SGPS.md
       - Get to know our programmes.md
       - Useful Information.md
+      - Useful Information/.keep
