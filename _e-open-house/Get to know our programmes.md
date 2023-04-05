@@ -51,7 +51,7 @@ description: ""
     <div>
       <ul>
 				<li><a href="/signature-programmes/gdlp/">Gabrielite Digital Literacy Programme (GDLP)</a></li>
-				<li><a href="/signature-programmes/gfa/" target="_blank" rel="noopener">Gabrielite Football Academy&nbsp;(GFA)</a></li>
+				<li><a href="/signature-programmes/gfa/">Gabrielite Football Academy&nbsp;(GFA)</a></li>
 				<li><a href="/signature-programmes/Louis-Marie-de-Montfort/lmm/">Louis Marie De Montfort (LMM)</a></li>
 				<li><a href="/signature-programmes/mlp/" target="">Montfortian Leadership Program (MLP)</a></li>
 				<li><a href="/signature-programmes/pride/">Personal Responsibility In Delivering Excellence (PRIDE)</a></li>
