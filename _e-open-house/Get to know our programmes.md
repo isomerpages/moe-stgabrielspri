@@ -39,7 +39,7 @@ description: ""
       <ul>
 				<li><a href="/life-skills-and-enrichment/pal/">Programme For Active Learning (PAL)</a></li>
 				<li><a href="/life-skills-and-enrichment/Physical-and-Health-Education/physical-health-and-education/">Physical &amp; Health Education</a></li>
-				<li><a href="/life-skills-and-enrichment/aesthetics/">Aesthetics</a></li>
+				<li><a href="/life-skills-and-enrichment/aesthetics/">Aesthetics (Visual &amp; Performing Arts)</a></li>
 				<li><a href="/life-skills-and-enrichment/tie/" target="">Trips For International Experiences (TIE)</a></li>
 				<li><a href="/life-skills-and-enrichment/ict/">InfoComm Technology (ICT)</a></li>
 			</ul>
