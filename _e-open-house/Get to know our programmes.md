@@ -85,7 +85,7 @@ description: ""
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/grabrielite-football-academy/">Gabrielite Football Academy</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/wushu/">Wushu</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/basketball/">Basketball</a></li>
-				<li><a href="/life-skills-and-enrichment/aesthetics/">Athletics</a></li>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/athletics/">Athletics</a></li>
 			</ul>
 		</div>
 	</li>
