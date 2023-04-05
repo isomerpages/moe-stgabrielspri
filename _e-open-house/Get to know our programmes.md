@@ -14,7 +14,7 @@ description: ""
 				<li><a href="/character-formation/CCE/character-and-citizenship-education/" target="">Character And Citizenship Education</a></li>
 				<li><a href="/character-formation/CCE/student-leadership/">Student Leadership</a></li>
 				<li><a href="/character-formation/student-discipline-and-partnerships/">Student Discipline, Safety &amp; Partnerships</a></li>
-				<li><a href="/character-formation/student-discipline-and-partnerships/">Student Well-Being</a></li>
+				<li><a href="/character-formation/student-development/">Student Development</a></li>
 			</ul>
     </div>
 	</li> 
@@ -34,7 +34,7 @@ description: ""
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Life Skills & Enrichment</label>
+    <label for="accordion3">Life Skills &amp; Enrichment</label>
     <div>
       <ul>
 				<li><a href="/life-skills-and-enrichment/pal/">Programme For Active Learning (PAL)</a></li>
