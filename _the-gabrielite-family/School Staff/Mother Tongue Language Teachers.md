@@ -81,8 +81,14 @@ third_nav_title: School Staff
     <td class="tg-bjk0">Ms Shirlee Moo Pei San  </td>
     <td class="tg-bjk0">moo_pei_san@schools.gov.sg  </td>
   </tr>
+	 <tr>
+    <td class="tg-bjk0">Ms Ng Xin Ping  </td>
+    <td class="tg-bjk0">ng_xin_ping@schools.gov.sg  </td>
+  </tr>
 </tbody>
 </table>
+
+
 
 ### MALAY LANGUAGE
 

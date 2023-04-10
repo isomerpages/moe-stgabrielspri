@@ -1,6 +1,6 @@
 ---
 title: Gabrielite Football Academy (GFA)
-permalink: /life-skills-and-enrichment/Co-Curricular-Activities/grabrielite-football-academy/
+permalink: /life-skills-and-enrichment/co-curricular-activities/grabrielite-football-academy/
 description: ""
 ---
 ![](/images/GFA%202023.jpg)
@@ -19,8 +19,7 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><img src="/images/gfa2.jpeg" 
-     style="width:50%"></td>
+    <td class="tg-nrix"><img src="/images/gfa2.jpeg" style="width:50%"></td>
   </tr>
 </tbody>
 </table>
@@ -95,7 +94,7 @@ The Gabrielite Football Academy (GFA) was started to provide our boys with a hol
 
   
 <p align="justify">
-Our boys are selected from P1 and put through training on and off the field. As a footballer, they are trained to improve their individual and team skills so that they can play football competitively or recreationally. All our boys are given Inter-School opportunities. As a leader, they are trained to become eventual junior coaches and referees, where they are expected to coach the junior players eventually and referee in school based matches. </p>
+Our boys are selected from P1 and put through training on and off the field. As a footballer, they are trained to improve their individual and team skills so that they can play football competitively or recreationally. All our boys are given Inter-School opportunities. As a leader, they are trained to become eventual junior coaches and referees, where they are expected to coach the junior players eventually and referee in school based matches.&nbsp;</p>
 
   
 <p align="justify">
@@ -110,7 +109,7 @@ In addition to all these football related activities, our boys are expected to d
 		 
 <img src="/images/gfa5.jpeg">
 		 
-<br><img src="/images/gfa6.jpeg" >
+<br><img src="/images/gfa6.jpeg">
 		 
 <br><img src="/images/GFA%20photo1.jpg">
 Half-Time Talk for Our Senior Team During South Zone Football Championships in 2023

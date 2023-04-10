@@ -14,7 +14,7 @@ description: ""
 				<li><a href="/character-formation/CCE/character-and-citizenship-education/" target="">Character And Citizenship Education</a></li>
 				<li><a href="/character-formation/CCE/student-leadership/">Student Leadership</a></li>
 				<li><a href="/character-formation/student-discipline-and-partnerships/">Student Discipline, Safety &amp; Partnerships</a></li>
-				<li><a href="/character-formation/student-discipline-and-partnerships/">Student Well-Being</a></li>
+				<li><a href="/character-formation/student-development/">Student Development</a></li>
 			</ul>
     </div>
 	</li> 
@@ -34,12 +34,12 @@ description: ""
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Life Skills & Enrichment</label>
+    <label for="accordion3">Life Skills &amp; Enrichment</label>
     <div>
       <ul>
 				<li><a href="/life-skills-and-enrichment/pal/">Programme For Active Learning (PAL)</a></li>
 				<li><a href="/life-skills-and-enrichment/Physical-and-Health-Education/physical-health-and-education/">Physical &amp; Health Education</a></li>
-				<li><a href="/life-skills-and-enrichment/aesthetics/">Aesthetics</a></li>
+				<li><a href="/life-skills-and-enrichment/aesthetics/">Aesthetics (Visual &amp; Performing Arts)</a></li>
 				<li><a href="/life-skills-and-enrichment/tie/" target="">Trips For International Experiences (TIE)</a></li>
 				<li><a href="/life-skills-and-enrichment/ict/">InfoComm Technology (ICT)</a></li>
 			</ul>
@@ -50,8 +50,8 @@ description: ""
     <label for="accordion4">Signature Programmes</label>
     <div>
       <ul>
-				<li><a href="/signature-programmes/gdlp/" target="_blank" rel="noopener">Gabrielite Digital Literacy Programme (GDLP)</a></li>
-				<li><a href="/signature-programmes/gfa/" target="_blank" rel="noopener">Gabrielite Football Academy&nbsp;(GFA)</a></li>
+				<li><a href="/signature-programmes/gdlp/">Gabrielite Digital Literacy Programme (GDLP)</a></li>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/grabrielite-football-academy/">Gabrielite Football Academy&nbsp;(GFA)</a></li>
 				<li><a href="/signature-programmes/Louis-Marie-de-Montfort/lmm/">Louis Marie De Montfort (LMM)</a></li>
 				<li><a href="/signature-programmes/mlp/" target="">Montfortian Leadership Program (MLP)</a></li>
 				<li><a href="/signature-programmes/pride/">Personal Responsibility In Delivering Excellence (PRIDE)</a></li>
@@ -82,10 +82,11 @@ description: ""
 			<ul>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/golf/">Golf</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/badminton/">Gabrielte Badminton Academy</a></li>
-				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/grabrielite-football-academy/">Gabrielite Football Academy</a></li>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/grabrielite-football-academy/">Gabrielite Football Academy</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/wushu/">Wushu</a></li>
 				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/basketball/">Basketball</a></li>
-				<li><a href="/life-skills-and-enrichment/aesthetics/">Athletics</a></li>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/athletics/">Athletics</a></li>
+					<li><a href="/life-skills-and-enrichment/co-curricular-activities/floorball/">Floorball</a></li>
 			</ul>
 		</div>
 	</li>

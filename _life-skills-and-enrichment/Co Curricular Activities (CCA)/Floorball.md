@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /life-skills-and-enrichment/Co-Curricular-Activities/Floorball/
+permalink: /life-skills-and-enrichment/co-curricular-activities/floorball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
