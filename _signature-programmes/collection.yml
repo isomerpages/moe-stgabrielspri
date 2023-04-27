@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Religious Education.md
       - Louis Marie de Montfort (LMM)/.keep
       - Louis Marie de Montfort (LMM)/Louis Marie de Montfort (LMM).md
       - Louis Marie de Montfort (LMM)/Literature Programme.md
@@ -13,4 +12,5 @@ collections:
       - Gabrielite Football Academy (GFA).md
       - Montfortian Character and Leadership Education (MCLE).md
       - Gabrielite Digital Literacy Programme (GDLP).md
+      - Religious Education.md
       - Personal Responsibility In Delivering Excellence (PRIDE).md
