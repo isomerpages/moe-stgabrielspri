@@ -19,7 +19,7 @@ sections:
           url: /life-skills-and-enrichment/Physical-and-Health-Education/physical-health-and-education/
         - title: SIGNATURE PROGRAMMES
           description: ""
-          url: /signature-programmes/gdlp/
+          url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - infopic:
       title: eOpen House 2023

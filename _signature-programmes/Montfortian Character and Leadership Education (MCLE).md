@@ -1,17 +1,16 @@
 ---
-title: Montfortian Leadership Programme (MLP)
+title: Montfortian Character and Leadership Education (MCLE)
 permalink: /signature-programmes/mlp/
 description: ""
 ---
 **Key Personnel**   
-Mr Xie Zhengyang  (Subject Head, Student Leadership)  
+Mr Xie Zhengyang&nbsp; (Subject Head, Student Leadership)  
 
 **Overview**
 <p align="justify">
 MLP is designed based on the theoretical underpinnings of the “Student Leadership Challenge” by Kouzes and Posner. The emphasis of The Leadership Challenge® is about how student leaders mobilize others to want to get extraordinary things done. It is about the practices student leaders use to transform values into actions, visions into realities, obstacles into innovations, separateness into solidarity, and risks into rewards. It is about a climate in which people turn challenging opportunities into remarkable successes. </p>
 
-<img src="/images/TLC%20Framework.png" 
-     style="width:35%">
+<img src="/images/TLC%20Framework.png" style="width:35%">
 
 <p align="justify">
 1. Encourage the Heart (Primary 1)  
@@ -44,7 +43,7 @@ Ref: Write up is adopted and taken with reference from
 
 **Leadership Development Journey**
 <p align="justify">
-Since 2015, all Primary 1 to 6 students go through MLP Lessons, 2 hours a term, on 5 Practices and 10 commitments. St. Gabriel’s Primary School approach leadership as measurable, teachable and a learnable set of behaviours. In 2019, we introduced the MLP @ Outdoor Experiential Learning Area (OEL) to provide students with a more integrated and comprehensive leadership experience. The MLP@OEL lessons are conducted during PE lessons, and there are a total of 3 lessons per level. Through the various experiential activities that the students would be exposed to during MLP lessons, it would provide them with a holistic development of the various leadership competencies, preparing them to be Gabrielite Leaders who lead from the heart.   </p>
+Since 2015, all Primary 1 to 6 students go through MLP Lessons, 2 hours a term, on 5 Practices and 10 commitments. St. Gabriel’s Primary School approach leadership as measurable, teachable and a learnable set of behaviours. In 2019, we introduced the MLP @ Outdoor Experiential Learning Area (OEL) to provide students with a more integrated and comprehensive leadership experience. The MLP@OEL lessons are conducted during PE lessons, and there are a total of 3 lessons per level. Through the various experiential activities that the students would be exposed to during MLP lessons, it would provide them with a holistic development of the various leadership competencies, preparing them to be Gabrielite Leaders who lead from the heart.&nbsp; &nbsp;</p>
 
   
 

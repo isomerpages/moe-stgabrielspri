@@ -1,6 +1,6 @@
 ---
 title: Louis Marie de Montfort (LMM)
-permalink: /signature-programmes/Louis-Marie-de-Montfort/lmm/
+permalink: /signature-programmes/louis-marie-de-montfort/lmm/
 description: ""
 third_nav_title: Louis Marie de Montfort (LMM)
 ---
@@ -17,7 +17,7 @@ Mdm Jean Heng
 
 **Background**     
 <p align="justify">
-We acknowledge that all Gabrielites have different areas of strengths. We also recognize that amongst our Gabrielites, are boys who learn at a different pace and these boys would benefit from a more robust and academically challenging curriculum. 
+We acknowledge that all Gabrielites have different areas of strengths. We also recognize that amongst our Gabrielites, are boys who learn at a different pace and these boys would benefit from a more robust and academically challenging curriculum.&nbsp;
 </p>
 <p align="justify">
 As such, there arose a need for a differentiated curriculum to cater to them which saw the introduction of the St Louis Marie de Montfort (LMM) class in 2016.
@@ -40,8 +40,7 @@ In alignment with Gabrielite 2025, apart from developing our students to be a Le
 
 **LMM Framework**
 
-<img src="/images/LMM%20Framework.png" 
-     style="width:65%">
+<img src="/images/LMM%20Framework.png" style="width:65%">
 
 <p align="justify">
 At the end of three years of LMM education, we aim to develop every student to be: </p>
