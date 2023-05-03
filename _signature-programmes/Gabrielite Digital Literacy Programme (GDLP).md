@@ -30,7 +30,7 @@ In preparing Gabrielites to thrive in a rapidly evolving society as future-ready
 ![](/images/2023%20alp-gdlp%20for%20p3%20and%20p5_final.jpg)
 
 <p align="justify">
-Click on the ‘2021 ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together. </p>
+Click on the ‘ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together. </p>
 
 **Introduction**   
 <p align="justify">
