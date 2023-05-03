@@ -23,15 +23,11 @@ Mr Jimmy Tong, HOD Physical &amp; Health Education and CCA <br>
 Mr Sean de Zilva, SH Physical &amp; Health Education and CCA <br>
 Mr Xie Zhengyang, SH Student Leadership <br>
 
+<p align="justify">
+In preparing Gabrielites to thrive in a rapidly evolving society as future-ready citizens, GDLP will anchor students on a strong foundation of 21st Century Competencies. With the rise of automation and Artificial Intelligence (AI), it is crucial for our Gabrielites to acquire a different set of skills that are essential for success in the 21st century: critical and inventive thinking, problem-solving, communication and collaboration skills, creativity, and digital literacy. GDLP will place greater emphasis on the development of dispositions and competencies to develop and deepen students’ ability to cope with complexity, ambiguity and change in the technology-driven age. Significantly, teaching 21CC skills will enable students to become more informed and engaged citizens who are better equipped to navigate the challenges of our interconnected world and contribute effectively to our communities.
+</p>
 
 ![](/images/2023%20alp-gdlp%20for%20p3%20and%20p5_final.jpg)
-
-
-
-
-
-<p align="justify">
-</p>
 
 <p align="justify">
 Click on the ‘2021 ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together. </p>
