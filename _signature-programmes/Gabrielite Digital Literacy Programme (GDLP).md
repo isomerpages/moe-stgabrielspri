@@ -32,6 +32,9 @@ In preparing Gabrielites to thrive in a rapidly evolving society as future-ready
 <p align="justify">
 Click on the ‘ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together. </p>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2021-22 GDLP" src="https://www.youtube.com/embed/rvIY_jRw3tM" height="240" width="425"></iframe>
+
+
 **Introduction**   
 <p align="justify">
 	GDLP is designed to equip our Gabrielites with digital literacy that will help them take on an active role in the digital world now and in the future. It leverages on the integrative approach of Coding and Design to solve real world problems. It explores the social and cultural practices of digital literacy that enable our students to make the most of their multiple interactions with digital technology and media meaningfully. It will tap into the breadth and depth of Coding and Design to deliver stimulating and engaging experiences to challenge our students to re-imagine the world around them as well as to equip them with the character and skills for the future.</p>
