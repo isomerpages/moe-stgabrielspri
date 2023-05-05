@@ -79,6 +79,7 @@ Some examples of cuisines/menus that our school is looking for are:
 -	Western cuisine (halal) OR;
 -	Japanese cuisine (halal) OR;
 <br>
+
 <p align="justify">
 Halal Menu - Thai / Korean / Mediterranean / Indian / Western / Japanese</p>
 
