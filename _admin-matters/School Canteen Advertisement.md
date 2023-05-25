@@ -5,12 +5,12 @@ description: ""
 ---
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Western Food Stall (Halal)     | 26 May 2023 (Fri)     |
-|International/Asian Cuisine Stall (Halal)|26 May 2023 (Fri)|
+| Western Food Stall (Halal)     | 30 June 2023 (Fri)     |
+|International/Asian Cuisine Stall (Halal)| 30 June 2023 (Fri)|
 
 --------------
 <p align="justify">
-St. Gabriel’s Primary School would like to invite applicants to operate a Western Food Stall (Halal). Please forward the completed form to the school by the closing date, 26 May 2023 (Friday). </p>
+St. Gabriel’s Primary School would like to invite applicants to operate a Western Food Stall (Halal). Please forward the completed form to the school by the closing date, 30 June 2023 (Friday). </p>
 
 Western Stall (Halal) <br>
 <p align="justify">
