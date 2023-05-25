@@ -25,7 +25,6 @@ sections:
       title: eOpen House 2023
       button: Enter
       url: https://stgabrielspri.moe.edu.sg/e-open-house/e-open-house-infographic/
-      image: /images/2023 sgps e-open house banner-poster.jpg
       alt: Image alt text
   - infopic:
       title: Facebook
