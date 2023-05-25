@@ -26,6 +26,7 @@ sections:
       button: Enter
       url: https://stgabrielspri.moe.edu.sg/e-open-house/e-open-house-infographic/
       alt: Image alt text
+      image: /images/2023 sgps e-open house poster_zoom webinar details.jpg
   - infopic:
       title: Facebook
       button: Follow us
