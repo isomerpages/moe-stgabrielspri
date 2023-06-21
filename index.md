@@ -24,9 +24,8 @@ sections:
   - infopic:
       title: 2023 P1 Registration Exercise - Phase 1 Registration
       button: Enter
-      url: https://stgabrielspri.moe.edu.sg/e-open-house/e-open-house-infographic/
+      url: https://stgabrielspri.moe.edu.sg/2023p1regexphase1reg/
       alt: Image alt text
-      image: /images/2023 sgps e-open house poster_zoom webinar details.jpg
   - infopic:
       title: Facebook
       button: Follow us
