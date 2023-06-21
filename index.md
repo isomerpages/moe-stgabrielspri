@@ -26,6 +26,7 @@ sections:
       button: Enter
       url: https://stgabrielspri.moe.edu.sg/2023p1regexphase1reg/
       alt: Image alt text
+      image: /images/p1regex.png
   - infopic:
       title: Facebook
       button: Follow us
