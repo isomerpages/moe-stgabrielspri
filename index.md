@@ -22,11 +22,11 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - infopic:
-      title: eOpen House 2023
+      title: 2023 P1 Registration Exercise - Phase 1 Registration
       button: Enter
-      url: https://stgabrielspri.moe.edu.sg/e-open-house/e-open-house-infographic/
+      url: https://stgabrielspri.moe.edu.sg/2023p1regexphase1reg/
       alt: Image alt text
-      image: /images/2023 sgps e-open house poster_zoom webinar details.jpg
+      image: /images/p1regex.png
   - infopic:
       title: Facebook
       button: Follow us
