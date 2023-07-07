@@ -43,7 +43,7 @@ k.	Healthy and fit to operate the stall. <br> </p>
 
 <br>
 </p><p align="justify">
-3.         Please email the following to stgps@moe.edu.sg by 30 Jun 2023 (Friday).<br>
+3.         Please email the following to stgps@moe.edu.sg by 31 August 2023 (Thursday).<br>
 
 a.	Completed Application Form<br>
 	
