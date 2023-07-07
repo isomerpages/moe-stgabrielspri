@@ -10,7 +10,7 @@ description: ""
 
 --------------
 <p align="justify">
-St. Gabriel’s Primary School would like to invite applicants to operate a Western Food Stall (Halal). Please forward the completed form to the school by the closing date, 30 Jun 2023 (Friday). </p>
+St. Gabriel’s Primary School would like to invite applicants to operate a Western Food Stall (Halal). Please forward the completed form to the school by the closing date, 31 August 2023 (Thursday). </p>
 
 Western Stall (Halal) <br>
 <p align="justify">
