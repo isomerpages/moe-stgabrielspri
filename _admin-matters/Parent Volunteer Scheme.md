@@ -11,3 +11,5 @@ description: ""
 Parents who are interested in applying as Parent Volunteers need to submit the completed [application form](https://drive.google.com/file/d/177garaPem_gvRgAu035TelywsTnVrWu5/view?usp=sharing) (via email) to the school at stgps@moe.edu.sg. 
 
 The deadline for submission is 31 May 2023.
+
+The application for SGPS Parent Volunteer Scheme (for child to be registered in 2024) has been closed.
