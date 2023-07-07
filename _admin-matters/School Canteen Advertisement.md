@@ -5,8 +5,8 @@ description: ""
 ---
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Western Food Stall (Halal)     | 30 June 2023 (Fri)     |
-|International/Asian Cuisine Stall (Halal)| 30 June 2023 (Fri)|
+| Western Food Stall (Halal)     | 31 August 2023 (Thurs) |
+|International/Asian Cuisine Stall (Halal)| 31 August 2023 (Thurs)|
 
 --------------
 <p align="justify">
