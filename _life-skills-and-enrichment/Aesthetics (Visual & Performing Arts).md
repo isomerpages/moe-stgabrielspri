@@ -13,7 +13,7 @@ Mrs Catherine Low (HOD Aesthetics &amp; Applied Learning Programme)
 
 
 **Aesthetics Committee** <br>
-Mdm Cecilia Wong<br>Mr Ng Chiong Hoe<br>Mr Daniel Sia<br>Ms Glenda Ng<br>Ms Priscilla Yong<br>Mdm Lytessia Soh<br>Ms Yang Xiaoqing<br>Mr Steven Tay<br>
+Mrs Cecilia Wong<br>Mr Ng Chiong Hoe<br>Mr Daniel Sia<br>Ms Glenda Ng<br>Ms Priscilla Yong<br>Mdm Lytessia Soh<br>Ms Yang Xiaoqing<br>Mr Steven Tay<br>
 
 **Department Programmes**
 <p align="justify">At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision: </p>
