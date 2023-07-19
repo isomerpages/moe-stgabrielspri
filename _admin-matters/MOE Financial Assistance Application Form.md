@@ -5,7 +5,7 @@ description: ""
 ---
 **MOE - FAS**
 
-You may submit your application [online](https://go.gov.sg/moe-efas) if you are eligible and wish to apply for the MOE FAS. Alternatively, you may submit the completed application form to the school. <br>
+You may submit your application [online](https://go.gov.sg/moe-efas)&nbsp;if you are eligible and wish to apply for the MOE FAS. Alternatively, you may submit the completed application form to the school. <br>
 [GGAS FAS Application Form](https://drive.google.com/file/d/13N4_IUUR2X5aFFaxuxt38sAkzhHfu3hG/view?usp=sharing)  
 <br>
 
@@ -13,13 +13,10 @@ You may submit your application [online](https://go.gov.sg/moe-efas) if you are
 <br>
 [Transport Subsidy for Students on FAS revised.pdf](https://drive.google.com/file/d/1ENRKMYy4HwOMs576Q3GJpi1Aa4b-NEWn/view?usp=sharing)
 
-**NEU PC PLUS Programme & M1 Fibre Broadband Application**<br>
+**DigitalAccess@Home**<br>
 
 <p align="justify">
-The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price. Students from low-income households who need a computer may apply to own a computer at a subsidised price through this programme.
+DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities. This is a programme spearheaded by Infocomm Media Development Authority of Singapore (IMDA). 
 </p>
 
-Click [here](https://www.imda.gov.sg/neupc) for more information. <br>
-
-For M1 Fibre Broadband application, please use the updated form. <br>
-[NEU PC Plus IMDA FBB Svc Application Form](https://drive.google.com/file/d/1ai2gNc-HHmk75xfIdt5PkNZuTL0wMZYF/view?usp=sharing)
+Please click [here](https://www.imda.gov.sg/dah) for more information.
