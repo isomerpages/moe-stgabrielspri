@@ -34,7 +34,8 @@ third_nav_title: School Staff
 ||| **Ms Maureen** <br> jansen_maureen_anne@schools.gov.sg  
 | &nbsp;3 Sincerity  | **Ms&nbsp;Low Yun Hui** <br>low_yun_hui@schools.gov.sg  | **Mdm Chitra** <br> chitra_devi_kasiviswanathan@schools.gov.sg  
 |||**Mr Quek Guan Hui** <br> quek_guan_hui@schools.gov.sg  
-| &nbsp;3 Loyalty  | **Ms Jane Lim** <br> lim_boey_huang_jane@schools.gov.sg  | **Mr Hamzah** <br> muhamad_hamzah_rohi@schools.gov.sg |
+| &nbsp;3 Loyalty  | **Mrs Christine Lee** <br> lee_xiu_en_christine@schools.gov.sg  | **Mr Hamzah** <br> muhamad_hamzah_rohi@schools.gov.sg |
+||| Mr Muhammad Erwin <br> muhammad_erwin_mohd_noor@schools.gov.sg
 |**Primary 4**|||
 | 4 Loyalty | **Mrs Michelle Tan** <br> wee_hui_lin_michelle@schools.gov.sg | **Ms Ng Xin Ping** <br> ng_xin_ping@schools.gov.sg  
 | &nbsp;4 Orderliness | **Mrs Cecilia Koh** <br> lee_hiang_hoon_cecilia@schools.gov.sg | **Ms Ren Ting** <br> ren_ting@schools.gov.sg  
