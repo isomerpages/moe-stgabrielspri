@@ -10,12 +10,14 @@ third_nav_title: School Staff
 | 1 Self-Discipline | **Mrs Shelena Lim** <br> tan_li_ing_shelena@schools.gov.sg | **Mrs&nbsp;Kareen Wong** <br> teoh_kareen@schools.gov.sg | 
 ||| **Mr Sng Cheng Kiang** <br> sng_cheng_kiang@schools.gov.sg  
 | 1 Generosity  | **Mrs Goh Yuniarti** <br> chan_yuniarti@schools.gov.sg | **Ms Dina Farhana** <br> dina_farhana_hashim@schools.gov.sg
-|||**Mr&nbsp;Ng Chiong Hoe** <br> ng_chiong_hoe@schools.gov.sg  
+|||**Mr&nbsp;Ng Chiong Hoe** <br> ng_chiong_hoe@schools.gov.sg
+|||**Mrs Isabel Wong** <br>
+|||ng_su_min_isabel@schools.gov.sg
 |&nbsp;1 Perseverance | **Mdm Rohaya** <br> rohaya_awie@schools.gov.sg  | **Mdm Aisha** <br> noor_aisha@schools.gov.sg
 | 1 Sincerity  | **Ms Glenda Ng** <br> glenda_ng@schools.gov.sg | **Mrs Dorin Lee** <br> tan_siew_lay_a@schools.gov.sg 
 |||**Mdm Shofia** <br> shofia_sukma_nasirjaya@schools.gov.sg |
 | 1 Loyalty | **Mrs Jessica Hoon** <br>  li_xin_hui@schools.gov.sg |**Mdm Goh Siew Ping** <br> goh_siew_ping@schools.gov.sg  
-|||**Mrs Isabel Wong**  <br> ng_su_min_isabel@schools.gov.sg|
+|||**Ms Lin Bei Jin**  <br> lin_bei_jin@schools.gov.sg|
 |**Primary 2**|||
 | 2 Loyalty  | **Ms&nbsp;Karen Loo** &nbsp;<br> loo_xinyi_karen@schools.gov.sg | **Miss Goh Ruoyi** <br> goh_ruoyi@schools.gov.sg  
 ||| **Ms Priscilla Yong**  <br> priscilla_yong@schools.gov.sg  
