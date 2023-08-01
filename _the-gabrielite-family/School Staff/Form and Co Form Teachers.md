@@ -19,10 +19,8 @@ third_nav_title: School Staff
 | 1 Loyalty | **Mrs Jessica Hoon** <br>  li_xin_hui@schools.gov.sg |**Mdm Goh Siew Ping** <br> goh_siew_ping@schools.gov.sg  
 |||**Ms Lin Bei Jin**  <br> lin_bei_jin@schools.gov.sg|
 |**Primary 2**|||
-| 2 Loyalty  | **Ms&nbsp;Karen Loo** &nbsp;<br> loo_xinyi_karen@schools.gov.sg | **Miss Goh Ruoyi** <br> goh_ruoyi@schools.gov.sg  
-||| **Ms Priscilla Yong**  <br> priscilla_yong@schools.gov.sg  
-||| **Mr Steven Tay** <br> steven_tay_choon_huat@schools.gov.sg  
-| 2 Orderliness | **Ms Elsa Teng** <br> teng_hui_khim_elsa@schools.gov.sg&nbsp;| **Ms Cindy Liong** <br> liong_cindy@schools.gov.sg |
+| 2 Loyalty  | **Ms&nbsp;Karen Loo** &nbsp;<br> loo_xinyi_karen@schools.gov.sg | **Ms Priscilla Yong** <br> priscilla_yong@schools.gov.sg  
+| 2 Orderliness | **Ms Cindy Liong** <br> liong_cindy@schools.gov.sg&nbsp;|  **Ms Elsa Teng** <br> teng_hui_khim_elsa@schools.gov.sg |
 | 2 Respect | **Ms Siti Nurhayaty** <br> siti_nurhayaty_saptu@schools.gov.sg | **Ms Lim Annie** <br> lim_annie@schools.gov.sg 
 ||| **Ms Lytessia Soh** <br> soh_xin_hui_lytessia@schools.gov.sg  
 | 2 Diligence  | **Mrs&nbsp;Sheryl Toh** <br> siew_sheryl@schools.gov.sg  | **Mdm Sharifah Nurulhuda** <br> sharifah_nurulhuda_taha_a@schools.gov.sg
