@@ -69,10 +69,6 @@ third_nav_title: School Staff
     <td class="tg-bjk0">Mr Quek Guan Hui</td>
     <td class="tg-bjk0">quek_guan_hui@schools.gov.sg </td>
   </tr>
-  <tr>
-    <td class="tg-bjk0">Mdm Teo Hwee Joo </td>
-    <td class="tg-bjk0">teo_hwee_joo@schools.gov.sg </td>
-  </tr>
 	  <tr>
     <td class="tg-bjk0">Ms Ren Ting  </td>
     <td class="tg-bjk0">ren_ting@schools.gov.sg  </td>
@@ -84,6 +80,14 @@ third_nav_title: School Staff
 	 <tr>
     <td class="tg-bjk0">Ms Ng Xin Ping  </td>
     <td class="tg-bjk0">ng_xin_ping@schools.gov.sg  </td>
+  </tr>
+		 <tr>
+    <td class="tg-bjk0">Ms Lin Bei Jin  </td>
+    <td class="tg-bjk0">lin_bei_jin@schools.gov.sg  </td>
+  </tr>
+		 <tr>
+    <td class="tg-bjk0">Ms Yang Xiaoqing  </td>
+    <td class="tg-bjk0">yang_xiaoqing@schools.gov.sg  </td>
   </tr>
 </tbody>
 </table>

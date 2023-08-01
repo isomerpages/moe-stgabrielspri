@@ -21,14 +21,11 @@ third_nav_title: School Staff
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-baqh" colspan="2"><img src="/images/mrmartintan2.jpeg" 
-     style="width:25%"><span style="font-weight:bold">Principal</span><br>Mr Martin Tan<br>martin_tan@schools.gov.sg</td>
+    <td class="tg-baqh" colspan="2"><img src="/images/mrmartintan2.jpeg" style="width:25%"><span style="font-weight:bold">Principal</span><br>Mr Martin Tan<br>martin_tan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img src="/images/John%20Lim.jpeg" 
-     style="width:50%"><span style="font-weight:bold">Vice Principal</span><br>Mr John Lim<br>lim_chong_eng@schools.gov.sg</td>
-    <td class="tg-baqh"><img src="/images/Christina%20Tan.jpg" 
-     style="width:50%"><span style="font-weight:bold">Vice Principal (Administration)</span><br><span style="font-weight:400;font-style:normal">Mrs Christina Tan</span><br><span style="font-weight:400;font-style:normal">christina_tee@schools.gov.sg</span></td>
+    <td class="tg-baqh"><img src="/images/John%20Lim.jpeg" style="width:50%"><span style="font-weight:bold">Vice Principal</span><br>Mr John Lim<br>lim_chong_eng@schools.gov.sg</td>
+    <td class="tg-baqh"><img src="/images/Christina%20Tan.jpg" style="width:50%"><span style="font-weight:bold">Vice Principal (Administration)</span><br><span style="font-weight:400;font-style:normal">Mrs Christina Tan</span><br><span style="font-weight:400;font-style:normal">christina_tee@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
@@ -62,11 +59,7 @@ third_nav_title: School Staff
     <td class="tg-brl1"> Mr Kelvin Loy<br></td>
     <td class="tg-brl1"> loy_shingwan_kelvin@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-brl1"><span style="color:#000">HOD / English Language</span><span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-brl1"><span style="color:#000"> Ms Jane Lim</span><span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-brl1"><span style="color:#000"> lim_boey_huang_jane@schools.gov.sg</span><span style="color:#222;background-color:transparent"> </span><br></td>
-  </tr>
+  
   <tr>
     <td class="tg-brl1"><span style="color:#000">Level Head / English Language</span></td>
     <td class="tg-brl1"><span style="color:#000"> Mrs Michelle Tan</span></td>
@@ -98,7 +91,7 @@ third_nav_title: School Staff
     <td class="tg-brl1"> low_yun_yi_jolene@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">HOD / Mother Tongue Languages (MTL) & School Library (Internal)</td>
+    <td class="tg-brl1">HOD / Mother Tongue Languages (MTL)&nbsp;&amp; School Library&nbsp;(Internal)</td>
     <td class="tg-brl1"> Ms Wan Chui Ting</td>
     <td class="tg-brl1"> wan_chui_ting@schools.gov.sg</td>
   </tr>

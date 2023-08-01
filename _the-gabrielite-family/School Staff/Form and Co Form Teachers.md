@@ -10,30 +10,32 @@ third_nav_title: School Staff
 | 1 Self-Discipline | **Mrs Shelena Lim** <br> tan_li_ing_shelena@schools.gov.sg | **Mrs&nbsp;Kareen Wong** <br> teoh_kareen@schools.gov.sg | 
 ||| **Mr Sng Cheng Kiang** <br> sng_cheng_kiang@schools.gov.sg  
 | 1 Generosity  | **Mrs Goh Yuniarti** <br> chan_yuniarti@schools.gov.sg | **Ms Dina Farhana** <br> dina_farhana_hashim@schools.gov.sg
-|||**Mr&nbsp;Ng Chiong Hoe** <br> ng_chiong_hoe@schools.gov.sg  
+|||**Mr&nbsp;Ng Chiong Hoe** <br> ng_chiong_hoe@schools.gov.sg
+|||**Mrs Isabel Wong** <br>
+|||ng_su_min_isabel@schools.gov.sg
 |&nbsp;1 Perseverance | **Mdm Rohaya** <br> rohaya_awie@schools.gov.sg  | **Mdm Aisha** <br> noor_aisha@schools.gov.sg
 | 1 Sincerity  | **Ms Glenda Ng** <br> glenda_ng@schools.gov.sg | **Mrs Dorin Lee** <br> tan_siew_lay_a@schools.gov.sg 
 |||**Mdm Shofia** <br> shofia_sukma_nasirjaya@schools.gov.sg |
 | 1 Loyalty | **Mrs Jessica Hoon** <br>  li_xin_hui@schools.gov.sg |**Mdm Goh Siew Ping** <br> goh_siew_ping@schools.gov.sg  
-|||**Mrs Isabel Wong**  <br> ng_su_min_isabel@schools.gov.sg|
+|||**Ms Lin Bei Jin**  <br> lin_bei_jin@schools.gov.sg|
 |**Primary 2**|||
-| 2 Loyalty  | **Ms&nbsp;Karen Loo** &nbsp;<br> loo_xinyi_karen@schools.gov.sg | **Miss Goh Ruoyi** <br> goh_ruoyi@schools.gov.sg  
-||| **Ms Priscilla Yong**  <br> priscilla_yong@schools.gov.sg  
-||| **Mr Steven Tay** <br> steven_tay_choon_huat@schools.gov.sg  
-| 2 Orderliness | **Ms Elsa Teng** <br> teng_hui_khim_elsa@schools.gov.sg&nbsp;| **Ms Cindy Liong** <br> liong_cindy@schools.gov.sg |
+| 2 Loyalty  | **Ms&nbsp;Karen Loo** &nbsp;<br> loo_xinyi_karen@schools.gov.sg | **Ms Priscilla Yong** <br> priscilla_yong@schools.gov.sg  
+| 2 Orderliness | **Ms Cindy Liong** <br> liong_cindy@schools.gov.sg&nbsp;|  **Ms Elsa Teng** <br> teng_hui_khim_elsa@schools.gov.sg |
 | 2 Respect | **Ms Siti Nurhayaty** <br> siti_nurhayaty_saptu@schools.gov.sg | **Ms Lim Annie** <br> lim_annie@schools.gov.sg 
 ||| **Ms Lytessia Soh** <br> soh_xin_hui_lytessia@schools.gov.sg  
 | 2 Diligence  | **Mrs&nbsp;Sheryl Toh** <br> siew_sheryl@schools.gov.sg  | **Mdm Sharifah Nurulhuda** <br> sharifah_nurulhuda_taha_a@schools.gov.sg
 ||| **Miss Safila** <br> safila_afreen_basheer_ahamed@schools.gov.sg |
 | &nbsp;2 Self-Discipline | **Mr&nbsp;Neo Yong Teck** <br> neo_yong_teck@schools.gov.sg | **Ms&nbsp;Chua Suting** <br> chua_suting@schools.gov.sg |
 |**Primary 3**|||
-| 3 Self-Discipline | **Ms Nur Halimah** <br> nur_halimah_mohamed_ramlee@schools.gov.sg  | **Mr Sean De Zilva** <br> sean_de_zilva@schools.gov.sg  
+| 3 Self-Discipline | **Ms Nur Halimah** <br> nur_halimah_mohamed_ramlee@schools.gov.sg  | **Mr Sean De Zilva** <br> sean_de_zilva@schools.gov.sg  <br>
+|||**Ms Yang Xiaoqing** <br> yang_xiaoqing@schools.gov.sg <br>
 | 3 Generosity  | **Mrs Cecilia Wong** <br> ang_lay_ngo@schools.gov.sg  | **Mrs&nbsp;Isabella Tan** <br> isabella_sim@schools.gov.sg  
 | 3 Perseverance  | **Mdm Jean Heng Choo Ching**&nbsp; <br> heng_choo_ching@schools.gov.sg  |**Ms Shirlee** <br>  moo_pei_san@schools.gov.sg  
 ||| **Ms Maureen** <br> jansen_maureen_anne@schools.gov.sg  
-| &nbsp;3 Sincerity  | **Ms&nbsp;Low Yun Hui** <br><br>low_yun_hui@schools.gov.sg  | **Mdm Chitra** <br> chitra_devi_kasiviswanathan@schools.gov.sg  
+| &nbsp;3 Sincerity  | **Ms&nbsp;Low Yun Hui** <br>low_yun_hui@schools.gov.sg  | **Mdm Chitra** <br> chitra_devi_kasiviswanathan@schools.gov.sg  
 |||**Mr Quek Guan Hui** <br> quek_guan_hui@schools.gov.sg  
-| &nbsp;3 Loyalty  | **Ms Jane Lim** <br> lim_boey_huang_jane@schools.gov.sg  | **Mr Hamzah** <br> muhamad_hamzah_rohi@schools.gov.sg |
+| &nbsp;3 Loyalty  | **Mrs Christine Lee** <br> lee_xiu_en_christine@schools.gov.sg  | **Mr Hamzah** <br> muhamad_hamzah_rohi@schools.gov.sg |
+||| Mr Muhammad Erwin <br> muhammad_erwin_mohd_noor@schools.gov.sg
 |**Primary 4**|||
 | 4 Loyalty | **Mrs Michelle Tan** <br> wee_hui_lin_michelle@schools.gov.sg | **Ms Ng Xin Ping** <br> ng_xin_ping@schools.gov.sg  
 | &nbsp;4 Orderliness | **Mrs Cecilia Koh** <br> lee_hiang_hoon_cecilia@schools.gov.sg | **Ms Ren Ting** <br> ren_ting@schools.gov.sg  
@@ -47,8 +49,9 @@ third_nav_title: School Staff
 | &nbsp;5 Perseverance | **Mrs Serene Huang** <br> lee_huay_chin_serene@schools.gov.sg  | **Mdm Zhou Jing** <br> zhou_jing@schools.gov.sg  
 ||| **Mdm Susie Sim** <br> sim_mui_yin_susie@schools.gov.sg
 | &nbsp;5 Sincerity   | **Mrs Serene Cordeiro**  <br> serene_cordeiro@schools.gov.sg  | **Mdm Zhang Yonghong** <br> zhang_yonghong@schools.gov.sg  
-||| **Ms Evelyn Wu**  <br> evelyn_wu_ing_geok@schools.gov.sg  
-| &nbsp;5 Loyalty | **Mrs Radha Vishnu** <br> sai_radha_k_suppiah@schools.gov.sg |**Mr Vincent Toh** <br> vincent_toh_pek_chuan@schools.gov.sg
+||| **Mr Mohamad hafiz Juraimi**  <br> mohamad_hafiz_juraimi@schools.gov.sg  
+| &nbsp;5 Loyalty | **Mrs Radha Vishnu** <br> sai_radha_k_suppiah@schools.gov.sg |**Mr Ian John Fernandez** <br> ian_john_fernandez@schools.gov.sg <br>
+|||**Ms Evelyn Wu** <br> evelyn_wu_ing_geok@schools.gov.sg
 |**Primary 6**|||
 | &nbsp;6 Loyalty | **Ms&nbsp;Jolene Low** <br> low_yun_yi_jolene@schools.gov.sg | **Ms Palani** <br> palaniammal_murugiah@schools.gov.sg  
 | 6 Orderliness | **Mr Andy Kong** <br> kong_jia_wei@schools.gov.sg | **Ms&nbsp;Wan Chui Ting** <br> wan_chui_ting@schools.gov.sg |
