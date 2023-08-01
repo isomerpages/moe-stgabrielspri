@@ -50,7 +50,8 @@ third_nav_title: School Staff
 ||| **Mdm Susie Sim** <br> sim_mui_yin_susie@schools.gov.sg
 | &nbsp;5 Sincerity   | **Mrs Serene Cordeiro**  <br> serene_cordeiro@schools.gov.sg  | **Mdm Zhang Yonghong** <br> zhang_yonghong@schools.gov.sg  
 ||| **Ms Evelyn Wu**  <br> evelyn_wu_ing_geok@schools.gov.sg  
-| &nbsp;5 Loyalty | **Mrs Radha Vishnu** <br> sai_radha_k_suppiah@schools.gov.sg |**Mr Vincent Toh** <br> vincent_toh_pek_chuan@schools.gov.sg
+| &nbsp;5 Loyalty | **Mrs Radha Vishnu** <br> sai_radha_k_suppiah@schools.gov.sg |**Mr Ian John Fernandez** <br> ian_john_fernandez@schools.gov.sg <br>
+|||**Ms Evelyn Wu** <br> evelyn_wu_ing_geok@schools.gov.sg
 |**Primary 6**|||
 | &nbsp;6 Loyalty | **Ms&nbsp;Jolene Low** <br> low_yun_yi_jolene@schools.gov.sg | **Ms Palani** <br> palaniammal_murugiah@schools.gov.sg  
 | 6 Orderliness | **Mr Andy Kong** <br> kong_jia_wei@schools.gov.sg | **Ms&nbsp;Wan Chui Ting** <br> wan_chui_ting@schools.gov.sg |
