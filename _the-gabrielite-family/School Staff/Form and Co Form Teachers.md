@@ -31,7 +31,7 @@ third_nav_title: School Staff
 | 3 Generosity  | **Mrs Cecilia Wong** <br> ang_lay_ngo@schools.gov.sg  | **Mrs&nbsp;Isabella Tan** <br> isabella_sim@schools.gov.sg  
 | 3 Perseverance  | **Mdm Jean Heng Choo Ching**&nbsp; <br> heng_choo_ching@schools.gov.sg  |**Ms Shirlee** <br>  moo_pei_san@schools.gov.sg  
 ||| **Ms Maureen** <br> jansen_maureen_anne@schools.gov.sg  
-| &nbsp;3 Sincerity  | **Ms&nbsp;Low Yun Hui** <br><br>low_yun_hui@schools.gov.sg  | **Mdm Chitra** <br> chitra_devi_kasiviswanathan@schools.gov.sg  
+| &nbsp;3 Sincerity  | **Ms&nbsp;Low Yun Hui** <br>low_yun_hui@schools.gov.sg  | **Mdm Chitra** <br> chitra_devi_kasiviswanathan@schools.gov.sg  
 |||**Mr Quek Guan Hui** <br> quek_guan_hui@schools.gov.sg  
 | &nbsp;3 Loyalty  | **Ms Jane Lim** <br> lim_boey_huang_jane@schools.gov.sg  | **Mr Hamzah** <br> muhamad_hamzah_rohi@schools.gov.sg |
 |**Primary 4**|||
