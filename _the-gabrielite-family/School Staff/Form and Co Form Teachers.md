@@ -27,7 +27,8 @@ third_nav_title: School Staff
 ||| **Miss Safila** <br> safila_afreen_basheer_ahamed@schools.gov.sg |
 | &nbsp;2 Self-Discipline | **Mr&nbsp;Neo Yong Teck** <br> neo_yong_teck@schools.gov.sg | **Ms&nbsp;Chua Suting** <br> chua_suting@schools.gov.sg |
 |**Primary 3**|||
-| 3 Self-Discipline | **Ms Nur Halimah** <br> nur_halimah_mohamed_ramlee@schools.gov.sg  | **Mr Sean De Zilva** <br> sean_de_zilva@schools.gov.sg  
+| 3 Self-Discipline | **Ms Nur Halimah** <br> nur_halimah_mohamed_ramlee@schools.gov.sg  | **Mr Sean De Zilva** <br> sean_de_zilva@schools.gov.sg  <br>
+|||**Ms Yang Xiaoqing** <br> yang_xiaoqing@schools.gov.sg <br>
 | 3 Generosity  | **Mrs Cecilia Wong** <br> ang_lay_ngo@schools.gov.sg  | **Mrs&nbsp;Isabella Tan** <br> isabella_sim@schools.gov.sg  
 | 3 Perseverance  | **Mdm Jean Heng Choo Ching**&nbsp; <br> heng_choo_ching@schools.gov.sg  |**Ms Shirlee** <br>  moo_pei_san@schools.gov.sg  
 ||| **Ms Maureen** <br> jansen_maureen_anne@schools.gov.sg  
