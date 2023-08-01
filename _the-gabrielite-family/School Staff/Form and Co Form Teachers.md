@@ -49,7 +49,7 @@ third_nav_title: School Staff
 | &nbsp;5 Perseverance | **Mrs Serene Huang** <br> lee_huay_chin_serene@schools.gov.sg  | **Mdm Zhou Jing** <br> zhou_jing@schools.gov.sg  
 ||| **Mdm Susie Sim** <br> sim_mui_yin_susie@schools.gov.sg
 | &nbsp;5 Sincerity   | **Mrs Serene Cordeiro**  <br> serene_cordeiro@schools.gov.sg  | **Mdm Zhang Yonghong** <br> zhang_yonghong@schools.gov.sg  
-||| **Ms Evelyn Wu**  <br> evelyn_wu_ing_geok@schools.gov.sg  
+||| **Mr Mohamad hafiz Juraimi**  <br> mohamad_hafiz_juraimi@schools.gov.sg  
 | &nbsp;5 Loyalty | **Mrs Radha Vishnu** <br> sai_radha_k_suppiah@schools.gov.sg |**Mr Ian John Fernandez** <br> ian_john_fernandez@schools.gov.sg <br>
 |||**Ms Evelyn Wu** <br> evelyn_wu_ing_geok@schools.gov.sg
 |**Primary 6**|||
