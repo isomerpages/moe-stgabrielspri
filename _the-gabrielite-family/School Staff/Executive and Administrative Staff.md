@@ -94,13 +94,7 @@ third_nav_title: School Staff
     <td class="tg-g1uo"><span style="color:#000">ICT Executive cum Trainer</span></td>
     <td class="tg-bjk0">siti_nur_hanis_hosni@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-bjk0">Ms Dewi Kirana Safira Binti Johari</td>
-    <td class="tg-g1uo"><span style="color:#000">Desktop Engineer</span> </td>
-    <td class="tg-g1uo"></td>
-  </tr>
-	  <tr>
-    <td class="tg-bjk0">Mr Kelvin Tan</td>
+      <tr><td class="tg-bjk0">Mr Kelvin Tan</td>
     <td class="tg-g1uo"><span style="color:#000">Desktop Engineer</span> </td>
     <td class="tg-g1uo"></td>
   </tr>
