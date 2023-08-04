@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: Charity Movie 2023
       button: Click to know more
-      url: h
+      url: https://stgabrielspri.moe.edu.sg/charitymovie2023/
       image: /images/charity movie.PNG
       alt: Image alt text
 ---
