@@ -29,4 +29,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **How to get there?**
 * Nearest MRT: Lorong Chuan MRT – 10 minutes walking distance
 * Bus number: 73, 105, 159
-
