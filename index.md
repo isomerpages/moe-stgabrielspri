@@ -22,6 +22,12 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - infopic:
+      title: Charity Movie 2023
+      button: Click to know more
+      url: https://stgabrielspri.moe.edu.sg/charitymovie2023/
+      image: /images/charity movie.PNG
+      alt: Image alt text
+  - infopic:
       title: 2023 P1 Registration Exercise - Phase 1 Registration
       button: Enter
       url: https://stgabrielspri.moe.edu.sg/2023p1regexphase1reg/
@@ -38,11 +44,5 @@ sections:
       button: Get To Know Us
       url: https://youtu.be/Ym_EcHQKj3E
       image: /images/vidicondemo.png
-      alt: Image alt text
-  - infopic:
-      title: Charity Movie 2023
-      button: Click to know more
-      url: https://stgabrielspri.moe.edu.sg/charitymovie2023/
-      image: /images/charity movie.PNG
       alt: Image alt text
 ---
