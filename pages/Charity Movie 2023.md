@@ -6,7 +6,7 @@ description: ""
 Dear Donors,
 
  The school is raising funds to support the holistic programmes for the seven institutions*.  
-To donate, please fill up the response form and email us at stgps@moe.edu.sg
+To donate, please fill up the [response form](/files/charity%20donation%20response%20form%20(donors).pdf) and email us at stgps@moe.edu.sg
 
  Thank you for your support.
  
