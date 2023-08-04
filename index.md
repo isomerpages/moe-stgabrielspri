@@ -39,4 +39,10 @@ sections:
       url: https://youtu.be/Ym_EcHQKj3E
       image: /images/vidicondemo.png
       alt: Image alt text
+  - infopic:
+      title: Charity Movie 2023
+      button: Click to know more
+      url: h
+      image: /images/charity movie.PNG
+      alt: Image alt text
 ---
