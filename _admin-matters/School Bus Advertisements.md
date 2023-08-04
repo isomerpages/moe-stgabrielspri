@@ -1,6 +1,6 @@
 ---
 title: School Bus Advertisements
-permalink: /admin-matters/permalink/
+permalink: /admin-matters/schoolbusadvertisements/
 description: ""
 ---
 #### School Bus Advertisement
