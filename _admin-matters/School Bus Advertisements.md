@@ -16,7 +16,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Application Procedure**
 
-1. Complete the [Call For Proposal - Annex A]()
+1. Complete the [Call For Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023)_sgps%20final.pdf) 
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 16 Aug  2023 , to the School’s General Office.
 
