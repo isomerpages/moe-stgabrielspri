@@ -3,7 +3,7 @@ title: For Parent Support Group
 permalink: /links/parent-support-group/
 description: ""
 ---
-![](/images/Copy%20of%20SGPS%20PSG%20EXCO%202023-121024_1.jpg)
+![](/images/psg%20chart.PNG) 
 
 <p align="justify">
 The Parent Support Group @ SGPS was established in 2008. Since then, PSG@SGPS has played a vital role as an important partner of the school, supporting the holistic development and formation of our Gabrielite boys.</p>
@@ -21,7 +21,7 @@ PSG@SGPS works to complement the school’s programs, with guidance and directio
 As a member of PSG@SGPS, your participation in school activities will enable you to engage and connect with your child more on their school experience. </p>
 	
 If you are keen to join us, fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSfFNxqshTA2vnYi1NAhWTzUADJuHtl4lZg0Qowt7xuByronTw/viewform?usp=share_link) 
-or drop an email to [sgps.psg@gmail.com](sgps.psg@gmail.com).
+or drop an email to [sgps.psg.exco@gmail.com](sgps.psg.exco@gmail.com).
 
 ![](/images/qr%20code%20psg%20form.png)
 
