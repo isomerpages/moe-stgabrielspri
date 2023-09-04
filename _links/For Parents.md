@@ -44,8 +44,6 @@ For past issues, please refer to Parents Gateway.
 **Year End Assessment Timetable**  
 
 
-|  |  |  |
-| -------- | -------- | -------- |
-| [Primary 3](https://drive.google.com/file/d/1KDAB6Lef20qQapJtjHH3u5chNLJ6oq4c/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/17A1qOcakjxXs4UEHaJ08ybqVaWUW-RHq/view?usp=sharing)     | [Primary 5 Foundation](https://drive.google.com/file/d/1ysCsOv3sPSM5fdp4_oOT7_0MVNwVUUSg/view?usp=sharing)     |
-| [Primary 5 Standard](https://drive.google.com/file/d/19X8kRyb_O7lrXKgMm2q8YLG5xHZjsWT1/view?usp=sharing)     |      |     |
-
+|  |  |  |  |
+| -------- | -------- | -------- | -------- |
+| [Primary 3](https://drive.google.com/file/d/1KDAB6Lef20qQapJtjHH3u5chNLJ6oq4c/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/17A1qOcakjxXs4UEHaJ08ybqVaWUW-RHq/view?usp=sharing)     | [Primary 5 Foundation](https://drive.google.com/file/d/1ysCsOv3sPSM5fdp4_oOT7_0MVNwVUUSg/view?usp=sharing)  | [Primary 5 Standard](https://drive.google.com/file/d/19X8kRyb_O7lrXKgMm2q8YLG5xHZjsWT1/view?usp=sharing)  |  
