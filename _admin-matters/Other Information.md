@@ -18,3 +18,5 @@ description: ""
 * [Archdiocesan Commission for Catholic School](http://accs.sg/)
 
 ---------------------
+
+* [70th Anniversary of St. Gabriel's Schools](https://drive.google.com/file/d/1A9uvMBHwvay7d4XASKxcOjWZZD6IxZ0j/view?usp=sharing)
