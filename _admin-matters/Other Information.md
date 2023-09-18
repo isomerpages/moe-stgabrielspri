@@ -19,4 +19,4 @@ description: ""
 
 ---------------------
 
-* [70th Anniversary of St. Gabriel's Schools](/files/70th%20anniversary%20coffee%20table%20book_compressed.pdf)
+* [70th Anniversary of St. Gabriel's Schools](https://drive.google.com/file/d/1A9uvMBHwvay7d4XASKxcOjWZZD6IxZ0j/view?usp=sharing)
