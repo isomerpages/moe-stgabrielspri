@@ -22,12 +22,6 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - infopic:
-      title: Charity Movie 2023
-      button: Click to know more
-      url: https://stgabrielspri.moe.edu.sg/charitymovie2023/
-      image: /images/charity movie.PNG
-      alt: Image alt text
-  - infopic:
       title: Facebook
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
