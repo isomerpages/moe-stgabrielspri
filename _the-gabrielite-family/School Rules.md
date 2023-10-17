@@ -16,5 +16,4 @@ The use of smart watches will be governed by the same conditions as the use of t
 
 **School Attire &amp; Appearance**
 
-<img src="/images/2023%20attire.jpeg" style="width:65%">
-
+<img src="/images/2023%20attire.jpeg" style="width:75%">
