@@ -6,7 +6,7 @@ description: ""
 **MOE - FAS**
 
 You may submit your application [online](https://go.gov.sg/moe-efas)&nbsp;if you are eligible and wish to apply for the MOE FAS. Alternatively, you may submit the completed application form to the school. <br>
-[GGAS FAS Application Form](https://drive.google.com/file/d/13N4_IUUR2X5aFFaxuxt38sAkzhHfu3hG/view?usp=sharing)  
+[FAS Application Form](https://drive.google.com/file/d/1J8CE0b0btifCpM0Ur8oMN2mS0W7SJ8k2/view?usp=sharing)
 <br>
 
 **Guide for FAS students taking Public Transport**
