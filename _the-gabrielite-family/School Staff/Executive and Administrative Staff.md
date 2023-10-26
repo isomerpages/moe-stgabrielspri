@@ -56,7 +56,7 @@ third_nav_title: School Staff
     <td class="tg-bjk0">tay_siew_luang@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-g1uo"><span style="color:#000">Miss Siti Rohaini    </span></td>
+    <td class="tg-g1uo"><span style="color:#000">Ms Siti Rohaini    </span></td>
     <td class="tg-g1uo"><span style="color:#000">Corporate Support Officer</span></td>
     <td class="tg-bjk0">siti_rohaini_abdul_rahman@schools.gov.sg</td>
   </tr>
