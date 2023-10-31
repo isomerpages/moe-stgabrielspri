@@ -48,9 +48,7 @@ third_nav_title: School Staff
     <td class="tg-g1uo"><span style="color:#000">lau_meng_fei_tommy@</span>schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-bjk0">Mr Mohamed Hafiz Mustafa  </td>
-    <td class="tg-bjk0">ICT Associate </td>
-    <td class="tg-bjk0">mohamed_hafiz_mustafa@schools.gov.sg </td>
+    
   </tr>
 	  <tr>
     <td class="tg-bjk0">Ms Tay Siew Luang  </td>
@@ -58,7 +56,7 @@ third_nav_title: School Staff
     <td class="tg-bjk0">tay_siew_luang@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-g1uo"><span style="color:#000">Miss Siti Rohaini    </span></td>
+    <td class="tg-g1uo"><span style="color:#000">Ms Siti Rohaini    </span></td>
     <td class="tg-g1uo"><span style="color:#000">Corporate Support Officer</span></td>
     <td class="tg-bjk0">siti_rohaini_abdul_rahman@schools.gov.sg</td>
   </tr>
@@ -90,7 +88,7 @@ third_nav_title: School Staff
     <td class="tg-bjk0">hee_tian_tan_nancy@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-g1uo"><span style="color:#000">Miss Siti Nur Hanis</span></td>
+    <td class="tg-g1uo"><span style="color:#000">Ms Siti Nur Hanis</span></td>
     <td class="tg-g1uo"><span style="color:#000">ICT Executive cum Trainer</span></td>
     <td class="tg-bjk0">siti_nur_hanis_hosni@schools.gov.sg</td>
   </tr>
@@ -98,5 +96,8 @@ third_nav_title: School Staff
     <td class="tg-g1uo"><span style="color:#000">Desktop Engineer</span> </td>
     <td class="tg-g1uo"></td>
   </tr>
-</tbody>
+	<tr><td class="tg-bjk0">Mr Ammirzi</td>
+    <td class="tg-g1uo"><span style="color:#000">Desktop Engineer</span> </td>
+    <td class="tg-g1uo"></td>
+</tr></tbody>
 </table>

@@ -3,14 +3,14 @@ title: School Canteen Advertisement
 permalink: /admin-matters/school-canteen-advertisement/
 description: ""
 ---
-| Type of Stall | Closing Date |
+| Type of Stall |  |
 | -------- | -------- |
-| Western Food Stall (Halal)     | 31 October 2023 (Tues) |
-|International/Asian Cuisine Stall (Halal)| 31 October 2023 (Tues)|
+| Western Food Stall (Halal)     | |
+|International/Asian Cuisine Stall (Halal)| |
 
 --------------
 <p align="justify">
-St. Gabriel’s Primary School would like to invite applicants to operate a Western Food Stall (Halal). Please forward the completed form to the school by the closing date, 31 October 2023 (Tuesday). </p>
+St. Gabriel’s Primary School would like to invite applicants to operate a Western Food Stall (Halal). Please forward the completed form to the school. </p>
 
 Western Stall (Halal) <br>
 <p align="justify">
@@ -43,7 +43,7 @@ k.	Healthy and fit to operate the stall. <br> </p>
 
 <br>
 </p><p align="justify">
-3.         Please email the following to stgps@moe.edu.sg by 31 October 2023 (Tuesday).<br>
+3.         Please email the following to stgps@moe.edu.sg<br>
 
 a.	Completed Application Form<br>
 	
@@ -65,7 +65,7 @@ e.	Photocopy of certificates of relevant courses attended, such as Basic Food Hy
 -------------------
 <br>
 <p align="justify">
-St. Gabriel’s Primary School would like to invite applicants to operate an International/Asian Cuisine Stall (Halal) stall. Please forward the completed form to the school by the closing date, 31 October 2023 (Tuesday).
+St. Gabriel’s Primary School would like to invite applicants to operate an International/Asian Cuisine Stall (Halal) stall. Please forward the completed form to the school.
 </p>
 <p align="justify">
 Some examples of cuisines/menus that our school is looking for are:
@@ -113,7 +113,7 @@ k.	Healthy and fit to operate the stall. <br>
 </p>
 
 <p align="justify">
-3.        Please email the following to stgps@moe.edu.sg by 31 October 2023 (Tuesday). <br>
+3.        Please email the following to stgps@moe.edu.sg <br>
 
 a.	Completed Application Form <br>
 
