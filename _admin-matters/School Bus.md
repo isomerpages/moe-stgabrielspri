@@ -34,7 +34,7 @@ Note: Price excludes GST. Charges for small buses (15 and below seater type) are
 <p align="justify"> 
 Bus Services after school activities (i.e. sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities) departing before 4pm.</p>
 
-![](/images/CCA_Bus_Fees.JPG)
+![CCA_Bus_Fees](/images/CCA_Bus_Fees.JPG)
 
 <p align="justify"> 
 Note: Price for after school activities bus service is payable by per trip basis, fees collected monthly.</p>
