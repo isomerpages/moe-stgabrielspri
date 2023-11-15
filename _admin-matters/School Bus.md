@@ -26,7 +26,7 @@ Bus fares applicable from 1 January 2024 to 31 December 2025:
 
 Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)
 
-![](/images/Regular_Bus_Fees.JPG)
+![](/images/001_REGULAR_BUS.JPG)
 
 <p align="justify">
 Note: Price excludes GST. Charges for small buses (15 and below seater type) are generally higher for the host of benefits of mandatory installation of seat belts, one-to-one seating, easier access to pick up points and shorter journey time. For distance beyond 6km, it is a mutual agreement between the bus operator and subject to bus availability. Parents must agree with the price quoted by the bus operator to start the service. </p>
