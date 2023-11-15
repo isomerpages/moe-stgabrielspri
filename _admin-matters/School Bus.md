@@ -27,7 +27,7 @@ Bus fares applicable from 1 January 2024 to 31 December 2025:
 Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)
 
 <p align="justify">
-**Regular Bus Fees** </p>
+Regular Bus Fees </p>
       
 <table style="width:276.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 0in 0in 0in" width="368" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:39.0pt"><td style="width:118.35pt;border:solid black 1.0pt;
@@ -98,7 +98,52 @@ Note: Price excludes GST. Charges for small buses (15 and below seater type) are
 <p align="justify"> 
 Bus Services after school activities (i.e. sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities) departing before 4pm.</p>
 
-![CCA_Bus_Fees](/images/CCA_Bus_Fees.JPG)
+<p align="justify">
+CCA Bus Fees </p>
+
+<table style="width:201.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in" width="268" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:46.5pt"><td style="width:1.75in;border:solid black 1.0pt;
+  background:#BFBFBF;padding:0in 5.4pt 0in 5.4pt;height:46.5pt" rowspan="2" nowrap="" width="168"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;color:black;mso-ligatures:none">Distance&nbsp;</span></b></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #FFF2CC;padding:0in 5.4pt 0in 5.4pt;height:46.5pt" width="100"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;color:black;mso-ligatures:none">2024 Price to Parent<br>with GST</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:19.0pt"><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #BDD6EE;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;color:black;mso-ligatures:none">Per trip</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">0 to 2 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$6.00</span></p></td></tr><tr style="mso-yfti-irow:3;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 2 km to 4 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$8.00</span></p></td></tr><tr style="mso-yfti-irow:4;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 4 km to 6 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$10.00</span></p></td></tr><tr style="mso-yfti-irow:5;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  background:#EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 6 km to 8 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$11.00</span></p></td></tr><tr style="mso-yfti-irow:6;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  background:#EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 8 km to 10 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$12.00</span></p></td></tr><tr style="mso-yfti-irow:7;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  background:#EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 10 km to 12 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$13.00</span></p></td></tr><tr style="mso-yfti-irow:8;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  background:#EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 12 km to 14 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$14.00</span></p></td></tr><tr style="mso-yfti-irow:9;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  background:#EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 14 km to 16 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$15.00</span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:19.0pt"><td style="width:1.75in;border:solid black 1.0pt;border-top:none;
+  background:#EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" width="168"><p class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:
+  none">&gt; 16 km to 18 km</span></p></td><td style="width:75.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
+  #EAD1DC;padding:0in 5.4pt 0in 5.4pt;height:19.0pt" nowrap="" width="100"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-ligatures:none">$16.00</span></p></td></tr></tbody></table>
 
 <p align="justify"> 
 Note: Price for after school activities bus service is payable by per trip basis, fees collected monthly.</p>
