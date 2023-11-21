@@ -2,6 +2,7 @@
 title: School Bookshop
 permalink: /admin-matters/school-bookshop/
 description: ""
+variant: markdown
 ---
 **PACIFIC BOOKSTORES PTE LTD**
 
@@ -18,8 +19,8 @@ description: ""
 
 **Remarks:**  Online purchase available
 
-**Booklists (2023):**
+**Booklists (2024):**
 
-[SGBPS P1.pdf](https://drive.google.com/file/d/17VUxNGgvnunVb3sllDh4IUy3eoQ9aA24/view?usp=sharing)        [SGBPS P2.pdf](https://drive.google.com/file/d/16g19MxVNi_vQW6fzRPXuFXLTeewtrZkz/view?usp=sharing)        [SGBPS P3.pdf](https://drive.google.com/file/d/1R1-vO_i0T8RrActyAbz047FHzOdH2z66/view?usp=sharing)
+[SGBPS P1.pdf](https://drive.google.com/file/d/1Q50tVpyUeiyNgR1njbWJrLB_a0CVS8y0/view?usp=sharing)        [SGBPS P2.pdf](https://drive.google.com/file/d/1LFzQ8vwnadu-NpmPuLftea78Zj99gyBV/view?usp=sharing)        [SGBPS P3.pdf](https://drive.google.com/file/d/1HhfWg2tFaoInX6oELcVN6HSWAG80lyRb/view?usp=sharing)
 
-[SGBPS P4.pdf](https://drive.google.com/file/d/1DXKzJTv1MRJndUXYtDk7L78sEh8s_fZ1/view?usp=sharing)       [SGBPS P5.pdf](https://drive.google.com/file/d/16_9R4Sqt-LO4vIwi9xl3UqNTuA3hiY-A/view?usp=sharing)        [SGBPS P6.pdf](https://drive.google.com/file/d/15BYjrDpSRl70AiLU4ZWmRNQ9XH13H5dS/view?usp=sharing)
+[SGBPS P4.pdf](https://drive.google.com/file/d/1AQAC_NgTSRLFhAktR1bzzGMlNEj4AgxN/view?usp=sharing)       [SGBPS P5.pdf](https://drive.google.com/file/d/1WBiSKkAAlF2CDDOMN6v8s5AbOViVVJAE/view?usp=sharing)        [SGBPS P6.pdf](https://drive.google.com/file/d/1QiqDzuoKRZLaRozmZzcgXAARr7TVMXSU/view?usp=sharing)
