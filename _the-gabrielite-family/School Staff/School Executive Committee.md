@@ -3,6 +3,7 @@ title: School Executive Committee
 permalink: /the-gabrielite-family/School-Staff/school-executive-committee/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 ----
 
@@ -25,7 +26,7 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-baqh"><img src="/images/John%20Lim.jpeg" style="width:50%"><span style="font-weight:bold">Vice Principal</span><br>Mr John Lim<br>lim_chong_eng@schools.gov.sg</td>
-    <td class="tg-baqh"><img src="/images/Christina%20Tan.jpg" style="width:50%"><span style="font-weight:bold">Vice Principal (Administration)</span><br><span style="font-weight:400;font-style:normal">Mrs Christina Tan</span><br><span style="font-weight:400;font-style:normal">christina_tee@schools.gov.sg</span></td>
+    <td class="tg-baqh"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Vice Principal</span><br><span style="font-weight:400;font-style:normal">Mdm Irene Chua</span><br><span style="font-weight:400;font-style:normal">irene_chua@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
@@ -61,7 +62,7 @@ third_nav_title: School Staff
   </tr>
   
   <tr>
-    <td class="tg-brl1"><span style="color:#000">Level Head / English Language</span></td>
+    <td class="tg-brl1"><span style="color:#000">HOD / English Language</span></td>
     <td class="tg-brl1"><span style="color:#000"> Mrs Michelle Tan</span></td>
     <td class="tg-brl1"><span style="color:#000"> wee_hui_lin_michelle@schools.gov.sg</span> <span style="color:#222;background-color:transparent"> </span></td>
   </tr>
@@ -86,12 +87,12 @@ third_nav_title: School Staff
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> </span>heng_choo_ching@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Level Head / Science</td>
+    <td class="tg-brl1">Level Head / Science (Internal)</td>
     <td class="tg-brl1"> Ms Jolene Low </td>
     <td class="tg-brl1"> low_yun_yi_jolene@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">HOD / Mother Tongue Languages (MTL)&nbsp;&amp; School Library&nbsp;(Internal)</td>
+    <td class="tg-brl1">HOD / Mother Tongue Languages (MTL)&nbsp;&amp; School Library&nbsp;</td>
     <td class="tg-brl1"> Ms Wan Chui Ting</td>
     <td class="tg-brl1"> wan_chui_ting@schools.gov.sg</td>
   </tr>
