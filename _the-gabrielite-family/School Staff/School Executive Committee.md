@@ -69,7 +69,7 @@ variant: markdown
   <tr>
     <td class="tg-brl1">Level Head / English Language (Internal)</td>
     <td class="tg-brl1"> Mrs Serene Huang</td>
-    <td class="tg-brl1"> serene_huang@schools.gov.sg <br></td>
+    <td class="tg-brl1"> lee_huay_chin_serene@schools.gov.sg <br></td>
   </tr>
 	<tr><td class="tg-brl1">Lead Teacher / English Language</td>
     <td class="tg-brl1"> Mrs Cecilia Koh</td>
