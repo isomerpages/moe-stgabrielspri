@@ -67,7 +67,11 @@ variant: markdown
     <td class="tg-brl1"><span style="color:#000"> wee_hui_lin_michelle@schools.gov.sg</span> <span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-brl1">Lead Teacher / English Language</td>
+    <td class="tg-brl1">Level Head / English Language (Internal)</td>
+    <td class="tg-brl1"> Mrs Serene Huang</td>
+    <td class="tg-brl1"> // <br></td>
+  </tr>
+	<tr><td class="tg-brl1">Lead Teacher / English Language</td>
     <td class="tg-brl1"> Mrs Cecilia Koh</td>
     <td class="tg-brl1"> lee_hiang_hoon_cecilia@schools.gov.sg<br></td>
   </tr>
@@ -96,10 +100,15 @@ variant: markdown
     <td class="tg-brl1"> Ms Wan Chui Ting</td>
     <td class="tg-brl1"> wan_chui_ting@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-brl1">Level Head / Mother Tongue Languages (MTL)</td>
+    <tr>
+    <td class="tg-brl1">Subject Head / Mother Tongue Languages (MTL)</td>
     <td class="tg-brl1"> Ms Palaniammal</td>
     <td class="tg-brl1"> palaniammal_murugiah@schools.gov.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-brl1">Level Head / Chinese Language (Internal)</td>
+    <td class="tg-brl1"> Mdm Zhou Jing</td>
+    <td class="tg-brl1"> zhou_jing@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">HOD / Discipline, Safety &amp; Partnerships</td>
