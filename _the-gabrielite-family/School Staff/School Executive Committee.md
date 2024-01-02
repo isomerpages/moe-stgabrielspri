@@ -26,7 +26,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-baqh"><img src="/images/John%20Lim.jpeg" style="width:50%"><span style="font-weight:bold">Vice Principal</span><br>Mr John Lim<br>lim_chong_eng@schools.gov.sg</td>
-    <td class="tg-baqh"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Vice Principal</span><br><span style="font-weight:400;font-style:normal">Mdm Irene Chua</span><br><span style="font-weight:400;font-style:normal">irene_chua@schools.gov.sg</span></td>
+    <td class="tg-baqh"><img src="/images/vpmdmchua.png" style="width:56%"><span style="font-weight:bold">Vice Principal</span><br><span style="font-weight:400;font-style:normal">Mdm Irene Chua</span><br><span style="font-weight:400;font-style:normal">irene_chua@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
@@ -67,7 +67,11 @@ variant: markdown
     <td class="tg-brl1"><span style="color:#000"> wee_hui_lin_michelle@schools.gov.sg</span> <span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-brl1">Lead Teacher / English Language</td>
+    <td class="tg-brl1">Level Head / English Language (Internal)</td>
+    <td class="tg-brl1"> Mrs Serene Huang</td>
+    <td class="tg-brl1"> lee_huay_chin_serene@schools.gov.sg <br></td>
+  </tr>
+	<tr><td class="tg-brl1">Lead Teacher / English Language</td>
     <td class="tg-brl1"> Mrs Cecilia Koh</td>
     <td class="tg-brl1"> lee_hiang_hoon_cecilia@schools.gov.sg<br></td>
   </tr>
@@ -96,10 +100,15 @@ variant: markdown
     <td class="tg-brl1"> Ms Wan Chui Ting</td>
     <td class="tg-brl1"> wan_chui_ting@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-brl1">Level Head / Mother Tongue Languages (MTL)</td>
+    <tr>
+    <td class="tg-brl1">Subject Head / Mother Tongue Languages (MTL)</td>
     <td class="tg-brl1"> Ms Palaniammal</td>
     <td class="tg-brl1"> palaniammal_murugiah@schools.gov.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-brl1">Level Head / Chinese Language (Internal)</td>
+    <td class="tg-brl1"> Mdm Zhou Jing</td>
+    <td class="tg-brl1"> zhou_jing@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">HOD / Discipline, Safety &amp; Partnerships</td>
