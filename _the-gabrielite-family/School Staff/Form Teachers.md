@@ -54,7 +54,8 @@ variant: markdown
 | 4 Loyalty | Mrs Serene Huang<br>lee_huay_chin_serene@schools.gov.sg | Ms Low Yun Hui<br>low_yun_hui@schools.gov.sg |
 | 4 Orderliness | Ms Dina Farhana<br>dina_farhana_hashim@schools.gov.sg | Ms Jolene Low<br>low_yun_yi_jolene@schools.gov.sg | 
 | 4 Respect | Mr Ian John Fernandez<br>ian_john_fernandez@schools.gov.sg | Mrs Shankar<br>krishnaveni_ramasamy@schools.gov.sg
-| 4 Diligence | Mdm Chitra<br>chitra_devi_kasiviswanathan@schools.gov.sg | Mdm Christine Lee<br>lee_xiu_en_christine@schools.gov.sg | Ms Palani<br>palaniammal_murugiah@schools.gov.sg | 
+| 4 Diligence | Mdm Chitra<br>chitra_devi_kasiviswanathan@schools.gov.sg | Mdm Christine Lee<br>lee_xiu_en_christine@schools.gov.sg | 
+| | Ms Palani<br>palaniammal_murugiah@schools.gov.sg | | 
 | 4 Self-Discipline | Mrs Catherine Low<br>loo_chiak_mien_catherine@schools.gov.sg | Mr Eugene Lim<br>Eugene_Lim_A@schools.gov.sg |
 | | Mr Hamzah<br>muhamad_hamzah_rohi@schools.gov.sg | |
 |
@@ -73,5 +74,13 @@ variant: markdown
 
 **Primary 6**
 
-
+| Class | Form Teacher | |
+|---|---|---|
+| 6 Loyalty | Mr Felix Hector Gomez<br>felix_hector_gomez@schools.gov.sg | Ms Yenny Phoon<br>phoon_yin_fong_yenny@schools.gov.sg| 
+| 6 Orderliness | Ms Irfana<br>irfana_banu_khider_mohamed@schools.gov.sg | Mr Yung Keng Sing<br>yung_keng_sing@schools.gov.sg |
+| 6 Respect | Mr Jimmy Tong<br>tong_weng_thim_jimmy@schools.gov.sg | Mrs Jo-Marie Matthews<br>jo-marie_malathi_alagu@schools.gov.sg | 
+| 6 Diligence | Mr Andy Kong<br>kong_jia_wei@schools.gov.sg | Mrs Kathy Koh<br>kathy_heng_kwee_eng@schools.gov.sg | 
+| | Ms Shirlee<br>moo_pei_san@schools.gov.sg | |
+| 6 Self-Discipline | Mr Kelvin Loy<br>loy_shingwan_kelvin@schools.gov.sg | Mdm Liu Yi Lei, Lily<br>liu_yi_lei_lily@schools.gov.sg |
+| | |
 
