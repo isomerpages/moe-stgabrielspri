@@ -70,6 +70,7 @@ variant: markdown
 | 5 Sincerity | **Ms Low Mei Ling**<br>low_mei_ling@schools.gov.sg | **Mrs Ang Leh Har**<br>ong_leh_har@schools.gov.sg |
 | | **Mr Lim Tong Hai**<br>lim_tong_hai@schools.gov.sg | |
 | 5 Loyalty | **Ms Chua Suting**<br>chua_suting@schools.gov.sg | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg |
+| | **Mr Gerard Chua**<br>Chua_Jin_Kao_Gerard@schools.gov.sg | |
 |
 
 **Primary 6**
@@ -83,4 +84,3 @@ variant: markdown
 | | **Ms Shirlee**<br>moo_pei_san@schools.gov.sg | |
 | 6 Self-Discipline | **Mr Kelvin Loy**<br>loy_shingwan_kelvin@schools.gov.sg | **Mdm Liu Yi Lei, Lily**<br>liu_yi_lei_lily@schools.gov.sg |
 | | |
-
