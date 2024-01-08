@@ -2,10 +2,10 @@
 title: For Parents
 permalink: /links/for-parents/
 description: ""
+variant: markdown
 ---
-**Parent Notification**
-
-[September](https://drive.google.com/file/d/1fGLsob--5uSKj70TLTJrK-SmqOFwU68-/view?usp=sharing)
+**Parent Notification** <br>
+[January 2024](https://drive.google.com/file/d/1af3HD_tSWY7dsVXZjT_sbDXQYq_ReRvq/view?usp=sharing)
 <br>
 For past issues, please refer to Parents Gateway.
 
