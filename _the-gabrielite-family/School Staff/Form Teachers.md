@@ -81,6 +81,6 @@ variant: markdown
 | 6 Orderliness | **Ms Irfana**<br>irfana_banu_khider_mohamed@schools.gov.sg | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg |
 | 6 Respect | **Mr Jimmy Tong**<br>tong_weng_thim_jimmy@schools.gov.sg | **Mrs Jo-Marie Matthews**<br>jo-marie_malathi_alagu@schools.gov.sg | 
 | 6 Diligence | **Mr Andy Kong**<br>kong_jia_wei@schools.gov.sg | **Mrs Kathy Koh**<br>kathy_heng_kwee_eng@schools.gov.sg | 
-| | **Ms Shirlee**<br>moo_pei_san@schools.gov.sg | |
+| | **Ms Shirlee Moo**<br>moo_pei_san@schools.gov.sg | |
 | 6 Self-Discipline | **Mr Kelvin Loy**<br>loy_shingwan_kelvin@schools.gov.sg | **Mdm Liu Yi Lei, Lily**<br>liu_yi_lei_lily@schools.gov.sg |
 | | |
