@@ -4,10 +4,6 @@ permalink: /links/for-parents/
 description: ""
 variant: markdown
 ---
-**Nominate a Tamil/Malay Teacher for an Award (Closing Date: 14 April 2024)** <br>
-
-<img src="/images/tamilteachers.jpg" style="width:50%"><br> <img src="/images/arifbudiman.png" style="width:50%">
-
 **Parent Notification** <br>
 [January 2024](https://drive.google.com/file/d/1af3HD_tSWY7dsVXZjT_sbDXQYq_ReRvq/view?usp=sharing)
 <br>
