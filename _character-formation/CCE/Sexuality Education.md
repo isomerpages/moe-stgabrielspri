@@ -30,4 +30,4 @@ ST. GABRIEL’S PRIMARY SCHOOL MOE SEXUALITY EDUCATION IN SCHOOLS
 (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 </p><p align="justify">
 	
-You may click <a href="https://drive.google.com/file/d/1T_ZP3oWvj5_Jrg0AjJPhYI_7Rd_N3H0v/view?usp=sharing">here</a> for more information on St. Gabriel's Primary School's Sexuality Education.</p>
+You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a> for more information on St. Gabriel's Primary School's Sexuality Education.</p>
