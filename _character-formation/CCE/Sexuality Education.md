@@ -32,7 +32,7 @@ ST. GABRIEL’S PRIMARY SCHOOL MOE SEXUALITY EDUCATION IN SCHOOLS
 	
 You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a> for more information on St. Gabriel's Primary School's Sexuality Education.</p>
 <p align="justify">
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) [](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)for more information on the scope of Sexuality Education in the school curriculum.
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 </p><p align="justify">
 5. The subjects that incorporate topics on sexuality include:
 <br> a. Science
