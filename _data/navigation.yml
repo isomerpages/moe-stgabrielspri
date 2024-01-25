@@ -1,0 +1,21 @@
+logo: /images/Logo.png
+links:
+  - title: "The Gabrielite Family "
+    collection: the-gabrielite-family
+  - title: E Open House
+    collection: e-open-house
+  - title: Admin Matters
+    collection: admin-matters
+  - title: Useful Links
+    url: /
+    sublinks:
+      - title: For Parents
+        url: /links/for-parents/
+      - title: For Students
+        url: /links/for-students/
+      - title: For Staff
+        url: https://sites.google.com/moe.edu.sg/sgpsstaffportal/home
+      - title: Parent Support Group
+        url: /links/parent-support-group/
+  - title: Calendar of Events
+    url: /coe/

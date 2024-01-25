@@ -1,0 +1,21 @@
+collections:
+  the-gabrielite-family:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Educational Philosophy.md
+      - School History & Traditions.md
+      - School Information.md
+      - School Management Committee.md
+      - School Staff/.keep
+      - School Staff/School Executive Committee.md
+      - School Staff/Form Teachers.md
+      - School Staff/Mother Tongue Language Teachers.md
+      - School Staff/Allied Educators.md
+      - School Staff/Executive and Administrative Staff.md
+      - Student Outcomes.md
+      - Student Achievements/.keep
+      - Student Achievements/2022.md
+      - School Rules.md
+      - School Safety & Security.md
+      - Privacy Policies.md
