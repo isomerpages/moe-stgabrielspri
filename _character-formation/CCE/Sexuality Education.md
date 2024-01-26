@@ -116,7 +116,7 @@ variant: tiptap
     <li>
         <p>Parents who wish to opt their children out of the Sexuality Education
             lessons need to complete an opt-out form. This form will be communicated
-            &nbsp;to parents at the start of the year and is also downloadable <a href="/files/SEd_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+            to parents at the start of the year and is also downloadable <a href="/files/SEd_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
             The completed opt-out form is to be submitted by 02/03/2024.</p>
         <p></p>
     </li>
