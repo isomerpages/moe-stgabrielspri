@@ -2,6 +2,7 @@
 title: For Parent Support Group
 permalink: /links/parent-support-group/
 description: ""
+variant: markdown
 ---
 ![](/images/psg%20chart.PNG) 
 
@@ -20,10 +21,10 @@ PSG@SGPS works to complement the school’s programs, with guidance and directio
 <p align="justify">
 As a member of PSG@SGPS, your participation in school activities will enable you to engage and connect with your child more on their school experience. </p>
 	
-If you are keen to join us, fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSfFNxqshTA2vnYi1NAhWTzUADJuHtl4lZg0Qowt7xuByronTw/viewform?usp=share_link) 
-or drop an email to [sgps.psg.exco@gmail.com](sgps.psg.exco@gmail.com).
+If you are keen to join us, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSfFNxqshTA2vnYi1NAhWTzUADJuHtl4lZg0Qowt7xuByronTw/viewform?usp=share_link) 
+or scan the QR code below. You may also drop an email to [sgps.psg.exco@gmail.com](sgps.psg.exco@gmail.com).
 
-![](/images/qr%20code%20psg%20form.png)
+<img src="/images/qr%20code%20psg%20form.png" style="width:50%">
 
 ![](/images/Copy%20of%20DSCN1092.jpg)
 

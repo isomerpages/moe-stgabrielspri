@@ -2,7 +2,21 @@
 title: School Information
 permalink: /the-gabrielite-family/school-information-at-a-glance/
 description: ""
+variant: markdown
 ---
+**School Address:** 
+<br>220 Lor Chuan, Singapore 556742
+<br>Tel: 6280 3628
+
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="400" width="550" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7119180599734!2d103.85952757496571!3d1.3493593986378658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da170c009f5ec1%3A0x54bbb4cbbba03c2e!2sSt.%20Gabriel's%20Primary%20School!5e0!3m2!1sen!2ssg!4v1706748741471!5m2!1sen!2ssg"></iframe>
+
+**Transport Services** <br>
+Bus Services:<br>
+73, 105, 159 <br>
+MRT Stations: <br>
+Lorong Chuan MRT (Circle line CC14)
+
+------
 **Session:** <br> Single Session
 
 ------
@@ -39,15 +53,8 @@ Virtues, which is the results of good habits acquired, leads to good character. 
 In establishing certain academic rigour and behaviour standards, we seek to develop within our young Gabrielites the sort of self-respect that comes only when one contributes meaningfully to his own community. In all persuits and daily interactions, our Gabrielites are reminded of the importance of character, and of their responsibilities to the community.</p>
 
 ------
-**Transport Services** <br>
-Bus Services:<br>
-73, 105, 59 <br>
-MRT Stations: <br>
-Lorong Chuan MRT (Circle line)
-
-------
 **School Reports** <br>
 Financial Information <br>
-Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest financial information.  
+Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest financial information.  
 Annual Report 2021  <br>
-Please click [here](https://drive.google.com/file/d/1j52gs8hNNsAcZqIJIDO2mq0BZbtRTr3G/view?usp=sharing) to view the Annual Report 2021.
+Please click [here](https://drive.google.com/file/d/1j52gs8hNNsAcZqIJIDO2mq0BZbtRTr3G/view?usp=sharing)&nbsp;to view the Annual Report 2021.
