@@ -5,9 +5,10 @@ description: ""
 variant: markdown
 ---
 **Parent Notification** <br>
-[January 2024](https://drive.google.com/file/d/1af3HD_tSWY7dsVXZjT_sbDXQYq_ReRvq/view?usp=sharing)
+*For past issues, please refer to Parents Gateway*
 <br>
-For past issues, please refer to Parents Gateway.
+[January 2024](https://drive.google.com/file/d/1af3HD_tSWY7dsVXZjT_sbDXQYq_ReRvq/view?usp=sharing)
+
 
 **Assessment Plans (2024)**  
 
