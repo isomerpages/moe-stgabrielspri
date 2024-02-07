@@ -41,7 +41,7 @@ variant: markdown
 | 3 Generosity | **Ms Evelyn Wu**<br>evelyn_wu_ing_geok@schools.gov.sg | **Ms Ren Ting**<br>ren_ting@schools.gov.sg |
 | | **Ms Koh Xuan Wen**<br>Koh_Xuan_Wen_B@schools.gov.sg | |
 | 3 Perseverance | **Ms Annie Lim**<br>lim_annie@schools.gov.sg | **Mrs Cecilia Wong**<br>ang_lay_ngo@schools.gov.sg |
-| | **Mrs Isabella Tan**<br>isabela_sim@schools.gov.sg | |
+| | **Mrs Isabella Tan**<br>isabella_sim@schools.gov.sg | |
 | 3 Sincerity | **Ms Nur Halimah**<br>nur_halimah@schools.gov.sg | **Mr Sean De Silva**<br>sean_de_silva@schools.gov.sg |
 | 3 Loyalty | **Mr Quek Guan Hui**<br>quek_guan_hui@schools.gov.sg | **Mdm Nisfawati**<br>nisfawati_md_zainuddin@schools.gov.sg | 
 | | **Mrs Serene Cordeiro**<br>serene_cordeiro@schools.gov.sg | |
