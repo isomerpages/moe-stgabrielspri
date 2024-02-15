@@ -3,6 +3,7 @@ title: Louis Marie de Montfort (LMM)
 permalink: /signature-programmes/louis-marie-de-montfort/lmm/
 description: ""
 third_nav_title: Louis Marie de Montfort (LMM)
+variant: markdown
 ---
 **LMM Programme Coordinator**   
 Mr Andy Kong
@@ -54,7 +55,7 @@ At the end of three years of LMM education, we aim to develop every student to b
 
 **Structural of the LMM Curriculum**  
 <p align="justify">
-Students in these LMM classes follow the mainstream curriculum during school hours with differential instruction in subject areas like Mathematics, e.g. LE³ during its lessons. A selected group of LMM students is also offered Higher Mother Tongue as a non-examinable subject. This is to allow them to be immersed in the language and to appreciate the culture of their Mother Tongue. To extend the students’ learning, an array of mandatory and optional programmes have been carefully curated for them to participate. These programmes take into consideration the students’ cognitive needs and interests and include the following programmes: </p>
+Students in these LMM classes follow the mainstream curriculum during school hours with differential instruction in subject areas like Mathematics, e.g. LE³ during its lessons. A selected group of LMM students is also offered Higher Mother Tongue to allow them to be immersed in the language and to appreciate the culture of their Mother Tongue. Higher Mother Tongue assessments and examinations would only commence from Primary 5. To extend the students’ learning, an array of mandatory and optional programmes have been carefully curated for them to participate. These programmes take into consideration the students’ cognitive needs and interests and include the following programmes: </p>
 
 * [Literature Programme](/signature-programmes/Louis-Marie-de-Montfort/literature-programme/)
 * [E2K (Mathematics and Science)](/signature-programmes/Louis-Marie-de-Montfort/e2k/)
