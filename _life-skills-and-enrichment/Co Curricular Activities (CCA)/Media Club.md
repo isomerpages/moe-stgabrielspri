@@ -25,9 +25,11 @@ a group of seniors.</p>
 <p>In the media club, we strive to promote the use of digital tools as well
 as educating our young Gabrielites the importance of being a responsible
 user of new media technology.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/media1.png">
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lwZ7RXmSJlI"></iframe>
 </div>
