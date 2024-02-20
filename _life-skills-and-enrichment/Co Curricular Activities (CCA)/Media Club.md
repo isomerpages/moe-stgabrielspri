@@ -26,7 +26,6 @@ a group of seniors.</p>
 as educating our young Gabrielites the importance of being a responsible
 user of new media technology.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mediaclub1.png">
 </div>
