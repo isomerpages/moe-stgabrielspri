@@ -34,6 +34,13 @@ user of new media technology.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mediaclub2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mediaclub3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/mediaclub4.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lwZ7RXmSJlI"></iframe>
 </div>
