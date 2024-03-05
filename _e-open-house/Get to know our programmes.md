@@ -2,6 +2,7 @@
 title: Get to know our programmes
 permalink: /e-open-house/get-to-know-our-programmes/
 description: ""
+variant: markdown
 ---
 **Student Programmes**
 
@@ -52,7 +53,7 @@ description: ""
       <ul>
 				<li><a href="/signature-programmes/gdlp/">Gabrielite Digital Literacy Programme (GDLP)</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/grabrielite-football-academy/">Gabrielite Football Academy&nbsp;(GFA)</a></li>
-				<li><a href="/signature-programmes/Louis-Marie-de-Montfort/lmm/">Louis Marie De Montfort (LMM)</a></li>
+				<li><a href="/signature-programmes/louis-marie-de-montfort/lmm/">Louis Marie De Montfort (LMM)</a></li>
 				<li><a href="/signature-programmes/mlp/" target="">Montfortian Leadership Program (MLP)</a></li>
 				<li><a href="/signature-programmes/pride/">Personal Responsibility In Delivering Excellence (PRIDE)</a></li>
 			</ul>
