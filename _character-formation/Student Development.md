@@ -4,7 +4,7 @@ permalink: /character-formation/student-development/
 description: ""
 variant: markdown
 ---
-<img src="/images/SDT%20Framework%20version%201_Resized.jpeg" style="width:100%">
+<img src="/images/sdtframework.jpg" style="width:75%">
 
 **PILLARS OF STUDENT DEVELOPMENT**
 
