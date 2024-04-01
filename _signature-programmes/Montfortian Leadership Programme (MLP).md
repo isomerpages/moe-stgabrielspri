@@ -1,7 +1,8 @@
 ---
-title: Montfortian Character and Leadership Education (MCLE)
+title: Montfortian Leadership Programme (MLP)
 permalink: /signature-programmes/mlp/
 description: ""
+variant: tiptap
 ---
 **Key Personnel**   
 Mr Xie Zhengyang&nbsp; (Subject Head, Student Leadership)  

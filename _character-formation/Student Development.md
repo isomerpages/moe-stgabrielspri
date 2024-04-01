@@ -2,9 +2,9 @@
 title: Student Development
 permalink: /character-formation/student-development/
 description: ""
+variant: markdown
 ---
-<img src="/images/SDT%20Framework%20version%201_Resized.jpeg" 
-     style="width:100%">
+<img src="/images/sdtframework.jpg" style="width:75%">
 
 **PILLARS OF STUDENT DEVELOPMENT**
 
@@ -25,7 +25,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-g1uo"><span style="color:#232323">Character and Citizenship Development</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Montfortian Character and Citizenship Education for all students, FTGP modules, Religious Education</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Montfortian Character and Citizenship Education for all students, FTGP modules, Religious Education, Programme for Active Learning</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Student Leadership and Advocacy</span><br></td>
