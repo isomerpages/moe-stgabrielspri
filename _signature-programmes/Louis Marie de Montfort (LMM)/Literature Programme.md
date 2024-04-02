@@ -35,7 +35,7 @@ of a story.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/literaturep4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/literaturep4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ of a story.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/showcasep5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/showcasep5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
