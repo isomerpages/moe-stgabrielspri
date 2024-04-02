@@ -34,7 +34,6 @@ The PAL pedagogy provides opportunities for our young Gabrielites to exhibit the
 <p align="justify">
 Anchoring on a boy-centric approach, every module promotes multi-sensory learning experiences that are meaningful and enjoyable for our young Gabrielites; engaging the visual, auditory, tactile and kinaesthetic through stories, imagery and manipulatives. During a 2-hour PAL lesson each week, the boys will participate in interactive and hands-on activities to embrace social-emotional learning competencies such as social awareness, responsible decision-making and relationship management while working as a team. They will also encounter problems and challenges so that they live up to the school vision while displaying the school virtues like self-discipline, respect and generosity. </p>
 
-
 ![](/images/pal1.png)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vQkElV2xScw" title="PAL Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="true" height="355" width="610" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWZvNpArthZBvZtFG6AeOqw-Xa0KXzvAY7BsmEMcyrBRxT6JLu0XhfKXK8-UWYSmwGGTwhZ6y6MoAv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
