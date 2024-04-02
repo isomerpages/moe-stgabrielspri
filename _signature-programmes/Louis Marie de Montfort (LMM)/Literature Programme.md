@@ -26,6 +26,14 @@ of a story.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/literaturep4.jpg">
 </div>
@@ -63,6 +71,14 @@ of a story.</p>
 <td rowspan="1" colspan="2">
 <p>Our students busy creating their Storyboards before they start filming
 a short scene from the story, ‘Sadako &amp; the Thousand Paper Cranes’</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
