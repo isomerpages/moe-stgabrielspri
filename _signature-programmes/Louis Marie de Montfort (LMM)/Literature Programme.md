@@ -57,13 +57,13 @@ of a story.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/showcasep52_0.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/showcasep5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/showcasep5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/showcasep52.jpg">
 </div>
 </td>
 </tr>
