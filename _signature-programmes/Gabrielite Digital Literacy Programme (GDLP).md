@@ -2,6 +2,7 @@
 title: Gabrielite Digital Literacy Programme (GDLP)
 permalink: /signature-programmes/gdlp/
 description: ""
+variant: markdown
 ---
 **Vision** <br>
 Nurturing Gabrielites to become digital innovators and future-ready learners with a strong foundation of 21CC knowledge and skills.
@@ -33,7 +34,8 @@ In preparing Gabrielites to thrive in a rapidly evolving society as future-ready
 Click on the ‘ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together. </p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2021-22 GDLP" src="https://www.youtube.com/embed/rvIY_jRw3tM" height="340" width="525"></iframe>
-
+<br>
+<iframe allowfullscreen="true" height="340" width="525" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcPPgjuhA-nFbY9UhejdApMCVjE7izWBwe6tgRvLRs7XCjj4n09nrpMpCjLHfbJCAOAAvd7w5PXeFW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Introduction**   
 <p align="justify">
