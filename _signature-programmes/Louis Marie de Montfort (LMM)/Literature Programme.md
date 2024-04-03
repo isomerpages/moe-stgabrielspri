@@ -69,8 +69,11 @@ of a story.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Our students busy creating their Storyboards before they start filming
-a short scene from the story, ‘Sadako &amp; the Thousand Paper Cranes’</p>
+<p>Immersed in the tale of "Sadako and the Thousand Paper Cranes," Primary
+5 students find inspiration to craft their own haikus that echo the fleeting
+beauty of life. Through the meditative act of folding paper cranes, they
+channel the resilience and hope embodied in Sadako’s story, intertwining
+literature, art and history in a meaningful classroom experience.</p>
 </td>
 </tr>
 <tr>
