@@ -69,7 +69,7 @@ of a story.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Immersed in the tale of "Sadako and the Thousand Paper Cranes," Primary
+<p>Immersed in the tale of "Sadako and the Thousand Paper Cranes", Primary
 5 students find inspiration to craft their own haikus that echo the fleeting
 beauty of life. Through the meditative act of folding paper cranes, they
 channel the resilience and hope embodied in Sadako’s story, intertwining
