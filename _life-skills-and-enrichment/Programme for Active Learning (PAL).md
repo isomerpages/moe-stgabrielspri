@@ -36,4 +36,4 @@ Anchoring on a boy-centric approach, every module promotes multi-sensory learnin
 
 ![](/images/pal1.png)
 
-<center><iframe allowfullscreen="true" height="355" width="610" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWZvNpArthZBvZtFG6AeOqw-Xa0KXzvAY7BsmEMcyrBRxT6JLu0XhfKXK8-UWYSmwGGTwhZ6y6MoAv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/49mQMnz0gPI?si=sW-GjUQpIZs9UgrG" height="315" width="560"></iframe></center>
