@@ -34,7 +34,7 @@ In preparing Gabrielites to thrive in a rapidly evolving society as future-ready
 Click on the ‘ALP-GDLP Montage’ to capture the spirit of our young Gabrielites as they explored and accomplished the GDLP project goals together. </p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2021-22 GDLP" src="https://www.youtube.com/embed/rvIY_jRw3tM" height="315" width="560"></iframe>
-<br>
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9dbjwnCgqDs?si=2fTH2gFzdWH7zL1c" height="315" width="560"></iframe>
 
 **Introduction**   
