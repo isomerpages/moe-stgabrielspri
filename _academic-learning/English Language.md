@@ -9,7 +9,7 @@ variant: tiptap
 <p>To develop every Gabrielite to be an empathetic listener, a critical reader,
 an effective communicator, and an active change agent who empowers self
 and others to serve the community.</p>
-<p><strong>Key Personnel</strong>
+<p><strong>Key Personnel</strong> 
 <br>Head of Department : Mrs Michelle Tan
 <br>Level Head (Internal) : Mrs Serene Huang
 <br>Lead Teacher: Mrs Cecilia Koh
