@@ -179,7 +179,16 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Queen's Commonwelth Essay Competition 2023</p>
+<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Top Prize</u> 
+<br>Mitchell Chan (5 Sel)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Bronze</u> 
@@ -192,11 +201,14 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
+<p>P3 Moo-O Awards 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Top Prize</u> 
-<br>Mitchell Chan (5 Sel)</p>
+<p><u>Merit</u>
+</p>
+<p>Winston Meng (3 Loy)
+<br>Lucas Cordeiro (3 Per)</p>
+<p>Xanthus Quek (3 Gen)</p>
 </td>
 </tr>
 <tr>
