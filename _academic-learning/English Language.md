@@ -54,7 +54,6 @@ on a weekly basis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -62,7 +61,6 @@ on a weekly basis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 </tbody>
@@ -86,7 +84,6 @@ activities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_6.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -94,7 +91,6 @@ activities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_7.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -113,13 +109,11 @@ reading with the less privileged.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_8.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Image_9.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -127,7 +121,6 @@ reading with the less privileged.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_10.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -152,7 +145,6 @@ hone their speaking and writing skills while realising their full potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Image_11.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -160,7 +152,6 @@ hone their speaking and writing skills while realising their full potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_13.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
