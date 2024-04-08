@@ -60,7 +60,7 @@ on a weekly basis.</p>
 <tr>
 <th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
 </div>
 <p></p>
 </th>
