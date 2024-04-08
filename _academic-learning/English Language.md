@@ -2,7 +2,7 @@
 title: English Language
 permalink: /academic-learning/english-language/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Department Goals</strong>
 </p>
@@ -101,12 +101,68 @@ hone their speaking and writing skills while realising their full potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_13.jpg">
 </div>
-
-Some of our achievements are listed below:
-|  |  | 
-| -------- | -------- |
-| **Competitions** | **Achievements** |
-| The Queen's Commonwelth Essay Competition 2023 | <u>Bronze</u> <br> Rayhan (4 Loy) <br> Mitchell Chan (5 Sel) <br> Lucas Leow (5 Sel) <br> Gordon Chia (5 Sel) <br> Keshav Kumar (5 Gen) |
-| Little Red Dot - Lost in Time Writing Competition 2023 | <u>Top Prize</u> <br> Mitchell Chan (5 Sel)|
-| P4 Newsmaker Awards 2024 | <u>Bronze</u> <br> Leonard Chan (4 Loy) <br> Gavrail Ranggau (4 Ord) <br> Aiyar Rayan Prabhu (4 Res) |
-| | |
+<p>Some of our achievements are listed below:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competitions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwelth Essay Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Bronze</u> 
+<br>Rayhan (4 Loy)
+<br>Mitchell Chan (5 Sel)
+<br>Lucas Leow (5 Sel)
+<br>Gordon Chia (5 Sel)
+<br>Keshav Kumar (5 Gen)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Top Prize</u> 
+<br>Mitchell Chan (5 Sel)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 Newsmaker Awards 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Bronze</u> 
+<br>Leonard Chan (4 Loy)
+<br>Gavrail Ranggau (4 Ord)
+<br>Aiyar Rayan Prabhu (4 Res)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
