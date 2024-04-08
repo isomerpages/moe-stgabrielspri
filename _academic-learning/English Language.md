@@ -101,73 +101,12 @@ hone their speaking and writing skills while realising their full potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_13.jpg">
 </div>
-<p>Some of our achievements are listed below:</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><u>Competitions</u>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><u>Achievements</u>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Queen's Commonwealth Essay Competition 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Bronze</u>
-</p>
-<p>Rayhan (4 Loy)</p>
-<p>Mitchell Chan (5 Sel)</p>
-<p>Lucas Leow (5 Sel)</p>
-<p>Gordon Chia (5 Sel)</p>
-<p>Keshav Kumar (5 Gen)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Top Prize</u>
-</p>
-<p>Mitchell Chan (5 Sel)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 Newsmaker Awards 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Bronze</u>
-</p>
-<p>Leonard Chan (4 Loy)</p>
-<p>Gavrail Ranggau (4 Ord)</p>
-<p>Aiyar Rayan Prabhu (4 Res)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+
+Some of our achievements are listed below:
+|  |  | 
+| -------- | -------- |
+| Competitions | Achievements |
+| The Queen's Commonwelth Essay Competition 2023 | Bronze <br> Rayhan (4 Loy) <br> Mitchell Chan (5 Sel) <br> Lucas Leow (5 Sel) <br> Gordon Chia (5 Sel) <br> Keshav Kumar (5 Gen) |
+| Little Red Dot - Lost in Time Writing Competition 2023 | Top Prize <br> Mitchell Chan (5 Sel)|
+| P4 Newsmaker Awards 2024 | Bronze <br> Leonard Chan (4 Loy) <br> Gavrail Ranggau (4 Ord) <br> Aiyar Rayan Prabhu (4 Res) |
+| | |
