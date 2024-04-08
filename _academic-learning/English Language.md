@@ -2,7 +2,7 @@
 title: English Language
 permalink: /academic-learning/english-language/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Department Goals</strong>
 </p>
@@ -204,7 +204,7 @@ hone their speaking and writing skills while realising their full potential.</p>
 <p>P3 Moo-O Awards 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Merit</u>
+<p><u>Merit</u> 
 <br>Winston Meng (3 Loy)
 <br>Lucas Cordeiro (3 Per)
 <br>Xanthus Quek (3 Gen)</p>
