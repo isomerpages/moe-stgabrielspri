@@ -42,30 +42,64 @@ book recommendations as well as short excerpts of the books being read
 aloud. P4 to P6 LMM EL Monitors also promote interesting news articles
 in the Little Red Dot publications by giving presentations to the school
 on a weekly basis.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>EL Fiesta</u></strong>
 </p>
 <p>Recognising that stories are powerful communication tools to create meaning
 and connect people, a key feature in our EL programme is the use of stories
 to ignite the students’ passion for the English language through termly
 activities.&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_5.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Image_6.jpg">
 </div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_7.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>National Library Board (NLB)</u></strong>
 </p>
 <p>The school continues to build a strong partnership with NLB, which supports
@@ -73,16 +107,32 @@ the school through the provision of reading resources and activities. Every
 year, we continue to participate in the NLB Read for Books event, a charity
 book drive aimed at raising awareness of reading and sharing the gift of
 reading with the less privileged.&nbsp;</p>
-<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_8.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Image_9.jpg">
 </div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_10.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Competitions</u></strong>
 </p>
 <p>Gabrielites are given the opportunity to participate in various competitions
@@ -91,16 +141,32 @@ Mythos Junior Orators (a storytelling competition), NewsMaker Awards (Digital
 Video News competition, Creative Writing Programme (CWP) and The Queen's
 Commonwealth Essay Competition. Such competitions allow our students to
 hone their speaking and writing skills while realising their full potential.</p>
-<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_11.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_12.jpg">
 </div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_13.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Some of our achievements are listed below:</p>
 <table>
 <tbody>
