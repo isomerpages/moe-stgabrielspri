@@ -29,8 +29,10 @@ and independent use of the language.</p>
 <p>EL Syllabus 2020 seeks to develop these competencies in our learners through
 the teaching and learning of EL to enable them to be Emphathetic Communicators,
 Discerning Readers and Creative Inquirers.</p>
-<p><strong>(Insert Image 1)</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.jpg">
+</div>
 <p><strong><u>EL Monitors</u></strong>
 </p>
 <p>As Reading Ambassadors in the school, all Primary 3 to Primary 6 EL Monitors
@@ -40,16 +42,30 @@ book recommendations as well as short excerpts of the books being read
 aloud. P4 to P6 LMM EL Monitors also promote interesting news articles
 in the Little Red Dot publications by giving presentations to the school
 on a weekly basis.</p>
-<p><strong>(Insert Images 2 to 4)</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
+</div>
 <p><strong><u>EL Fiesta</u></strong>
 </p>
 <p>Recognising that stories are powerful communication tools to create meaning
 and connect people, a key feature in our EL programme is the use of stories
 to ignite the students’ passion for the English language through termly
 activities.&nbsp;</p>
-<p><strong>(Insert Images 5 to 7)</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_7.jpg">
+</div>
 <p><strong><u>National Library Board (NLB)</u></strong>
 </p>
 <p>The school continues to build a strong partnership with NLB, which supports
@@ -57,8 +73,16 @@ the school through the provision of reading resources and activities. Every
 year, we continue to participate in the NLB Read for Books event, a charity
 book drive aimed at raising awareness of reading and sharing the gift of
 reading with the less privileged.&nbsp;</p>
-<p><strong>(Insert Images 8 to 10)</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_10.jpg">
+</div>
 <p><strong><u>Competitions</u></strong>
 </p>
 <p>Gabrielites are given the opportunity to participate in various competitions
@@ -67,8 +91,16 @@ Mythos Junior Orators (a storytelling competition), NewsMaker Awards (Digital
 Video News competition, Creative Writing Programme (CWP) and The Queen's
 Commonwealth Essay Competition. Such competitions allow our students to
 hone their speaking and writing skills while realising their full potential.</p>
-<p><strong>(Insert Images 11 to 13)</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_13.jpg">
+</div>
 <p>Some of our achievements are listed below:</p>
 <table>
 <tbody>
