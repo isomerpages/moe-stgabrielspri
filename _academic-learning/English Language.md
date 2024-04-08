@@ -206,8 +206,8 @@ hone their speaking and writing skills while realising their full potential.</p>
 <td rowspan="1" colspan="1">
 <p><u>Merit</u>
 </p>
-<p>Winston Meng (3 Loy)
-<br>Lucas Cordeiro (3 Per)</p>
+<p>Winston Meng (3 Loy)</p>
+<p>Lucas Cordeiro (3 Per)</p>
 <p>Xanthus Quek (3 Gen)</p>
 </td>
 </tr>
