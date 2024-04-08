@@ -45,26 +45,25 @@ on a weekly basis.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="2" colspan="1">
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
 </div>
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
-</div>
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +84,7 @@ activities.&nbsp;</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Image_6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_6.jpg">
 </div>
 <p></p>
 </th>
@@ -146,7 +145,7 @@ hone their speaking and writing skills while realising their full potential.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_11.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_11.jpg">
 </div>
 <p></p>
 </th>
