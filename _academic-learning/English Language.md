@@ -105,8 +105,8 @@ hone their speaking and writing skills while realising their full potential.</p>
 Some of our achievements are listed below:
 |  |  | 
 | -------- | -------- |
-| Competitions | Achievements |
-| The Queen's Commonwelth Essay Competition 2023 | Bronze <br> Rayhan (4 Loy) <br> Mitchell Chan (5 Sel) <br> Lucas Leow (5 Sel) <br> Gordon Chia (5 Sel) <br> Keshav Kumar (5 Gen) |
-| Little Red Dot - Lost in Time Writing Competition 2023 | Top Prize <br> Mitchell Chan (5 Sel)|
-| P4 Newsmaker Awards 2024 | Bronze <br> Leonard Chan (4 Loy) <br> Gavrail Ranggau (4 Ord) <br> Aiyar Rayan Prabhu (4 Res) |
+| **Competitions** | **Achievements** |
+| The Queen's Commonwelth Essay Competition 2023 | <u>Bronze</u> <br> Rayhan (4 Loy) <br> Mitchell Chan (5 Sel) <br> Lucas Leow (5 Sel) <br> Gordon Chia (5 Sel) <br> Keshav Kumar (5 Gen) |
+| Little Red Dot - Lost in Time Writing Competition 2023 | <u>Top Prize</u> <br> Mitchell Chan (5 Sel)|
+| P4 Newsmaker Awards 2024 | <u>Bronze</u> <br> Leonard Chan (4 Loy) <br> Gavrail Ranggau (4 Ord) <br> Aiyar Rayan Prabhu (4 Res) |
 | | |
