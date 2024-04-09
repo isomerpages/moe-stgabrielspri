@@ -22,7 +22,7 @@ and Society.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Science/sci1.png">
+<img style="width: 37%;" height="auto" width="100%" alt="" src="/images/Science/sci1.png">
 </div>
 <p><strong>Key Personnel</strong> 
 <br>Head of Department: Mdm Jean Heng
