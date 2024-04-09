@@ -117,7 +117,22 @@ while making connections with their surroundings.</p>
 <p></p>
 <p><strong>Science Practical</strong>
 </p>
-<p>INSERT IMAGES</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci14.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci15.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Environmental Programmes and Initiatives</strong>
 </p>
@@ -137,14 +152,44 @@ bags, and switching the lights off when not in use</p>
 <p>The importance of Food Drives</p>
 </li>
 </ul>
-<p>INSERT IMAGES</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci16.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci17.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Junior Science (JS) programme</strong>
 </p>
 <p>Aimed at easing the lower primary students into the subject of Science,
 this programme taps on the natural curiosity of the Primary 1 and 2 students
 to further hone their Science skills and concepts.</p>
-<p>INSERT IMAGES</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci18.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci19.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Science Talent Development Programmes</strong>
 </p>
 <p><strong>Innovation Programme (IvP)</strong>
@@ -154,7 +199,34 @@ to develop their problem-solving and thinking skills. It enables students
 to think critically about existing problems, generate ideas to improve
 the situation, develop prototypes to test and improve their ideas while
 imbibing students with knowledge and experiences beyond the classroom.</p>
-<p>INSERT IMAGES</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci20.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci21.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci22.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci23.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Excellence 2000 (E2K) Science Programme</strong>
 </p>
 <p>The E2K Science Programme Singapore is a Science enrichment programme
@@ -173,7 +245,34 @@ by the programme serve to help students to:</p>
 <p>Gain important 21st century competencies such as critical thinking, invention
 thinking and effective communication skills.</p>
 <p></p>
-<p>INSERT IMAGES</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci24.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci25.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci26.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci27.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </li>
 </ul>
