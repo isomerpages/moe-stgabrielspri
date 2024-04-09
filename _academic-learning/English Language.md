@@ -31,7 +31,7 @@ the teaching and learning of EL to enable them to be Emphathetic Communicators,
 Discerning Readers and Creative Inquirers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_1.jpg">
 </div>
 <p><strong><u>EL Monitors</u></strong>
 </p>
@@ -47,21 +47,22 @@ on a weekly basis.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_3.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_4.jpg">
 </div>
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Image_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English Language/Image_2.jpg">
 </div>
-</th>
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -76,20 +77,19 @@ activities.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_5.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_6.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_7.jpg">
 </div>
 </td>
 </tr>
@@ -107,19 +107,19 @@ reading with the less privileged.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_8.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_9.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_10.jpg">
 </div>
 </td>
 </tr>
@@ -138,20 +138,21 @@ hone their speaking and writing skills while realising their full potential.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_12.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Image_11.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/English Language/Image_11.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_13.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
