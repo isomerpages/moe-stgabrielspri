@@ -25,25 +25,22 @@ a group of seniors.</p>
 <p>In the media club, we strive to promote the use of digital tools as well
 as educating our young Gabrielites the importance of being a responsible
 user of new media technology.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mediaclub1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Club/mediaclub1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Club/mediaclub5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Club/mediaclub2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Club/mediaclub3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Media Club/mediaclub4.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mediaclub5.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mediaclub2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mediaclub3.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 27%;" height="auto" width="100%" alt="" src="/images/mediaclub4.png">
-</div>
 <p></p>
 <p></p>
