@@ -20,18 +20,101 @@ in caring for the environment, and appreciate the use of Science for Life
 and Society.</p>
 </li>
 </ul>
-<p>INSERT IMAGE</p>
-<p><strong>Key Personnel</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science/sci1.png">
+</div>
+<p><strong>Key Personnel</strong> 
 <br>Head of Department: Mdm Jean Heng
 <br>Level Head (Internal): Ms Jolene Low
 <br>Senior Teacher: Mdm Chitra Devi</p>
-<p><strong>Department Programmes</strong>
+<p><strong>Department Programmes</strong> 
 <br><strong>Primary 3 – 6 Student Centric Curriculum &amp; Experiential Learning</strong>
 </p>
 <p>At SGPS, the experiential approach places the learning more so in the
 hands of students as they partake in activities to understand concepts
 while making connections with their surroundings.</p>
-<p>INSERT IMAGES</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci2.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci3.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci6.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci7.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci8.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci9.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci10.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci11.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci13.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Science Practical</strong>
 </p>
 <p>INSERT IMAGES</p>
@@ -64,7 +147,7 @@ to further hone their Science skills and concepts.</p>
 <p>INSERT IMAGES</p>
 <p><strong>Science Talent Development Programmes</strong>
 </p>
-<p><strong>Innovation Programme (IvP)</strong> 
+<p><strong>Innovation Programme (IvP)</strong>
 </p>
 <p>The Innovation Programme (IvP) provides a unique opportunity for students
 to develop their problem-solving and thinking skills. It enables students
