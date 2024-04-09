@@ -33,15 +33,13 @@ of a story.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/literaturep4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Literature Programme/literaturep4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/literaturep5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Literature Programme/literaturep5.png">
 </div>
 </td>
 </tr>
@@ -55,15 +53,13 @@ of a story.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/showcasep5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Literature Programme/showcasep5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/showcasep52_0.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Literature Programme/showcasep52_0.jpg">
 </div>
 </td>
 </tr>
