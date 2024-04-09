@@ -245,6 +245,8 @@ by the programme serve to help students to:</p>
 <p>Gain important 21st century competencies such as critical thinking, invention
 thinking and effective communication skills.</p>
 <p></p>
+</li>
+</ul>
 <table>
 <tbody>
 <tr>
@@ -273,7 +275,4 @@ thinking and effective communication skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-</li>
-</ul>
 <p></p>
