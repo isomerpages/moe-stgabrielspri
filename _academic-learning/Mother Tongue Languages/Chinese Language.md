@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
-<p><strong>Department Goal</strong>
+<p><strong>Department Goal</strong> 
 <br>To develop engaged learners, effective communicators through engaging
 activities which enthuse and enrich our students’ learning</p>
 <p><strong>Key Personnel</strong> 
 <br>Ms Wan Chui Ting (HOD / Mother Tongue Languages (MTL)&nbsp;&amp; School
-Library&nbsp;) Mdm Zhou Jing (Level Head / Chinese Language (Internal))</p>
+Library)</p>
+<p>Mdm Zhou Jing (Level Head / Chinese Language (Internal))</p>
 <p><strong>Department Programmes</strong> 
 <br>To enhance students' interest in learning Chinese Language, the following
 activities are organized for all pupils.</p>
@@ -18,7 +19,7 @@ activities are organized for all pupils.</p>
 </p>
 <p><strong>1) Mother Tongue Support Programme </strong>
 <br>A customised programme to support the learning of pupils in Mother Tongue.</p>
-<p><strong>2) Inter-School Competitions and Activities</strong>
+<p><strong>2) Inter-School Competitions and Activities</strong> 
 <br>Fo Guang Shan Penmanship Competition
 <br>Text Recital Competition
 <br>Chinese Memory Games Competition
@@ -38,7 +39,7 @@ in learning Chinese Language through related activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTFN.jpg">
 </div>
-<p><strong>2) P3 Language/Cultural Camp</strong>
+<p><strong>2) P3 Language/Cultural Camp</strong> 
 <br>Interesting language and cultural activities to inculcate the love of
 learning of the Chinese Language.</p>
 <div class="isomer-image-wrapper">
@@ -63,7 +64,7 @@ language competency.</p>
 books</p>
 <p><strong>8) Enrichment Programmes </strong>
 <br>Speech &amp; Drama, Composition Writing and Oracy Skills</p>
-<p><strong>9) Local Learning Journeys </strong>
+<p><strong>9) Local Learning Journeys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
