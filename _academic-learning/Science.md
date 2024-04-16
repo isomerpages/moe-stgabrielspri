@@ -22,7 +22,7 @@ and Society.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sc1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/sc1.png">
 </div>
 <p><strong>Key Personnel</strong> 
 <br>Head of Department: Mdm Jean Heng
@@ -51,7 +51,7 @@ while making connections with their surroundings.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
