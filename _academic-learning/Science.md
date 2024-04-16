@@ -20,7 +20,10 @@ in caring for the environment, and appreciate the use of Science for Life
 and Society.</p>
 </li>
 </ul>
-<p>SCI1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sc1.png">
+</div>
 <p><strong>Key Personnel</strong> 
 <br>Head of Department: Mdm Jean Heng
 <br>Level Head (Internal): Ms Jolene Low
@@ -35,15 +38,21 @@ while making connections with their surroundings.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc2.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc3.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci4.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
