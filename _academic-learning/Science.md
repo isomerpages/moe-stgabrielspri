@@ -20,10 +20,7 @@ in caring for the environment, and appreciate the use of Science for Life
 and Society.</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 37%;" height="auto" width="100%" alt="" src="/images/Science/sci1.png">
-</div>
+<p>SCI1</p>
 <p><strong>Key Personnel</strong> 
 <br>Head of Department: Mdm Jean Heng
 <br>Level Head (Internal): Ms Jolene Low
@@ -38,77 +35,69 @@ while making connections with their surroundings.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci2.png">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci3.png">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci4.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci5.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci6.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci7.png">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci8.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci9.png">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci7.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci8.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci9.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci10.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci11.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci12.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci13.png">
 </div>
 </td>
 </tr>
@@ -122,12 +111,13 @@ while making connections with their surroundings.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci14.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci14.png">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci15.png">
 </div>
 </th>
 </tr>
@@ -157,12 +147,12 @@ bags, and switching the lights off when not in use</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci16.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci17.png">
 </div>
 </th>
 </tr>
@@ -179,12 +169,12 @@ to further hone their Science skills and concepts.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci18.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci19.png">
 </div>
 </th>
 </tr>
@@ -204,24 +194,24 @@ imbibing students with knowledge and experiences beyond the classroom.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci20.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci20.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci21.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci21.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci22.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci22.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci23.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci23.png">
 </div>
 </td>
 </tr>
@@ -252,24 +242,24 @@ thinking and effective communication skills.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci24.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci24.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci25.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci26.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci26.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci27.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci27.png">
 </div>
 </td>
 </tr>
