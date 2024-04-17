@@ -4,13 +4,12 @@ permalink: /character-formation/student-discipline-and-partnerships/
 description: ""
 variant: tiptap
 ---
-<p><strong>Department Goal</strong>
+<p><strong>Department Goal</strong> 
 <br>To nurture leaders who lead by example</p>
-<p><strong>Key Personnel</strong>
+<p><strong>Key Personnel</strong> 
 <br>Ms Low Mei Ling</p>
 <p><strong>MODIFIED RESTORATIVE PRACTICES (MRP)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRP.png">
 </div>
