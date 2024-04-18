@@ -3,7 +3,67 @@ title: School Hours
 permalink: /e-open-house/important-information/school-hours/
 description: ""
 third_nav_title: Important Information for P1s
+variant: tiptap
 ---
-Students are advised to be in school by 7.30 a.m. As a mark of respect during our flag-raising ceremony, the school gate will be closed by the stipulated time. All Primary One students are to report to their classrooms on Tuesdays and Wednesdays. On Mondays, Thursdays and Fridays, they are to report to the hall. The flag raising ceremony will be conducted at 7.30 a.m. daily.
-
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; width: 632.003px; color: rgb(72, 72, 72); font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="tg"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" rowspan="3" class="tg-17an">School Hours</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Day</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Reporting time</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Start of School day</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">End of School day</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">Monday to Thursday</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">By 7.30 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">7.30 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">1.30 p.m.</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-g1uo">Friday</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-g1uo">By 7.30 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-g1uo">7.30 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-g1uo">1.00 p.m.</td></tr></tbody></table>
+<p>Students are advised to be in school by 7.30 a.m. As a mark of respect
+during our flag-raising ceremony, the school gate will be closed by the
+stipulated time. All Primary One students are to report to their classrooms
+on Tuesdays and Wednesdays. On Mondays, Thursdays and Fridays, they are
+to report to the hall. The flag raising ceremony will be conducted at 7.30
+a.m. daily.</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>School Hours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Start of School day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>End of School day</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday to Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By 7.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By 7.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00 p.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
