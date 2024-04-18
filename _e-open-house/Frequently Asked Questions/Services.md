@@ -3,5 +3,79 @@ title: Services
 permalink: /e-open-house/frequently-asked-questions/services/
 description: ""
 third_nav_title: Frequently Asked Questions
+variant: tiptap
 ---
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; width: 760px; color: rgb(72, 72, 72); font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; table-layout: fixed;" class="tg"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Questions</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: bold;">Answers</span></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-bjk0"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Where can parents buy the school uniform from?</span></td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: bold;">Shirley Season Wear</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">NORTHSTAR</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Address: 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) Singapore 569880</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Contact Person: Shirley </span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Contact Number: 62804917</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Email : shirleyseasonwear@hotmail.com</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Website :</span><span>&nbsp;</span><a style="box-sizing: inherit; font-family: Lato, sans-serif; color: rgb(67, 114, 214); cursor: pointer; text-decoration: underline; margin-bottom: 2rem; line-height: 1.25;" rel="noopener noreferrer" target="_blank" href="http://www.shirleyuni.com/"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; text-decoration: none; color: rgb(64, 103, 174);">http://www.shirleyuni.com</span></a><br style="box-sizing: inherit; font-family: Lato, sans-serif;"></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-bjk0"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Is Student Care service available in St Gabriel’s Primary School?</span></td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: bold;">Morning Star Services</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Address: 25 Lorong 33 Geylang, #04-01 Putian Building, S 387985</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Contact Number 1: 6285 1377 ext 132 (St Gabriel’s Primary School)</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Contact Number  2: 6285 1377 (Head Office)</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;"><a style="box-sizing: inherit; font-family: Lato, sans-serif; color: rgb(67, 114, 214); cursor: pointer; text-decoration: underline; margin-bottom: 2rem; line-height: 1.25;" rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=RkwshhcKZBM&amp;feature=youtu.be"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; text-decoration: none; color: rgb(64, 103, 174);">Morning Star Student Care @ St. Gabriel's Primary School</span></a><br style="box-sizing: inherit; font-family: Lato, sans-serif;"></span></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: middle; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-bjk0"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Is there school bus service available in St Gabriel’s Primary School?</span></td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-g1uo"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: bold;">Tong Tar Transport Service Pte Ltd</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Mobile Phone: 9848 9964 Fax: 6268 6620</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Office Number: 6261 5537</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Office: 8 Soon lee Road, Singapore 628073</span><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">Email:</span><span>&nbsp;</span><a style="box-sizing: inherit; font-family: Lato, sans-serif; color: rgb(67, 114, 214); cursor: pointer; text-decoration: underline; margin-bottom: 2rem; line-height: 1.25;" rel="noopener noreferrer" target="_blank" href="mailto:sgps@tongtar.com"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; text-decoration: none; color: rgb(64, 103, 174);">sgps@tongtar.com</span></a><br style="box-sizing: inherit; font-family: Lato, sans-serif;"><br style="box-sizing: inherit; font-family: Lato, sans-serif;"></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Questions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Answers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Where can parents buy the school uniform from?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shirley Season Wear</strong>
+<br>
+<br>NORTHSTAR
+<br>
+<br>Address: 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) Singapore 569880
+<br>
+<br>Contact Person: Shirley
+<br>
+<br>Contact Number: 62804917
+<br>
+<br>Email : shirleyseasonwear@hotmail.com
+<br>
+<br>Website :&nbsp;<a href="http://www.shirleyuni.com/" rel="noopener noreferrer" target="_blank"><u>http://www.shirleyuni.com</u></a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Is Student Care service available in St Gabriel’s Primary School?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Morning Star Services</strong>
+<br>
+<br>Address: 25 Lorong 33 Geylang, #04-01 Putian Building, S 387985
+<br>
+<br>Contact Number 1: 6285 1377 ext 132 (St Gabriel’s Primary School)
+<br>
+<br>Contact Number 2: 6285 1377 (Head Office)
+<br>
+<br><a href="https://www.youtube.com/watch?v=RkwshhcKZBM&amp;feature=youtu.be" rel="noopener noreferrer" target="_blank"><u>Morning Star Student Care @ St. Gabriel's Primary School</u></a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Is there school bus service available in St Gabriel’s Primary School?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tong Tar Transport Service Pte Ltd</strong>
+<br>
+<br>Mobile Phone: 9848 9964 Fax: 6268 6620
+<br>
+<br>Office Number: 6261 5537
+<br>
+<br>Office: 8 Soon lee Road, Singapore 628073
+<br>
+<br>Email:&nbsp;<a href="mailto:sgps@tongtar.com" rel="noopener noreferrer" target="_blank"><u>sgps@tongtar.com</u></a>
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
