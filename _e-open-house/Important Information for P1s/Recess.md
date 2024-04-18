@@ -3,7 +3,76 @@ title: Recess
 permalink: /e-open-house/important-information/recess/
 description: ""
 third_nav_title: Important Information for P1s
+variant: tiptap
 ---
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; width: 764px; color: rgb(72, 72, 72); font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; table-layout: fixed;" class="tg"><colgroup style="box-sizing: inherit; font-family: Lato, sans-serif;"><col style="box-sizing: inherit; font-family: Lato, sans-serif; width: 185px;"><col style="box-sizing: inherit; font-family: Lato, sans-serif; width: 188px;"><col style="box-sizing: inherit; font-family: Lato, sans-serif; width: 195px;"><col style="box-sizing: inherit; font-family: Lato, sans-serif; width: 196px;"></colgroup><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" rowspan="2" class="tg-17an">Recess</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">P1 &amp; P5 students</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">P2 &amp; P4 students</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">P3 &amp; P6 students</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">9.30 a.m. – 9.55 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">10.00 a.m. – 10.25 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">10.30 a.m. – 10.55 a.m.</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">#Daily Short Break - Mondays to Thursdays</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">11.45 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">12.15 a.m.</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">12.45 p.m.</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-bjk0"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;"></span>#Daily Short Break - Fridays</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: center; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-tv7y"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">11.15 a.m.</span></td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: center; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-tv7y"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">11.45 a.m.</span></td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: center; vertical-align: middle; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-tv7y"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: inherit; background-color: transparent;">12.15 p.m.</span></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35); font-weight: bold;" colspan="4" class="tg-95g1"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: rgb(35, 35, 35);"># short rest, snacks, drinks</span></td></tr></tbody></table>
-
-Students are encouraged to pack dry food (e.g. cereal, bread and biscuits and etc.) We strongly encourage our students to choose water over sugared beverages.
+<table>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Recess</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P1 &amp; P5 students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P2 &amp; P4 students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P3 &amp; P6 students</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.30 a.m. – 9.55 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00 a.m. – 10.25 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30 a.m. – 10.55 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>#Daily Short Break - Mondays to Thursdays</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.45 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.15 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.45 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>#Daily Short Break - Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.15 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.45 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong># short rest, snacks, drinks</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Students are encouraged to pack dry food (e.g. cereal, bread and biscuits
+and etc.) We strongly encourage our students to choose water over sugared
+beverages.</p>
