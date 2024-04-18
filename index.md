@@ -10,13 +10,13 @@ sections:
       key_highlights:
         - title: CHARACTER FORMATION
           description: ""
-          url: /character-formation/CCE/character-and-citizenship-education/
+          url: /character-formation/cce/character-and-citizenship-education/
         - title: ACADEMIC LEARNING
           description: ""
           url: /academic-learning/english-language/
         - title: LIFE SKILLS & ENRICHMENT
           description: ""
-          url: /life-skills-and-enrichment/Physical-and-Health-Education/physical-health-and-education/
+          url: /life-skills-and-enrichment/physical-and-health-education/
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/louis-marie-de-montfort/lmm/
