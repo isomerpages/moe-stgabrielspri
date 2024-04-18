@@ -42,7 +42,7 @@ user of new media technology.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Media Club/mediaclub4.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Media Club/mediaclub4.png">
 </div>
 <p></p>
 <p></p>
