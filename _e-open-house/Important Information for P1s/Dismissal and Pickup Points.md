@@ -5,8 +5,66 @@ description: ""
 third_nav_title: Important Information for P1s
 variant: tiptap
 ---
-To ensure the safety and security of our students during dismissal, students taking the school bus will be allowed to board their school buses before we allow other motor vehicles into the school compound.  
-  
-All P1 students will have to assemble in the school hall first and will then be taken to the various dismissal points by the teachers.
-
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; margin: 0px auto; width: 710px; color: rgb(72, 72, 72); font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; table-layout: fixed;" class="tg"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Line</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Description</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Pickup point</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Car Line</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">For students whose parents drive<br style="box-sizing: inherit; font-family: Lato, sans-serif;">(Kindly put up an A4-sized label with your child’s name &amp; class on the car dashboard as you drive in to the Foyer for easy identification.)</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">Foyer</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">Walk Line</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">For students walking home or taking public transport</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border-color: rgb(214, 214, 214); border-style: solid; border-width: 0px 0px 1px; font-size: 14px; overflow: hidden; word-break: normal; border-image: initial; color: rgb(35, 35, 35);" class="tg-g1uo">Guardhouse</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif;"><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35); font-weight: bold;" class="tg-95g1">School Bus Line</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-g1uo">For students taking the school bus</td><td style="box-sizing: inherit; font-family: Arial, sans-serif; padding: 0.5em 0.75em; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); font-size: 14px; overflow: hidden; word-break: normal; color: rgb(35, 35, 35);" class="tg-g1uo">School Hall</td></tr></tbody></table>
+<p>To ensure the safety and security of our students during dismissal, students
+taking the school bus will be allowed to board their school buses before
+we allow other motor vehicles into the school compound.</p>
+<p>All P1 students will have to assemble in the school hall first and will
+then be taken to the various dismissal points by the teachers.</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Line</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pickup point</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Car Line</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For students whose parents drive
+<br>(Kindly put up an A4-sized label with your child’s name &amp; class on
+the car dashboard as you drive in to the Foyer for easy identification.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Walk Line</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For students walking home or taking public transport</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guardhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Bus Line</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For students taking the school bus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
