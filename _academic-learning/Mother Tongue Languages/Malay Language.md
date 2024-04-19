@@ -35,19 +35,17 @@ interest and love for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_My Food plate &amp; Activity Booklet.png">
 </div>
+<p><strong>P1 - My Food Plate &amp; Activity Booklet</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P3_Paper Weaving.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P3_Paper Weaving.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 - My Food plate &amp; Activity Booklet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 - Paper Weaving</p>
+<p></p>
+<p></p>
+<p><strong>P3 - Paper Weaving</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -55,19 +53,15 @@ interest and love for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Teh Tarik cup.jpg">
 </div>
+<p><strong>P2 - Teh Tarik Cup</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 - Teh Tarik cup</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 - Wayang Kulit</p>
+<p><strong>P4 - Wayang Kulit</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,19 +69,15 @@ interest and love for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit_our final product.png">
 </div>
+<p><strong>P4 - Wayang Kulit (Our Final Product)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P5_Wau-our master pieces.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 - Wayang Kulit_our final product</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 - Wau-our master pieces</p>
+<p><strong>P5 - Wau (Our Masterpieces)</strong>
+</p>
 </td>
 </tr>
 </tbody>
