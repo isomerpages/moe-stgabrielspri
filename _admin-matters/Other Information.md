@@ -1,7 +1,8 @@
 ---
 title: Other Information
-permalink: /links/others/
+permalink: /admin-matters/other-information/
 description: ""
+variant: tiptap
 ---
 * [St. Gabriels's Old Boys Association Membership Application Form](https://drive.google.com/file/d/19bCxDcE6C6Cv1-NABS3Yg9rXmNMGXHs3/view?usp=sharing)
 

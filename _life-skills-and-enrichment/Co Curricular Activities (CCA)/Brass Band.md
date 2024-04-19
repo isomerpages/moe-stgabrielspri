@@ -1,18 +1,17 @@
 ---
 title: Brass Band
-permalink: /life-skills-and-enrichment/Co-Curricular-Activities/brass-band/
+permalink: /life-skills-and-enrichment/co-curricular-activities/brass-band/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<img src="/images/BRASS%20BAND%20BANNER.png" 
-     style="width:65%">
+<img src="/images/BRASS%20BAND%20BANNER.png" style="width:65%">
 
 <p align="justify">
-St. Gabriel’s Primary Brass Band has performed in numerous school events as well as external performances since its formation in 2006.  In 2019, the band has participated in three key events.</p>
+St. Gabriel’s Primary Brass Band has performed in numerous school events as well as external performances since its formation in 2006.&nbsp; In 2019, the band has participated in three key events.</p>
 
 
-<img src="/images/Brass%20Band%20Achievements.png" 
-     style="width:45%">
+<img src="/images/Brass%20Band%20Achievements.png" style="width:45%">
 
 
 <p align="justify">
@@ -22,8 +21,7 @@ On 8 June, the Brass Band represented St. Gabriel’s Primary School to perform 
 On school ground, the Band also performed the National Anthem during the school’s National Day observance ceremony as well as other pieces to mesmerise the school. </p>
 
 
-<img src="/images/My%20Post.png" 
-     style="width:45%">
+<img src="/images/My%20Post.png" style="width:45%">
 
 
 <p align="justify">
@@ -34,4 +32,4 @@ Under the guidance of the band’s instructor, Ms Ariel Wong, the band members a
 The St. Gabriel’s Primary School Band has grown from strength to strength in student interest and participation in various performances. From Braddell Heights CC National Day Celebration Dinner, a collaboration with Kim Seng Wind Symphony Band to SYF Celebrations Band Jamboree – the boys have made the school proud with their stellar performances and musicianship. With each performance, the boys learned the value of diligence and resilience. Most of all, they bonded and fostered a strong camaraderie. </p>
 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/iInVjFvcCGI" title="Brass Band Promo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/iInVjFvcCGI" title="Brass Band Promo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>

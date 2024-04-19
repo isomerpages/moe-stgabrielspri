@@ -1,8 +1,9 @@
 ---
 title: Tamil Language
-permalink: /academic-learning/Mother-Tongue-Languages/tamil-language/
+permalink: /academic-learning/mother-tongue-languages/tamil-language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: tiptap
 ---
 **Department Goal**
 <p align="justify">

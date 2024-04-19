@@ -1,6 +1,6 @@
 ---
 title: Parent Volunteer Scheme
-permalink: /admin-matter/parent-volunteer-scheme/
+permalink: /admin-matters/parent-volunteer-scheme/
 description: ""
 variant: markdown
 ---

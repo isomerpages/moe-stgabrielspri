@@ -1,8 +1,9 @@
 ---
 title: E2K (Mathematics and Science)
-permalink: /signature-programmes/Louis-Marie-de-Montfort/e2k/
+permalink: /signature-programmes/louis-marie-de-montfort/e2k/
 description: ""
 third_nav_title: Louis Marie de Montfort (LMM)
+variant: tiptap
 ---
 **E2K Mathematics**
 <p align="justify">
@@ -29,7 +30,7 @@ During the programme, students will have opportunities to work independently or 
 
 **E2K Science**    
 <p align="justify">
-The E2K Science Programme is a science enrichment programme for students who demonstrate interest and ability in science. The programme aims to develop in our students scientific inquiry process skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills. 
+The E2K Science Programme is a science enrichment programme for students who demonstrate interest and ability in science. The programme aims to develop in our students scientific inquiry process skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.&nbsp;
 </p>
 <p align="justify">
 Students learn Science by assimilating the process that scientists use to generate knowledge in Science. Just as scientists make mistakes in the real world, students are allowed to make mistakes during the sessions. Teachers help students to learn from their mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry to answer their research questions.

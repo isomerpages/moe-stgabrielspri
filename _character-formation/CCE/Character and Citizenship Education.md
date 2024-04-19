@@ -1,8 +1,9 @@
 ---
 title: Character and Citizenship Education
-permalink: /character-formation/CCE/character-and-citizenship-education/
+permalink: /character-formation/cce/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
 **Department Goal**   
 <p align="justify">
@@ -10,13 +11,12 @@ third_nav_title: CCE
 <p align="justify">
 This is done through various vehicles like National Education (NE), CCE lessons which are conducted during Mother Tongue lessons, our school’s in-house Montfortian Character, Citizenship and Leadership Education (MCLE) lessons, as well as through valuable school experiences such as Values-In-Action (VIA) projects and CCAs. </p>
 
-<img src="/images/CCE%20Curriculum.jpeg" 
-     style="width:100%">
+<img src="/images/CCE%20Curriculum.jpeg" style="width:100%">
 
 **Key Personnel**  
 Mrs Jessica Hoon  
   
-**Department Programmes** 
+**Department Programmes**&nbsp;
 
 **National Education (NE)**    
 <p align="justify">NE strives to develop a better understanding of the country. In doing so, we aim to develop in our students, national cohesion, emotional rootedness and the sense of belonging to the nation.
@@ -45,7 +45,7 @@ Some examples of VIA projects include a collaboration with Braddell Heights gras
 
 **Religious Education (RE)**  
 <p align="justify">
-Catholic students, and non-Catholics who have chosen to opt-in,  attend the RE classes where our teachers work with a team of dedicated and experienced Catechists to impart the Catholic Faith to our children.  All topics are aligned with those taught in MCLE classes, but discussions would be from a Christian perspective, incorporating lessons from the life of Christ and that of the Saints. </p>
+Catholic students, and non-Catholics who have chosen to opt-in,&nbsp; attend the RE classes where our teachers work with a team of dedicated and experienced Catechists to impart the Catholic Faith to our children.&nbsp; All topics are aligned with those taught in MCLE classes, but discussions would be from a Christian perspective, incorporating lessons from the life of Christ and that of the Saints. </p>
 
 ![](/images/via3.png)
 
@@ -64,5 +64,4 @@ The vocabulary learnt by the students during their MTL lessons at each level pro
 <p align="justify">
 	Every year, the Primary 5 students attend the NE Show to bask in the national celebrations and to evoke in them, a sense of patriotism</p>
 
-<img src="/images/via4.jpeg" 
-     style="width:100%">
+<img src="/images/via4.jpeg" style="width:100%">

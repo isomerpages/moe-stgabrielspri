@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /character-formation/sexuality-education/
+permalink: /character-formation/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
 variant: tiptap

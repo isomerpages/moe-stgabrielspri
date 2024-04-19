@@ -2,6 +2,7 @@
 title: Aesthetics (Visual & Performing Arts)
 permalink: /life-skills-and-enrichment/aesthetics/
 description: ""
+variant: markdown
 ---
 **Vision** <br> Developing Gabrielites to be creative and discerning individuals who embrace cultural diversity.
 
@@ -13,7 +14,7 @@ Mrs Catherine Low (HOD Aesthetics &amp; Applied Learning Programme)
 
 
 **Aesthetics Committee** <br>
-Mrs Cecilia Wong<br>Mr Ng Chiong Hoe<br>Mr Daniel Sia<br>Ms Glenda Ng<br>Ms Priscilla Yong<br>Mdm Lytessia Soh<br>Ms Yang Xiaoqing<br>Mr Steven Tay<br>
+Mrs Cecilia Wong<br>Mr Ng Chiong Hoe<br>Ms Glenda Ng<br>Ms Priscilla Yong<br>Ms Yang Xiaoqing<br>
 
 **Department Programmes**
 <p align="justify">At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision: </p>
@@ -41,8 +42,7 @@ The three aesthetics CCAs namely Brass Band, Performing Arts and Art Club provid
 
 **Our Aesthetics Journey**
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SPR61gMUBps" title="Aesthetics Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5T0dXDw7GH0?si=4Z536hWESDKrUh4_" height="315" width="560"></iframe></center>
 
 ![](/images/aes3.png)
 ![](/images/aes4.png)

@@ -1,6 +1,6 @@
 ---
 title: School Executive Committee
-permalink: /the-gabrielite-family/School-Staff/school-executive-committee/
+permalink: /the-gabrielite-family/school-staff/school-executive-committee/
 description: ""
 third_nav_title: School Staff
 variant: markdown

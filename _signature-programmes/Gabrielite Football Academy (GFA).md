@@ -1,7 +1,8 @@
 ---
 title: Gabrielite Football Academy (GFA)
-permalink: /life-skills-and-enrichment/co-curricular-activities/grabrielite-football-academy/
+permalink: /signature-programmes/gabrielite-football-academy/
 description: ""
+variant: tiptap
 ---
 ![](/images/GFA%202023.jpg)
 

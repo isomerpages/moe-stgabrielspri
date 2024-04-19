@@ -1,12 +1,13 @@
 ---
 title: Physical & Health Education
-permalink: /life-skills-and-enrichment/Physical-and-Health-Education/physical-health-and-education/
+permalink: /life-skills-and-enrichment/physical-and-health-education/
 description: ""
+variant: tiptap
 ---
 **Vision**   
 Every Gabrielite a sportsman, able to pursue an active and healthy lifestyle independently.
 
-**Department Goals**    
+**Department Goals**&nbsp;   
 To equip every student with 21CC knowledge, skills and attitude to lead a healthy lifestyle.
 
 **Key Personnel** <br>
@@ -31,18 +32,18 @@ Goal 5: Acquire and maintain health-enhancing fitness through regular participat
 
 Goal 6: Enjoy and value the benefits of living a physically active and healthy life.<br>
 
-(Physical Education Teaching & Learning Syllabus).
+(Physical Education Teaching &amp; Learning Syllabus).
 </p>
 
 <br>
 
 | Level | Key Programmes / Events |
 | -------- | -------- |
-| Primary 1 & 2  | Programme for Active Learning, Mini Olympics, Health & Wellness Week   |
-|Primary 3|SwimSafer Programme, NAPFA Familiarisation, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games|
-|Primary 4|NAPFA Test, Sports Skills Exhibition Day, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games|
-|Primary 5|NAPFA Test, Sports Skills Exhibition Day, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games, Discovery & Leadership Camp, BP Initiative @ Schools Programme|
-|Primary 6|NAPFA Test, Sports Skills Exhibition Day, Annual Sports & Games Day, Health & Wellness Week, Inter-Class Games|
+| Primary 1 &amp; 2  | Programme for Active Learning, Mini Olympics, Health &amp; Wellness Week   |
+|Primary 3|SwimSafer Programme, NAPFA Familiarisation, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games|
+|Primary 4|NAPFA Test, Sports Skills Exhibition Day, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games|
+|Primary 5|NAPFA Test, Sports Skills Exhibition Day, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games, Discovery &amp; Leadership Camp, BP Initiative @ Schools Programme|
+|Primary 6|NAPFA Test, Sports Skills Exhibition Day, Annual Sports &amp; Games Day, Health &amp; Wellness Week, Inter-Class Games|
 
 ![](/images/phe1.png)
 ![](/images/phe2.png)
@@ -59,6 +60,6 @@ Physical Health and Fitness stimulates students’ interest in physical activity
 
 **Annual Games Day**
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/0dqcRUZxzjE" title="Annual Games Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/0dqcRUZxzjE" title="Annual Games Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 [Keeping Children Healthy - A Guide For Parents](https://drive.google.com/file/d/1rFqdpVg5te6O57zLRVgyY8vCl-BgwfuO/view?usp=sharing)

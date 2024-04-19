@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Language Teachers
-permalink: /the-gabrielite-family/School-Staff/mother-tongue-language-teachers/
+permalink: /the-gabrielite-family/school-staff/mother-tongue-language-teachers/
 description: ""
 third_nav_title: School Staff
 variant: tiptap
