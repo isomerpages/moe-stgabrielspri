@@ -35,15 +35,19 @@ interest and love for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_My Food plate &amp; Activity Booklet.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P3_Paper Weaving.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P1 - My Food Plate &amp; Activity Booklet</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P3_Paper Weaving.jpg">
-</div>
-<p></p>
-<p></p>
 <p><strong>P3 - Paper Weaving</strong>
 </p>
 </td>
@@ -53,13 +57,19 @@ interest and love for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Teh Tarik cup.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P2 - Teh Tarik Cup</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit.png">
-</div>
 <p><strong>P4 - Wayang Kulit</strong>
 </p>
 </td>
@@ -69,13 +79,19 @@ interest and love for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit_our final product.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_Wau-our master pieces.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P4 - Wayang Kulit (Our Final Product)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P5_Wau-our master pieces.png">
-</div>
 <p><strong>P5 - Wau (Our Masterpieces)</strong>
 </p>
 </td>
