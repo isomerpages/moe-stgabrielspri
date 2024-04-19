@@ -33,16 +33,20 @@ interest and love for the language.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_My Food plate &amp; Activity Booklet.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_My_Food_plate___Activity_Booklet.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Paper_Weaving.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P1 - My Food Plate &amp; Activity Booklet</strong>
+<p><strong>P1 - My Food Plate &amp; Activity</strong>
+</p>
+<p><strong>Booklet</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,12 +57,12 @@ interest and love for the language.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Teh Tarik cup.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Teh_Tarik_cup.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang_Kulit.png">
 </div>
 </td>
 </tr>
@@ -75,18 +79,20 @@ interest and love for the language.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit_our final product.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang_Kulit_our_final_product.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_Wau-our master pieces.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Wau_our_master_pieces.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4 - Wayang Kulit (Our Final Product)</strong>
+<p><strong>P4 - Wayang Kulit (Our Final</strong>
+</p>
+<p><strong>Product)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,6 +144,6 @@ speaking.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg">
 </div>
 <p>Rakan Bahasa Malay Language Ambassador</p>
