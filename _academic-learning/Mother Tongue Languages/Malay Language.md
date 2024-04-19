@@ -44,9 +44,7 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P1 - My Food Plate &amp; Activity</strong>
-</p>
-<p><strong>Booklet</strong>
+<p><strong>P1 - My Food Plate &amp; Activity Booklet</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,14 +88,20 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4 - Wayang Kulit (Our Final</strong>
-</p>
-<p><strong>Product)</strong>
+<p><strong>P4 - Wayang Kulit (Our Final Product)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P5 - Wau (Our Masterpieces)</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -143,6 +147,7 @@ speaking.</p>
 <p>Advertisement Skit (P5)</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg">
 </div>
