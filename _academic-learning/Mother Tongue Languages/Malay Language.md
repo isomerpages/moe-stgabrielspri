@@ -140,6 +140,6 @@ speaking.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg">
 </div>
 <p>Rakan Bahasa Malay Language Ambassador</p>
