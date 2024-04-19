@@ -38,7 +38,7 @@ interest and love for the language.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Paper Weaving.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P3_Paper Weaving.jpg">
 </div>
 </td>
 </tr>
@@ -58,7 +58,7 @@ interest and love for the language.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit.png">
 </div>
 </td>
 </tr>
@@ -78,7 +78,7 @@ interest and love for the language.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Wau-our master pieces.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P5_Wau-our master pieces.png">
 </div>
 </td>
 </tr>
