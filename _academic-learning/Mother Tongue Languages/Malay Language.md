@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p>Develop engaged leaners, effective communicators, through engaging activities
 with enthuse and enrich our students' learning.</p>
-<p><strong>Key Personnel</strong>
+<p><strong>Key Personnel</strong> 
 <br>Ms Palaniammal Murugiah (Subject Head Mother Tongue Languages)</p>
 <p>Mr&nbsp;Muhamad Hamzah Rohi (Malay Language Coordinator)</p>
 <p><strong>Department Programmes</strong> 
@@ -32,10 +32,14 @@ interest and love for the language.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_My Food plate &amp; Activity Booklet.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Paper Weaving.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -48,10 +52,14 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Teh Tarik cup.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -64,10 +72,14 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Wayang Kulit_our final product.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Wau-our master pieces.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -87,7 +99,7 @@ Culture: Silat</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silat_Malay%20Martial%20Art.jpg">
 </div>
-<p><strong>School Level</strong>
+<p><strong>School Level</strong> 
 <br>
 </p>
 <p>1. Reading Programmes (P2 to P6)</p>
