@@ -1,6 +1,6 @@
 ---
 title: School Information
-permalink: /the-gabrielite-family/school-information-at-a-glance/
+permalink: /the-gabrielite-family/school-information/
 description: ""
 variant: markdown
 ---
@@ -56,5 +56,5 @@ In establishing certain academic rigour and behaviour standards, we seek to deve
 **School Reports** <br>
 Financial Information <br>
 Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest financial information.  
-Annual Report 2021  <br>
-Please click [here](https://drive.google.com/file/d/1j52gs8hNNsAcZqIJIDO2mq0BZbtRTr3G/view?usp=sharing)&nbsp;to view the Annual Report 2021.
+Annual Report 2022  <br>
+Please click [here](https://drive.google.com/file/d/1V6hPtm8ur2gH3oJMRnn_xTRvqwo8SVJe/view?usp=sharing)&nbsp;to view the Annual Report 2022.
