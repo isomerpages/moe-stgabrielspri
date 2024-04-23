@@ -39,14 +39,12 @@ variant: markdown
 <p>Is Student Care service available in St Gabriel’s Primary School?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NASCANS Pte Ltd</strong>
-<br>(Student Care Centre-Based in St Gabriel’s Pri Sch)</p>
-<p>Email: <a href="mailto:sgscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">sgscc@nascans.com</a>
-</p>
-<p>Website: https://nascans.com/</p>
-<p>Contact Number 1: 6285 1377 ext 132 (St Gabriel’s Primary School)</p>
-<p>Contact Number&nbsp; 2: 90693785</p>
-<p>Operating Hours: Mon to Fri 10am to 7pm (closed on Public Holidays)</p>
+<strong>NASCANS Pte Ltd</strong>
+<br>(Student Care Centre-Based in St Gabriel’s Pri Sch)Email: <a href="mailto:sgscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">sgscc@nascans.com </a>
+<br>Website: https://nascans.com/
+<br>Contact Number 1: 6285 1377 ext 132 (St Gabriel’s Primary School)
+<br>Contact Number&nbsp; 2: 90693785
+<br>Operating Hours: Mon to Fri 10am to 7pm (closed on Public Holidays)
 </td>
 </tr>
 <tr>
