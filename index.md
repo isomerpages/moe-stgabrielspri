@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: E-Open House 2024
       id: infopic
-      description: Saturday 25 May 2024, 9.30am - 11.00am
+      description: 25 May 2024 (Saturday), 9.30am - 11.00am
       button: Click for more
       url: https://www.stgabrielspri.moe.edu.sg/e-open-house/webinar-recording/
       image: /images/SGPS_e_Open_House_2024.jpg
