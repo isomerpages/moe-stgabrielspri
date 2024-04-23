@@ -83,7 +83,7 @@ variant: markdown
 			<ul>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/golf/">Golf</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/badminton/">Gabrielte Badminton Academy</a></li>
-				<li><a href="/life-skills-and-enrichment/co-curricular-activities/grabrielite-football-academy/">Gabrielite Football Academy</a></li>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/gabrielite-football-academy/">Gabrielite Football Academy</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/wushu/">Wushu</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/basketball/">Basketball</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/athletics/">Athletics</a></li>
