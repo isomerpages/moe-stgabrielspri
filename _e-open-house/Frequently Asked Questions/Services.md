@@ -41,9 +41,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>NASCANS Pte Ltd</strong>
 </p>
-<p>
-<br>(Student Care Centre-Based in St Gabriel’s Pri Sch)Email: <a href="mailto:sgscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">sgscc@nascans.com </a>
-<br>Website: <a href="https://nascans.com/" rel="noopener noreferrer nofollow" target="_blank"> https://nascans.com/</a>
+<p>(Student Care Centre-Based in St Gabriel’s Pri Sch)</p>
+<p>Email: <a href="mailto:sgscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">sgscc@nascans.com </a>
+<br>Website: <a href="https://nascans.com/" rel="noopener noreferrer nofollow" target="_blank">https://nascans.com/</a> 
 <br>Contact Number 1: 6285 1377 ext 132 (St Gabriel’s Primary School)
 <br>Contact Number&nbsp; 2: 90693785
 <br>Operating Hours: Mon to Fri 10am to 7pm (closed on Public Holidays)</p>
