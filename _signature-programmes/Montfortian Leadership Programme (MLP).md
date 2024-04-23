@@ -2,7 +2,7 @@
 title: Montfortian Leadership Programme (MLP)
 permalink: /signature-programmes/mlp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Key Personnel</strong> 
 <br>Mr Xie Zhengyang&nbsp; (Subject Head, Student Leadership)</p>
@@ -87,8 +87,8 @@ prepares them to be Gabrielite Leaders who lead from the heart.&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong></strong></p><center><strong>Students experiencing the MLP lessons in class</strong></center>
-<p></p>
+<p><strong>Students experiencing the MLP lessons in class</strong>
+</p>
 </td>
 </tr>
 <tr>
