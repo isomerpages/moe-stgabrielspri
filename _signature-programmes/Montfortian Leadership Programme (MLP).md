@@ -87,8 +87,8 @@ prepares them to be Gabrielite Leaders who lead from the heart.&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Students experiencing the MLP lessons in class</strong>
-</p>
+<p><strong></strong></p><center><strong>Students experiencing the MLP lessons in class</strong></center>
+<p></p>
 </td>
 </tr>
 <tr>
