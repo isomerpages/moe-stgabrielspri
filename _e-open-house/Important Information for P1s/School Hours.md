@@ -5,12 +5,10 @@ description: ""
 third_nav_title: Important Information for P1s
 variant: tiptap
 ---
-<p>Students are advised to be in school by 7.30 a.m. As a mark of respect
-during our flag-raising ceremony, the school gate will be closed by the
-stipulated time. All Primary One students are to report to their classrooms
-on Tuesdays and Wednesdays. On Mondays, Thursdays and Fridays, they are
-to report to the hall. The flag raising ceremony will be conducted at 7.30
-a.m. daily.</p>
+<p>Students are advised to be in school by 7.25a.m. The flag raising ceremony
+will be conducted at 7.25am daily. All students are to report to their
+classrooms on Mondays, Wednesdays and Thursdays. They are to report to
+the school hall on Tuesdays and Fridays.</p>
 <p></p>
 <table>
 <tbody>
@@ -41,7 +39,7 @@ a.m. daily.</p>
 <p>Monday to Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 7.30 a.m.</p>
+<p>By 7.25 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m.</p>
@@ -55,7 +53,7 @@ a.m. daily.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 7.30 a.m.</p>
+<p>By 7.25 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m.</p>
