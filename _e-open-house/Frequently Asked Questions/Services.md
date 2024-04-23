@@ -39,14 +39,14 @@ variant: tiptap
 <p>Is Student Care service available in St Gabriel’s Primary School?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Morning Star Services</strong> 
-<br>
-<br>Address: 25 Lorong 33 Geylang, #04-01 Putian Building, S 387985
-<br>Contact Number 1: 6285 1377 ext 132 (St Gabriel’s Primary School)
-<br>Contact Number 2: 6285 1377 (Head Office)
-<br><a href="https://www.youtube.com/watch?v=RkwshhcKZBM&amp;feature=youtu.be" rel="noopener noreferrer" target="_blank"><u>Morning Star Student Care @ St. Gabriel's Primary School</u></a> 
-<br>
+<p><strong>NASCANS Pte Ltd</strong>
+<br>(Student Care Centre-Based in St Gabriel’s Pri Sch)</p>
+<p>Email: <a href="mailto:sgscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">sgscc@nascans.com</a>
 </p>
+<p>Website: https://nascans.com/</p>
+<p>Contact Number 1: 6285 1377 ext 132 (St Gabriel’s Primary School)</p>
+<p>Contact Number&nbsp; 2: 90693785</p>
+<p>Operating Hours: Mon to Fri 10am to 7pm (closed on Public Holidays)</p>
 </td>
 </tr>
 <tr>
