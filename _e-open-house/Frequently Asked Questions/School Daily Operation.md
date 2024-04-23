@@ -25,8 +25,8 @@ variant: tiptap
 <p>Yes. Parents are encouraged to be part of their child’s schooling life
 by being part of the PSG.
 <br>
-<br>Information on the PSG is also available on the same page. Please refer
-to the Parent Support Group link.</p>
+<br>Information on the PSG is available <a href="https://www.stgabrielspri.moe.edu.sg/links/parent-support-group/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
