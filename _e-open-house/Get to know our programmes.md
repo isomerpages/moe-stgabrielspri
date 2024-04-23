@@ -96,7 +96,7 @@ variant: markdown
     <label for="accordion7">Uniform Group</label>
     <div>
 			<ul>
-				<li><a href="/life-skills-and-enrichment/Co-Curricular-Activities/scouts/">Cadet Scouts</a></li>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/scouts/">Cadet Scouts</a></li>
 			</ul>
 		</div>
 	</li>
