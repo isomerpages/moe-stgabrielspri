@@ -2,8 +2,10 @@
 title: Webinar Recording
 permalink: /e-open-house/webinar-recording/
 description: ""
+variant: tiptap
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SGPS e-Open House Webinar 2023" src="https://www.youtube.com/embed/FtYcMJsukxc" height="551" width="980"></iframe>
-
-![](/images/eopenhouse%20infographic.jpg)
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGPS_e_Open_House_2024.jpg">
+</div>
+<p><strong><em>Webinar recording will be uploaded here after the e-Open House event. Thank you.</em></strong>
+</p>
