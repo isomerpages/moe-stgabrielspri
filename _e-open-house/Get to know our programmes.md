@@ -69,7 +69,7 @@ variant: markdown
     <label for="accordion5">Clubs and Societies</label>
     <div>
       <ul>
-				<li><a href="/life-skills-and-enrichment/co-curricular-activities/science-horticulture-math-club/" target="">Science and Maths Club (SMC)</a></li>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/science-and-math-club/" target="">Science and Maths Club (SMC)</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/media-club/">Media Club</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/robotics/">Robotics Club</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/catholic-club/">Catholic Club</a></li>
