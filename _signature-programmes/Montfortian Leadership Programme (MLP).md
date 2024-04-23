@@ -4,7 +4,7 @@ permalink: /signature-programmes/mlp/
 description: ""
 variant: tiptap
 ---
-<p><strong>Key Personnel</strong>
+<p><strong>Key Personnel</strong> 
 <br>Mr Xie Zhengyang&nbsp; (Subject Head, Student Leadership)</p>
 <p><strong>Overview</strong>
 </p>
@@ -67,12 +67,29 @@ prepares them to be Gabrielite Leaders who lead from the heart.&nbsp; &nbsp;</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mlp1.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mlp2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mlp3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Students experiencing the MLP lessons in class</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
