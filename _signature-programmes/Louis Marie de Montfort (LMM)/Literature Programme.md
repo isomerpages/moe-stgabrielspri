@@ -45,10 +45,12 @@ of a story.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Literature Text for Primary 4</p>
+<p><strong>The Literature Text for Primary 4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Literature Text for Primary 5</p>
+<p><strong>The Literature Text for Primary 5</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,11 +67,8 @@ of a story.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Immersed in the tale of "Sadako and the Thousand Paper Cranes", Primary
-5 students find inspiration to craft their own haikus that echo the fleeting
-beauty of life. Through the meditative act of folding paper cranes, they
-channel the resilience and hope embodied in Sadako’s story, intertwining
-literature, art and history in a meaningful classroom experience.</p>
+<p><strong>Immersed in the tale of "Sadako and the Thousand Paper Cranes", Primary 5 students find inspiration to craft their own haikus that echo the fleeting beauty of life. Through the meditative act of folding paper cranes, they channel the resilience and hope embodied in Sadako’s story, intertwining literature, art and history in a meaningful classroom experience.</strong>
+</p>
 </td>
 </tr>
 <tr>
