@@ -13,7 +13,7 @@ Design problem-based projects, enhancing their 21st-century skills and
 competencies with Cyber Wellness values as lifelong learners and future-ready
 citizens.</p>
 <p><strong>Applied Learning Programme Committee</strong> 
-<br><strong>Advisor</strong> 
+<br><strong>Advisor</strong>
 </p>
 <p>Mr Martin Tan, Principal
 <br>
@@ -52,7 +52,7 @@ as they explored and accomplished the GDLP project goals together.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rvIY_jRw3tM"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9dbjwnCgqDs?si=2fTH2gFzdWH7zL1c"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Ysx6LBnGw4?si=OlN25Cs-2dMzHl0E"></iframe>
 </div>
 <p><strong>Introduction</strong>
 </p>
