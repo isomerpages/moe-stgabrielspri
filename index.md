@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
-      url: https://youtu.be/Ym_EcHQKj3E
+      url: https://youtu.be/13FrtrJzPoY?si=oN6_r20141ghBuOd
       image: /images/vidicondemo.png
       alt: Image alt text
 ---
