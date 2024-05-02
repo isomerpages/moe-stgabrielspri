@@ -10,7 +10,7 @@ We would also like to highlight our Gabrielite 2025 Outcomes - a Leader,
 a Sportsman and an Achiever towards realising our school's Vision, Mission
 and Motto.</p>
 <div class="iframe-wrapper">
-<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ym_EcHQKj3E"></iframe>
+<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/13FrtrJzPoY?si=0vFJjidGKZQczSIA"></iframe>
 </div>
 <p></p>
 <p>Our doors are still open... online! Watch the video below to view our
