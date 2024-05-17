@@ -13,7 +13,7 @@ variant: markdown
 | |**Ms Ng Xin Ping**<br>ng_xin_ping@schools.gov.sg | |
 | 1 Generosity | **Ms Wan Chui Ting**<br>wan_chui_ting@schools.gov.sg | **Mr Neo Yong Teck**<br>neo_yong_teck@schools.gov.sg  |
 | 1 Perseverance | **Ms Lin Bei Jin**<br>lin_bei_jin@schools.gov.sg | **Mr Ng Chiong Hoe**<br>ng_chiong_hoe@schools.gov.sg |
-| | **Ms Karen Loo**<br>loo_xinyi_karen@schools.gov.sg | |
+| | **Mrs Karen Tan**<br>loo_xinyi_karen@schools.gov.sg | |
 | 1 Sincerity | **Ms Dawn Yeo Wenlin**<br>dawn_yeo_wenlin@schools.gov.sg | **Ms Siti Nurhayaty**<br>siti_nurhayaty_saptu@schools.gov.sg |
 || **Mr Sng Cheng Kiang**<br>sng_cheng_kiang@schools.gov.sg | **Mdm Shofia**<br>shofia_sukma_nasirjaya@schools.gov.sg |
 | 1 Loyalty | **Mrs Priscilla Teo**<br>priscilla_yong@schools.gov.sg | **Mrs Sheryl Toh**<br>siew_sheryl@schools.gov.sg |
