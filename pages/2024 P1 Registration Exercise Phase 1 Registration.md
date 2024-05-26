@@ -14,4 +14,4 @@ and has a sibling currently studying in our school.</p>
 please submit an online Indication of Interest in end May/early June 2024.</p>
 <p>You may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">MOE P1 website</a> for
 more information on the 2024 P1 Registration Exercise.</p>
-<p>Thank you</p>
+<p>Thank you.</p>
