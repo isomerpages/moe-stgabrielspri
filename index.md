@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: Enter
       url: https://stgabrielspri.moe.edu.sg/2024p1registration/
-      image: /images/p1registration.png
+      image: /images/p1registration.jpg
   - infopic:
       title: Facebook
       button: Follow us
