@@ -25,7 +25,7 @@ sections:
       title: 2024 P1 Registration Exercise - Phase 1 Registration
       id: infopic
       button: Enter
-      url: https://stgabrielspri.moe.edu.sg/2024p1registration/
+      url: /2024p1registration/
       image: /images/p1registration.jpg
       alt: Image alt text
   - infopic:
