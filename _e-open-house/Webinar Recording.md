@@ -4,7 +4,4 @@ permalink: /e-open-house/webinar-recording/
 description: ""
 variant: markdown
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-kHbXouVEcc?si=kVRYuzMPiX7VzbgX"></iframe>
-</div>
-<p></p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-kHbXouVEcc?si=dJxxSjt_hRokAt9c&amp;controls=0" height="315" width="560"></iframe>
