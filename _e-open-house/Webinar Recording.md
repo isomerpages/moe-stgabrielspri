@@ -2,6 +2,9 @@
 title: Webinar Recording
 permalink: /e-open-house/webinar-recording/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-kHbXouVEcc?si=4Dv3UAQ39Q1v46uc" height="315" width="560"></iframe>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-kHbXouVEcc?si=kVRYuzMPiX7VzbgX"></iframe>
+</div>
+<p></p>
