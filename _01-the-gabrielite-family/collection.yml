@@ -1,5 +1,5 @@
 collections:
-  the-gabrielite-family:
+  01-the-gabrielite-family:
     output: true
     order:
       - Principal's Message.md
