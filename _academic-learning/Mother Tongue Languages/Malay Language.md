@@ -7,8 +7,8 @@ variant: tiptap
 ---
 <p><strong>Department Goal</strong>
 </p>
-<p>Develop engaged leaners, effective communicators, through engaging activities
-with enthuse and enrich our students' learning.</p>
+<p>Develop engaged leaners, effective communicators, through authentic and
+engaging activities which enthuse and enrich our students' learning.</p>
 <p><strong>Key Personnel</strong> 
 <br>Ms Palaniammal Murugiah (Subject Head Mother Tongue Languages)</p>
 <p>Mr&nbsp;Muhamad Hamzah Rohi (Malay Language Coordinator)</p>
@@ -23,12 +23,17 @@ through the introduction of Malay food and art forms so as to arouse students’
 interest and love for the language.</p>
 <p>Primary 1: Local Foods
 <br>Primary 2: Teh Tarik
-<br>Primary 3: Carpet Weaving
-<br>Primary 4: Wayang Kulit (Shadow Puppet)
-<br>Primary 5: Wau (Malay Kite)
+<br>Primary 3: Weaving
+<br>Primary 4: Wau (Malay Kite)
+<br>Primary 5: Tanjak (Malay Headgear)</p>
+<p>Primary 6: Tanjak (Malay Headgear)
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -106,17 +111,29 @@ interest and love for the language.</p>
 </tr>
 </tbody>
 </table>
-<p>3. Primary 1 to 6 Traditional Games Day To build students’ vocabulary
-through exposure to local and traditional games</p>
-<p>4. P3 Cultural Experience An authentic experience of Malay Language and
-Culture: Silat</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silat_Malay%20Martial%20Art.jpg">
-</div>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Primary 1 to 6 Traditional Games Day To build students’ vocabulary through
+exposure to local and traditional games</p>
+</li>
+</ol>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>P3 Cultural Experience An authentic experience of Malay Language and Culture:
+Silat</p>
+</li>
+</ol>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Cultural Performance Exposure 'Laugh Play Learn - Students learn about
+work play through Malay Folk songs (P1 to P4)</p>
+</li>
+</ol>
 <p><strong>School Level</strong> 
 <br>
 </p>
-<p>1. Reading Programmes (P2 to P6)</p>
+<p>1. Reading/Oral Support Programmes (P2 to P6)</p>
 <p>Objective: To develop students’ as effective communicators in the Malay
 language through customized reading and oratorical resources.</p>
 <ul data-tight="true" class="tight">
@@ -124,7 +141,10 @@ language through customized reading and oratorical resources.</p>
 <p>MOE Phonetics and Reading Programme at Primary 1</p>
 </li>
 <li>
-<p>Internal Reading Support Programme (P2 - P4)</p>
+<p>Internal Reading Support Programme (P3 - P5)</p>
+</li>
+<li>
+<p>Oral Support Programme (P6)</p>
 </li>
 <li>
 <p>Silent Reading on Tuesdays and Thursdays (P1 - P6)</p>
@@ -138,17 +158,27 @@ platforms in various creative forms to build their confidence in public
 speaking.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nursery Rhymes Competition (P1 - P2)</p>
+<p>Nursery Rhyme Recitation (P1)</p>
 </li>
 <li>
-<p>Poetry Recital Competition (P3 - P4)</p>
+<p>Story Telling (P2)</p>
 </li>
 <li>
-<p>Advertisement Skit (P5)</p>
+<p>Poetry Recital (P3)</p>
+</li>
+<li>
+<p>Advertisement on Healthy Living (P4)</p>
+</li>
+<li>
+<p>Radio Presenter (P5)</p>
 </li>
 </ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Hari Raya Celebrations</p>
+</li>
+</ol>
+<p>An inclusive school which respects and embrace all races, religion and
+customs.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg">
-</div>
-<p>Rakan Bahasa Malay Language Ambassador</p>
+<p></p>
