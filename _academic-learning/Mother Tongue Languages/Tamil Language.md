@@ -322,6 +322,16 @@ customs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Performance by Students &amp; Teachers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/Indian_Marshal_Art.jpg">
 </div>
@@ -330,6 +340,16 @@ customs</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/Classical_Instrument_by_brothers.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Indian Martial Art</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Classical Instrument Performance by brothers</strong>
+</p>
 </td>
 </tr>
 <tr>
