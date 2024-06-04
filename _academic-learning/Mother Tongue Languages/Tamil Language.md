@@ -44,10 +44,12 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 - Indian Food</p>
+<p><strong>P1 - Indian Food</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 - Masala Tea (Decorating Our Tea Cup)</p>
+<p><strong>P2 - Masala Tea (Decorating Our Tea Cup)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,10 +67,12 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 - Masala Tea (Mixing The Spices For The Perfect Taste)</p>
+<p><strong>P2 - Masala Tea (Mixing The Spices For The Perfect Taste)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 - Kolum Making</p>
+<p><strong>P3 - Kolum Making</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -86,10 +90,12 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 - Cultural Exposure (Indian Folk Dance)</p>
+<p><strong>P3 - Cultural Exposure (Indian Folk Dance)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 - Pongal Clay Pot</p>
+<p><strong>P4 - Pongal Clay Pot</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,10 +114,12 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 - Miniature Indian Banana Leaf Meal</p>
+<p><strong>P5 - Miniature Indian Banana Leaf Meal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 - Significance of Food Served on Banana Leaf</p>
+<p><strong>P5 - Significance of Food Served on Banana Leaf</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -178,15 +186,61 @@ speaking</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h4><strong>Internal Competitions</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/P1_P2_Awardees__1_.png">
 </div>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>P1 - P2 Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Tamil Language/P5_Radio_Presenter__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>P5 Radio Presenter</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4><strong>External Competitions</strong></h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Tamil Language/P1_Jaden_Paul_Moses.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Tamil Language/P1_Jaden_Paul_Moses.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,9 +251,28 @@ speaking</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>P1 - Jaden Paul Moses</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P2 - Sashtik Saparigiri</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/P5_Radio_Presenter__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/P4_Noel_Arya.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 - Noel Arya</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
