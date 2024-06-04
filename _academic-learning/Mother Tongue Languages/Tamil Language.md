@@ -32,10 +32,14 @@ interest and love for the language.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Indian Food.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Masala Tea_Decorating our Tea cup.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -43,20 +47,25 @@ interest and love for the language.</p>
 <p>P1 - Indian Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 - Masala Tea - Decorating our Tea cup</p>
+<p>P2 - Masala Tea (Decorating Our Tea Cup)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Masala Tea_Mixing the spices for the perfect taste.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Kolum Making.jpeg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 - Masala Tea - Mixing the spices for the perfect taste</p>
+<p>P2 - Masala Tea (Mixing The Spices For The Perfect Taste)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - Kolum Making</p>
@@ -65,17 +74,52 @@ interest and love for the language.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/MTFN_P3_Cultural_Exposure_Indian_Folk_Dance.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Pongal Clay Pot.jpeg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 - Pongal Clay Pot</p>
+<p>P3 - Cultural Exposure (Indian Folk Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>P4 - Pongal Clay Pot</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_miniature Indian banaba leaf meal.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/MTFN_P5_Significance_of_Food_served_in_Banana_Leaf_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P5 - Miniature Indian Banana Leaf Meal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 - Significance of Food Served on Banana Leaf</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -126,6 +170,43 @@ speaking</p>
 </li>
 <li>
 <p>Radio Presenter (P5)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/P1_P2_Awardees__1_.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Tamil Language/P1_Jaden_Paul_Moses.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/P2_Sashtik_Saparigiri.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/P5_Radio_Presenter__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p>3. Learning Journey</p>
@@ -144,8 +225,50 @@ journeys and watching of theatrical performances.</p>
 <p>Deepavali Celebrations</p>
 <p>An inclusive school which respects and embrace all race, religion and
 customs</p>
+<p></p>
 </li>
 </ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/Performance_by_Students_and_Teachers.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/Dance.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/Indian_Marshal_Art.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/Classical_Instrument_by_brothers.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Useful Links</strong>
 <br><a href="http://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank">www.sinda.org.sg</a>
 </p>
