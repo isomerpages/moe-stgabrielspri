@@ -238,7 +238,7 @@ speaking</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/P2_Sashtik_Saparigiri.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Tamil Language/P2_Sashtik_Saparigiri.jpg">
 </div>
 </td>
 </tr>
