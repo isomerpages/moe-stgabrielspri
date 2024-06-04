@@ -112,10 +112,12 @@ interest and love for the language.</p>
 <li>
 <p>Primary 1 to 6 Traditional Games Day To build students’ vocabulary through
 exposure to local and traditional games</p>
+<p></p>
 </li>
 <li>
 <p>P3 Cultural Experience An authentic experience of Malay Language and Culture:
 Silat</p>
+<p></p>
 </li>
 <li>
 <p>Cultural Performance Exposure 'Laugh Play Learn - Students learn about
@@ -168,11 +170,11 @@ speaking.</p>
 </li>
 <li>
 <p>Radio Presenter (P5)</p>
+<p></p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -182,28 +184,24 @@ speaking.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/P1_P2_awardees.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Malay Language/P5_Radio_Presenter.jpg">
-</div>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>P1 - P2 Awardees</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>P5 Radio Presenter</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/P5_Radio_Presenter.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>P5 Radio Presenter</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -215,9 +213,8 @@ speaking.</p>
 customs.</p>
 </li>
 </ol>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -227,11 +224,13 @@ customs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/Teachers_and_boys_join_in_the_show.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/Assembly_Quiz.jpg">
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -239,6 +238,8 @@ customs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/Recess_Activity.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
