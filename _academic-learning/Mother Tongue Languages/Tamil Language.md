@@ -156,9 +156,6 @@ language through customized reading and oratorical resources.</p>
 <p>Silent Read on Tuesdays and Thursdays (P1 - P6)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading%20Programme_pic%201.jpeg">
-</div>
 <p>2. Internal / External Competitions</p>
 <p>Providing students with the opportunity to use the Tamil Language at Various
 platforms in various creative forms to build their confidence in public
