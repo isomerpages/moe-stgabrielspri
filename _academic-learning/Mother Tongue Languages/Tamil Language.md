@@ -33,7 +33,7 @@ interest and love for the language.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1_Indian Food.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/P1_Indian Food.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
