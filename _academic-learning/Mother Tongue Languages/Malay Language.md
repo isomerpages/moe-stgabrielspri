@@ -204,6 +204,11 @@ speaking.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </li>
@@ -227,9 +232,21 @@ customs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Teachers and the boys join in the Show</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/Assembly_Quiz.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Taking part in the Quiz</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +258,8 @@ customs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Recess Activity</strong>
+</p>
 </td>
 </tr>
 </tbody>
