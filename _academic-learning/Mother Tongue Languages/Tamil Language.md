@@ -344,7 +344,7 @@ customs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Indian Martial Art</strong>
+<p><strong>Indian Martial Arts</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
