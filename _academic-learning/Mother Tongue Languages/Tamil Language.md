@@ -291,9 +291,9 @@ journeys and watching of theatrical performances.</p>
 <p>Deepavali Celebrations</p>
 <p>An inclusive school which respects and embrace all race, religion and
 customs</p>
-<p></p>
 </li>
 </ol>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
