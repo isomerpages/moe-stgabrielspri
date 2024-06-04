@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>Department Goal</strong>
 </p>
-<p>Develop engaged leaners, effective communicators, through authentic and
+<p>Develop engaged learners, effective communicators, through authentic and
 engaging activities which enthuse and enrich our students' learning.</p>
 <p><strong>Key Personnel</strong> 
 <br>Ms Palaniammal Murugiah (Subject Head Mother Tongue Languages)</p>
