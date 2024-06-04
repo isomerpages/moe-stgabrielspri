@@ -59,7 +59,6 @@ interest and love for the language.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Kolum Making.jpeg">
 </div>
@@ -77,49 +76,43 @@ interest and love for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/MTFN_P3_Cultural_Exposure_Indian_Folk_Dance.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Pongal Clay Pot.jpeg">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>P3 - Cultural Exposure (Indian Folk Dance)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P4 - Pongal Clay Pot</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_miniature Indian banaba leaf meal.jpeg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/MTFN_P5_Significance_of_Food_served_in_Banana_Leaf_.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 - Pongal Claypot</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>P5 - Miniature Indian Banana Leaf Meal</strong>
 </p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/MTFN_P5_Significance_of_Food_served_in_Banana_Leaf_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>P5 - Significance of Food Served on Banana Leaf</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -136,6 +129,9 @@ interest and love for the language.</p>
 through exposure to local and traditional games</p>
 <p>4. P3 Cultural Experience
 <br>An authentic experience of Indian Folk Culture: Oiyillattam</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil Language/MTFN_P3_Cultural_Exposure_Indian_Folk_Dance.jpg">
+</div>
 <p>5. Tamil Language Festival @ UPTLC</p>
 <p><strong>School Level</strong>
 </p>
