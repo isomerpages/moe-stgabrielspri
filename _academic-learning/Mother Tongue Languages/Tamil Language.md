@@ -31,24 +31,16 @@ interest and love for the language.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Indian Food.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Masala Tea_Decorating our Tea cup.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/P1_Indian Food.jpg">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>P1 - Indian Food</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P2 - Masala Tea (Decorating Our Tea Cup)</strong>
 </p>
 </td>
 </tr>
@@ -60,7 +52,7 @@ interest and love for the language.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Kolum Making.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Masala Tea_Decorating our Tea cup.jpg">
 </div>
 </td>
 </tr>
@@ -70,29 +62,29 @@ interest and love for the language.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 - Kolum Making</strong>
+<p><strong>P2 - Masala Tea (Decorating Our Tea Cup)</strong>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Kolum Making.jpeg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Pongal Clay Pot.jpeg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_miniature Indian banaba leaf meal.jpeg">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4 - Pongal Claypot</strong>
+<p><strong>P3 - Kolum Making</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5 - Miniature Indian Banana Leaf Meal</strong>
+<p><strong>P4 - Pongal Claypot</strong>
 </p>
 </td>
 </tr>
@@ -103,7 +95,9 @@ interest and love for the language.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_miniature Indian banaba leaf meal.jpeg">
+</div>
 </td>
 </tr>
 <tr>
@@ -112,7 +106,8 @@ interest and love for the language.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>P5 - Miniature Indian Banana Leaf Meal</strong>
+</p>
 </td>
 </tr>
 <tr>
