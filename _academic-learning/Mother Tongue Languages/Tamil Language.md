@@ -10,7 +10,7 @@ variant: tiptap
 <p>Develop engaged learners, effective communicators, through authentic and
 engaging activities which enthuse and enrich our students' learning</p>
 <p><strong>Key Personnel</strong>
-<br>Miss Palaniammal Murugiah (Subject Head Mother Tongue Languages)</p>
+<br>Ms Palaniammal Murugiah (Subject Head Mother Tongue Languages)</p>
 <p><strong>Department Programmes</strong> 
 <br><strong>National Level</strong>
 </p>
