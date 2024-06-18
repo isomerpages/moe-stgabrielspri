@@ -23,7 +23,7 @@ interest and love for the language.</p>
 <br>Primary 2: Masala Tea
 <br>Primary 3: Ranggoli Kolum – Indian Floor Art
 <br>Primary 4: Clay Pot Painting – Pongal Pot
-<br>Primary 5: Uillu Paatu</p>
+<br>Primary 5: Villu Paatu</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -149,7 +149,7 @@ language through customized reading and oratorical resources.</p>
 <p>Oral Support Programme (P6)</p>
 </li>
 <li>
-<p>Silent Read on Tuesdays and Thursdays (P1 - P6)</p>
+<p>Silent Reading on Tuesdays and Thursdays (P1 - P6)</p>
 </li>
 </ul>
 <p>2. Internal / External Competitions</p>
@@ -286,7 +286,7 @@ speaking</p>
 <p>3. Learning Journey</p>
 <p>Learning of Tamil through authentic learning experiences such as learning
 journeys and watching of theatrical performances.</p>
-<p>P4 Learning Jouney to Pongal Fair</p>
+<p>P4 Learning Journey to Pongal Fair</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4%20boys%20at%20the%20Pongal%20Fair.jpg">
 </div>
@@ -297,7 +297,7 @@ journeys and watching of theatrical performances.</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>Deepavali Celebrations</p>
-<p>An inclusive school which respects and embrace all race, religion and
+<p>An inclusive school which respects and embrace all races, religion and
 customs</p>
 </li>
 </ol>
