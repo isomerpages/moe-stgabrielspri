@@ -6,7 +6,7 @@ variant: markdown
 ---
 **PACIFIC BOOKSTORES PTE LTD**
 
-**Contact Number:**  64640111 (Main Office) / 64877260 (School Bookstore) 
+**Contact Number:**  64640111 (Main Office) / 93654596 (School Bookstore) 
 
  **Opening Hours: (in school)**
  8am to 2.30pm (Mon to Fri)  

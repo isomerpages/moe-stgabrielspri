@@ -7,28 +7,30 @@ variant: tiptap
 ---
 <p><strong>Department Goal</strong>
 </p>
-<p>Develop engaged leaners, effective communicators, through engaging activities
-with enthuse and enrich our students' learning.</p>
+<p>Develop engaged learners, effective communicators, through authentic and
+engaging activities which enthuse and enrich our students' learning.</p>
 <p><strong>Key Personnel</strong> 
 <br>Ms Palaniammal Murugiah (Subject Head Mother Tongue Languages)</p>
 <p>Mr&nbsp;Muhamad Hamzah Rohi (Malay Language Coordinator)</p>
 <p><strong>Department Programmes</strong> 
 <br><strong>National Level</strong>
 </p>
-<p>1. Mother Tongue Support Programme (MTSP)
-<br>
-<br>2. Mother Tongue Fortnight Activities:</p>
+<p>1. Mother Tongue Support Programme (MTSP)</p>
+<p>2. Mother Tongue Fortnight Activities:</p>
 <p>A week of fun-filled activities to expose students to the Malay Culture
 through the introduction of Malay food and art forms so as to arouse students’
 interest and love for the language.</p>
-<p>Primary 1: Local Foods
-<br>Primary 2: Teh Tarik
-<br>Primary 3: Carpet Weaving
-<br>Primary 4: Wayang Kulit (Shadow Puppet)
-<br>Primary 5: Wau (Malay Kite)
-<br>
-</p>
-<table>
+<p>Primary 1: Local Foods</p>
+<p>Primary 2: Teh Tarik</p>
+<p>Primary 3: Weaving</p>
+<p>Primary 4: Wau (Malay Kite)</p>
+<p>Primary 5: Tanjak (Malay Headgear)</p>
+<p>Primary 6: Tanjak (Malay Headgear)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,7 +40,7 @@ interest and love for the language.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Paper_Weaving.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/P3__Weaving.jpg">
 </div>
 </td>
 </tr>
@@ -48,7 +50,7 @@ interest and love for the language.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 - Paper Weaving</strong>
+<p><strong>P3 - Weaving</strong>
 </p>
 </td>
 </tr>
@@ -106,17 +108,28 @@ interest and love for the language.</p>
 </tr>
 </tbody>
 </table>
-<p>3. Primary 1 to 6 Traditional Games Day To build students’ vocabulary
-through exposure to local and traditional games</p>
-<p>4. P3 Cultural Experience An authentic experience of Malay Language and
-Culture: Silat</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silat_Malay%20Martial%20Art.jpg">
-</div>
-<p><strong>School Level</strong> 
-<br>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Primary 1 to 6 Traditional Games Day To build students’ vocabulary through
+exposure to local and traditional games</p>
+<p></p>
+</li>
+<li>
+<p>P3 Cultural Experience An authentic experience of Malay Language and Culture:
+Silat</p>
+<p></p>
+</li>
+<li>
+<p>Cultural Performance Exposure 'Laugh Play Learn - Students learn about
+work play through Malay Folk songs (P1 to P4)</p>
+<p></p>
+</li>
+</ol>
+<p><strong>School Level</strong>
 </p>
-<p>1. Reading Programmes (P2 to P6)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Reading/Oral Support Programmes (P2 to P6)</p>
 <p>Objective: To develop students’ as effective communicators in the Malay
 language through customized reading and oratorical resources.</p>
 <ul data-tight="true" class="tight">
@@ -124,7 +137,10 @@ language through customized reading and oratorical resources.</p>
 <p>MOE Phonetics and Reading Programme at Primary 1</p>
 </li>
 <li>
-<p>Internal Reading Support Programme (P2 - P4)</p>
+<p>Internal Reading Support Programme (P3 - P5)</p>
+</li>
+<li>
+<p>Oral Support Programme (P6)</p>
 </li>
 <li>
 <p>Silent Reading on Tuesdays and Thursdays (P1 - P6)</p>
@@ -132,23 +148,125 @@ language through customized reading and oratorical resources.</p>
 </ul>
 <p>Objective: To build students’ vocabulary and competency in the language
 through the reading of Malay books / articles.</p>
-<p>2. Internal / External Competitions</p>
+<p></p>
+</li>
+<li>
+<p>Internal/External Competitions</p>
 <p>Providing students with the opportunity to use the Malay Language at various
 platforms in various creative forms to build their confidence in public
 speaking.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nursery Rhymes Competition (P1 - P2)</p>
+<p>Nursery Rhyme Recitation (P1)</p>
 </li>
 <li>
-<p>Poetry Recital Competition (P3 - P4)</p>
+<p>Story Telling (P2)</p>
 </li>
 <li>
-<p>Advertisement Skit (P5)</p>
+<p>Poetry Recital (P3)</p>
+</li>
+<li>
+<p>Advertisement on Healthy Living (P4)</p>
+</li>
+<li>
+<p>Radio Presenter (P5)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa_Malay%20Language%20Ambassador.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/P1_P2_awardees.png">
 </div>
-<p>Rakan Bahasa Malay Language Ambassador</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P1 - P2 Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/P5_Radio_Presenter.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Radio Presenter</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p>Hari Raya Celebrations</p>
+<p>An inclusive school which respects and embrace all races, religion and
+customs.</p>
+</li>
+</ol>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/Teachers_and_boys_join_in_the_show.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers and the boys join in the Show</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/Assembly_Quiz.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Taking part in the Quiz</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay Language/Recess_Activity.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recess Activity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
