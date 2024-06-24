@@ -24,7 +24,7 @@ variant: markdown
 | -------- | -------- | -------- | -------- |
 | [Primary 1](/files/2024p1.pdf) | [Primary 2](/files/2024p2.pdf) | [Primary 3](/files/2024p3.pdf) | [Primary 4](/files/2024p4.pdf) |
 | [Primary 5 Foundation](/files/2024p5f.pdf) | [Primary 5 Standard](/files/2024p5wa.pdf) | [Primary 5 Higher Mother Tongue](/files/2024p5hmt.pdf) |  
-[Primary 6 Foundation](/files/2024p6f.pdf) | [Primary 6 Standard](/files/2024p6wa.pdf) | [Primary 6 Higher Mother Tongue](/files/2024p6hc.pdf) | 
+[Primary 6 Foundation](/files/2024p6f(1).pdf) | [Primary 6 Standard](/files/2024p6wa(1).pdf) | [Primary 6 Higher Mother Tongue](/files/2024p6hc.pdf) | 
 
 
 **Year End Assessment Timetable**  
