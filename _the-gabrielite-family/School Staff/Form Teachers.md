@@ -55,7 +55,7 @@ variant: markdown
 | | **Ms M Sharmila**<br>m_sharmila@schools.gov.sg |  |
 | 4 Respect | **Mr Ian John Fernandez**<br>ian_john_fernandez@schools.gov.sg | **Mrs Shankar**<br>krishnaveni_ramasamy@schools.gov.sg
 | 4 Diligence | **Mdm Christine Lee**<br>lee_xiu_en_christine@schools.gov.sg | **Ms Palani**<br>palaniammal_murugiah@schools.gov.sg | |
-| 4 Self-Discipline | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg | **Mr Eugene Lim**<br>Eugene_Lim_A@schools.gov.sg |
+| 4 Self-Discipline | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg | **Mr Eugene Lim**<br>eugene_lim_A@schools.gov.sg |
 | | **Mr Hamzah**<br>muhamad_hamzah_rohi@schools.gov.sg | |
 |
 
