@@ -31,7 +31,8 @@ variant: markdown
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Primary 3](https://drive.google.com/file/d/1KDAB6Lef20qQapJtjHH3u5chNLJ6oq4c/view?usp=sharing)     | [Primary 4](https://drive.google.com/file/d/17A1qOcakjxXs4UEHaJ08ybqVaWUW-RHq/view?usp=sharing)     | [Primary 5 Foundation](https://drive.google.com/file/d/1ysCsOv3sPSM5fdp4_oOT7_0MVNwVUUSg/view?usp=sharing)     | [Primary 5 Standard](https://drive.google.com/file/d/19X8kRyb_O7lrXKgMm2q8YLG5xHZjsWT1/view?usp=sharing)     |
+| [Primary 3](https://drive.google.com/file/d/1KDAB6Lef20qQapJtjHH3u5chNLJ6oq4c/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/17A1qOcakjxXs4UEHaJ08ybqVaWUW-RHq/view?usp=sharing) | [Primary 5 Foundation](https://drive.google.com/file/d/1ysCsOv3sPSM5fdp4_oOT7_0MVNwVUUSg/view?usp=sharing) | [Primary 5 Standard](https://drive.google.com/file/d/19X8kRyb_O7lrXKgMm2q8YLG5xHZjsWT1/view?usp=sharing) |
+| [Primary 6 Foundation](https://drive.google.com/file/d/1q9zYv33D9fLDXHaWjI6bHDNIr7R-PnnX/view?usp=drive_link) | [Primary 6 Standard](https://drive.google.com/file/d/14KlRh6IfiwJ_LDs37tlqrff71etXG3UG/view?usp=drive_link) |
 
 
 [School-Based Assessment Policy](https://drive.google.com/file/d/1fCvz3jOLVLG62hxcFqnCkXCAGTzworS7/view?usp=sharing)
