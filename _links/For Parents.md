@@ -22,16 +22,17 @@ variant: markdown
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Primary 1](/files/2024p1.pdf) | [Primary 2](/files/2024p2.pdf) | [Primary 3](/files/2024p3.pdf) | [Primary 4](/files/2024p4.pdf) |
-| [Primary 5 Foundation](/files/2024p5f.pdf) | [Primary 5 Standard](/files/2024p5wa.pdf) | [Primary 5 Higher Mother Tongue](/files/2024p5hmt.pdf) |  
-[Primary 6 Foundation](/files/2024p6f.pdf) | [Primary 6 Standard](/files/2024p6wa.pdf) | [Primary 6 Higher Mother Tongue](/files/2024p6hc.pdf) | 
+| [Primary 1](https://drive.google.com/file/d/18TjLUOHDqlco3gvWcWUBB2Ot2M6LKgLu/view?usp=drive_link) | [Primary 2](https://drive.google.com/file/d/1C2rcOuZJT2-GLwvL7aRHspglmChMHgdD/view?usp=drive_link) | [Primary 3](https://drive.google.com/file/d/1_k5_rnKTJ25kaAcp-70oI5mZM4cQLreu/view?usp=drive_link) | [Primary 4](https://drive.google.com/file/d/1FctmRGll4NygG_YLCUoLe023w6-Dy_ye/view?usp=drive_link) |
+| [Primary 5 Foundation](https://drive.google.com/file/d/1rN1EzH1-mX7R_xZ0XKEA-4OReiz8MK3z/view?usp=drive_link) | [Primary 5 Standard](https://drive.google.com/file/d/1EhxVsubaa2Ngo--L2XjGI6EnVWd8O0UB/view?usp=drive_link) | [Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1cLI0F3pP3BYq5PMVa_wtj0800UT7WMBz/view?usp=drive_link) |  
+[Primary 6 Foundation](https://drive.google.com/file/d/1mfqTSY_MOq1u8E0h33L0QUL7rRuoRO6s/view?usp=drive_link) | [Primary 6 Standard](https://drive.google.com/file/d/1p7lzJUDakwg6t1fRQzaSlJ69GRFmFxEh/view?usp=drive_link) | [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1ZOLb4FZbEl3vJNS3JHQ7afy_dfoaqne6/view?usp=drive_link) | 
 
 
 **Year End Assessment Timetable**  
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Primary 3](https://drive.google.com/file/d/1KDAB6Lef20qQapJtjHH3u5chNLJ6oq4c/view?usp=sharing)     | [Primary 4](https://drive.google.com/file/d/17A1qOcakjxXs4UEHaJ08ybqVaWUW-RHq/view?usp=sharing)     | [Primary 5 Foundation](https://drive.google.com/file/d/1ysCsOv3sPSM5fdp4_oOT7_0MVNwVUUSg/view?usp=sharing)     | [Primary 5 Standard](https://drive.google.com/file/d/19X8kRyb_O7lrXKgMm2q8YLG5xHZjsWT1/view?usp=sharing)     |
+| [Primary 3](https://drive.google.com/file/d/1KDAB6Lef20qQapJtjHH3u5chNLJ6oq4c/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/17A1qOcakjxXs4UEHaJ08ybqVaWUW-RHq/view?usp=sharing) | [Primary 5 Foundation](https://drive.google.com/file/d/1ysCsOv3sPSM5fdp4_oOT7_0MVNwVUUSg/view?usp=sharing) | [Primary 5 Standard](https://drive.google.com/file/d/19X8kRyb_O7lrXKgMm2q8YLG5xHZjsWT1/view?usp=sharing) |
+| [Primary 6 Foundation](https://drive.google.com/file/d/1q9zYv33D9fLDXHaWjI6bHDNIr7R-PnnX/view?usp=drive_link) | [Primary 6 Standard](https://drive.google.com/file/d/14KlRh6IfiwJ_LDs37tlqrff71etXG3UG/view?usp=drive_link) |
 
 
 [School-Based Assessment Policy](https://drive.google.com/file/d/1fCvz3jOLVLG62hxcFqnCkXCAGTzworS7/view?usp=sharing)
