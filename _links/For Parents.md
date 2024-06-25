@@ -18,7 +18,7 @@ variant: markdown
 [May &amp; June 2024](https://drive.google.com/file/d/1oUT5bgWIy8yTV88lDPEszmm0LZp1gZOi/view)
 <br>
 
-[After-School Curriculum for Term 3]()
+[After-School Curriculum for Term 3](https://drive.google.com/file/d/1BWWoRHvW_2awa8Bv3QTfD_2l-9qfWOpE/view?usp=sharing)
 
 **Assessment Plans (2024)**  
 
