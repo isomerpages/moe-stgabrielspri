@@ -17,14 +17,16 @@ variant: markdown
 <br>
 [May &amp; June 2024](https://drive.google.com/file/d/1oUT5bgWIy8yTV88lDPEszmm0LZp1gZOi/view)
 <br>
+[July 2024](https://drive.google.com/file/d/1O1BN_LPvSjRdTr8WWQ2ThdwzBb__5oH1/view?usp=drive_link)
+<br>
 [After-School Curriculum for Term 3](https://drive.google.com/file/d/1BWWoRHvW_2awa8Bv3QTfD_2l-9qfWOpE/view?usp=sharing)
 
 **Assessment Plans (2024)**  
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Primary 1](https://drive.google.com/file/d/18TjLUOHDqlco3gvWcWUBB2Ot2M6LKgLu/view?usp=drive_link) | [Primary 2](https://drive.google.com/file/d/1C2rcOuZJT2-GLwvL7aRHspglmChMHgdD/view?usp=drive_link) | [Primary 3](https://drive.google.com/file/d/1_k5_rnKTJ25kaAcp-70oI5mZM4cQLreu/view?usp=drive_link) | [Primary 4](https://drive.google.com/file/d/1FctmRGll4NygG_YLCUoLe023w6-Dy_ye/view?usp=drive_link) |
-| [Primary 5 Foundation](https://drive.google.com/file/d/1rN1EzH1-mX7R_xZ0XKEA-4OReiz8MK3z/view?usp=drive_link) | [Primary 5 Standard](https://drive.google.com/file/d/1EhxVsubaa2Ngo--L2XjGI6EnVWd8O0UB/view?usp=drive_link) | [Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1cLI0F3pP3BYq5PMVa_wtj0800UT7WMBz/view?usp=drive_link) |  
+| [Primary 1](https://drive.google.com/file/d/1ZbTIMSdjEnm7ajCDaMBGUNSEGS1KWsdT/view?usp=drive_link) | [Primary 2](https://drive.google.com/file/d/1m-2r8-_tVk03uYgWOqLRqLQB_L78eejV/view?usp=drive_link) | [Primary 3](https://drive.google.com/file/d/1l7LUndx5cEbEKNeeHvFyE51Hn9QUBb0-/view?usp=drive_link) | [Primary 4](https://drive.google.com/file/d/18kwHsVAMQHWtBV87FUvfm1LI0wEY3fDZ/view?usp=drive_link) |
+| [Primary 5 Foundation](https://drive.google.com/file/d/1z33PMqcFVTCwSPUPGpxvL3cVhWD5phDv/view?usp=drive_link) | [Primary 5 Standard](https://drive.google.com/file/d/14lSQvQReNZ6jR9qfls_mYtwHs9uU-Wnu/view?usp=drive_link) | [Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1L1KDlD8FhQv4L_2yzvXn19L0kp4Oon0z/view?usp=drive_link) |  
 [Primary 6 Foundation](https://drive.google.com/file/d/1mfqTSY_MOq1u8E0h33L0QUL7rRuoRO6s/view?usp=drive_link) | [Primary 6 Standard](https://drive.google.com/file/d/1p7lzJUDakwg6t1fRQzaSlJ69GRFmFxEh/view?usp=drive_link) | [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1ZOLb4FZbEl3vJNS3JHQ7afy_dfoaqne6/view?usp=drive_link) | 
 
 
