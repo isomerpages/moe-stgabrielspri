@@ -29,6 +29,14 @@ sections:
       image: /images/p1registration.jpg
       alt: Image alt text
   - infopic:
+      title: Charity Movie 2024
+      id: infopic
+      description: 01 August - 31 October 2024
+      button: More Info
+      url: /charitymovie2024/
+      image: /images/Screenshot_2024_08_01_155228.png
+      alt: Image alt text
+  - infopic:
       title: Facebook
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
