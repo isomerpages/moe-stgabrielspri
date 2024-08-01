@@ -27,7 +27,7 @@ variant: markdown
 | 2 Orderliness | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg | **Mrs Kareen Wong**<br>teoh_kareen@schools.gov.sg |
 | | **Mrs Goh Yuniarti**<br>chan_yuniarti@schools.gov.sg | **Mdm Goh Gek Cher**<br>goh_gek_cher@schools.gov.sg |
 | 2 Respect | **Mdm Rohaya**<br>rohaya_awie@schools.gov.sg | **Mrs Lee Siew Ping**<br>goh_siew_ping@schools.gov.sg | |
-| 2 Diligence | **Mrs Dorin Lee**<br>tay_siew_lay_a@schools.gov.sg | **Ms Glenda Ng**<br>glenda_ng@schools.gov.sg |
+| 2 Diligence | **Mrs Dorin Lee**<br>tan_siew_lay_a@schools.gov.sg | **Ms Glenda Ng**<br>glenda_ng@schools.gov.sg |
 | 2 Self-Discipline | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg | **Mdm Zhou Jing**<br>zhou_jing@schools.gov.sg |
 |
 
