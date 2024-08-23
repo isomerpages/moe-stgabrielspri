@@ -22,13 +22,6 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - infopic:
-      title: 2024 P1 Registration Exercise - Phase 1 Registration
-      id: infopic
-      button: Enter
-      url: /2024p1registration/
-      image: /images/p1registration.jpg
-      alt: Image alt text
-  - infopic:
       title: Charity Movie 2024
       id: infopic
       description: 01 August - 31 October 2024
