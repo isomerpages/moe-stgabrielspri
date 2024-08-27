@@ -5,7 +5,12 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -135,6 +140,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kee Cheng Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Royston Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nancy Tan Hee Tian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,17 +202,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>seowee@ncs.com.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ammirzi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ammirzi.ba@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
