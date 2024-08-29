@@ -86,11 +86,6 @@ variant: markdown
     <td class="tg-brl1"> teng_hui_khim_elsa@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="color:#000">HOD / Science</span><br></td>
-    <td class="tg-brl1"><span style="color:#000"> Mdm Jean Heng Choo Ching</span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> </span>heng_choo_ching@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-brl1">Level Head / Science (Internal)</td>
     <td class="tg-brl1"> Ms Jolene Low </td>
     <td class="tg-brl1"> low_yun_yi_jolene@schools.gov.sg</td>
