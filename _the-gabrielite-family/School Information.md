@@ -56,5 +56,5 @@ In establishing certain academic rigour and behaviour standards, we seek to deve
 **School Reports** <br>
 Financial Information <br>
 Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest financial information.  
-Annual Report 2022  <br>
-Please click [here](https://drive.google.com/file/d/1V6hPtm8ur2gH3oJMRnn_xTRvqwo8SVJe/view?usp=sharing)&nbsp;to view the Annual Report 2022.
+Annual Report 2023  <br>
+Please click [here](https://drive.google.com/file/d/1IZGXDPbPIXSNABPi8_F9Pcr_3IsnrEe_/view?usp=sharing) to view the Annual Report 2023.
