@@ -23,6 +23,8 @@ variant: markdown
 <br>
 [September 2024](https://drive.google.com/file/d/10DqYeKObGjL0GxfSSw_TfbmSAaGLlf9S/view?usp=drive_link)
 <br>
+[October 2024](https://drive.google.com/file/d/1Z3cvAMhhsP04Jlo7xKgrM5KMCZwlNxrh/view?usp=drive_link)
+<br>
 [After-School Curriculum for Term 3](https://drive.google.com/file/d/1BWWoRHvW_2awa8Bv3QTfD_2l-9qfWOpE/view?usp=sharing)
 <br>
 [School Holiday Crime Advisory](https://drive.google.com/file/d/1PyJwBlVEP7rhI2nJX-UetV37SZmFd7pI/view?usp=drive_link)
