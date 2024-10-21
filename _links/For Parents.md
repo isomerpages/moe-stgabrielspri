@@ -25,6 +25,9 @@ variant: markdown
 <br>
 [October 2024](https://drive.google.com/file/d/1Z3cvAMhhsP04Jlo7xKgrM5KMCZwlNxrh/view?usp=drive_link)
 <br>
+<br>
+[Nominations for PAT 2025 and OYEA Award 2025](https://drive.google.com/file/d/1cOfNIl1pqwf1gPSmDWiOqO2kFtWmAvJQ/view?usp=sharing)
+<br>
 [After-School Curriculum for Term 3](https://drive.google.com/file/d/1BWWoRHvW_2awa8Bv3QTfD_2l-9qfWOpE/view?usp=sharing)
 <br>
 [School Holiday Crime Advisory](https://drive.google.com/file/d/1PyJwBlVEP7rhI2nJX-UetV37SZmFd7pI/view?usp=drive_link)
