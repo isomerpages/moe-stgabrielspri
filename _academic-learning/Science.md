@@ -25,7 +25,6 @@ and Society.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/sc1.png">
 </div>
 <p><strong>Key Personnel</strong> 
-<br>Head of Department: Mdm Jean Heng
 <br>Level Head (Internal): Ms Jolene Low
 <br>Senior Teacher: Mdm Chitra Devi</p>
 <p><strong>Department Programmes</strong> 
@@ -34,7 +33,11 @@ and Society.</p>
 <p>At SGPS, the experiential approach places the learning more so in the
 hands of students as they partake in activities to understand concepts
 while making connections with their surroundings.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -115,7 +118,11 @@ while making connections with their surroundings.</p>
 <p></p>
 <p><strong>Science Practical</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -151,7 +158,11 @@ bags, and switching the lights off when not in use</p>
 <p>The importance of Food Drives</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -173,7 +184,11 @@ bags, and switching the lights off when not in use</p>
 <p>Aimed at easing the lower primary students into the subject of Science,
 this programme taps on the natural curiosity of the Primary 1 and 2 students
 to further hone their Science skills and concepts.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -198,7 +213,11 @@ to develop their problem-solving and thinking skills. It enables students
 to think critically about existing problems, generate ideas to improve
 the situation, develop prototypes to test and improve their ideas while
 imbibing students with knowledge and experiences beyond the classroom.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -246,7 +265,11 @@ thinking and effective communication skills.</p>
 <p></p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
