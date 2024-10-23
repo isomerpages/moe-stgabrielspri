@@ -65,7 +65,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jimmy Tong
-<br>Mr Daniel Sia</p>
+<br>Mr Mohamad Hafiz</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Irfana
-<br>Ms Isabella Sim</p>
+<br>Mr Zechariah Kong</p>
 </td>
 </tr>
 <tr>

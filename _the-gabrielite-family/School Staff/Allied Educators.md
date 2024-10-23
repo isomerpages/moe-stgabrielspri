@@ -5,7 +5,12 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -63,17 +68,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_erwin_mohd_noor@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Si Rong Constanza</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_si_rong_constanza@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
