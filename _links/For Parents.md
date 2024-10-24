@@ -31,7 +31,8 @@ variant: markdown
 [After-School Curriculum for Term 3](https://drive.google.com/file/d/1BWWoRHvW_2awa8Bv3QTfD_2l-9qfWOpE/view?usp=sharing)
 <br>
 [School Holiday Crime Advisory](https://drive.google.com/file/d/1PyJwBlVEP7rhI2nJX-UetV37SZmFd7pI/view?usp=drive_link)
-
+<br>
+[Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
 
 **Assessment Plans (2024)**  
 
