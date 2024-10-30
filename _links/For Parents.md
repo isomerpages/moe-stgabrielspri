@@ -25,6 +25,8 @@ variant: markdown
 <br>
 [October 2024](https://drive.google.com/file/d/1Z3cvAMhhsP04Jlo7xKgrM5KMCZwlNxrh/view?usp=drive_link)
 <br>
+[November &amp; December 2024](https://drive.google.com/file/d/1uRZUSu_Et7htnmybBVdTYqYYuElE0Hue/view?usp=drive_link)
+<br>
 <br>
 [Nominations for PAT 2025 and OYEA Award 2025](https://drive.google.com/file/d/1cOfNIl1pqwf1gPSmDWiOqO2kFtWmAvJQ/view?usp=sharing)
 <br>
