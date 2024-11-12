@@ -19,8 +19,8 @@ variant: markdown
 
 **Remarks:**  Online purchase available
 
-**Booklists (2024):**
+**Booklists (2025):**
 
-[SGBPS P1.pdf](https://drive.google.com/file/d/1Q50tVpyUeiyNgR1njbWJrLB_a0CVS8y0/view?usp=sharing)        [SGBPS P2.pdf](https://drive.google.com/file/d/1LFzQ8vwnadu-NpmPuLftea78Zj99gyBV/view?usp=sharing)        [SGBPS P3.pdf](https://drive.google.com/file/d/1HhfWg2tFaoInX6oELcVN6HSWAG80lyRb/view?usp=sharing)
+[SGBPS P1.pdf](https://drive.google.com/file/d/1ZTM-ObzQCsov8z6-LzzsDHrKDbcV6f52/view?usp=sharing)        [SGBPS P2.pdf](https://drive.google.com/file/d/1U8cwPE_aIr9bdJWeXDPCU7kuKpbAksWM/view?usp=sharing)        [SGBPS P3.pdf](https://drive.google.com/file/d/1zhuyoI2jCm2KqivqF8oQrqCKHMrdNu3m/view?usp=sharing)
 
-[SGBPS P4.pdf](https://drive.google.com/file/d/1AQAC_NgTSRLFhAktR1bzzGMlNEj4AgxN/view?usp=sharing)       [SGBPS P5.pdf](https://drive.google.com/file/d/1WBiSKkAAlF2CDDOMN6v8s5AbOViVVJAE/view?usp=sharing)        [SGBPS P6.pdf](https://drive.google.com/file/d/1QiqDzuoKRZLaRozmZzcgXAARr7TVMXSU/view?usp=sharing)
+[SGBPS P4.pdf](https://drive.google.com/file/d/1AeK5pVaubsSapctE2BQzV515f4CqXdoJ/view?usp=sharing)       [SGBPS P5.pdf](https://drive.google.com/file/d/1Q7tXZH1F2rnG52wHapf5H6pSIPqr7n7V/view?usp=sharing)        [SGBPS P6.pdf](https://drive.google.com/file/d/1v6375xXGTJrVKdv1t4dPTX4BAJ13V3fU/view?usp=sharing)
