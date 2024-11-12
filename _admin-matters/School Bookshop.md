@@ -21,6 +21,6 @@ variant: markdown
 
 **Booklists (2025):**
 
-[SGBPS P1.pdf](https://drive.google.com/file/d/1ZTM-ObzQCsov8z6-LzzsDHrKDbcV6f52/view?usp=sharing)        [SGBPS P2.pdf](https://drive.google.com/file/d/1U8cwPE_aIr9bdJWeXDPCU7kuKpbAksWM/view?usp=sharing)        [SGBPS P3.pdf](https://drive.google.com/file/d/1zhuyoI2jCm2KqivqF8oQrqCKHMrdNu3m/view?usp=sharing)
+[SGPS P1.pdf](https://drive.google.com/file/d/1ZTM-ObzQCsov8z6-LzzsDHrKDbcV6f52/view?usp=sharing)        [SGPS P2.pdf](https://drive.google.com/file/d/1U8cwPE_aIr9bdJWeXDPCU7kuKpbAksWM/view?usp=sharing)        [SGPS P3.pdf](https://drive.google.com/file/d/1zhuyoI2jCm2KqivqF8oQrqCKHMrdNu3m/view?usp=sharing)
 
-[SGBPS P4.pdf](https://drive.google.com/file/d/1AeK5pVaubsSapctE2BQzV515f4CqXdoJ/view?usp=sharing)       [SGBPS P5.pdf](https://drive.google.com/file/d/1Q7tXZH1F2rnG52wHapf5H6pSIPqr7n7V/view?usp=sharing)        [SGBPS P6.pdf](https://drive.google.com/file/d/1v6375xXGTJrVKdv1t4dPTX4BAJ13V3fU/view?usp=sharing)
+[SGPS P4.pdf](https://drive.google.com/file/d/1AeK5pVaubsSapctE2BQzV515f4CqXdoJ/view?usp=sharing)       [SGPS P5.pdf](https://drive.google.com/file/d/1Q7tXZH1F2rnG52wHapf5H6pSIPqr7n7V/view?usp=sharing)        [SGPS P6.pdf](https://drive.google.com/file/d/1v6375xXGTJrVKdv1t4dPTX4BAJ13V3fU/view?usp=sharing)
