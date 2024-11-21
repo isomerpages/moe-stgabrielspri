@@ -215,17 +215,6 @@ variant: tiptap
 <p>lutfi.ahmadtajodin@ncs.com.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Meenachi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Executive/Trainer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>meenachi_do_koppu@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
