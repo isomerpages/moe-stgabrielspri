@@ -56,14 +56,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Tong Hai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_tong_hai@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Liu Yi Lei, Lily</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,14 +92,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ren_ting@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shirlee Moo Pei San</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>moo_pei_san@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -218,6 +202,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>noor_aisha@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss M Sharmila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>m_sharmila@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
