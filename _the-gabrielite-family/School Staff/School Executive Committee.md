@@ -77,8 +77,8 @@ variant: markdown
   </tr>
 	 <tr>
     <td class="tg-brl1">HOD / Mathematics<br></td>
-    <td class="tg-brl1"> Ms Low Yun Hui</td>
-    <td class="tg-brl1"> low_yun_hui@schools.gov.sg</td>
+    <td class="tg-brl1"> Ms Low Yun Hui </td>
+    <td class="tg-brl1"> low_yun_hui@schools.gov.sg </td>
   </tr>
   <tr>
     <td class="tg-brl1">Level Head / Mathematics (Internal)<br></td>
@@ -152,8 +152,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-brl1">Year Head (P3 - P4)<br></td>
-    <td class="tg-brl1"> Mdm Christine Lee</td>
-    <td class="tg-brl1"> lee_xiu_en_christine@schools.gov.sg</td>
+    <td class="tg-brl1">Mdm Christine Lee</td>
+    <td class="tg-brl1">lee_xiu_en_christine@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Year Head (P5 - P6)<br></td>
