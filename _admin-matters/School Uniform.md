@@ -12,7 +12,7 @@ variant: markdown
 
 **Contact Number:** 62804917
 
-**Address:** Northstar 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) <br>Singapore 569880  
+**Address:** Northstar 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) Singapore 569880  
 
 **Website:**&nbsp;http://www.shirleyuni.com/ 
 
