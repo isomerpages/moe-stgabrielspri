@@ -2,18 +2,18 @@
 title: School Uniform
 permalink: /admin-matters/school-uniform/
 description: ""
+variant: markdown
 ---
+![](/images/Shirley_Seasonwear.jpg)
 
 **SHIRLEY SEASON WEAR**
-
 
 **Contact Person:** Shirley
 
 **Contact Number:** 62804917
 
-**Address:** Northstar 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) Singapore 569880  
+**Address:** Northstar 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) <br>Singapore 569880  
 
+**Website:**&nbsp;http://www.shirleyuni.com/ 
 
-**Website:** http://www.shirleyuni.com/ 
-
-**Email:** shirleyseasonwear@hotmail.com
+**Email:** getintouch@shirleyuni.com
