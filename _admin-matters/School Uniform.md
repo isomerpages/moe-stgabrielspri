@@ -14,6 +14,6 @@ variant: markdown
 
 **Address:** Northstar 7030 Ang Mo Kio Ave 5 #04-55 (Lift Lobby 1) Singapore 569880  
 
-**Website:**&nbsp;http://www.shirleyuni.com
+**Website:**&nbsp;http://www.shirleyuni.com/ 
 
 **Email:** getintouch@shirleyuni.com
