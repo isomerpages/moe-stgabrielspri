@@ -28,12 +28,12 @@ sections:
       alt: Image alt text
       image: /images/900x240cm_lsa_fa.jpg
   - infopic:
-      title: 2023 School Magazine
+      title: 2024 School Magazine
       id: infopic
       description: St Gabriel's Primary & Secondary Schools
       button: Click to view
-      url: https://issuu.com/avantgardemediaarts/docs/st_gabriel_s_pri_and_sec_-_yearbook_2023?fr=sMTEwMzY0MDU0OTI
-      image: /images/Sch_Magazine_1.jpg
+      url: https://heyzine.com/flip-book/c1b2bad5ce.html
+      image: /images/2024_Yearbook.png
       alt: Image alt text
   - infopic:
       title: School Corporate Video
