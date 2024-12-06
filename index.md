@@ -32,7 +32,7 @@ sections:
       id: infopic
       description: St Gabriel's Primary & Secondary Schools
       button: Click to view
-      url: https://heyzine.com/flip-book/c1b2bad5ce.html
+      url: https://heyzine.com/flip-book/e4bd81f1a4.html
       image: /images/2024_Yearbook.png
       alt: Image alt text
   - infopic:
