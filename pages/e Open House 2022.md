@@ -2,6 +2,7 @@
 title: e Open House 2022
 permalink: /e-open-house-2022/
 description: ""
+variant: markdown
 ---
 ![](/images/2022%20SGPS%20e-Open%20House%20Website%20Poster.png)
 
@@ -9,7 +10,7 @@ description: ""
 ### WEBINAR
 
 <center><strong>Principal's Live Engagement Session with Parents via Webinar</strong></center>
-<center><iframe width="766" height="574" src="https://www.youtube.com/embed/pK5kssmqoLc" title="SGPS e-Open House Webinar 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="766" height="574" src="https://www.youtube.com/embed/pK5kssmqoLc" title="SGPS e-Open House Webinar 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 
 ### SGPS E-OPEN HOUSE INFOGRAPHIC
@@ -21,12 +22,12 @@ description: ""
 
 Find out more through an informative talk by our Principal, Mr Martin Tan on the history of St. Gabriel's Primary School and our founder, St. Louis Marie De Montfort. In the video, he highlights the school's virtues and the student outcomes of our Gabrielite 2025 - a Leader, a Sportsman, an Achiever and many of our key initiatives for our students. Our Assistant Year Head, Mr Andy Kong also clearly defines what it takes to be a Gabrielite of the future. We hope you find the video useful and that St. Gabriel's Primary School will be a choice school for your child.
 
-<center><iframe width="589" height="331" src="https://www.youtube.com/embed/I8is3GpGtWs" title="Principal's Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="589" height="331" src="https://www.youtube.com/embed/I8is3GpGtWs" title="Principal's Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 **Inquiry-Based Learning @ SGPS**   
-In St. Gabriel’s Primary School, our Primary 1 to Primary 5 Gabrielites embark on Inquiry Based Learning (IBL) projects based on their level’s learning outcomes. IBL is a learning 
+In St. Gabriel’s Primary School, our Primary 1 to Primary 5 Gabrielites embark on Inquiry Based Learning (IBL) projects based on their level’s learning outcomes. IBL is a learning&nbsp;
 
-methodology that centers on student centricity. Fundamentally, Gabrielites take charge of their own learning. They are encouraged to explore the resources and materials through questioning and sharing of ideas. Inquiry-based learning uses different approaches to learning, including Collaborative learning, small-group discussion and guided learning.   
+methodology that centers on student centricity. Fundamentally, Gabrielites take charge of their own learning. They are encouraged to explore the resources and materials through questioning and sharing of ideas. Inquiry-based learning uses different approaches to learning, including Collaborative learning, small-group discussion and guided learning.&nbsp;  
 
   
 
@@ -49,15 +50,12 @@ Gabrielites learn through constructivism, this allows them to build knowledge th
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/eo221.jpg" 
-     style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/eo222.jpg" 
-     style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
-          <img src="/images/eo223.jpeg" 
-     style="width:100%"></a></td>
+    <td class="tg-nrix"><a href="linkhere" target="_self"> 
+          <img src="/images/eo221.jpg" style="width:100%"></a></td>
+    <td class="tg-nrix"><a href="linkhere" target="_self"> 
+          <img src="/images/eo222.jpg" style="width:100%"></a></td>
+    <td class="tg-nrix"><a href="linkhere" target="_self"> 
+          <img src="/images/eo223.jpeg" style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
@@ -72,11 +70,11 @@ Our Motto - The Latin motto "Labor Omnia Vincit" stands for "Labour conquers all
   
 Our School's Corporate Video showcases the student as the centre of focus for his well-being and development here in St. Gabriel's Primary School. We would also like to highlight our Gabrielite 2025 Outcomes - a Leader, a Sportsman and an Achiever towards realising our school's Vision, Mission and Motto.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Qp7yWFBum-s" title="School Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Qp7yWFBum-s" title="School Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 Our doors are still open ... online! Click on the video to view our vibrant school campus from the comfort of your home!
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UAuxd8_oqw0" title="Virtual Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UAuxd8_oqw0" title="Virtual Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ### GET TO KNOW OUR PROGRAMMES...
 
@@ -109,7 +107,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Life Skills & Enrichment</label>
+    <label for="accordion3">Life Skills &amp; Enrichment</label>
     <div>
       <ul>
 				<li><a href="/life-skills-and-enrichment/pal/">Programme For Active Learning (PAL)</a></li>
@@ -194,7 +192,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P1 Registration Phases and Timeframe</label>
     <div>
-			<p><center><b>2022 P1 REGISTRATION EXERCISE (FOR ADMISSION TO P1 IN 2023)</b></center></p>
+			<p></p><center><b>2022 P1 REGISTRATION EXERCISE (FOR ADMISSION TO P1 IN 2023)</b></center><p></p>
 			<p><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -349,7 +347,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
   <tr>
     <td class="tg-g1uo">1.</td>
     <td class="tg-g1uo">Do both parents need to be present during registration<br> <br> </td>
-    <td class="tg-g1uo">In light of the COVID-19 precautionary measures on safe distancing and ensure minimal contact among the public, parents will register their child online via MOE P1 Registration Website.  There will be NO physical registration at schools. The form and user guides will be available during the <a href="https://beta.moe.gov.sg/primary/p1-registration/registration-phases-key-dates">registration period</a>.<br> <br>You may refer to the MOE website at go.gov.sg/P1reg for updates on the 2022 P1 Registration exercise. <br> </td>
+    <td class="tg-g1uo">In light of the COVID-19 precautionary measures on safe distancing and ensure minimal contact among the public, parents will register their child online via MOE P1 Registration Website.  There will be NO physical registration at schools. The form and user guides will be available during the registration period.<br> <br>You may refer to the MOE website at go.gov.sg/P1reg for updates on the 2022 P1 Registration exercise. <br> </td>
   </tr>
   <tr>
     <td class="tg-g1uo">2.</td>
@@ -359,7 +357,7 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
   <tr>
     <td class="tg-g1uo">3</td>
     <td class="tg-g1uo">How can I find out the home-school distance category between my primary school of choice and my residence?<br> <br> </td>
-    <td class="tg-g1uo">From the 2022 P1 Registration Exercise, HSD will be calculated based on the <a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=82614&Mesid=96321027">School Land Boundary (SLB)</a>. The HSD used will be the shortest distance from a point on the boundary around the school (instead of from a single reference point) to the registrant’s home.<br> <br>You can check the home-school distance category from the Singapore Land Authority's (SLA) OneMap SchoolQuery Service.<br><br>To use this service:<br>Go to <a href="https://va.ecitizen.gov.sg/flexAnsAPI/UrlHandler.aspx?MesId=422836&MgpId=422836&GPFId=0&PNodeId=0&PId=5993205&Source=Browse&UrlSeq=1&CType=1&SId=c4a88851-df0e-4765-88e9-1d7540e2b9a4&LangId=1">SchoolQuery on the OneMap website</a>.<br>Read the "School Query - Disclaimer" information and select "I Agree"<br>Select the "Find Schools Near a Building" option.<br>Enter your residential address in the "Search and Explore" box. Your address will be displayed in the dropdown address list.<br>Select your address. A list of "Schools within 1km" and "Schools between 1-2km" will be displayed.<br> <br>For more information, you can email SLA_enquiry@sla.gov.sg or call the SLA helpdesk at 1800 323 9829.<br> </td>
+    <td class="tg-g1uo">From the 2022 P1 Registration Exercise, HSD will be calculated based on the School Land Boundary (SLB). The HSD used will be the shortest distance from a point on the boundary around the school (instead of from a single reference point) to the registrant’s home.<br> <br>You can check the home-school distance category from the Singapore Land Authority's (SLA) OneMap SchoolQuery Service.<br><br>To use this service:<br>Go to SchoolQuery on the OneMap website.<br>Read the "School Query - Disclaimer" information and select "I Agree"<br>Select the "Find Schools Near a Building" option.<br>Enter your residential address in the "Search and Explore" box. Your address will be displayed in the dropdown address list.<br>Select your address. A list of "Schools within 1km" and "Schools between 1-2km" will be displayed.<br> <br>For more information, you can email SLA_enquiry@sla.gov.sg or call the SLA helpdesk at 1800 323 9829.<br> </td>
   </tr>
   <tr>
     <td class="tg-g1uo">4.</td>
@@ -369,12 +367,11 @@ Our doors are still open ... online! Click on the video to view our vibrant scho
   <tr>
     <td class="tg-g1uo">5.</td>
     <td class="tg-g1uo">When and how will I know the outcome of my child’s P1 Registration?</td>
-    <td class="tg-g1uo">Parents of SC/PR children will be notified of their registration outcome on the date of result announcement, through Short Messaging System (SMS) if a Singapore Mobile Number is provided.<br> <br>Should you not receive your registration outcome on result announcement day, you could contact the school directly in the afternoon to check on the results.<br>Parents of SC/PR children will be notified of their registration outcome on the <a href="https://beta.moe.gov.sg/primary/p1-registration/results/">date of result announcement</a>, through Short Messaging System (SMS). Should you not receive your registration outcome on result announcement day, you could contact the school directly in the afternoon to check on the results.</td>
+    <td class="tg-g1uo">Parents of SC/PR children will be notified of their registration outcome on the date of result announcement, through Short Messaging System (SMS) if a Singapore Mobile Number is provided.<br> <br>Should you not receive your registration outcome on result announcement day, you could contact the school directly in the afternoon to check on the results.<br>Parents of SC/PR children will be notified of their registration outcome on the date of result announcement, through Short Messaging System (SMS). Should you not receive your registration outcome on result announcement day, you could contact the school directly in the afternoon to check on the results.</td>
   </tr>
 </tbody>
 			</table></p>
-	<p><img src="/images/P1%20Registration%20FAQ.jpeg" 
-					style="width:65%"></p>
+	<p><img src="/images/P1%20Registration%20FAQ.jpeg" style="width:65%"></p>
 	</div>
 	</li>
 	<li>
@@ -615,7 +612,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Is Student Care service available in St Gabriel’s Primary School?</span></td>
-    <td class="tg-g1uo"><span style="font-weight:bold">Morning Star Services</span><br><br><span style="color:inherit;background-color:transparent">Office Number: +65 8261 5182</span><br><br><span style="color:inherit;background-color:transparent">Morning Star HQ: 6285-1377</span><br><br><span style="color:inherit;background-color:transparent">SG SCC: 6284-9524</span><br><br><span style="color:inherit;background-color:transparent">Email:</span> <a href="mailto:studentcare@morningstar.org.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">studentcare@morningstar.org.sg</span></a><br><br><a href="https://www.youtube.com/watch?v=RkwshhcKZBM&feature=youtu.be" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Morning Star Student Care @ St. Gabriel's Primary School</span></a><br></td>
+    <td class="tg-g1uo"><span style="font-weight:bold">Morning Star Services</span><br><br><span style="color:inherit;background-color:transparent">Office Number: +65 8261 5182</span><br><br><span style="color:inherit;background-color:transparent">Morning Star HQ: 6285-1377</span><br><br><span style="color:inherit;background-color:transparent">SG SCC: 6284-9524</span><br><br><span style="color:inherit;background-color:transparent">Email:</span> <a href="mailto:studentcare@morningstar.org.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">studentcare@morningstar.org.sg</span></a><br><br><a href="https://www.youtube.com/watch?v=RkwshhcKZBM&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">Morning Star Student Care @ St. Gabriel's Primary School</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-bjk0"><span style="color:inherit;background-color:transparent">Is there school bus service available in St Gabriel’s Primary School?</span></td>
@@ -760,8 +757,7 @@ All Primary One students are to report to their classrooms on Tuesdays and Wedne
     <label for="accordion12">Parent Support Group (PSG) @ St Gabriel's Primary School</label>
     <div>
 			<p>The PSG @ SGPS was established around 2008. For the past 12 years, parents @ SGPS have been playing a vital role in the school. We are important partners in enriching your child’s learning. Being involved in your child’s school sends a clear signal to your child as a form of concern for them, thus, encouraging them to adopt positive life attitudes towards learning. Communication is key and a two-way process that benefits the children, parents and the school.<br><br>The Parent Support Group is a great opportunity to foster a closer bond with our children, understanding them better. PSG@SGPS is made up of a group of dedicated parents who comes together to offer collaboration and support; playing an active and important role in being the bridge between the parents, students and the school. With the advice from the school’s advisors, PSG complements by aligning the school’s programs further improving our children’s well-being and learning. Meetings are held on a termly basis where parents come together to meet, discuss and share our collective efforts for our children at SGPS.<br><br>As a member of the PSG@SGPS, we strive to promote the spirit of community within the SGPS family. Not only does it allow you to have greater awareness of how the school is run but it also helps identify more with your child in their schooling experience. If you are keen to join us, pick up a form from the General Office or you may email your interest to sgps.psg@gmail.com.<br><br>Thank you.<br><br><a href="https://www.stgabrielspri.moe.edu.sg/qql/slot/u173/Links/PSG/PSG%20Reg%20Form_Revised.pdf" target="">Parent Support Group Registration Form</a></p>
-			<p><img src="/images/uipsg.png" 
-							style="width:85%"></p>
+			<p><img src="/images/uipsg.png" style="width:85%"></p>
 		</div>
 	</li>
 	</ul>
