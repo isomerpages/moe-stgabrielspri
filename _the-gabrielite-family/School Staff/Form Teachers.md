@@ -81,5 +81,5 @@ variant: markdown
 | 6 Respect | **Mr Kelvin Loy**<br>loy_shingwan_kelvin@schools.gov.sg | **Ms Annie Lim**<br>lim_annie@schools.gov.sg | 
 | 6 Diligence | **Ms Low Mei Ling**<br>low_mei_ling@schools.gov.sg | **Mrs Ang Leh Har**<br>ong_leh_har@schools.gov.sg |
 | | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg | |
-| 6 Self-Discipline | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg  | **Ms Lytessia Soh**<br>|
+| 6 Self-Discipline | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg  | **Ms Lytessia Soh**<br>sh_Xin_Hui_Lytessia@schools.gov.sg|
 | | **Mrs Kathy Koh** |
