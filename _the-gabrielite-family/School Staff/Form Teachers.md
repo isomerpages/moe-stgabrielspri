@@ -38,28 +38,27 @@ variant: markdown
 
 | Class | Form Teachers | |
 |---|---|---|
-| 3 Self-Discipline | **Mr Jasper Lee**<br>lee_rui_bin_jasper@schools.gov.sg | **Mdm Chitra**<br>chitra_devi_kasiviswanathan@schools.gov.sg |
-| | **Mr Kong Zi Long Zechariah**<br>kong_zi_long@schools.gov.sg | |
-| 3 Generosity || **Ms Ren Ting**<br>ren_ting@schools.gov.sg |
-| | **Mdm Susie Sim**<br>sim_mui_yin_susie@schools.gov.sg | |
-| 3 Perseverance | **Ms Annie Lim**<br>lim_annie@schools.gov.sg | **Mrs Cecilia Wong**<br>ang_lay_ngo@schools.gov.sg |
-| | **Mrs Isabella Tan**<br>isabella_sim@schools.gov.sg | | |
-| 3 Sincerity |  | **Mr Sean De Silva**<br>sean_de_silva@schools.gov.sg |
-| 3 Loyalty | | **Mdm Nisfawati**<br>nisfawati_md_zainuddin@schools.gov.sg | 
-| | **Mrs Serene Cordeiro**<br>serene_cordeiro@schools.gov.sg | |
+| 3 Self-Discipline | **Mrs Shelena Lim**<br>tan_li_ing_shelena@schools.gov.sg | **Mr Hamzah**<br>muhamad_hamzah_rohi@schools.gov.sg  |
+| | **Ms Chua Suting**<br>chua_suting@schools.gov.sg | |
+| 3 Generosity | **Mdm Chitra**<br>chitra_devi_kasiviswanathan@schools.gov.sg | **Ms Glenda Ng**<br>glenda_ng@schools.gov.sg |
+| |  **Mr Jasper Lee**<br>lee_rui_bin_jasper@schools.gov.sg | |
+| 3 Perseverance | **Mrs Jo-Marie Matthews**<br>jo-marie_malathi_alagu@schools.gov.sg | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg |
+| | **Mdm Goh Gek Cher**<br>goh_gek_cher@schools.gov.sg | |
+| 3 Sincerity | **Mrs Wendy Chee**<br>boey_yun_kwan@schools.gov.sg | **Mdm Susie Sim**<br>sim_mui_yin_susie@schools.gov.sg |
+| | **Mdm Wang Yunwen, Valerie**<br>wang_yunwen_valerie@schools.gov.sg | | 
 |
 
 **Primary 4**
 
 | Class | Form Teachers | |
 |---|---|---|
-| 4 Loyalty | **Mrs Serene Huang**<br>lee_huay_chin_serene@schools.gov.sg | |
-| 4 Orderliness | **Ms Dina Farhana**<br>dina_farhana_hashim@schools.gov.sg | **Ms Jolene Low**<br>low_yun_yi_jolene@schools.gov.sg |
-| | **Ms M Sharmila**<br>m_sharmila@schools.gov.sg |  |
+| 4 Loyalty | **Ms Yenny Phoon**<br>phoon_yin_fong_yenny@schools.gov.sg | **Mr Kong Zi Long Zechariah**<br>kong_zi_long@schools.gov.sg |
+| 4 Orderliness | **Ms Irfana**<br>irfana_banu_khider_mohamed@schools.gov.sg | **Mdm Nisfawati**<br>nisfawati_md_zainuddin@schools.gov.sg |
+| | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg | |
 | 4 Respect | **Mr Ian John Fernandez**<br>ian_john_fernandez@schools.gov.sg | **Mrs Shankar**<br>krishnaveni_ramasamy@schools.gov.sg
 | 4 Diligence | | |
-| 4 Self-Discipline | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg | **Mr Eugene Lim**<br>eugene_lim_A@schools.gov.sg |
-| | **Mr Hamzah**<br>muhamad_hamzah_rohi@schools.gov.sg | |
+| 4 Self-Discipline | | **Mr Eugene Lim**<br>eugene_lim_A@schools.gov.sg |
+| | | |
 |
 
 **Primary 5**
@@ -68,9 +67,9 @@ variant: markdown
 |---|---|---|
 | 5 Self-Discipline | **Mrs Michelle Tan**<br>wee_hui_lin_michelle@schools.gov.sg | **Mr Tan Yew Heng**<br>tan_yew_heng@schools.gov.sg  |
 | 5 Generosity |  | **Mrs Cecilia Koh**<br>lee_hiang_hoon_cecilia@schools.gov.sg | 
-| 5 Perseverance | **Mrs Wendy Chee**<br>boey_yun_kwan@schools.gov.sg | **Ms Tay Yuyan**<br>tay_yuyan@schools.gov.sg |
+| 5 Perseverance | | **Ms Tay Yuyan**<br>tay_yuyan@schools.gov.sg |
 | 5 Sincerity | **Ms Low Mei Ling**<br>low_mei_ling@schools.gov.sg | **Mrs Ang Leh Har**<br>ong_leh_har@schools.gov.sg | |
-| 5 Loyalty | **Ms Chua Suting**<br>chua_suting@schools.gov.sg | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg |
+| 5 Loyalty |  | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg |
 | | **Mr Gerard Chua**<br>chua_jin_kao_gerard@schools.gov.sg | 
 |
 
@@ -78,9 +77,9 @@ variant: markdown
 
 | Class | Form Teacher | |
 |---|---|---|
-| 6 Loyalty |  | **Ms Yenny Phoon**<br>phoon_yin_fong_yenny@schools.gov.sg| 
-| 6 Orderliness | **Ms Irfana**<br>irfana_banu_khider_mohamed@schools.gov.sg | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg | |
-| 6 Respect | **Mr Jimmy Tong**<br>tong_weng_thim_jimmy@schools.gov.sg | **Mrs Jo-Marie Matthews**<br>jo-marie_malathi_alagu@schools.gov.sg | 
+| 6 Loyalty |  | | 
+| 6 Orderliness |  | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg | |
+| 6 Respect | **Mr Jimmy Tong**<br>tong_weng_thim_jimmy@schools.gov.sg |  | 
 | 6 Diligence | **Mr Andy Kong**<br>kong_jia_wei@schools.gov.sg | | |
 | 6 Self-Discipline | **Mr Kelvin Loy**<br>loy_shingwan_kelvin@schools.gov.sg | **Mdm Liu Yi Lei, Lily**<br>liu_yi_lei_lily@schools.gov.sg |
 |
