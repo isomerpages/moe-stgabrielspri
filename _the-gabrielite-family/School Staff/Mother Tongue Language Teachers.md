@@ -126,6 +126,14 @@ variant: tiptap
 <p>goh_gek_cher@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Valerie Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wang_yuwen_valerie@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>MALAY LANGUAGE</h3>
@@ -151,14 +159,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>muhamad_hamzah_rohi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Dina Farhana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>dina_farhana_hashim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
