@@ -25,12 +25,13 @@ variant: markdown
 
 | Class | Form Teachers | |
 |---|---|---|
-| 2 Loyalty | *br&gt;teng_hui_khim_elsa@schools.gov.sg| **Mrs Shelena Lim**<br>tan_li_ing_shelena@schools.gov.sg |  |
-| 2 Orderliness | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg |  |
-| |  | **Mdm Goh Gek Cher**<br>goh_gek_cher@schools.gov.sg |
-| 2 Respect |  | **Mrs Lee Siew Ping**<br>goh_siew_ping@schools.gov.sg | |
-| 2 Diligence | | **Ms Glenda Ng**<br>glenda_ng@schools.gov.sg |
-| 2 Self-Discipline | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg | **Mdm Zhou Jing**<br>zhou_jing@schools.gov.sg |
+| 2 Loyalty | **Ms Elsa Teng**<br>teng_hui_khim_elsa@schools.gov.sg | **Mdm Noor Aisha**<br>noor_aisha@schools.gov.sg |
+| | **Ms Lim Siew Lee**<br> | | 
+| 2 Orderliness | **Mr Neo Yong Teck**<br>neo_yong_teck@schools.gov.sg | **Ms Wan Chui Ting**<br>wan_chui_ting@schools.gov.sg |
+| 2 Respect | **Mrs Lee Siew Ping**<br>goh_siew_ping@schools.gov.sg | **Mrs Karen Tan**<br>loo_xinyi_karen@schools.gov.sg |
+| 2 Diligence | **Ms Siti Nurhayaty**<br>siti_nurhayaty_saptu@schools.gov.sg | **Ms Lin Bei Jin**<br>lin_bei_jin@schools.gov.sg | 
+| | **Mr Ng Chiong Hoe**<br>ng_chiong_hoe@schools.gov.sg | |
+| 2 Self-Discipline | **Mrs Sheryl Toh** <br>siew_sheryl@schools.gov.sg | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg | 
 |
 
 **Primary 3**
@@ -66,7 +67,7 @@ variant: markdown
 | Class | Form Teachers | |
 |---|---|---|
 | 5 Self-Discipline | **Mrs Michelle Tan**<br>wee_hui_lin_michelle@schools.gov.sg | **Mr Tan Yew Heng**<br>tan_yew_heng@schools.gov.sg  |
-| 5 Generosity | **Mdm Noor Aisha**<br>noor_aisha@schools.gov.sg | **Mrs Cecilia Koh**<br>lee_hiang_hoon_cecilia@schools.gov.sg | 
+| 5 Generosity |  | **Mrs Cecilia Koh**<br>lee_hiang_hoon_cecilia@schools.gov.sg | 
 | 5 Perseverance | **Mrs Wendy Chee**<br>boey_yun_kwan@schools.gov.sg | **Ms Tay Yuyan**<br>tay_yuyan@schools.gov.sg |
 | 5 Sincerity | **Ms Low Mei Ling**<br>low_mei_ling@schools.gov.sg | **Mrs Ang Leh Har**<br>ong_leh_har@schools.gov.sg | |
 | 5 Loyalty | **Ms Chua Suting**<br>chua_suting@schools.gov.sg | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg |
