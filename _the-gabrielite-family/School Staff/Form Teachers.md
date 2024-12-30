@@ -55,10 +55,8 @@ variant: markdown
 | 4 Loyalty | **Ms Yenny Phoon**<br>phoon_yin_fong_yenny@schools.gov.sg | **Mr Kong Zi Long Zechariah**<br>kong_zi_long@schools.gov.sg |
 | 4 Orderliness | **Ms Irfana**<br>irfana_banu_khider_mohamed@schools.gov.sg | **Mdm Nisfawati**<br>nisfawati_md_zainuddin@schools.gov.sg |
 | | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg | |
-| 4 Respect | **Mr Ian John Fernandez**<br>ian_john_fernandez@schools.gov.sg | **Mrs Shankar**<br>krishnaveni_ramasamy@schools.gov.sg
-| 4 Diligence | | |
-| 4 Self-Discipline | | **Mr Eugene Lim**<br>eugene_lim_A@schools.gov.sg |
-| | | |
+| 4 Respect | **Mrs Ang Leh Har**<br>ong_leh_har@schools.gov.sg | **Mrs Isabella Tan**<br>isabella_sim@schools.gov.sg | 
+| 4 Diligence | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg | **Mr Sean De Silva**<br>sean_de_silva@schools.gov.sg |
 |
 
 **Primary 5**
@@ -68,7 +66,7 @@ variant: markdown
 | 5 Self-Discipline | **Mrs Michelle Tan**<br>wee_hui_lin_michelle@schools.gov.sg | **Mr Tan Yew Heng**<br>tan_yew_heng@schools.gov.sg  |
 | 5 Generosity |  | **Mrs Cecilia Koh**<br>lee_hiang_hoon_cecilia@schools.gov.sg | 
 | 5 Perseverance | | **Ms Tay Yuyan**<br>tay_yuyan@schools.gov.sg |
-| 5 Sincerity | **Ms Low Mei Ling**<br>low_mei_ling@schools.gov.sg | **Mrs Ang Leh Har**<br>ong_leh_har@schools.gov.sg | |
+| 5 Sincerity | **Ms Low Mei Ling**<br>low_mei_ling@schools.gov.sg |  | |
 | 5 Loyalty |  | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg |
 | | **Mr Gerard Chua**<br>chua_jin_kao_gerard@schools.gov.sg | 
 |
