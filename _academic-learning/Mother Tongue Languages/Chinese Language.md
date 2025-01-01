@@ -81,7 +81,7 @@ books</p>
 <br>ICT Resources for Chinese Curriculum to help the students to learn Chinese
 language</p>
 <p>1. Ezhishi
-<br><a href="http://ezhishi.net" rel="noopener noreferrer nofollow" target="_blank">http://ezhishi.com/contents/ </a>
+<br><a href="http://ezhishi.com" rel="noopener noreferrer nofollow" target="_blank">http://ezhishi.com </a>
 <br>A learning portal for students to learn Chinese Language so as to enhance
 their four skills, which are listening, speaking, reading and writing.</p>
 <p>2. Dudu Town
