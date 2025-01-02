@@ -47,9 +47,7 @@ to become more effective and productive.</p>
 <p>6. All Five Practices (Primary 6) With the skills learned in their previous
 5 years, student leaders strive to apply all practices in their daily lives
 to become our very own Gabrielite Leader who leads from the Heart.</p>
-<p>Ref: Write up is adopted and taken with reference from
-<br><a href="http://www.lifeskillsresources.com.sg/human-capability-development-training/tlc/" rel="noopener noreferrer nofollow" target="_blank">http://www.lifeskillsresources.com.sg/human-capability-development-training/tlc/</a>
-</p>
+<p></p>
 <p><strong>Leadership Development Journey</strong>
 </p>
 <p>Since 2015, all Primary 1 to 6 students go through MLP Lessons, 2 hours
@@ -64,7 +62,11 @@ prepares them to be Gabrielite Leaders who lead from the heart.&nbsp; &nbsp;</p>
 </p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
