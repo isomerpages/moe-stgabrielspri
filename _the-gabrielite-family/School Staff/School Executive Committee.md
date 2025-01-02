@@ -26,7 +26,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-baqh"><img src="/images/John%20Lim.jpeg" style="width:50%"><span style="font-weight:bold">Vice Principal</span><br>Mr John Lim<br>lim_chong_eng@schools.gov.sg</td>
-    <td class="tg-baqh"><img src="/images/Mdm_Chua__VP_.jpeg" style="width:63%"><span style="font-weight:bold">Vice Principal</span><br><span style="font-weight:400;font-style:normal">Mdm Irene Chua</span><br><span style="font-weight:400;font-style:normal">irene_chua@schools.gov.sg</span></td>
+    <td class="tg-baqh"><img src="/images/Mdm_Chua__VP_.jpeg" style="width:63%"><span style="font-weight:bold">Vice Principal</span><br>Mdm Irene Chua<br>irene_chua@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
@@ -57,48 +57,58 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-brl1">School Staff Developer <br></td>
-    <td class="tg-brl1"> Mr Kelvin Loy<br></td>
-    <td class="tg-brl1"> loy_shingwan_kelvin@schools.gov.sg</td>
+    <td class="tg-brl1">Mr Kelvin Loy<br></td>
+    <td class="tg-brl1">loy_shingwan_kelvin@schools.gov.sg</td>
   </tr>
   
   <tr>
-    <td class="tg-brl1"><span style="color:#000">HOD / English Language</span></td>
-    <td class="tg-brl1"><span style="color:#000"> Mrs Michelle Tan</span></td>
-    <td class="tg-brl1"><span style="color:#000"> wee_hui_lin_michelle@schools.gov.sg</span> <span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-brl1">HOD / English Language</td>
+    <td class="tg-brl1">Mrs Michelle Tan</td>
+    <td class="tg-brl1">wee_hui_lin_michelle@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Level Head / English Language (Internal)</td>
-    <td class="tg-brl1"> Mrs Serene Huang</td>
-    <td class="tg-brl1"> lee_huay_chin_serene@schools.gov.sg <br></td>
+    <td class="tg-brl1">Mrs Serene Huang</td>
+    <td class="tg-brl1">lee_huay_chin_serene@schools.gov.sg <br></td>
+  </tr>
+	  <tr>
+    <td class="tg-brl1">Level Head / English</td>
+    <td class="tg-brl1">Mrs Tan Siew Mei</td>
+    <td class="tg-brl1">tan_siew_mei@schools.gov.sg</td>
   </tr>
 	<tr><td class="tg-brl1">Lead Teacher / English Language</td>
-    <td class="tg-brl1"> Mrs Cecilia Koh</td>
-    <td class="tg-brl1"> lee_hiang_hoon_cecilia@schools.gov.sg<br></td>
+    <td class="tg-brl1">Mrs Cecilia Koh</td>
+    <td class="tg-brl1">lee_hiang_hoon_cecilia@schools.gov.sg<br></td>
   </tr>
 	 <tr>
     <td class="tg-brl1">HOD / Mathematics<br></td>
-    <td class="tg-brl1"> Ms Low Yun Hui </td>
-    <td class="tg-brl1"> low_yun_hui@schools.gov.sg </td>
+    <td class="tg-brl1">Mr Andy Kong</td>
+    <td class="tg-brl1">kong_jia_wei@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Level Head / Mathematics (Internal)<br></td>
-    <td class="tg-brl1"> Ms Elsa Teng</td>
-    <td class="tg-brl1"> teng_hui_khim_elsa@schools.gov.sg</td>
+    <td class="tg-brl1">Ms Elsa Teng</td>
+    <td class="tg-brl1">teng_hui_khim_elsa@schools.gov.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-brl1">HOD / Science</td>
+    <td class="tg-brl1">Ms Yenny Phoon</td>
+    <td class="tg-brl1">phoon_yin_fong_yenny@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Level Head / Science (Internal)</td>
-    <td class="tg-brl1"> Ms Jolene Low </td>
-    <td class="tg-brl1"> low_yun_yi_jolene@schools.gov.sg</td>
+    <td class="tg-brl1">Ms Jolene Low </td>
+    <td class="tg-brl1">low_yun_yi_jolene@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">HOD / Mother Tongue Languages (MTL)&nbsp;&amp; School Library&nbsp;</td>
-    <td class="tg-brl1"> Ms Wan Chui Ting</td>
-    <td class="tg-brl1"> wan_chui_ting@schools.gov.sg</td>
+    <td class="tg-brl1">Ms Wan Chui Ting</td>
+    <td class="tg-brl1">wan_chui_ting@schools.gov.sg</td>
   </tr>
     <tr>
     <td class="tg-brl1">Subject Head / Mother Tongue Languages (MTL)</td>
-    <td class="tg-brl1"> Ms Palaniammal</td>
-    <td class="tg-brl1"> palaniammal_murugiah@schools.gov.sg</td>
+    <td class="tg-brl1">Ms Palaniammal</td>
+    <td class="tg-brl1">palaniammal_murugiah@schools.gov.sg</td>
   </tr>
 	<tr>
     <td class="tg-brl1">Level Head / Chinese Language (Internal)</td>
@@ -107,58 +117,58 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-brl1">HOD / Discipline, Safety &amp; Partnerships</td>
-    <td class="tg-brl1"> Ms Low Mei Ling</td>
-    <td class="tg-brl1"> low_mei_ling@schools.gov.sg</td>
+    <td class="tg-brl1">Ms Low Mei Ling</td>
+    <td class="tg-brl1">low_mei_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Subject Head / Student Leadership</td>
-    <td class="tg-brl1"> Mr Xie Zhengyang</td>
-    <td class="tg-brl1"> xie_zhengyang@schools.gov.sg</td>
+    <td class="tg-brl1">Level Head / Student Leadership</td>
+    <td class="tg-brl1">Ms Nur Halimah</td>
+    <td class="tg-brl1">nur_halimah_mohamed_ramlee@schools.gov.sg</td>
   </tr>
 	<tr>
     <td class="tg-brl1">Subject Head / Student Wellbeing (Internal)</td>
-    <td class="tg-brl1"> Ms Karen Loo </td>
-    <td class="tg-brl1"> loo_xinyi_karen@schools.gov.sg</td>
+    <td class="tg-brl1">Ms Karen Loo </td>
+    <td class="tg-brl1">loo_xinyi_karen@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">HOD / Aesthetics &amp; Applied Learning Programme (ALP)</td>
-    <td class="tg-brl1"> Mrs Catherine Low</td>
-    <td class="tg-brl1"> loo_chiak_mien_catherine@schools.gov.sg</td>
+    <td class="tg-brl1">Mrs Catherine Low</td>
+    <td class="tg-brl1">loo_chiak_mien_catherine@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Subject Head / InfoComm Technology (ICT)</td>
-    <td class="tg-brl1"> Mdm Lim Jia Shyuan</td>
-    <td class="tg-brl1"> lim_jia_shyuan@schools.gov.sg</td>
+    <td class="tg-brl1">Ms Chua Suting</td>
+    <td class="tg-brl1">chua_suting@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">HOD / CCE, Student Development &amp; School-Community Partnerships</td>
-    <td class="tg-brl1"> Mrs Jessica Hoon</td>
-    <td class="tg-brl1"> li_xin_hui@schools.gov.sg</td>
+    <td class="tg-brl1">HOD / Character &amp; Citizenship Education (CCE)</td>
+    <td class="tg-brl1">Mdm Lim Jia Shyuan</td>
+    <td class="tg-brl1">lim_jia_shyuan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">HOD / Physical &amp; <span style="color:#000">Health Education &amp; CCA </span></td>
-    <td class="tg-brl1"> Mr Jimmy Tong</td>
-    <td class="tg-brl1"> tong_weng_thim_jimmy@schools.gov.sg</td>
+    <td class="tg-brl1">HOD / Physical &amp; Health Education &amp; CCA </td>
+    <td class="tg-brl1">Mr Jimmy Tong</td>
+    <td class="tg-brl1">tong_weng_thim_jimmy@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="color:#000">Subject Head / </span>Physical &amp; <span style="color:#000">Health Education &amp; CCA</span></td>
-    <td class="tg-brl1"><span style="color:#000"> Mr Sean De Zilva</span><span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-brl1"> sean_de_zilva@schools.gov.sg</td>
+    <td class="tg-brl1">Subject Head / Physical &amp; Health Education &amp; CCA</td>
+    <td class="tg-brl1">Mr Sean De Zilva</td>
+    <td class="tg-brl1">sean_de_zilva@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Year Head (P1 - P2) <br></td>
-    <td class="tg-brl1"> Mrs Dorin Lee<br></td>
-    <td class="tg-brl1"> tan_siew_lay_a@schools.gov.sg</td>
+    <td class="tg-brl1">Mrs Dorin Lee<br></td>
+    <td class="tg-brl1">tan_siew_lay_a@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Year Head (P3 - P4)<br></td>
-    <td class="tg-brl1">Mdm Christine Lee</td>
-    <td class="tg-brl1">lee_xiu_en_christine@schools.gov.sg</td>
+    <td class="tg-brl1">Mrs Jessica Hoon</td>
+    <td class="tg-brl1">li_xin_hui@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Year Head (P5 - P6)<br></td>
-    <td class="tg-brl1"> Mr Andy Kong</td>
-    <td class="tg-brl1"> kong_jia_wei@schools.gov.sg</td>
+    <td class="tg-brl1">Mr Xie Zhengyang </td>
+    <td class="tg-brl1">xie_zhengyang@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Administration Manager</td>
@@ -172,13 +182,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-brl1">Operations Manager</td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> </span>Mr Leow Lip Huat Pius</td>
-    <td class="tg-brl1"> leow_lip_huat_pius@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-brl1">Mr Leow Lip Huat Pius</td>
+    <td class="tg-brl1"> leow_lip_huat_pius@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">Operations Manager<br></td>
-    <td class="tg-brl1"> Mr Lau Meng Fei Tommy<br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> </span>lau_meng_fei_tommy@schools.gov.sg<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-brl1">Mr Lau Meng Fei Tommy<br></td>
+    <td class="tg-brl1">lau_meng_fei_tommy@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
