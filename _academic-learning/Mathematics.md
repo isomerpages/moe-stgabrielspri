@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /academic-learning/mathematics/
 description: ""
+variant: markdown
 ---
 **Department Goal**  
 <p align="justify">
@@ -9,7 +10,7 @@ The Mathematics Department aims to develop critical and creative problem-solvers
 </p>
   
 **Key Personnel**  
-Head of Department: Ms Low Yun Hui <br>
+Head of Department: Mr Andy Kong <br>
 Level Head (Internal) : Ms Elsa Teng
 
 **Our National Programme**
@@ -35,7 +36,7 @@ Our Mathematics Programme emphasizes on:
 
 **Problem Solving Strategies (PSS)** 
 <p align="justify">
-Using the spiral approach, students are exposed to different problem solving strategies progressively from Primary 1 to Primary 6. This enables them to be familiar with the various heuristics skills so as to build their confidence in dealing with Math problems. 
+Using the spiral approach, students are exposed to different problem solving strategies progressively from Primary 1 to Primary 6. This enables them to be familiar with the various heuristics skills so as to build their confidence in dealing with Math problems.&nbsp;
 </p>
 <p align="justify">
 To promote meta-cognition among students, students reflect after each strategy has been taught and identify the key features of the different heuristic skills.
