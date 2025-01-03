@@ -121,7 +121,7 @@ variant: markdown
     <td class="tg-brl1">low_mei_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Level Head / Student Leadership</td>
+    <td class="tg-brl1">Level Head / Student Leadership (Internal)</td>
     <td class="tg-brl1">Ms Nur Halimah</td>
     <td class="tg-brl1">nur_halimah_mohamed_ramlee@schools.gov.sg</td>
   </tr>
@@ -136,7 +136,7 @@ variant: markdown
     <td class="tg-brl1">loo_chiak_mien_catherine@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Subject Head / InfoComm Technology (ICT)</td>
+    <td class="tg-brl1">Subject Head / InfoComm Technology (ICT) (Internal)</td>
     <td class="tg-brl1">Ms Chua Suting</td>
     <td class="tg-brl1">chua_suting@schools.gov.sg</td>
   </tr>
