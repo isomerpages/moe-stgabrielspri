@@ -26,7 +26,7 @@ variant: markdown
 | Class | Form Teachers | |
 |---|---|---|
 | 2 Loyalty | **Ms Elsa Teng**<br>teng_hui_khim_elsa@schools.gov.sg | **Mdm Noor Aisha**<br>noor_aisha@schools.gov.sg |
-| | **Ms Lim Siew Lee**<br>lim_siew_lee_b@schools.gov.sg | | 
+| | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg  | | 
 | 2 Orderliness | **Mr Neo Yong Teck**<br>neo_yong_teck@schools.gov.sg | **Ms Wan Chui Ting**<br>wan_chui_ting@schools.gov.sg |
 | 2 Respect | **Mrs Lee Siew Ping**<br>goh_siew_ping@schools.gov.sg | **Mrs Karen Tan**<br>loo_xinyi_karen@schools.gov.sg |
 | 2 Diligence | **Ms Siti Nurhayaty**<br>siti_nurhayaty_saptu@schools.gov.sg | **Ms Lin Bei Jin**<br>lin_bei_jin@schools.gov.sg | 
@@ -54,7 +54,7 @@ variant: markdown
 |---|---|---|
 | 4 Loyalty | **Ms Yenny Phoon**<br>phoon_yin_fong_yenny@schools.gov.sg | **Mr Kong Zi Long Zechariah**<br>kong_zi_long@schools.gov.sg |
 | 4 Orderliness | **Ms Irfana**<br>irfana_banu_khider_mohamed@schools.gov.sg | **Mdm Nisfawati**<br>nisfawati_md_zainuddin@schools.gov.sg |
-| | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg | |
+| | **Ms Lim Siew Lee**<br>lim_siew_lee_b@schools.gov.sg | |
 | 4 Respect | **Mrs Cecilia Wong**<br>ang_lay_ngo@schools.gov.sg  | **Mrs Isabella Tan**<br>isabella_sim@schools.gov.sg | 
 | 4 Diligence | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg | **Mr Sean De Silva**<br>sean_de_silva@schools.gov.sg |
 |
