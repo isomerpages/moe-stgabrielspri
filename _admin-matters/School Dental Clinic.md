@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>For dental enquiries, parents can call or text St. Gabriel's clinic number
 at 9783 1761.</p>
-<p><strong>BUDDY CLINICS</strong>
+<p><strong><u>BUDDY CLINICS</u></strong>
 </p>
 <p>If the Dental Clinic is closed, the alternate clinics to contact are as
 shown below:</p>
@@ -26,7 +26,8 @@ shown below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yangzheng Primary School</p>
+<p><strong><u>Yangzheng Primary School</u></strong>
+</p>
 <p>Address: 15 Serangoon Ave 3</p>
 <p>Singapore 556108</p>
 <p></p>
@@ -37,7 +38,8 @@ shown below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maris Stella School</p>
+<p><strong><u>Maris Stella School</u></strong>
+</p>
 <p>Address: 25 Mount Vernon Rd</p>
 <p>Singapore 368501</p>
 </td>
