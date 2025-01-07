@@ -7,30 +7,10 @@ variant: markdown
 **Parents' Connect** <br>
 *For past issues, please refer to Parents Gateway*
 <br>
-[January 2024](https://drive.google.com/file/d/11styNUTID73DnIxrQsb8tYmNZxoOqWW9/view) 
-<br>
-[February 2024](https://drive.google.com/file/d/1qDApxYXmeXHMgEy08RQLSEqt5ta2bPON/view) 
-<br>
-[March 2024](https://drive.google.com/file/d/1lsZkQRL2G6w_9zYPyfD3WaQy-gZWkEPP/view)
-<br>
-[April 2024](https://drive.google.com/file/d/1V64MS7R2oxl03wpO3SZ6YdwxKjsqkZUC/view) 
-<br>
-[May &amp; June 2024](https://drive.google.com/file/d/1oUT5bgWIy8yTV88lDPEszmm0LZp1gZOi/view)
-<br>
-[July 2024](https://drive.google.com/file/d/1O1BN_LPvSjRdTr8WWQ2ThdwzBb__5oH1/view?usp=drive_link)
-<br>
-[August 2024](https://drive.google.com/file/d/1yt6HoIeqNP4YZ2JGRLeVgJvN08_p0emi/view?usp=sharing)
-<br>
-[September 2024](https://drive.google.com/file/d/10DqYeKObGjL0GxfSSw_TfbmSAaGLlf9S/view?usp=drive_link)
-<br>
-[October 2024](https://drive.google.com/file/d/1Z3cvAMhhsP04Jlo7xKgrM5KMCZwlNxrh/view?usp=drive_link)
-<br>
-[November &amp; December 2024](https://drive.google.com/file/d/1uRZUSu_Et7htnmybBVdTYqYYuElE0Hue/view?usp=drive_link)
+[January 2025](https://drive.google.com/file/d/1bkji4RSPDXN7JvwfyxXy84-q8Sa6051p/view?usp=sharing) 
 <br>
 <br>
 [Nominations for PAT 2025 and OYEA Award 2025](https://drive.google.com/file/d/1cOfNIl1pqwf1gPSmDWiOqO2kFtWmAvJQ/view?usp=sharing)
-<br>
-[After-School Curriculum for Term 3](https://drive.google.com/file/d/1BWWoRHvW_2awa8Bv3QTfD_2l-9qfWOpE/view?usp=sharing)
 <br>
 [School Holiday Crime Advisory](https://drive.google.com/file/d/1PyJwBlVEP7rhI2nJX-UetV37SZmFd7pI/view?usp=drive_link)
 <br>
@@ -45,7 +25,7 @@ variant: markdown
 [Primary 6 Foundation](https://drive.google.com/file/d/1mfqTSY_MOq1u8E0h33L0QUL7rRuoRO6s/view?usp=drive_link) | [Primary 6 Standard](https://drive.google.com/file/d/1p7lzJUDakwg6t1fRQzaSlJ69GRFmFxEh/view?usp=drive_link) | [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1ZOLb4FZbEl3vJNS3JHQ7afy_dfoaqne6/view?usp=drive_link) | 
 
 
-**Year End Assessment Timetable**  
+**Year End Assessment Timetable (2024)**  
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
