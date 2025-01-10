@@ -26,7 +26,7 @@ shown below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>CHIJ OLGC</u></strong>
+<p><strong><u>CHIJ Our Lady of Good Counsel</u></strong>
 </p>
 <p>Address: 2C Burghley Dr</p>
 <p>Singapore 558979</p>
