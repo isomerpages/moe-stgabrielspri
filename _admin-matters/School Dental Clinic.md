@@ -26,14 +26,14 @@ shown below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Yangzheng Primary School</u></strong>
+<p><strong><u>CHIJ OLGC</u></strong>
 </p>
-<p>Address: 15 Serangoon Ave 3</p>
-<p>Singapore 556108</p>
+<p>Address: 2C Burghley Dr</p>
+<p>Singapore 558979</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 89400314</p>
+<p>Tel: 97831761</p>
 </td>
 </tr>
 <tr>
