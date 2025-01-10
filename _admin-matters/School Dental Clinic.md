@@ -28,7 +28,7 @@ shown below:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>CHIJ OLGC</u></strong>
 </p>
-<p>Address: 2C BurghLey Dr</p>
+<p>Address: 2C Burghley Dr</p>
 <p>Singapore 558979</p>
 <p></p>
 </td>
