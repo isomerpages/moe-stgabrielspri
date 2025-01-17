@@ -18,15 +18,16 @@ Mr Felix Hector Gomez (Lead Teacher)<br>
 
 
 **PAL Team** <br>
-Mdm Rohaya<br>
-Mr Neo Yong Teck<br>
-Ms Karen Loo<br>
+Mrs Shelena Lim<br>
+Ms Evelyn Wu <br>
+Mrs Kareen Wong <br>
+Ms Nicole Tan <br>
+Ms Nur Halimah <br>
+Ms Lytessia Soh <br>
+Mrs Cecilia Wong <br>
+Mdm Goh Siew Ping<br>
 Ms Siti Nurhayaty<br>
 Mrs Sheryl Toh<br>
-Mrs Priscilla Teo<br>
-Mrs Kareen Wong <br>
-Mrs Shelena Lim<br>
-Mdm Goh Siew Ping<br>
 
 <p align="justify">
 The PAL pedagogy provides opportunities for our young Gabrielites to exhibit the desired behaviour aligned to our school vision and virtues. Our school vision 'A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.' is embedded in all six PAL modules - Sports and Games, and Outdoor Education, Visual Arts, and Performing Arts on Music, Dance and Drama. </p>
