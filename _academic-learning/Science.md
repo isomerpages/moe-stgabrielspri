@@ -24,7 +24,9 @@ and Society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/sc1.png">
 </div>
-<p><strong>Key Personnel</strong> 
+<p><strong>Key Personnel</strong>
+</p>
+<p>Head of Department: Ms Yenny Phoon
 <br>Level Head (Internal): Ms Jolene Low
 <br>Senior Teacher: Mdm Chitra Devi</p>
 <p><strong>Department Programmes</strong> 

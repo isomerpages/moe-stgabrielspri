@@ -2,12 +2,13 @@
 title: InfoComm Technology (ICT)
 permalink: /life-skills-and-enrichment/ict/
 description: ""
+variant: markdown
 ---
 **Department Goal**<br>
 Every Gabrielite will be a proficient, innovative and responsible user of ICT.
 
 **Key Personnel**  <br>
-Mdm Lim Jia Shyuan (Subject Head / InfoComm Technologies) 
+Ms Chua Suting (Subject Head / InfoComm Technologies) 
 
 
 **Department Programmes**
