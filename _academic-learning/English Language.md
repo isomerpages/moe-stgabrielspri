@@ -10,10 +10,13 @@ variant: tiptap
 an effective communicator, and an active change agent who empowers self
 and others to serve the community.</p>
 <p><strong>Key Personnel</strong> 
-<br>Head of Department : Mrs Michelle Tan
-<br>Level Head (Internal) : Mrs Serene Huang
-<br>Lead Teacher: Mrs Cecilia Koh
-<br>Senior Teacher : Mrs Wendy Chee</p>
+</p>
+<p>Head of Department: Mrs Michelle Tan</p>
+<p>Level Head (Internal): Mrs Serene Huang</p>
+<p>Level Head: Mrs Tan Siew Mei</p>
+<p>Lead Teacher: Mrs Cecilia Koh</p>
+<p>Senior Teacher : Mrs Wendy Chee</p>
+<p></p>
 <p><strong>National Curricula</strong>
 </p>
 <p><strong>ST</strong>rategies for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning
@@ -42,7 +45,11 @@ book recommendations as well as short excerpts of the books being read
 aloud. P4 to P6 LMM EL Monitors also promote interesting news articles
 in the Little Red Dot publications by giving presentations to the school
 on a weekly basis.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,7 +79,11 @@ on a weekly basis.</p>
 and connect people, a key feature in our EL programme is the use of stories
 to ignite the students’ passion for the English language through termly
 activities.&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,7 +113,11 @@ the school through the provision of reading resources and activities. Every
 year, we continue to participate in the NLB Read for Books event, a charity
 book drive aimed at raising awareness of reading and sharing the gift of
 reading with the less privileged.&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -133,7 +148,11 @@ Mythos Junior Orators (a storytelling competition), NewsMaker Awards (Digital
 Video News competition, Creative Writing Programme (CWP) and The Queen's
 Commonwealth Essay Competition. Such competitions allow our students to
 hone their speaking and writing skills while realising their full potential.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -158,7 +177,11 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tbody>
 </table>
 <p>Some of our achievements are listed below:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
