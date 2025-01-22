@@ -82,5 +82,5 @@ variant: markdown
 | 6 Diligence | **Ms Low Mei Ling**<br>low_mei_ling@schools.gov.sg | **Mrs Ang Leh Har**<br>ong_leh_har@schools.gov.sg |
 | | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg | |
 | 6 Self-Discipline | **Mr Xie Zhengyang**<br>xie_zhengyang@schools.gov.sg  | **Ms Lytessia Soh**<br>soh_xin_hui_lytessia@schools.gov.sg|
-| | **Mrs Kathy Koh** |
+| | **Mrs Kathy Koh** <br> kathy_heng_kwee_eng@schools.gov.sg|
 |
