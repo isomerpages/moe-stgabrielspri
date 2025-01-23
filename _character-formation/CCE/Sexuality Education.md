@@ -8,7 +8,6 @@ variant: tiptap
 <p>Updated: Jan 2025</p>
 <p><strong>ST. GABRIEL’S PRIMARY SCHOOL</strong>
 </p>
-<p></p>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -97,6 +96,7 @@ from sexuality-related risks.</p>
 </ol>
 <p><strong>At ST. GABRIEL’S Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
