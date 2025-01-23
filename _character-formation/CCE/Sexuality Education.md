@@ -98,6 +98,13 @@ from sexuality-related risks.</p>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5CCE.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6CCE.png">
+</div>
 <p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
