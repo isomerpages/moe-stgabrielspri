@@ -68,10 +68,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <br>a. Science
 <br>b. Character and Citizenship Education (CCE)</p>
 <p></p>
+<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 </li>
-</ol>
-<p><strong>Sexuality Education Lessons</strong>:</p>
-<ol start="6">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
@@ -93,12 +91,11 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-</li>
-</ol>
+<p></p>
 <p><strong>At ST. GABRIEL’S Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p></p>
-<p></p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5CCE.png">
 </div>
