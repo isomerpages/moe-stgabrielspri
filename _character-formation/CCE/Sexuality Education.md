@@ -92,7 +92,7 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<p><strong>At ST. GABRIEL’S Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At St. Gabriel’s Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 </li>
 </ol>
