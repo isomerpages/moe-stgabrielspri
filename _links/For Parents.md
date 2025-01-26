@@ -21,7 +21,6 @@ variant: markdown
 [List of Approved Mother Tongue Dictionaries for Use in 2025 PSLE](https://drive.google.com/file/d/1RLHFnuy7_7AKh_qA_Q9X8_KxVB2ffCZL/view?usp=sharing)
 
 **Assessment Plans (2025)**  
-
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
 | [Primary 1](https://drive.google.com/file/d/1Lb0UHztHYW5oHSBBPkUNvVMkIs7qjEn7/view?usp=drive_link) | [Primary 2](https://drive.google.com/file/d/1w2DqZ8i2NnaGRpyVXUqBViThv052Ie55/view?usp=drive_link) | [Primary 3](https://drive.google.com/file/d/1k1Bl5PWv1ncXcOvRk1yEXVVVhecGIOPg/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/1je_voblPOhOlWrA4qJJYb-yLE-ZSaYTy/view?usp=sharing) |
@@ -30,7 +29,6 @@ variant: markdown
 |
 
 **Year End Assessment Timetable (2024)**  
-
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
 | [Primary 3](https://drive.google.com/file/d/1hKBmLiKRcBAp2A5u4uvXuagulqoT1OJh/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/14lwEtxy-8NJyJE7XG3IVnj9Ta8ITw5S8/view?usp=sharing) | [Primary 5 Foundation](https://drive.google.com/file/d/1BgqBnikOcMZwf-wp29dAmEBqqDbWTFxT/view?usp=sharing) | [Primary 5 Standard](https://drive.google.com/file/d/1rb6AffLN4aKl6B_vDS1vttd6UiJLuumt/view?usp=sharing) |
