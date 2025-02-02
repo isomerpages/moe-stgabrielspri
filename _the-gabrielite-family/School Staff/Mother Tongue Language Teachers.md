@@ -131,7 +131,7 @@ variant: tiptap
 <p>Mrs Valerie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wang_yuwen_valerie@schools.gov.sg</p>
+<p>wang_yunwen_valerie@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
