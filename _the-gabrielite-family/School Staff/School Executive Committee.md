@@ -127,7 +127,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-brl1">Subject Head / Student Wellbeing (Internal)</td>
-    <td class="tg-brl1">Ms Karen Loo </td>
+    <td class="tg-brl1">Mrs Karen Tan </td>
     <td class="tg-brl1">loo_xinyi_karen@schools.gov.sg</td>
   </tr>
   <tr>
