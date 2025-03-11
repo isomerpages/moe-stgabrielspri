@@ -25,7 +25,7 @@ sections:
       title: School Corporate Video
       button: Get To Know Us
       url: https://youtu.be/13FrtrJzPoY?si=oN6_r20141ghBuOd
-      image: /images/eopenhouse2025.jpg
+      image: /images/eopenhouse2025.png
       alt: Image alt text
   - infopic:
       title: Facebook
