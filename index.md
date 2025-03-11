@@ -22,6 +22,12 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - infopic:
+      title: School Corporate Video
+      button: Get To Know Us
+      url: https://youtu.be/13FrtrJzPoY?si=oN6_r20141ghBuOd
+      image: /images/eopenhouse2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Facebook
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
@@ -34,11 +40,5 @@ sections:
       button: Click to view
       url: https://heyzine.com/flip-book/e4bd81f1a4.html
       image: /images/2024_Yearbook.png
-      alt: Image alt text
-  - infopic:
-      title: School Corporate Video
-      button: Get To Know Us
-      url: https://youtu.be/13FrtrJzPoY?si=oN6_r20141ghBuOd
-      image: /images/vidicondemo.png
       alt: Image alt text
 ---
