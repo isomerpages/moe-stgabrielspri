@@ -20,13 +20,13 @@ citizens.</p>
 </p>
 <p><strong>Key Drivers</strong> 
 <br>Mrs Catherine Low, HOD Aesthetics and Applied Learning</p>
-<p>Mdm Lim Jia Shyuan, SH InfoComm Technology
+<p>Ms Chua Suting, SH InfoComm Technology (Internal)
 <br>
 </p>
 <p><strong>Member</strong> 
 <br>Mr Jimmy Tong, HOD Physical &amp; Health Education and CCA</p>
 <p>Mr Sean de Zilva, SH Physical &amp; Health Education and CCA</p>
-<p>Mr Xie Zhengyang, SH Student Leadership
+<p>Ms Nur Halimah, LH Student Leadership (Internal)
 <br>
 </p>
 <p>In preparing Gabrielites to thrive in a rapidly evolving society as future-ready
@@ -94,7 +94,11 @@ Reflective Observation, Abstract Conceptualisation and Active Experimentation
 in the four-sage learning cycle of the Kolb’s Experiential Learning Cycle.
 Alignment is also made to MOE’s curriculum on National Digital Literacy
 Programme1 with its four components in the&nbsp;<strong>Find, Think, Apply and Create</strong>&nbsp;framework.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
