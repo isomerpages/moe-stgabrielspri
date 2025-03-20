@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Key Personnel</strong> 
-<br>Mr Xie Zhengyang&nbsp; (Subject Head, Student Leadership)</p>
+<br>Ms Nur Halimah&nbsp; (Level Head, Student Leadership (Internal))</p>
 <p><strong>Overview</strong>
 </p>
 <p>MLP is designed based on the theoretical underpinnings of the “Student
