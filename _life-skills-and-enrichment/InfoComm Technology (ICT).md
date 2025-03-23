@@ -8,7 +8,7 @@ variant: markdown
 Every Gabrielite will be a proficient, innovative and responsible user of ICT.
 
 **Key Personnel**  <br>
-Ms Chua Suting (Subject Head / InfoComm Technologies) 
+Ms Chua Suting (Subject Head / InfoComm Technologies (Internal)) 
 
 
 **Department Programmes**
