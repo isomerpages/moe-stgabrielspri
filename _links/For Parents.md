@@ -16,8 +16,6 @@ variant: markdown
 [April 2025](https://drive.google.com/file/d/1JlovFtAVgttWPihDqir6uLr98XO-rcqx/view?usp=drive_link)
 <br>
 <br>
-[School Holiday Crime Advisory](https://drive.google.com/file/d/1PyJwBlVEP7rhI2nJX-UetV37SZmFd7pI/view?usp=drive_link)
-<br>
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
 <br>
 <br>
