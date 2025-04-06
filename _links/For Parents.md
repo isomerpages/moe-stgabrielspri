@@ -20,10 +20,6 @@ variant: markdown
 <br>
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
 <br>
-[Nominations for Arif Budiman Malay Language Teacher Award 2025](https://drive.google.com/file/d/17_FxwybQv4sK8cX5A82eTRNg4c7wKrnM/view?usp=sharing)
-<br>
-[Nominations for Most Inspiring Tamil Teachers Award 2025](https://drive.google.com/file/d/1cUrNVuupN9OZY7Tb2uOR3_P-TV53B7bj/view?usp=sharing)
-<br>
 <br>
 [List of Approved Scientific Calculators for Use in 2025 PSLE](https://drive.google.com/file/d/1tvglVzfv-PEFTG93m6iaSGgn8rcEqQIM/view?usp=sharing)
 <br>
