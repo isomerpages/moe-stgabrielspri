@@ -58,6 +58,9 @@ as they explored and accomplished the GDLP project goals together.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Ysx6LBnGw4?si=OlN25Cs-2dMzHl0E"></iframe>
 </div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
+</div>
 <p><strong>Introduction</strong>
 </p>
 <p>GDLP is designed to equip our Gabrielites with digital literacy that will
