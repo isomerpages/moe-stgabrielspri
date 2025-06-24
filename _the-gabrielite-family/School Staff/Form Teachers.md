@@ -55,7 +55,7 @@ variant: markdown
 | 4 Loyalty | **Ms Yenny Phoon**<br>phoon_yin_fong_yenny@schools.gov.sg | **Mr Kong Zi Long Zechariah**<br>kong_zi_long@schools.gov.sg |
 | 4 Orderliness | **Ms Irfana**<br>irfana_banu_khider_mohamed@schools.gov.sg | **Mdm Nisfawati**<br>nisfawati_md_zainuddin@schools.gov.sg |
 | 4 Respect | **Mrs Cecilia Wong**<br>ang_lay_ngo@schools.gov.sg  | **Mrs Isabella Tan**<br>isabella_sim@schools.gov.sg | 
-| 4 Diligence | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg | **Mr Sean De Silva**<br>sean_de_silva@schools.gov.sg |
+| 4 Diligence | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg | **Mr Sean De Zilva**<br>sean_de_zilva@schools.gov.sg |
 |
 
 **Primary 5**
