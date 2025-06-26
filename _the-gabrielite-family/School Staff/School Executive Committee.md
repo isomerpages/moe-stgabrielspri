@@ -66,11 +66,6 @@ variant: markdown
     <td class="tg-brl1">Mrs Michelle Tan</td>
     <td class="tg-brl1">wee_hui_lin_michelle@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-brl1">Level Head / English Language (Internal)</td>
-    <td class="tg-brl1">Mrs Serene Huang</td>
-    <td class="tg-brl1">lee_huay_chin_serene@schools.gov.sg <br></td>
-  </tr>
 	  <tr>
     <td class="tg-brl1">Level Head / English Language</td>
     <td class="tg-brl1">Mrs Tan Siew Mei</td>
