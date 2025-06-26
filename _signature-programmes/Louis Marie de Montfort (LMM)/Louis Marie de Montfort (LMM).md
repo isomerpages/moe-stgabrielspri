@@ -13,7 +13,7 @@ Ms Yenny Phoon
 
 
 **Team Members**  
-Mrs Michelle Tan<br>Mrs Cecilia Koh<br>Ms Wan Chui Ting<br>Mrs Serene Huang
+Mrs Michelle Tan<br>Mrs Cecilia Koh<br>Ms Wan Chui Ting
 
 **Background**     
 <p align="justify">
