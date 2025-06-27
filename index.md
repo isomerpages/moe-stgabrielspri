@@ -21,19 +21,13 @@ sections:
           description: ""
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Phase 1 Registration for 2025 P1 Registration
-          date: 30 June 2025
-          announcement: Phase 1 registration will take place from 9.00am on 1 July 2025
-            (Tues) to 4.30pm on 3 July 2025 (Thurs). Phase 1 is for Singapore
-            Citizen or PR children born on 2 January 2019 to 1 January 2020 who
-            have an older sibling studying in our school. Please refer to the
-            MOE website for more information,
-          link_text: How to register for P1 | MOE
-          link_url: https://www.moe.gov.sg/primary/p1-registration/how-to-register
+  - infopic:
+      title: Phase 1 Registration for 2025 P1 Registration
+      id: infopic
+      button: Click here
+      url: 2025p1registration
+      image: /images/p1registration.jpg
+      alt: Image alt text
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
