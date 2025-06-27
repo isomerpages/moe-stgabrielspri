@@ -4,14 +4,16 @@ permalink: /2025p1registration/
 description: ""
 variant: tiptap
 ---
-<p>Dear Parents / Guardians</p>
-<p>Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident
-(PR) child born between 2 January 2018 and 1 January 2019 (both dates inclusive)
-and has a sibling currently studying in our school.</p>
-<p>Parents who are registering their younger child under Phase 1 are to <strong>register during the Phase 1 registration period in early July 2024.</strong>
+<p>Dear Parents / Guardians,</p>
+<p>Phase 1 registration for the 2025 Primary One (P1) Registration Exercise
+will take place from <strong>9.00 am on 1 July 2025 (Tuesday) to 4.30pm on 3 July 2025 (Thursday). </strong>Phase
+1 is for <strong>Singapore Citizen (SC)</strong> or <strong>Permanent Resident (PR)</strong> children
+born between <strong>2 January 2019 and 1 January 2020</strong> (both dates
+inclusive) <strong>who have an older sibling currently studying in our primary school.</strong>
 </p>
-<p>If your child is a non-SC / non-PR and thus not eligible for Phase 1,
-please submit an online Indication of Interest in end May/early June 2024.</p>
-<p>You may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">MOE P1 website</a> for
-more information on the 2024 P1 Registration Exercise.</p>
+<p>To register, please log in to the <strong>P1 Registration Portal</strong> using
+your <strong>Singpass</strong> during your child’s eligible phase registration
+period.</p>
+<p>For more information, please refer to the MOE website: <a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register" rel="noopener noreferrer nofollow" target="_blank">How to register for P1 | MOE</a>
+</p>
 <p>Thank you.</p>
