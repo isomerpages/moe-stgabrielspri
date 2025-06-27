@@ -14,7 +14,7 @@ variant: markdown
 | 1 Generosity | **Mrs Goh Yuniarti**<br>chan_yuniarti@schools.gov.sg | **Ms Palani**<br>palaniammal_murugiah@schools.gov.sg  |
 | | **Ms Nicole Tan**<br>tan_ter_hui@schools.gov.sg | **Ms Vanessa Caneda**<br>caneda_vanessa@schools.gov.sg  |
 | 1 Perseverance | **Mdm Nur Afiqa**<br>nur_afiqa_suaidi@schools.gov.sg | **Mrs Kareen Wong**<br>teoh_kareen@schools.gov.sg |
-| | **Mr Felix Hector Gomez**<br>felix_hector_gomez@schools.gov.sg | **Ms Germaine**<br>|
+| | **Mr Felix Hector Gomez**<br>felix_hector_gomez@schools.gov.sg | **Mdm Germaine Chew**<br>|
 | 1 Sincerity | **Mdm Rohaya**<br>rohaya_awie@schools.gov.sg | **Ms June Tan**<br>june_tan@schools.gov.sg&nbsp;|
 | | **Mr Quek Guan Hui**<br>quek_guan_hui@schools.gov.sg | | 
 | 1 Loyalty | **Ms Nur Halimah**<br>nur_halimah_mohamed_ramlee@schools.gov.sg | **Ms Evelyn Wu**<br>evelyn_wu_ing_geok@schools.gov.sg |  |
