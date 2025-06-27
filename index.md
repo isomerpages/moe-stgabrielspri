@@ -25,7 +25,7 @@ sections:
       title: Phase 1 Registration for 2025 P1 Registration
       id: infopic
       button: Click here
-      url: 2025p1registration
+      url: /2025p1registration/
       image: /images/p1registration.jpg
       alt: Image alt text
   - infopic:
