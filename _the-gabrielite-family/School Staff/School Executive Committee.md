@@ -91,7 +91,7 @@ variant: markdown
     <td class="tg-brl1">phoon_yin_fong_yenny@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Level Head / Science (Internal)</td>
+    <td class="tg-brl1">Level Head / Science </td>
     <td class="tg-brl1">Ms Jolene Low </td>
     <td class="tg-brl1">low_yun_yi_jolene@schools.gov.sg</td>
   </tr>
@@ -121,7 +121,7 @@ variant: markdown
     <td class="tg-brl1">nur_halimah_mohamed_ramlee@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td class="tg-brl1">Subject Head / Student Wellbeing (Internal)</td>
+    <td class="tg-brl1">Subject Head / Student Wellbeing </td>
     <td class="tg-brl1">Mrs Karen Tan </td>
     <td class="tg-brl1">loo_xinyi_karen@schools.gov.sg</td>
   </tr>
