@@ -28,7 +28,7 @@ sections:
       url: /2025p1registration/
       image: /images/p1registration.jpg
       alt: Image alt text
-      description: 01 July 2025 (9:00am) - 03 July 2025 (4.30pm)
+      description: 01 July 2025 - 03 July 2025
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
