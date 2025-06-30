@@ -36,12 +36,12 @@ variant: markdown
 [Primary 6 Foundation](https://drive.google.com/file/d/1hCvAClaWJNVhphrVB395z-Eg637mgW1O/view?usp=sharing) | [Primary 6 Standard](https://drive.google.com/file/d/1g5wzbn_SC3dBBUAkj2wAmklVNQYLW6bI/view?usp=sharing) | [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1uddWXygG7NWMwdwrHbAtHSUvbM4Oc_8D/view?usp=sharing) | 
 
 
-**Year End Assessment Timetable (2024)**  
+**Year End Assessment Timetable (2025)**  
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Primary 3](https://drive.google.com/file/d/1hKBmLiKRcBAp2A5u4uvXuagulqoT1OJh/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/14lwEtxy-8NJyJE7XG3IVnj9Ta8ITw5S8/view?usp=sharing) | [Primary 5 Foundation](https://drive.google.com/file/d/1BgqBnikOcMZwf-wp29dAmEBqqDbWTFxT/view?usp=sharing) | [Primary 5 Standard](https://drive.google.com/file/d/1rb6AffLN4aKl6B_vDS1vttd6UiJLuumt/view?usp=sharing) |
-| [Primary 6 Foundation](https://drive.google.com/file/d/1q9zYv33D9fLDXHaWjI6bHDNIr7R-PnnX/view?usp=drive_link) | [Primary 6 Standard](https://drive.google.com/file/d/14KlRh6IfiwJ_LDs37tlqrff71etXG3UG/view?usp=drive_link) |
+| Primary 3 | Primary 4 | Primary 5 Foundation | Primary 5 Standard |
+| [Primary 6 Foundation](https://drive.google.com/file/d/11-bLgSw4JlcmykHiyoWqtCw2-Y-GYo3L/view?usp=sharing) | [Primary 6 Standard](https://drive.google.com/file/d/1KOCTLBLmZsuigExFLrzwcj29M80y_GYT/view?usp=sharing) |
 
 
 [School-Based Assessment Policy](https://drive.google.com/file/d/1fCvz3jOLVLG62hxcFqnCkXCAGTzworS7/view?usp=sharing)
