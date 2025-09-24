@@ -22,14 +22,6 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - infopic:
-      title: Phase 1 Registration for 2025 P1 Registration
-      id: infopic
-      button: Click here
-      url: /2025p1registration/
-      image: /images/p1registration.jpg
-      alt: Image alt text
-      description: 01 July 2025 - 03 July 2025
-  - infopic:
       title: School Corporate Video
       button: Get To Know Us
       url: https://youtu.be/13FrtrJzPoY?si=oN6_r20141ghBuOd
