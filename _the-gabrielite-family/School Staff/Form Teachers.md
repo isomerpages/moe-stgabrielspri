@@ -45,7 +45,7 @@ variant: markdown
 | 3 Perseverance | **Mrs Jo-Marie Matthews**<br>jo-marie_malathi_alagu@schools.gov.sg | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg |
 | | **Mdm Goh Gek Cher**<br>goh_gek_cher@schools.gov.sg | |
 | 3 Sincerity | **Mrs Wendy Chee**<br>boey_yun_kwan@schools.gov.sg | **Mdm Susie Sim**<br>sim_mui_yin_susie@schools.gov.sg |
-| | **Mdm Wang Yunwen, Valerie**<br>wang_yunwen_valerie@schools.gov.sg | | 
+| | **Mrs Valerie Chong**<br>wang_yunwen_valerie@schools.gov.sg | | 
 |
 
 **Primary 4**
