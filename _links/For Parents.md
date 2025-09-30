@@ -23,6 +23,8 @@ variant: markdown
 <br>
 [September 2025](https://drive.google.com/file/d/14s2c9-aZgg804foin6AJwoKuCiBDtqN0/view?usp=drive_link)
 <br>
+[October 2025](https://drive.google.com/file/d/1l63xekzRZkh8c9JUvYRhNa4J_p8-6Mf6/view?usp=drive_link)
+<br>
 <br>
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
 <br>
