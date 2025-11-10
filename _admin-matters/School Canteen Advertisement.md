@@ -67,8 +67,7 @@ School's General Office.</p>
 <p>Contact No: 6280 3628</p>
 </li>
 <li>
-<p>Email:&nbsp;<a href="stgps@moe.edu.sg" rel="noopener nofollow" target="_blank">stgps@moe.edu.sg</a>
-</p>
+<p>Email: stgps@moe.edu.sg</p>
 </li>
 <li>
 <p>Contact Person: Mdm Lyndia Lin, Mr Tommy Lau</p>
