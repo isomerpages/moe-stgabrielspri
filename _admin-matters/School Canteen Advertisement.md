@@ -2,134 +2,119 @@
 title: School Canteen Advertisement
 permalink: /admin-matters/school-canteen-advertisement/
 description: ""
+variant: tiptap
 ---
-| Type of Stall |  |
-| -------- | -------- |
-| Western Food Stall (Halal)     | |
-|International/Asian Cuisine Stall (Halal)| |
-
---------------
-<p align="justify">
-St. Gabriel’s Primary School would like to invite applicants to operate a Western Food Stall (Halal). Please forward the completed form to the school. </p>
-
-Western Stall (Halal) <br>
-<p align="justify">
-1. Applicants must meet the following criteria: <br>
-
-a. Must be a Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. <br>
-
-b.	Able to provide food that meet the health/nutritional standards set by the Health Promotion Board in the “Healthy Eating in Schools Programme” and carry the Healthier Choice Symbol/ Healthier Snack Symbol logo. <br>
-
-c.	Able to provide good service and quality food at reasonable prices. <br>
-
-d.	Able to observe a high standard of food and personal hygiene. <br>
-
-e.	Be in personal attendance at the stall during operating hours. <br>
-
-f.	Preferably possess some catering experience or experience in running a school canteen stall. <br>
-
-g.	Before operating the stall, both applicant and stall assistant(s) must pass the Basic Food Hygiene Course administered by the Singapore Food Agency (SFA). The applicant will then be required to apply for a food stall license from SFA. <br>
-
-h.	Applicant must be either a Muslim or a non-Muslim with Halal Certification. <br>
-
-i.	Able to provide good service and quality food with prices determined in consultation with the school. <br>
-
-j.	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)). <br>
-
-k.	Healthy and fit to operate the stall. <br> </p>
-<p align="justify">
-2. Interested applicants, please complete the Application Form:
-<a href="https://drive.google.com/file/d/1riA6LFilvg3d26VNPBl-NSDfZCcEJEP4/view?usp=sharing">Application Form</a>
-
-<br>
-</p><p align="justify">
-3.         Please email the following to stgps@moe.edu.sg<br>
-
-a.	Completed Application Form<br>
-	
-b.	One recent passport size photograph<br>
-	
-c.	One photocopy of the NRIC (front &amp; back)<br>
-	
-d.	A proposed menu list and prices of items to be sold.<br>
-	
-e.	Photocopy of certificates of relevant courses attended, such as Basic Food Hygiene Course &amp; Basic Food Hygiene Course(Refresher).<br>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Stall</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Snacks and Hot Drinks</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Application Procedure</strong>
 </p>
-<p align="justify">
-4.	Please note that only shortlisted applicants will be notified to come for interview. Applicants are required to prepare your proposed dishes for food tasting at your own expense in the school. Late/incomplete applications will not be considered.<br>
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and complete the application form. You may also request for a
+hardcopy from the School’s General Office.</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1riA6LFilvg3d26VNPBl-NSDfZCcEJEP4/view?pli=1" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
-<p align="justify">
-5.	For further enquiries, please contact the Admin Manager at 62803628.
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Attach the following documents together with the application form:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+etc</p>
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Submit the completed application form and documents via email OR to the
+School's General Office.</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 220 LORONG CHUAN Singapore 556742</p>
+</li>
+<li>
+<p>Contact No: 6280 3628</p>
+</li>
+<li>
+<p>Email:&nbsp;<a href="stgps@moe.edu.sg" rel="noopener nofollow" target="_blank">stgps@moe.edu.sg</a>
 </p>
-
--------------------
-<br>
-<p align="justify">
-St. Gabriel’s Primary School would like to invite applicants to operate an International/Asian Cuisine Stall (Halal) stall. Please forward the completed form to the school.
+</li>
+<li>
+<p>Contact Person: Mdm Lyndia Lin, Mr Tommy Lau</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Interest applicants must meet the following criteria:</strong>
 </p>
-<p align="justify">
-Some examples of cuisines/menus that our school is looking for are:
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+and stall assistant.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food with prices determined in
+consultation with the school.</p>
+</li>
+<li>
+<p>Able to provide cooked food that meets the health / nutritional standards
+set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
+Programme (HMSP)" guidelines (see&nbsp;link).</p>
+</li>
+<li>
+<p>Able to maintain high standard of food safety and personal hygiene.</p>
+</li>
+<li>
+<p>Healthy and fit to operate the stall.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
-
--	Thai cuisine (halal) OR;
--	Korean cuisine (halal) OR;
--	Mediterranean cuisine (halal) OR;
--	Indian cuisine (halal) OR;
--	Western cuisine (halal) OR;
--	Japanese cuisine (halal) OR;
-<br>
-
-<p align="justify">
-Halal Menu - Thai / Korean / Mediterranean / Indian / Western / Japanese</p>
-
-<p align="justify">
-1. Stallholder(s) and assistant(s) must meet the following criteria: <br>
-a.	Must be a Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. <br>
-
-b.	Able to provide food that meet the health/nutritional standards set by the Health Promotion Board in the “Healthy Eating in Schools Programme” and carry the Healthier Choice Symbol/ Healthier Snack Symbol logo. <br>
-
-c.	Able to provide good service and quality food at reasonable prices. <br>
-
-d.	Able to observe a high standard of food and personal hygiene. <br>
-
-e.	Be in personal attendance at the stall during operating hours. <br>
-
-f.	Preferably possess some catering experience or experience in running a school canteen stall. <br>
-
-g.	Before operating the stall, both applicant and stall assistant(s) must pass the Basic Food Hygiene Course administered by the Singapore Food Agency (SFA). The applicant will then be required to apply for a food stall license from SFA. <br>
-
-h.	Applicant must be either a Muslim or a non-Muslim with Halal Certification. <br>
-
-i.	Able to provide good service and quality food with prices determined in consultation with the school. <br>
-
-j.	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)). <br>
-
-k.	Healthy and fit to operate the stall. <br>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate.</p>
+</li>
+<li>
+<p>Possess catering experience or experience operating in a school environment.</p>
+</li>
+<li>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA).</p>
+</li>
+</ul>
+<p></p>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
-
-<p align="justify">
-2. Interested applicants, please complete the Application Form:
-<a href="https://drive.google.com/file/d/1riA6LFilvg3d26VNPBl-NSDfZCcEJEP4/view?usp=sharing">Application Form</a>
-</p>
-
-<p align="justify">
-3.        Please email the following to stgps@moe.edu.sg <br>
-
-a.	Completed Application Form <br>
-
-b.	One recent passport size photograph <br>
-
-c.	One photocopy of the NRIC (front &amp; back) <br>
-
-d.	A proposed menu list and prices of items to be sold. <br>
-
-e.	Photocopy of certificates of relevant courses attended, such as Basic Food Hygiene Course &amp; Basic Food Hygiene Course(Refresher).<br>
-</p>
-
-<p align="justify">
-4.          Please note that only shortlisted applicants will be notified to come for interview. Applicants are required to prepare your proposed dishes for food tasting at your own expense in the school. Late/incomplete applications will not be considered.
-</p>
-
-<p align="justify">
-5.           For further enquiries, please contact the Admin Manager at 62803628.
-</p>
+<p>&nbsp;</p>
