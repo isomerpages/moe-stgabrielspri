@@ -29,7 +29,7 @@ sections:
           description: President’s Award for Teachers & Outstanding Youth in Education
             Award 2026
           linktext: Learn more
-          url: https://www.stgabrielspri.moe.edu.sg/president-s-award-for-teachers-outstanding-youth-in-education-award-2026/
+          url: /president-s-award-for-teachers-outstanding-youth-in-education-award-2026/
         - title: "2025"
           description: 2026 Booklist
           linktext: Learn more
