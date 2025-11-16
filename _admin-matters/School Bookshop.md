@@ -2,25 +2,25 @@
 title: School Bookshop
 permalink: /admin-matters/school-bookshop/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**PACIFIC BOOKSTORES PTE LTD**
-
-**Contact Number:**  64640111 (Main Office) / 93654596 (School Bookstore) 
-
- **Opening Hours: (in school)**
- 8am to 2.30pm (Mon to Fri)  
-
-**Address:** 14 Arumugam Road #08-01 Lion Building C, Singapore 409959  
-
-**Website:** www.pacificbookstores.com
-
-**Email:** sales@pacificbookstores.com 
-
-**Remarks:**  Online purchase available
-
-**Booklists (2025):**
-
-[SGPS P1.pdf](https://drive.google.com/file/d/1ZTM-ObzQCsov8z6-LzzsDHrKDbcV6f52/view?usp=sharing)        [SGPS P2.pdf](https://drive.google.com/file/d/1U8cwPE_aIr9bdJWeXDPCU7kuKpbAksWM/view?usp=sharing)        [SGPS P3.pdf](https://drive.google.com/file/d/1zhuyoI2jCm2KqivqF8oQrqCKHMrdNu3m/view?usp=sharing)
-
-[SGPS P4.pdf](https://drive.google.com/file/d/1AeK5pVaubsSapctE2BQzV515f4CqXdoJ/view?usp=sharing)       [SGPS P5.pdf](https://drive.google.com/file/d/1Q7tXZH1F2rnG52wHapf5H6pSIPqr7n7V/view?usp=sharing)        [SGPS P6.pdf](https://drive.google.com/file/d/1v6375xXGTJrVKdv1t4dPTX4BAJ13V3fU/view?usp=sharing)
+<p><strong>PACIFIC BOOKSTORES PTE LTD</strong>
+</p>
+<p><strong>Contact Number:</strong> 64640111 (Main Office) / 93654596 (School
+Bookstore)</p>
+<p><strong>Opening Hours (in school): </strong>8am to 2.30pm (Mon to Fri)</p>
+<p><strong>Address:</strong> 14 Arumugam Road #08-01 Lion Building C, Singapore
+409959</p>
+<p><strong>Website:</strong> www.pacificbookstores.com</p>
+<p><strong>Email:</strong> sales@pacificbookstores.com</p>
+<p><strong>Remarks:</strong> Online purchase available</p>
+<p><strong>Booklists (2026):</strong>
+</p>
+<p><a href="https://drive.google.com/file/d/1n6QvxwuYMZYgwELaZN1gxjxdRJmVl160/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">SGPS P1.pdf</a>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;<a href="https://drive.google.com/file/d/1G8Rbp8khUBMqx7D98zZakJOt_3flBpTB/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">SGPS P2.pdf</a>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;<a href="https://drive.google.com/file/d/1-gpxt_o9hwdxQBnV1aLkA6BL71CM63x_/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">SGPS P3.pdf</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1LZzieOEnMnXxDn0MjUdyJSj4Z9NPOebN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">SGPS P4.pdf</a>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1ust4SUmAh7C8sh094WvwnbfHCzT_EHj5/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">SGPS P5.pdf</a>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;<a href="https://drive.google.com/file/d/1bSGR5r9quAgo3UWRGma5KAvlz9tqSDEb/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">SGPS P6.pdf</a>
+</p>
