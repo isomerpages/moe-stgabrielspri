@@ -23,9 +23,7 @@ sections:
       background: /images/mock-up website gif (3).gif
   - textcards:
       title: Latest Announcements
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: "2025"
           description: President’s Award for Teachers & Outstanding Youth in Education
