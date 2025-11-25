@@ -4,4 +4,4 @@ permalink: /admin-matters/school-canteen-advertisement/
 description: ""
 variant: tiptap
 ---
-<p>All stalls have been filled. Thank you for you interest!</p>
+<p>All stalls have been filled. Thank you for your interest!</p>
