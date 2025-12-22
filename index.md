@@ -26,6 +26,10 @@ sections:
       id: textcards
       cards:
         - title: "2025"
+          description: St. Gabriel's Schools 2025 Yearbook
+          linktext: View here
+          url: https://heyzine.com/flip-book/dadf783bad.html
+        - title: "2025"
           description: President’s Award for Teachers & Outstanding Youth in Education
             Award 2026
           linktext: Learn more
@@ -51,11 +55,11 @@ sections:
       alt: Image alt text
       image: /images/900x240cm_lsa_fa.jpg
   - infopic:
-      title: 2024 School Magazine
+      title: 2025 School Magazine
       id: infopic
       description: St Gabriel's Primary & Secondary Schools
       button: Click to view
-      url: https://heyzine.com/flip-book/e4bd81f1a4.html
-      image: /images/2024_Yearbook.png
+      url: https://heyzine.com/flip-book/dadf783bad.html
+      image: /images/2025_yearbook.png
       alt: Image alt text
 ---
