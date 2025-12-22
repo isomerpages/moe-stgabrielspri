@@ -38,10 +38,6 @@ sections:
           description: 2026 Booklist
           linktext: Learn more
           url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-bookshop/
-        - title: "2025"
-          description: School Canteen Advertisement (Snacks & Hot Drinks)
-          linktext: Learn more
-          url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-canteen-advertisement/
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
