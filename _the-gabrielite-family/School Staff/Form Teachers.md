@@ -13,8 +13,8 @@ variant: markdown
 | 1 Generosity |  **Mrs Sheryl Toh**<br>siew_sheryl@schools.gov.sg | **Mr Muhammad Andry**<br>muhammad_andry_hrithik_nur@schools.gov.sg  |
 | | **Ms Chong Suh In**<br>  | |
 | 1 Perseverance | **Ms Siti Nurhayaty**<br>siti_nurhayaty_saptu@schools.gov.sg | **Ms Lin Bei Jin**<br>lin_bei_jin@schools.gov.sg |
-| | **Mdm Milahwati**<br>  | |
-| 1 Sincerity | **Ms Lee Ling Ling**<br> | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg |
+| | **Mdm Milahwati**<br>milahwati_hussain_a@schools.gov.sg | |
+| 1 Sincerity | **Ms Lee Ling Ling**<br>lee_ling_ling_b@schools.gov.sg | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg |
 | | **Mr Quek Guan Hui**<br>quek_guan_hui@schools.gov.sg | | 
 | 1 Loyalty | **Mr Neo Yong Teck**<br>neo_yong_teck@schools.gov.sg | **Mdm Yang Xiaoqing**<br>yang_xiaoqing@schools.gov.sg |  |
 | | **Mdm Shofia**<br>shofia_sukma_nasirjaya@schools.gov.sg | |
@@ -29,7 +29,7 @@ variant: markdown
 | | **Mdm Goh Gek Cher**<br>goh_gek_cher@schools.gov.sg | |
 | 2 Respect | **Mdm Nur Afiqa**<br>nur_afiqa_suaidi@schools.gov.sg | **Mrs Kareen Wong**<br>teoh_kareen@schools.gov.sg | |
 | | **Mr Felix Hector Gomez**<br>felix_hector_gomez@schools.gov.sg | |
-| 2 Diligence | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg | **Mrs Wee Yip Peng**<br>  | 
+| 2 Diligence | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg | **Mrs Wee Yip Peng**<br>wee_yip_peng_nee@schools.gov.sg | 
 | | **Mdm Rohaya**<br>rohaya_awie@schools.gov.sg | |
 | 2 Self-Discipline | **Ms Nur Halimah**<br>nur_halimah_mohamed_ramlee@schools.gov.sg | **Ms Evelyn Wu**<br>evelyn_wu_ing_geok@schools.gov.sg | |
 | | **Mr Ng Chiong Hoe**<br>ng_chiong_hoe@schools.gov.sg | | 
@@ -40,11 +40,11 @@ variant: markdown
 | Class | Form Teachers | |
 |---|---|---|
 | 3 Self-Discipline | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg |
-| | **Ms Shanthini** <br> | |
+| | **Ms Shanthini**<br>shanthini_manoosegaran_a@schools.gov.sg | |
 | 3 Generosity | **Mdm Chitra**<br>chitra_devi_kasiviswanathan@schools.gov.sg | **Ms Chua Suting**<br>chua_suting@schools.gov.sg |
 | | **Mdm Noor Aisha**<br>noor_aisha@schools.gov.sg | |
 | 3 Perseverance | **Mrs Cecilia Wong**<br>ang_lay_ngo@schools.gov.sg | **Mr Jasper Lee**<br>lee_rui_bin_jasper@schools.gov.sg |
-| | **Ms Tye Meifen Jasmine**<br> | **Ms Nicole Tan**<br>tan_ter_hui@schools.gov.sg |
+| | **Ms Tye Meifen Jasmine**<br>tye_meifen_jasmine_c@schools.gov.sg | **Ms Nicole Tan**<br>tan_ter_hui@schools.gov.sg |
 | 3 Sincerity | **Mrs Wendy Chee**<br>boey_yun_kwan@schools.gov.sg | **Mdm Susie Sim**<br>sim_mui_yin_susie@schools.gov.sg |
 | | **Mr Sng Cheng Kiang**<br>sng_cheng_kiang@schools.gov.sg | | 
 |
@@ -58,7 +58,7 @@ variant: markdown
 | 4 Respect | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg  | **Mrs Shankar**<br>krishnaveni_ramasamy@schools.gov.sg |
 | | **Ms M Sharmila**<br>m_sharmila@schools.gov.sg | |
 | 4 Diligence | **Mrs Jo-Marie Matthews**<br>jo-marie_malathi_alagu@schools.gov.sg | **Ms Wan Chui Ting**<br>wan_chui_ting@schools.gov.sg |
-| | **Mdm Teo Poh Gek Pauline**<br>  | **Mdm Lytessia Soh**<br>soh_xin_hui_lytessia@schools.gov.sg |
+| | **Mdm Teo Poh Gek Pauline**<br>teo_poh_gek_pauline_a@schools.gov.sg  | **Mdm Lytessia Soh**<br>soh_xin_hui_lytessia@schools.gov.sg |
 |
 
 **Primary 5**
@@ -66,7 +66,7 @@ variant: markdown
 | Class | Form Teachers | |
 |---|---|---|
 | 5 Self-Discipline | **Ms Yenny Phoon**<br>phoon_yin_fong_yenny@schools.gov.sg | **Mrs Cecilia Koh**<br>lee_hiang_hoon_cecilia@schools.gov.sg |
-| | **Ms Zhan Yan** <br> | 
+| | **Ms Zhan Yan**<br>zhan_yan@schools.gov.sg | 
 | 5 Generosity | **Mrs Michelle Tan**<br>wee_hui_lin_michelle@schools.gov.sg | **Ms Irfana**<br>irfana_banu_khider_mohamed@schools.gov.sg | 
 | 5 Perseverance | **Mrs Isabella Tan**<br>isabella_sim@schools.gov.sg | **Ms Ren Ting**<br>ren_ting@schools.gov.sg |
 | | **Mr Muhamad Hamzah**<br>muhamad_hamzah_rohi@schools.gov.sg | |
