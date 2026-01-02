@@ -25,7 +25,7 @@ variant: markdown
 | Class | Form Teachers | |
 |---|---|---|
 | 2 Loyalty | **Mrs Dorin Lee**<br>tan_siew_lay_a@schools.gov.sg | **Ms Glenda Ng**<br>glenda_ng@schools.gov.sg |
-| 2 Orderliness | **Mrs Goh Yuniarti**<br>chan_yuniarti@schools.gov.sg | **Mrs Lee Siew Ping**<br>goh_siew_ping@schools.gov.sg | |
+| 2 Orderliness | **Mrs Yuniarti Goh**<br>chan_yuniarti@schools.gov.sg | **Mrs Lee Siew Ping**<br>goh_siew_ping@schools.gov.sg | |
 | | **Mdm Goh Gek Cher**<br>goh_gek_cher@schools.gov.sg | |
 | 2 Respect | **Mdm Nur Afiqa**<br>nur_afiqa_suaidi@schools.gov.sg | **Mrs Kareen Wong**<br>teoh_kareen@schools.gov.sg | |
 | | **Mr Felix Hector Gomez**<br>felix_hector_gomez@schools.gov.sg | |
