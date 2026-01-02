@@ -11,7 +11,7 @@ variant: markdown
 |---|---|---|
 | 1 Self-Discipline    |**Mrs Karen Tan**<br>loo_xinyi_karen@schools.gov.sg  |**Mrs Ong Elsa**<br>teng_hui_khim_elsa@schools.gov.sg |
 | 1 Generosity |  **Mrs Sheryl Toh**<br>siew_sheryl@schools.gov.sg | **Mr Muhammad Andry**<br>muhammad_andry_hrithik_nur@schools.gov.sg  |
-| | **Ms Chong Suh In**<br>  | |
+| | **Ms Chong Suh In**<br>chong_suh_in@schools.gov.sg  | |
 | 1 Perseverance | **Ms Siti Nurhayaty**<br>siti_nurhayaty_saptu@schools.gov.sg | **Ms Lin Bei Jin**<br>lin_bei_jin@schools.gov.sg |
 | | **Mdm Milahwati**<br>milahwati_hussain_a@schools.gov.sg | |
 | 1 Sincerity | **Ms Lee Ling Ling**<br>lee_ling_ling_b@schools.gov.sg | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg |
