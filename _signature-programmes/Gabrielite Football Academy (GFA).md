@@ -73,8 +73,7 @@ variant: tiptap
 <p>P3 and P4 Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irfana
-<br>Mr Zechariah Kong</p>
+<p>Ms Irfana</p>
 </td>
 </tr>
 <tr>
