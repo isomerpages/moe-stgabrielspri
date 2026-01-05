@@ -7,25 +7,7 @@ variant: markdown
 **Parents' Connect** <br>
 *For past issues, please refer to Parents Gateway*
 <br>
-[January 2025](https://drive.google.com/file/d/1bkji4RSPDXN7JvwfyxXy84-q8Sa6051p/view?usp=sharing) 
-<br>
-[February 2025](https://drive.google.com/file/d/1NUYDaGgIh3lb8zeRsn3pSHHwOtbngPdD/view?usp=sharing)
-<br>
-[March 2025](https://drive.google.com/file/d/1ZvP2xPYepJQVj79hgwzPl2C5dsDkvWS-/view?usp=sharing)
-<br>
-[April 2025](https://drive.google.com/file/d/1JlovFtAVgttWPihDqir6uLr98XO-rcqx/view?usp=drive_link)
-<br>
-[May &amp; June 2025](https://drive.google.com/file/d/15rtXYwPIPAVcD5RxBtjbF-dJNmW5wThj/view?usp=sharing)
-<br>
-[July 2025](https://drive.google.com/file/d/1UatURDyiGNJkcnkl7VxnwIrAqP0F0xf3/view?usp=drive_link)
-<br>
-[August 2025](https://drive.google.com/file/d/1tJl98B4Qax8ZLfaCtzB8RUuasijbV-yq/view?usp=drive_link)
-<br>
-[September 2025](https://drive.google.com/file/d/14s2c9-aZgg804foin6AJwoKuCiBDtqN0/view?usp=drive_link)
-<br>
-[October 2025](https://drive.google.com/file/d/1l63xekzRZkh8c9JUvYRhNa4J_p8-6Mf6/view?usp=drive_link)
-<br>
-[November/December 2025](https://drive.google.com/file/d/1AvJ5hVheIWfBlyZs2_SpzcySzE_0L8fT/view?usp=drive_link)
+[January 2026](https://drive.google.com/file/d/1NzO_T52MRguwNhLzXMr4FtyrfL8ENRBF/view?usp=sharing) 
 <br>
 <br>
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
