@@ -107,8 +107,8 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-brl1">Level Head / Chinese Language (Internal)</td>
-    <td class="tg-brl1"> Mdm Zhou Jing</td>
-    <td class="tg-brl1"> zhou_jing@schools.gov.sg</td>
+    <td class="tg-brl1"> Ms Ren Ting</td>
+    <td class="tg-brl1"> ren_ting@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-brl1">HOD / Discipline, Safety &amp; Partnerships</td>
@@ -116,7 +116,7 @@ variant: markdown
     <td class="tg-brl1">low_mei_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-brl1">Level Head / Student Leadership (Internal)</td>
+    <td class="tg-brl1">Subject Head / Student Leadership (Internal)</td>
     <td class="tg-brl1">Ms Nur Halimah</td>
     <td class="tg-brl1">nur_halimah_mohamed_ramlee@schools.gov.sg</td>
   </tr>
