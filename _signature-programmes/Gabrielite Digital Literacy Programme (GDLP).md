@@ -26,7 +26,7 @@ citizens.</p>
 <p><strong>Member</strong> 
 <br>Mr Jimmy Tong, HOD Physical &amp; Health Education and CCA</p>
 <p>Mr Sean de Zilva, SH Physical &amp; Health Education and CCA</p>
-<p>Ms Nur Halimah, LH Student Leadership (Internal)</p>
+<p>Ms Nur Halimah, SH Student Leadership (Internal)</p>
 <p>At St. Gabriel’s Primary School, we are committed to preparing our students
 to thrive in a fast-changing world. In 2025, our Gabrielite Digital Literacy
 Programme (GDLP) will continue to anchor students on a strong foundation
