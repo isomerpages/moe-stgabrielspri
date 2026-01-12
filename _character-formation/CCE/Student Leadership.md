@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>Department Goal</strong>
 <br>To Develop Gabrielite Leaders who Lead and Serve God and Nation</p>
 <p><strong>Key Personnel</strong>
-<br>Ms Nur Halimah (Level Head, Student Leadership (Internal))</p>
+<br>Ms Nur Halimah (Subject Head, Student Leadership (Internal))</p>
 <p><strong>Leadership Framework</strong>
 </p>
 <p>Student leadership at St. Gabriel’s Primary School is aligned to its mission
