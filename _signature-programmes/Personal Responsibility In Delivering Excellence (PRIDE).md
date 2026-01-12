@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Head of Department / Subject Head:</strong>
-<br>Ms Nur Halimah (Level Head, Student Leadership (Internal))</p>
+<br>Ms Nur Halimah (Subject Head, Student Leadership (Internal))</p>
 <p><strong>Introduction:</strong>
 <br>The PRIDE Team comprises of the Heads and Vice-Heads of the following
 groups of Leaders:</p>
