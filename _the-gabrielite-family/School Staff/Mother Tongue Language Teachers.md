@@ -134,6 +134,22 @@ variant: tiptap
 <p>wang_yunwen_valerie@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Suh In</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_suh_in@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhan Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhan_yan@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>MALAY LANGUAGE</h3>
@@ -167,6 +183,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nisfawati_md_zainuddin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Andry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_andry_hrithik_nur@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
