@@ -11,7 +11,7 @@ activities which enthuse and enrich our students’ learning</p>
 <p><strong>Key Personnel</strong> 
 <br>Ms Wan Chui Ting (HOD / Mother Tongue Languages (MTL)&nbsp;&amp; School
 Library)</p>
-<p>Mdm Zhou Jing (Level Head / Chinese Language (Internal))</p>
+<p>Ms Ren Ting (Level Head / Chinese Language (Internal))</p>
 <p><strong>Department Programmes</strong> 
 <br>To enhance students' interest in learning Chinese Language, the following
 activities are organized for all pupils.</p>
