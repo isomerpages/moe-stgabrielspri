@@ -2,7 +2,7 @@
 title: School Bus
 permalink: /admin-matters/school-bus/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>TONG TAR TRANSPORT SERVICES PTE LTD</strong>&nbsp;</p>
 <p><strong>Address:</strong> 8 Soon Lee Road, Singapore 628073 &nbsp;</p>
