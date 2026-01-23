@@ -33,7 +33,7 @@ students from home to school and vice versa)</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Price<br>with GST</strong>
+<p><strong>Price with GST</strong>
 </p>
 </td>
 </tr>
@@ -170,13 +170,13 @@ Activities) departing before 4pm.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Price to Parent<br>with GST</strong>
+<p><strong>Price with GST</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Per trip</strong>
+<p><strong>Per trip /day</strong>
 </p>
 </td>
 </tr>
