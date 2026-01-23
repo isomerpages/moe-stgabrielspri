@@ -19,7 +19,8 @@ reflected, from school to home.&nbsp;</p>
 <p>Bus fares applicable from 1 January 2026 to 31 December 2026:</p>
 <p>Daily School Bus Services based on Not to Exceed Price (i.e. for sending
 students from home to school and vice versa)</p>
-<p>Regular Bus Fees</p>
+<p><strong>Regular Bus Fees</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -157,7 +158,8 @@ agree with the price quoted by the bus operator to start the service.</p>
 <p>Bus Services after school activities (i.e. sending students home from
 school after supplementary lessons / enrichment programmes and Co-Curricular
 Activities) departing before 4pm.</p>
-<p>CCA Bus Fees</p>
+<p><strong>CCA Bus Fees</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
