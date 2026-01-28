@@ -26,6 +26,10 @@ sections:
       id: textcards
       cards:
         - title: "2026"
+          description: Gabrielite Sports Excellence Program (GSEP)
+          linktext: Learn more
+          url: https://www.stgabrielspri.moe.edu.sg/signature-programmes/gsep
+        - title: "2026"
           description: School Bus Fee Update
           linktext: Learn more
           url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-bus/
