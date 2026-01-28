@@ -10,6 +10,9 @@ description: ""
 </p>
 <p><strong>GSEP Programme for Selected P1 and P2 Students</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p74RHr190Yw?si=D3mW85VqOIctbd65"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP1.png">
