@@ -275,11 +275,9 @@ GSEP at P2, P3 and even P4.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP34.png">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -290,7 +288,6 @@ GSEP at P2, P3 and even P4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP33.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -301,7 +298,6 @@ GSEP at P2, P3 and even P4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP36.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -312,7 +308,6 @@ GSEP at P2, P3 and even P4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP35.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -320,7 +315,6 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP37.png">
 </div>
@@ -334,7 +328,6 @@ GSEP at P2, P3 and even P4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP38.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -342,7 +335,6 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP39.png">
 </div>
@@ -356,7 +348,6 @@ GSEP at P2, P3 and even P4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP40.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -364,7 +355,6 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP41.png">
 </div>
@@ -378,7 +368,6 @@ GSEP at P2, P3 and even P4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP42.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -386,7 +375,6 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP43.png">
 </div>
@@ -397,11 +385,9 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP44.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -409,7 +395,6 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP45.png">
 </div>
@@ -420,7 +405,6 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP47.png">
 </div>
@@ -431,7 +415,6 @@ GSEP at P2, P3 and even P4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP48.png">
 </div>
