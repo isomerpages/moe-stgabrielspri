@@ -265,6 +265,9 @@ GSEP at P2, P3 and even P4.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP33.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -273,6 +276,9 @@ GSEP at P2, P3 and even P4.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP37.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -281,6 +287,9 @@ GSEP at P2, P3 and even P4.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP41.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
