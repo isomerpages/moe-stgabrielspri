@@ -25,12 +25,11 @@ sections:
       title: 2028 Schools' Strategic Plan
       id: resources
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 2028 School Strategic Plan
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      button: Learn More
+      image: /images/1.png
+      url: /2028-school-strategic-plan/
   - textcards:
       title: Latest Announcements
       id: textcards
