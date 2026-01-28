@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Gabrielite Sports Excellence Programme (GSEP).md
       - Personal Responsibility In Delivering Excellence (PRIDE).md
       - Louis Marie de Montfort (LMM)/.keep
       - Louis Marie de Montfort (LMM)/Louis Marie de Montfort (LMM).md
@@ -13,4 +14,3 @@ collections:
       - Gabrielite Football Academy (GFA).md
       - Montfortian Leadership Programme (MLP).md
       - Gabrielite Digital Literacy Programme (GDLP).md
-      - Gabrielite Sports Excellence Programme (GSEP).md
