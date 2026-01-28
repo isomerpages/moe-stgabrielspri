@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
+  - resources:
+      title: 2028 Schools' Strategic Plan
+      id: resources
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Latest Announcements
       id: textcards
