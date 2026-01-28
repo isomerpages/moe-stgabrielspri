@@ -11,7 +11,7 @@ description: ""
 <p><strong>GSEP Programme for Selected P1 and P2 Students</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p74RHr190Yw?si=D3mW85VqOIctbd65"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p74RHr190Yw?si=gaLEkP8U9yMdKoM8"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
