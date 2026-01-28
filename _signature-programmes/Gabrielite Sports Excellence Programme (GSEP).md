@@ -57,7 +57,6 @@ to take a leap of faith by enrolling their children in less academic enrichment/
 programmes so that they can do more sports in school. They will also have
 to be willing to arrange their external enrichment programmes outside the
 daily sports programmes in school.</p>
-<p>&nbsp;</p>
 <p><strong>Selection and Invitation Process</strong>
 </p>
 <p>GSEP is a by-invitation programme for P1 and P2 students only. Our PE
@@ -69,7 +68,6 @@ They will than begin training twice a week in Semester 2 on Mondays and
 Wednesdays (tentative training days), 2.00 to 3.30pm, every school week
 till the end of the school year. See criteria for selection in the following
 slides.</p>
-<p>&nbsp;</p>
 <p><strong>What if my son is not selected for GSEP at P1?</strong>
 </p>
 <p>GSEP selection does not end at P1. We recognize that boys will grow in
@@ -78,6 +76,7 @@ Continue to encourage him to play sports if he enjoys sports. Our PE teachers
 and sports coaches will continue to look out for their development. Once
 they are ready, we will invite him into the GSEP. We have had boys joining
 GSEP at P2, P3 and even P4.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP2.png">
 </div>
@@ -87,6 +86,7 @@ GSEP at P2, P3 and even P4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP5.png">
 </div>
@@ -275,26 +275,47 @@ GSEP at P2, P3 and even P4.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP33.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP34.png">
 </div>
+<p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP33.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP36.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP35.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP36.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -306,9 +327,17 @@ GSEP at P2, P3 and even P4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP38.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -320,9 +349,17 @@ GSEP at P2, P3 and even P4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP40.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -334,9 +371,17 @@ GSEP at P2, P3 and even P4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP42.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -348,25 +393,40 @@ GSEP at P2, P3 and even P4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP44.png">
-</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP44.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP45.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP47.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
