@@ -402,3 +402,21 @@ GSEP at P2, P3 and even P4.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP50.png">
 </div>
 <p></p>
+<p><strong>From Mr Tan, Father of Joel Tan (6LOY):</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP51.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP52.png">
+</div>
+<p></p>
+<p><strong>From Ms Giani, Mother of Lorenzo Giani (6RES):</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP53.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSEP54.png">
+</div>
+<p></p>
