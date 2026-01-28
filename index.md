@@ -25,6 +25,10 @@ sections:
       title: Latest Announcements
       id: textcards
       cards:
+        - title: "2026"
+          description: School Bus Fee Update
+          linktext: Learn more
+          url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-bus/
         - title: "2025"
           description: St. Gabriel's Schools 2025 Yearbook
           linktext: View here
@@ -34,10 +38,6 @@ sections:
             Award 2026
           linktext: Learn more
           url: /president-s-award-for-teachers-outstanding-youth-in-education-award-2026/
-        - title: "2025"
-          description: 2026 Booklist
-          linktext: Learn more
-          url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-bookshop/
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
