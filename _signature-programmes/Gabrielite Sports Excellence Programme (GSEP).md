@@ -1,6 +1,6 @@
 ---
 title: Gabrielite Sports Excellence Programme (GSEP)
-permalink: /gsep/
+permalink: /signature-programmes/gsep/
 variant: tiptap
 description: ""
 ---
