@@ -33,6 +33,10 @@ sections:
       id: textcards
       cards:
         - title: "2026"
+          description: Gabrielite 2028 Strategic Plan
+          linktext: Learn more
+          url: /2028-school-strategic-plan/
+        - title: "2026"
           description: Gabrielite Sports Excellence Program (GSEP)
           linktext: Learn more
           url: https://www.stgabrielspri.moe.edu.sg/signature-programmes/gsep
@@ -44,11 +48,6 @@ sections:
           description: St. Gabriel's Schools 2025 Yearbook
           linktext: View here
           url: https://heyzine.com/flip-book/dadf783bad.html
-        - title: "2025"
-          description: President’s Award for Teachers & Outstanding Youth in Education
-            Award 2026
-          linktext: Learn more
-          url: /president-s-award-for-teachers-outstanding-youth-in-education-award-2026/
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
