@@ -30,6 +30,7 @@ sections:
       button: Learn More
       image: /images/1.png
       url: /2028-school-strategic-plan/
+      alt: Image alt text
   - textcards:
       title: Latest Announcements
       id: textcards
