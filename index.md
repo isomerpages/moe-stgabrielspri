@@ -22,10 +22,10 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/mock-up website gif (3).gif
   - resources:
-      title: 2028 Schools' Strategic Plan
+      title: Gabrielite 2028 Strategic Plan
       id: resources
   - infopic:
-      title: 2028 School Strategic Plan
+      title: Gabrielite 2028 Strategic Plan
       id: infopic
       button: Learn More
       image: /images/1.png
