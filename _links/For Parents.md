@@ -7,7 +7,9 @@ variant: markdown
 **Parents' Connect** <br>
 *For past issues, please refer to Parents Gateway*
 <br>
-[January 2026](https://drive.google.com/file/d/1NzO_T52MRguwNhLzXMr4FtyrfL8ENRBF/view?usp=sharing) 
+[January 2026](https://drive.google.com/file/d/1NzO_T52MRguwNhLzXMr4FtyrfL8ENRBF/view?usp=sharing)
+<br>
+[February 2026](https://drive.google.com/file/d/1hsZ5tvTdRavOUNpai_7XkUzkCzOQQCry/view?usp=sharing)
 <br>
 <br>
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
