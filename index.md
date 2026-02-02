@@ -33,6 +33,14 @@ sections:
       id: textcards
       cards:
         - title: "2026"
+          description: Arif Budiman Malay Language Teachers' Award (AGAB) 2026
+          linktext: Learn more
+          url: /agab-2026/
+        - title: "2026"
+          description: Most Inspiring Tamil Teachers Award (MITT) 2026
+          linktext: Learn more
+          url: /mitt-2026/
+        - title: "2026"
           description: Gabrielite 2028 Strategic Plan
           linktext: Learn more
           url: /2028-school-strategic-plan/
@@ -40,14 +48,6 @@ sections:
           description: Gabrielite Sports Excellence Program (GSEP)
           linktext: Learn more
           url: https://www.stgabrielspri.moe.edu.sg/signature-programmes/gsep
-        - title: "2026"
-          description: School Bus Fee Update
-          linktext: Learn more
-          url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-bus/
-        - title: "2025"
-          description: St. Gabriel's Schools 2025 Yearbook
-          linktext: View here
-          url: https://heyzine.com/flip-book/dadf783bad.html
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
