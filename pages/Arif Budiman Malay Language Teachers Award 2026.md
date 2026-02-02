@@ -4,3 +4,16 @@ permalink: /arif-budiman-malay-language-teachers-award-2026/
 variant: tiptap
 description: ""
 ---
+<p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 recognises the
+contributions of Malay Language teachers in the teaching and learning of
+the Malay Language. The award is open to all Malay Language teachers in
+the local mainstream schools. &nbsp; &nbsp;</p>
+<p>Do nominate your deserving Malay Language teachers now by completing the
+following nomination form. &nbsp; &nbsp;</p>
+<p>Nominations are open from 2nd February to 13th March 2026.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__AGAB_2026_Poster.jpg">
+</div>
+<p><a href="https://form.gov.sg/697185dd28bcc2bc1247e1b5" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/697185dd28bcc2bc1247e1b5</a> &nbsp;</p>
+<p></p>
