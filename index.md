@@ -33,6 +33,10 @@ sections:
       id: textcards
       cards:
         - title: "2026"
+          description: Inspiring Teacher of English Award 2026
+          linktext: Learn more
+          url: /itoea-2026/
+        - title: "2026"
           description: Arif Budiman Malay Language Teachers' Award (AGAB) 2026
           linktext: Learn more
           url: /agab-2026/
@@ -40,10 +44,6 @@ sections:
           description: Most Inspiring Tamil Teachers Award (MITT) 2026
           linktext: Learn more
           url: /mitt-2026/
-        - title: "2026"
-          description: Gabrielite 2028 Strategic Plan
-          linktext: Learn more
-          url: /2028-school-strategic-plan/
         - title: "2026"
           description: Gabrielite Sports Excellence Program (GSEP)
           linktext: Learn more
