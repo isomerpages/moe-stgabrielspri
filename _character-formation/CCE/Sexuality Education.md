@@ -5,9 +5,8 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p>Updated: Jan 2025</p>
-<p><strong>ST. GABRIEL’S PRIMARY SCHOOL</strong>
-</p>
+<p>Updated: Feb 2026</p>
+<h4><strong>ST. GABRIEL’S PRIMARY SCHOOL</strong></h4>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -48,18 +47,18 @@ and
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
-<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education</p>
 </li>
 </ol>
-<p><strong>OVERVIEW OF ST. GABRIEL’S PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF ST. GABRIEL’S PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
@@ -92,18 +91,20 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<p><strong>At St. Gabriel’s Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At St. Gabriel’s Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
+<p></p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5CCE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Info_on_SEd_for_schs_website__Primary_Schools__Page_3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6CCE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Info_on_SEd_for_schs_website__Primary_Schools__Page_4.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Info_on_SEd_for_schs_website__Primary_Schools__Page_5.jpg">
+</div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <ol start="8" data-tight="true" class="tight">
@@ -115,8 +116,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 28/02/2025.</p>
+to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1udPthXqFj52XOy8IssDN8ZZrWU1zYCwo/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 27/02/2026.</p>
 <p></p>
 </li>
 <li>
