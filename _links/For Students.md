@@ -36,7 +36,7 @@ variant: markdown
   <tr>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_self"> 
-          <img src="/images/studentsecg.jpeg" style="width:100%"></a></td>
+          <img src="/images/MySkillsFuture_Student_Portal.jpg" style="width:100%"></a></td>
     <td class="tg-nrix"><a href="https://eresources.nlb.gov.sg/Main" target="_self"> 
           <img src="/images/nlb.jpeg" style="width:100%"></a></td>
     <td class="tg-nrix"><a href="https://schoolibrary.moe.edu.sg/stgabrielspri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_self"> 
