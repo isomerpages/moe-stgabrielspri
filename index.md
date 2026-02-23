@@ -33,6 +33,10 @@ sections:
       id: textcards
       cards:
         - title: "2026"
+          description: School Canteen Advertisement
+          linktext: Learn more
+          url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-canteen-advertisement/
+        - title: "2026"
           description: Inspiring Teacher of English Award 2026
           linktext: Learn more
           url: /itoea-2026/
@@ -44,10 +48,6 @@ sections:
           description: Most Inspiring Tamil Teachers Award (MITT) 2026
           linktext: Learn more
           url: /mitt-2026/
-        - title: "2026"
-          description: Gabrielite Sports Excellence Program (GSEP)
-          linktext: Learn more
-          url: https://www.stgabrielspri.moe.edu.sg/signature-programmes/gsep
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
