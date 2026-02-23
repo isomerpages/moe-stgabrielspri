@@ -17,7 +17,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muslim Halal Stall</p>
+<p>Halal Western Stall</p>
 </td>
 </tr>
 </tbody>
