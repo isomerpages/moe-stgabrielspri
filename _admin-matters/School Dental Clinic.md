@@ -20,7 +20,7 @@ shown below:</p>
 <p><strong><u>Maris Stella High Primary School</u></strong>
 </p>
 <p>25 Mount Vernon Rd</p>
-<p>Singapore 368501</p>
+<p>Singapore 368051</p>
 <p>Tel: 8764 8516</p>
 </td>
 </tr>
