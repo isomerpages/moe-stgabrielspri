@@ -33,6 +33,11 @@ sections:
       id: textcards
       cards:
         - title: "2026"
+          description: 15 schools to host advanced modules as Singapore discontinues
+            Gifted Education
+          linktext: Learn more
+          url: https://www.channelnewsasia.com/singapore/gifted-education-programme-gep-discontinued-gep-schools-advanced-modules-5963381
+        - title: "2026"
           description: School Canteen Advertisement
           linktext: Learn more
           url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-canteen-advertisement/
@@ -44,10 +49,6 @@ sections:
           description: Arif Budiman Malay Language Teachers' Award (AGAB) 2026
           linktext: Learn more
           url: /agab-2026/
-        - title: "2026"
-          description: Most Inspiring Tamil Teachers Award (MITT) 2026
-          linktext: Learn more
-          url: /mitt-2026/
   - infopic:
       title: School Corporate Video
       button: Get To Know Us
