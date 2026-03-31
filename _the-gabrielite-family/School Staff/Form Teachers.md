@@ -30,7 +30,6 @@ variant: markdown
 | 2 Respect | **Mdm Nur Afiqa**<br>nur_afiqa_suaidi@schools.gov.sg | **Mrs Kareen Wong**<br>teoh_kareen@schools.gov.sg | |
 | | **Mr Felix Hector Gomez**<br>felix_hector_gomez@schools.gov.sg | |
 | 2 Diligence | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg | **Mrs Wee Yip Peng**<br>wee_yip_peng_nee@schools.gov.sg | 
-| | **Mdm Rohaya**<br>rohaya_awie@schools.gov.sg | |
 | 2 Self-Discipline | **Ms Nur Halimah**<br>nur_halimah_mohamed_ramlee@schools.gov.sg | **Ms Evelyn Wu**<br>evelyn_wu_ing_geok@schools.gov.sg | |
 | | **Mr Ng Chiong Hoe**<br>ng_chiong_hoe@schools.gov.sg | | 
 |
@@ -39,7 +38,7 @@ variant: markdown
 
 | Class | Form Teachers | |
 |---|---|---|
-| 3 Self-Discipline | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg |
+| 3 Self-Discipline | **Mrs Catherine Low**<br>loo_chiak_mien_catherine@schools.gov.sg | **Mdm Rohaya**<br>rohaya_awie@schools.gov.sg |
 | | **Ms Shanthini**<br>shanthini_manoosegaran_a@schools.gov.sg | |
 | 3 Generosity | **Mdm Chitra**<br>chitra_devi_kasiviswanathan@schools.gov.sg | **Ms Chua Suting**<br>chua_suting@schools.gov.sg |
 | | **Mdm Noor Aisha**<br>noor_aisha@schools.gov.sg | |
@@ -54,6 +53,7 @@ variant: markdown
 | Class | Form Teachers | |
 |---|---|---|
 | 4 Loyalty | **Ms Ng Xin Ping**<br>ng_xin_ping@schools.gov.sg | **Mr Tan Yew Heng**<br>tan_yew_heng@schools.gov.sg |
+| | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg | 
 | 4 Orderliness | **Mrs Shelena Lim**<br>tan_li_ing_shelena@schools.gov.sg | **Ms Annie Lim**<br>lim_annie@schools.gov.sg |
 | 4 Respect | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg  | **Mrs Shankar**<br>krishnaveni_ramasamy@schools.gov.sg |
 | | **Ms M Sharmila**<br>m_sharmila@schools.gov.sg | |
