@@ -13,6 +13,8 @@ variant: markdown
 <br>
 [March 2026](https://drive.google.com/file/d/1U1aFH1iqRMSJ50P0pW9WyY7Mev_vvhIm/view?usp=sharing)
 <br>
+[April 2026](https://drive.google.com/file/d/11uhGkbMuwTNA3izcekhJUR8zrJZm2f2M/view?usp=drive_link)
+<br>
 <br>
 [15 schools to host advanced modules as Singapore discontinues Gifted Education Programme](https://www.channelnewsasia.com/singapore/gifted-education-programme-gep-discontinued-gep-schools-advanced-modules-5963381)
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
