@@ -11,4 +11,4 @@ Applicable only if the child is a Singapore Citizen / Singapore Permanent Reside
 
 Parents who are interested in applying as Parent Volunteers need to submit the completed [application form](https://drive.google.com/file/d/16kuEhdQWXw4HAOk1Kz-gxIXC8A8YWncs/view?usp=sharing) (via email) to the school at stgps@moe.edu.sg. 
 
-The deadline for submission is **22 May 2026**. 
+The deadline for submission is **22 May 2026**.
