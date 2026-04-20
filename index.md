@@ -38,10 +38,6 @@ sections:
           linktext: Learn more
           url: https://www.channelnewsasia.com/singapore/gifted-education-programme-gep-discontinued-gep-schools-advanced-modules-5963381
         - title: "2026"
-          description: School Canteen Advertisement
-          linktext: Learn more
-          url: https://www.stgabrielspri.moe.edu.sg/admin-matters/school-canteen-advertisement/
-        - title: "2026"
           description: Inspiring Teacher of English Award 2026
           linktext: Learn more
           url: /itoea-2026/
