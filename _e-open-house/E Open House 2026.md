@@ -9,4 +9,5 @@ description: ""
 </div>
 <p>Register Here: <a href="https://go.gov.sg/sgps-e-open-house2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sgps-e-open-house2026</a>
 </p>
-<p></p>
+<p>Download the SGPS e-Open House Brochure 2026 <a href="https://drive.google.com/file/d/16Ch2ZakXeT0nhjFavrJcdMhXcYzgCxCG/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</p>
