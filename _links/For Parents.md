@@ -16,7 +16,10 @@ variant: markdown
 [April 2026](https://drive.google.com/file/d/11uhGkbMuwTNA3izcekhJUR8zrJZm2f2M/view?usp=drive_link)
 <br>
 <br>
+[2026 e-Open House Brochure 2026](https://drive.google.com/file/d/16Ch2ZakXeT0nhjFavrJcdMhXcYzgCxCG/view?usp=sharing)
+<br>
 [15 schools to host advanced modules as Singapore discontinues Gifted Education Programme](https://www.channelnewsasia.com/singapore/gifted-education-programme-gep-discontinued-gep-schools-advanced-modules-5963381)
+<br>
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
 <br>
 <br>
