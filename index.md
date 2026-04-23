@@ -33,6 +33,10 @@ sections:
       id: textcards
       cards:
         - title: "2026"
+          description: SGPS e-Open House 2026
+          linktext: Learn more
+          url: https://www.stgabrielspri.moe.edu.sg/e-open-house/webinar-recording/
+        - title: "2026"
           description: 15 schools to host advanced modules as Singapore discontinues
             Gifted Education
           linktext: Learn more
