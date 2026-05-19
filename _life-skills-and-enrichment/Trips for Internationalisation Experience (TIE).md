@@ -22,21 +22,25 @@ exposure.</p>
 <br>Ms Chua Bee Peng (Administration Manager)</p>
 <p></p>
 <p><strong>One Brotherhood, Two Nations, Infinite Possibilities</strong>
-<br>Trip for International Experience (TIE 2025)</p>
-<p>On 7 October, St. Gabriel's Primary School was honoured to host our friends
-from Saint Gabriel's College, Bangkok, for an inspiring visit! As part
-of our <strong>TIE-Gabrielite Overseas Leadership Programme</strong>, this
-meaningful interaction focused on 21st-Century Competencies, fostering
-collaboration, leadership, and global citizenship.</p>
-<p>Our students warmly engaged in meaningful activities, from insightful
-discussions to friendly sports matches, creating lasting memories and strengthening
-the ties between our Gabrielite schools. We hope our visitors enjoyed their
-time in Singapore and took home not only new knowledge but also a deeper
-connection with us.</p>
-<p>This visit marks just the beginning of a lasting partnership, reinforcing
-the Gabrielite values of brotherhood and lifelong learning. We look forward
-to future visits and continued collaboration, as we work together to shape
-a brighter future for all Gabrielites.</p>
+</p>
+<p>Trip for International Experience (TIE 2025)</p>
+<p></p>
+<p>On 7 October 2025, St. Gabriel’s Primary School warmly welcomed our Gabrielite
+friends from Saint Gabriel’s College, Bangkok, for a meaningful exchange
+that celebrated friendship, collaboration, and global learning. As part
+of our <strong>TIE-Gabrielite Overseas Leadership Programme</strong>, the
+visit provided valuable opportunities for students to develop 21st-century
+competencies such as communication, leadership, and intercultural understanding.</p>
+<p>Through engaging discussions, collaborative activities, and friendly sports
+matches, our Gabrielites forged new friendships while learning to appreciate
+diverse perspectives and cultures. The lively interactions created lasting
+memories and strengthened the special bond shared between our Gabrielite
+schools.</p>
+<p>More than just a cultural exchange, the visit reflected the enduring Gabrielite
+spirit of brotherhood, respect, and lifelong learning. As we continue to
+build meaningful global connections, our students grow into confident,
+compassionate, and future-ready Gabrielites who are prepared to thrive
+in an interconnected world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_shared_legacy__a_united_future___Gabrielites_today__leaders_tomorrow_.jpg">
@@ -63,19 +67,25 @@ a brighter future for all Gabrielites.</p>
 </div>
 <p></p>
 <p><strong>Connecting Cultures, Creating Friendship Abroad</strong>
-<br>Trip for International Experience (TIE 2024)</p>
-<p>On 11–14 November 2024, 24 of our Primary 6 student leaders embarked on
-the <strong>TIE-Gabrielite Overseas Leadership Programme</strong> in Bangkok,
-an inspiring journey that deepened their appreciation of Thai culture while
-nurturing global awareness. At Saint Gabriel’s College, they engaged in
-interactive classroom exchanges, forging meaningful friendships and embracing
-cultural diversity with openness and empathy. A highlight was the friendly
-football match, which fostered teamwork, resilience, and strategic thinking.
-Beyond cultural experiences, the reflective sessions encouraged students
-to share insights, practise critical thinking, and communicate with confidence.
-Through these immersive experiences, our Gabrielites grew as adaptable
-leaders, demonstrating collaboration, creativity, and intercultural sensitivity
-– 21st-century competencies that will empower them to thrive as future-ready
+</p>
+<p>Trip for International Experience (TIE 2024)</p>
+<p></p>
+<p>From 11–14 November 2024, 24 of our Primary 6 student leaders embarked
+on the <strong>TIE-Gabrielite Overseas Leadership Programme</strong> in Bangkok
+– a meaningful journey that broadened their global perspectives and deepened
+their appreciation of Thai culture. Through interactive classroom exchanges
+at Saint Gabriel’s College, our Gabrielites forged new friendships, embraced
+cultural diversity, and developed greater empathy and confidence in communicating
+with others.</p>
+<p>A memorable highlight was the friendly football match, where students
+demonstrated teamwork, resilience, and sportsmanship while strengthening
+bonds across cultures. Reflective sharing sessions further encouraged students
+to think critically, express their learning confidently, and appreciate
+diverse viewpoints.</p>
+<p>Through this enriching overseas immersion experience, our Gabrielites
+grew as adaptable and culturally aware leaders, strengthening important
+21st-century competencies such as collaboration, communication, and intercultural
+understanding – qualities that will empower them to thrive as future-ready
 Gabrielites.</p>
 <p></p>
 <div class="isomer-image-wrapper">
