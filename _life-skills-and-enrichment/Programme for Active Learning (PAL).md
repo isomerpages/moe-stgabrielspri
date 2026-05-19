@@ -58,28 +58,46 @@ prepared to contribute positively to the community.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1c_Building_confidence_and_creativity_through_PAL_experiences.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1c_Building_confidence_and_creativity_through_PAL_experiences.jpg">
 </div>
-<p></p>
+<p>Building confidence and creativity through PAL experiences</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1b_Creating__collaborating__and_bringing_stories_to_life_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1a_PAL_Drama__laughter__and_lots_of_learning_.jpg">
 </div>
-<p></p>
+<p>PAL-Drama_ laughter, and lots of learning!</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1d_Developing_voice__movement__and_imagination.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1d_Developing_voice__movement__and_imagination.jpg">
 </div>
+<p><strong>Developing voice, movement, and imagination</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1b_Creating__collaborating__and_bringing_stories_to_life_.jpg">
+</div>
+<p><strong>Creating, collaborating, and bringing stories to life!</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1a_PAL_Drama__laughter__and_lots_of_learning_.jpg">
-</div>
 <p></p>
 </td>
 </tr>
@@ -115,13 +133,14 @@ of technology in a rapidly changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a_Coding__creating__and_controlling_Dash___learning_made_exciting_.jpg">
 </div>
-<p></p>
+<p>Coding, creating, and controlling Dash - learning made exciting!</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b_Exploring_technology_with_creativity__collaboration__and_critical_thinking___the_21CC_way_.jpg">
 </div>
-<p></p>
+<p>Exploring technology with creativity, collaboration, and critical thinking
+- the 21CC way!</p>
 </th>
 </tr>
 <tr>
@@ -129,12 +148,22 @@ of technology in a rapidly changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_PAL_GDLP__Nurturing_digitally_savvy__future_ready_learners.jpg">
 </div>
-<p></p>
+<p><strong>PAL–GDLP_ Nurturing digitally savvy, future-ready learners</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg">
 </div>
+<p><strong>Preparing students to think critically and communicate effectively</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
