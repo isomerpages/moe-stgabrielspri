@@ -50,37 +50,43 @@ to make meaningful contributions to a smart and sustainable future.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_PER___Design_Thinking_at_Work___Plan__Build__Test_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3_PER___Design_Thinking_at_Work___Plan__Build__Test_.jpg">
 </div>
-<p></p>
+<p>3 PER - Design Thinking at Work - Plan, Build, Test!</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_SIY___Teamwork_in_Action___Problem_Solving_Together.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Innovative_Minds_Creating_Real_World_Solutions.jpg">
 </div>
 <p></p>
+<p><strong>Innovative Minds Creating Real-World Solutions</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hands_On_Learning_that_Sparks_Curiosity.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3_SIY___Teamwork_in_Action___Problem_Solving_Together.jpg">
 </div>
-<p></p>
+<p><strong>3 SIY - Teamwork in Action - Problem-Solving Together</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovative_Minds_Creating_Real_World_Solutions.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Hands_On_Learning_that_Sparks_Curiosity.jpg">
 </div>
-<p></p>
+<p><strong>Hands-On Learning that Sparks Curiosity</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
 </div>
+<p></p>
+<p><strong>3 GEN - Excitement as Robots Respond to Our Code</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
