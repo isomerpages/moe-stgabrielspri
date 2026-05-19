@@ -123,25 +123,28 @@ Gabrielites.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Memories_Made__Bonds_That_Will_Last.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_Singapore_to_Bangkok___Journey_Begins_.jpg">
 </div>
+<p>From Singapore to Bangkok, - Journey Begins!</p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sportsmanship_Shines_on_the_Field_Abroad.jpg">
-</div>
 <p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_Singapore_to_Bangkok___Journey_Begins_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Memories_Made__Bonds_That_Will_Last.jpg">
 </div>
-<p></p>
+<p><strong>Memories Made, Bonds That Will Last</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sportsmanship_Shines_on_the_Field_Abroad.jpg">
+</div>
+<p><strong>Sportsmanship Shines on the Field Abroad</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,13 +152,15 @@ Gabrielites.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Discovering_Culture_Through_Hands_On_Experience.jpg">
 </div>
-<p></p>
+<p><strong>Discovering Culture Through Hands-On Experience</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_Journey_of_Learning_and_Friendship.jpg">
 </div>
-<p></p>
+<p><strong>A Journey of Learning and Friendship</strong>
+</p>
 </td>
 </tr>
 </tbody>
