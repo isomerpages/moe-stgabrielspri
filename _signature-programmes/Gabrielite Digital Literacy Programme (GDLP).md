@@ -15,9 +15,9 @@ citizens.</p>
 <p><strong>Applied Learning Programme Committee</strong> 
 <br><strong>Advisor</strong>
 </p>
-<p>Mr Martin Tan, Principal
-<br>
-</p>
+<p>Mr Martin Tan, Principal</p>
+<p>Mdm Irene Chua, Vice-Principal</p>
+<p></p>
 <p><strong>Key Drivers</strong> 
 <br>Mrs Catherine Low, HOD Aesthetics and Applied Learning</p>
 <p>Ms Chua Suting, SH InfoComm Technology (Internal)</p>
@@ -41,25 +41,53 @@ to improve everyday living. Through GDLP, our Gabrielites are growing into
 future-ready learners who are digitally confident, inventive, and ready
 to make meaningful contributions to a smart and sustainable future.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
-</div>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_PER___Design_Thinking_at_Work___Plan__Build__Test_.jpg">
 </div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_SIY___Teamwork_in_Action___Problem_Solving_Together.jpg">
 </div>
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hands_On_Learning_that_Sparks_Curiosity.jpg">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovative_Minds_Creating_Real_World_Solutions.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Design, Build and Innovate Together</strong>
 </p>
@@ -80,26 +108,57 @@ our Gabrielites strengthened key 21st-century competencies such as critical
 thinking, communication, collaboration, and inventive thinking, growing
 into future-ready learners who are prepared to navigate and contribute
 meaningfully to a rapidly evolving digital world.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_GEN_Engineering_Creative_Solutions_with_Boson_Kits.jpg">
 </div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SIY_Collaborating_and_Prototyping_Like_Young_Engineers.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_PER_Iterate__Improve__and_Innovate___Gabrielite_Style_.jpg">
-</div>
-<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SEL_LEGO_Builds__Big_Ideas__Bright_Futures.jpg">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SIY_Collaborating_and_Prototyping_Like_Young_Engineers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_PER_Iterate__Improve__and_Innovate___Gabrielite_Style_.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
