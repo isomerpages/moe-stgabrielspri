@@ -45,7 +45,7 @@ The **Primary 1 and 2 Programme for Active Learning (PAL)** exposes students to 
 
 As part of the **Programme for Active Learning (PAL) – Gabrielite Digital Literacy Programme (GDLP)**, Primary 1 and 2 students were introduced to the exciting world of coding and robotics with Dash Robots. In addition to the baseline ICT knowledge, students learned to program robots to move, respond, and complete challenges. This hands-on experience nurtured logical thinking, problem-solving, and creativity, empowering students to see technology as a tool for innovation. By building confidence and collaboration skills, this programme also equips students to become future-ready Gabrielites who are curious, digitally savvy, and eager to embrace new ways of learning.
 
-![](/images/2a_Coding__creating__and_controlling_Dash___learning_made_exciting_.jpg)
+
 
 ![](/images/2b_Exploring_technology_with_creativity__collaboration__and_critical_thinking___the_21CC_way_.jpg)
 
