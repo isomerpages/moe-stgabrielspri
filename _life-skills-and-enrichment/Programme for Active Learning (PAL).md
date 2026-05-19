@@ -48,6 +48,7 @@ to try new experiences, persevere through challenges, and celebrate one
 another’s strengths. These rich experiences lay a strong foundation for
 future-ready Gabrielites who are confident, caring, and resilient learners
 prepared to contribute positively to the community.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -82,16 +83,9 @@ prepared to contribute positively to the community.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Dashing Forward into the Future</strong>
 </p>
 <p>As part of the <strong>Programme for Active Learning (PAL) – Gabrielite Digital Literacy Programme (GDLP)</strong>,
@@ -109,6 +103,7 @@ empowering students to become responsible and adaptable digital learners.
 Through these enriching experiences, our Gabrielites are growing into future-ready
 learners who are innovative, inquisitive, and eager to embrace the possibilities
 of technology in a rapidly changing world.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,17 +138,10 @@ of technology in a rapidly changing world.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dy-ifLPP580?si=1N5pwW8D0NsZ6kOd"></iframe>
 </div>
+<p></p>
 <p></p>
