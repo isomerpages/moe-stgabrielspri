@@ -21,6 +21,118 @@ exposure.</p>
 <br>Mrs Catherine Low (HOD Aesthetics &amp; Applied Learning Programme)
 <br>Ms Chua Bee Peng (Administration Manager)</p>
 <p></p>
+<p><strong>Building Global Connections, Growing Future Leaders</strong>
+</p>
+<p>Trip for International Experience (TIE 2025)</p>
+<p></p>
+<p>As part of the <strong>Gabrielite Overseas Leadership Programme (GOLP)</strong>,
+24 of our Primary 6 Student Leaders embarked on a meaningful overseas immersion
+journey to Saint Gabriel’s College and cultural landmarks across Bangkok,
+Thailand. Through this enriching experience, our Gabrielites broadened
+their global perspectives while strengthening the enduring bonds shared
+within the Gabrielite family across borders.</p>
+<p>Throughout the programme, students engaged in classroom exchanges, cultural
+learning experiences, leadership activities, and interactions with their
+Thai peers. Along the way, they forged new friendships and demonstrated
+important 21st-century competencies such as communication, collaboration,
+resilience, adaptability, and cross-cultural awareness. The boys also displayed
+independence, teamwork, and respect in every situation as they navigated
+unfamiliar environments with confidence and maturity.</p>
+<p>Beyond gaining cultural insights and creating lasting memories, the experience
+nurtured empathy, global-mindedness, and leadership qualities in our students.
+Their growth as confident, compassionate Gabrielite leaders was evident
+throughout the journey as they learned to lead with understanding, integrity,
+and respect for others.</p>
+<p>Through GOLP, our Gabrielites continue to grow into future-ready leaders
+who are prepared to thrive and contribute meaningfully in an interconnected
+world. <strong><em>Labor Omnia Vincit!</em></strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_12.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7LxyO-PBoAM?si=50P-NK78O4V8RP17"></iframe>
+</div>
+<p></p>
 <p><strong>One Brotherhood, Two Nations, Infinite Possibilities</strong>
 </p>
 <p>Trip for International Experience (TIE 2025)</p>
