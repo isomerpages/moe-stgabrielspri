@@ -137,14 +137,14 @@ of technology in a rapidly changing world.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg">
+</div>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
