@@ -53,13 +53,13 @@ in an interconnected world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Friendship_Blooming_Beyond_Language.jpg">
 </div>
-<p></p>
+<p>Friendship Blooming Beyond Language</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Leaders_In_Conversation.jpg">
 </div>
-<p></p>
+<p>Young Leaders In Conversation</p>
 </th>
 </tr>
 <tr>
@@ -67,13 +67,15 @@ in an interconnected world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Gabrielite_family__two_schools__countless_memories___united_for_the_future_.jpg">
 </div>
-<p></p>
+<p><strong>One Gabrielite family, two schools, countless memories – united for the future</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Game_On__Building_camaraderie_and_resilience_through_friendly_competition_.jpg">
 </div>
-<p></p>
+<p><strong>Game On! Building camaraderie and resilience through friendly competition</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +83,8 @@ in an interconnected world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_shared_legacy__a_united_future___Gabrielites_today__leaders_tomorrow_.jpg">
 </div>
-<p></p>
+<p><strong>A shared legacy, a united future – Gabrielites today, leaders tomorrow</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
