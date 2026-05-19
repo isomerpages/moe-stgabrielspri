@@ -4,13 +4,13 @@ permalink: /life-skills-and-enrichment/tie/
 description: ""
 variant: tiptap
 ---
-<p><strong>Vision</strong> 
+<p><strong>Vision</strong>
 </p>
 <p>Preparing Gabrielites to brave new challenges to deepen and broaden their
 cross-cultural competencies with 21CC knowledge and skills, navigating
 the world as global citizens.</p>
 <p></p>
-<p><strong>TIE Goals</strong> 
+<p><strong>TIE Goals</strong>
 </p>
 <p>Gabrielites who have the aptitude and character to expand their scope
 of learning with new insights and diverse perspectives will be provided
