@@ -21,6 +21,92 @@ exposure.</p>
 <br>Mrs Catherine Low (HOD Aesthetics &amp; Applied Learning Programme)
 <br>Ms Chua Bee Peng (Administration Manager)</p>
 <p></p>
+<p><strong>A Joyful Day of Gabrielite Friendship</strong>
+</p>
+<p>Trip for International Experience (TIE 2026)</p>
+<p></p>
+<p>On 8 April 2026, St. Gabriel’s Primary School had the wonderful privilege
+of hosting our fellow Gabrielites from Saint Gabriel’s College, Bangkok,
+for a meaningful cultural exchange experience that celebrated friendship,
+learning, and global connection.</p>
+<p>It was heartening to witness the students interact so naturally with one
+another, building friendships filled with warmth, joy, and mutual respect.
+Through collaborative activities and shared experiences, both groups of
+students demonstrated important 21st-century competencies such as communication,
+collaboration, adaptability, and confidence, even while navigating language
+and cultural differences.</p>
+<p>The exchange also provided valuable opportunities for our Gabrielites
+to grow in empathy, independence, and cross-cultural understanding as they
+engaged with peers beyond their usual environments. More than just a visit,
+the experience strengthened the enduring Gabrielite spirit of brotherhood
+and global-mindedness, while nurturing confident and compassionate future-ready
+leaders.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_8.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Building Global Connections, Growing Future Leaders</strong>
 </p>
 <p>Trip for International Experience (TIE 2025)</p>
@@ -56,11 +142,13 @@ world. <strong><em>Labor Omnia Vincit!</em></strong>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_2.jpg">
 </div>
@@ -68,62 +156,82 @@ world. <strong><em>Labor Omnia Vincit!</em></strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_4.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_5.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_6.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_7.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_8.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_9.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_10.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_11.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_12.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
