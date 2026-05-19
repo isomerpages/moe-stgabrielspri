@@ -10,12 +10,10 @@ Developing young Gabrielites’ personal and social well-being with strong socia
 **PAL Goals**<br>
 Every Gabrielite will develop personal effectiveness and well-being, build positive relationships, live out the school’s virtues and grow their character through PAL-Social and Emotional Learning (SEL).
 
-
 **Key Personnel (PAL Coordinators)** <br>
 Mrs Catherine Low (HOD Aesthetics &amp; ALP) <br>
 Mr Jimmy Tong (HOD PHE &amp; CCA) <br>
 Mr Felix Hector Gomez (Lead Teacher)<br>
-
 
 **PAL Team** <br>
 Ms Elsa Teng <br>
@@ -30,12 +28,28 @@ Mrs Shelena Lim<br>
 Mrs Kareen Wong <br>
 Ms Siti Nurhayaty<br>
 
-<p align="justify">
-The PAL pedagogy provides opportunities for our young Gabrielites to exhibit the desired behaviour aligned to our school vision and virtues. Our school vision 'A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.' is embedded in all six PAL modules - Sports and Games, and Outdoor Education, Visual Arts, and Performing Arts on Music, Dance and Drama. </p>
+**Active Learners, Curious Minds Together**
 
-<p align="justify">
-Anchoring on a boy-centric approach, every module promotes multi-sensory learning experiences that are meaningful and enjoyable for our young Gabrielites; engaging the visual, auditory, tactile and kinaesthetic through stories, imagery and manipulatives. During a 2-hour PAL lesson each week, the boys will participate in interactive and hands-on activities to embrace social-emotional learning competencies such as social awareness, responsible decision-making and relationship management while working as a team. They will also encounter problems and challenges so that they live up to the school vision while displaying the school virtues like self-discipline, respect and generosity. </p>
+The **Primary 1 and 2 Programme for Active Learning (PAL)** exposes students to six diverse modules: Sports &amp; Games, Outdoor Education, Visual Arts, and Performing Arts through Music, Drama, and Dance. Through experiential and play-based learning, students developed confidence, teamwork, and social-emotional skills while discovering their interests and talents. These activities encouraged curiosity, resilience, and respect for others. By providing a safe and joyful space to explore, PAL lays the foundation for future-ready Gabrielites – confident learners and collaborators who are ready to take on challenges with creativity and enthusiasm.
 
-![](/images/pal1.png)
+![](/images/1a_PAL_Drama__laughter__and_lots_of_learning_.jpg)
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dy-ifLPP580?si=q7BNzDfTGwYGIoEc" height="315" width="560"></iframe></center>
+![](/images/1b_Creating__collaborating__and_bringing_stories_to_life_.jpg)
+
+![](/images/1c_Building_confidence_and_creativity_through_PAL_experiences.jpg)
+
+![](/images/1d_Developing_voice__movement__and_imagination.jpg)
+
+
+**Dashing Forward into the Future**
+
+As part of the **Programme for Active Learning (PAL) – Gabrielite Digital Literacy Programme (GDLP)**, Primary 1 and 2 students were introduced to the exciting world of coding and robotics with Dash Robots. In addition to the baseline ICT knowledge, students learned to program robots to move, respond, and complete challenges. This hands-on experience nurtured logical thinking, problem-solving, and creativity, empowering students to see technology as a tool for innovation. By building confidence and collaboration skills, this programme also equips students to become future-ready Gabrielites who are curious, digitally savvy, and eager to embrace new ways of learning.
+
+![](/images/2a_Coding__creating__and_controlling_Dash___learning_made_exciting_.jpg)
+
+![](/images/2b_Exploring_technology_with_creativity__collaboration__and_critical_thinking___the_21CC_way_.jpg)
+
+![](/images/2c_PAL_GDLP__Nurturing_digitally_savvy__future_ready_learners.jpg)
+
+![](/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg)
+
