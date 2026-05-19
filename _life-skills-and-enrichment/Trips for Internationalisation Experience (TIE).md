@@ -41,15 +41,19 @@ a brighter future for all Gabrielites.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_shared_legacy__a_united_future___Gabrielites_today__leaders_tomorrow_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Leaders_In_Conversation.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Gabrielite_family__two_schools__countless_memories___united_for_the_future_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Game_On__Building_camaraderie_and_resilience_through_friendly_competition_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Friendship_Blooming_Beyond_Language.jpg">
 </div>
