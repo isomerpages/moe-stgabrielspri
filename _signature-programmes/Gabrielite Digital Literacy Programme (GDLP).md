@@ -23,31 +23,72 @@ citizens.</p>
 <p>Ms Chua Suting, SH InfoComm Technology (Internal)
 <br>
 </p>
-<p>At St. Gabriel’s Primary School, we are committed to preparing our students
-to thrive in a fast-changing world. In 2025, our Gabrielite Digital Literacy
-Programme (GDLP) will continue to anchor students on a strong foundation
-of 21st Century Competencies (21CC), developing future-ready Gabrielites
-who are critical thinkers, creative problem-solvers, effective communicators,
-and collaborative team players.</p>
-<p>As we move into an era increasingly shaped by automation and Artificial
-Intelligence (AI), it is essential for our Gabrielites to acquire the skills
-and mindsets needed to navigate complexity, ambiguity, and change. Through
-GDLP, students will deepen their digital literacy, enhance their problem-solving
-abilities, and strengthen their adaptability - all key aspects of thriving
-in the technology-driven age.</p>
-<p>In line with our school’s desired outcomes, LSA 2.0 (Leader, Sportsman,
-Achiever), GDLP will integrate Smart and Sustainable Nation projects, offering
-authentic and meaningful opportunities for Gabrielites to apply their learning
-to real-world issues. Through these projects, students will not only develop
-their 21CC but also cultivate a sense of responsibility, innovation, and
-global awareness - equipping them to contribute thoughtfully and effectively
-to our interconnected world.</p>
+<p><strong>Inventive Minds, Big Tech Dreams</strong>
+</p>
+<p>The <strong>Gabrielite Digital Literacy Programme (GDLP) programme</strong> introduced
+Primary 3 students to block-based coding with Scratch and Micro:bits, empowering
+them to bring ideas to life by controlling lights, sounds, and robotic
+components. Over a series of engaging lessons, students worked collaboratively
+to solve real-world problems through design thinking, enhancing their critical
+and inventive thinking skills. This Applied Learning Programme (ALP) built
+digital confidence, creativity, and communication skills – key 21CC domains.
+By integrating coding with hands-on tinkering, students become future-ready
+Gabrielites who are innovative, resourceful, and ready to leverage technology
+to make a positive impact on the world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_GDLP_Parents_Connect.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
 </div>
-<p>Click on the ‘ALP-GDLP Montage’ to capture the spirit of our young Gabrielites
-as they explored and accomplished the GDLP project goals together.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_PER___Design_Thinking_at_Work___Plan__Build__Test_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_SIY___Teamwork_in_Action___Problem_Solving_Together.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hands_On_Learning_that_Sparks_Curiosity.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovative_Minds_Creating_Real_World_Solutions.jpg">
+</div>
+<p></p>
+<p><strong>Design, Build and Innovate Together</strong>
+</p>
+<p>In the <strong>Primary 5 Gabrielite Digital Literacy Programme (GDLP)</strong>,
+students took a deeper dive into physical computing using Boson kits and
+LEGO components. They designed, prototyped, and coded functional solutions
+that respond to real-world challenges, applying design thinking at every
+step. This hands-on process developed collaboration, resilience, and systems
+thinking, encouraging students to iterate and improve their ideas. Through
+this Applied Learning Programme (ALP), students strengthened key 21CC skills
+– critical thinking, communication, and adaptability – becoming future-ready
+Gabrielites who can work in teams, embrace challenges, and use technology
+creatively to solve problems in a rapidly evolving world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_GEN_Engineering_Creative_Solutions_with_Boson_Kits.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_PER_Iterate__Improve__and_Innovate___Gabrielite_Style_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SEL_LEGO_Builds__Big_Ideas__Bright_Futures.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SIY_Collaborating_and_Prototyping_Like_Young_Engineers.jpg">
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
 </div>
@@ -56,70 +97,5 @@ as they explored and accomplished the GDLP project goals together.</p>
 </div>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rvIY_jRw3tM"></iframe>
-</div>
-<p><strong>Introduction</strong>
-</p>
-<p>GDLP is designed to equip our Gabrielites with digital literacy that will
-help them take on an active role in the digital world now and in the future.
-It leverages on the integrative approach of Coding and Design to solve
-real world problems. It explores the social and cultural practices of digital
-literacy that enable our students to make the most of their multiple interactions
-with digital technology and media meaningfully. It will tap into the breadth
-and depth of Coding and Design to deliver stimulating and engaging experiences
-to challenge our students to re-imagine the world around them as well as
-to equip them with the character and skills for the future.</p>
-<p><strong>Objectives</strong> 
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nurture students to become creative and innovative learners who are digitally
-literate and future-ready</p>
-</li>
-<li>
-<p>Cultivate students’ awareness and interest in coding and design through
-experiential and hands-on learning</p>
-</li>
-<li>
-<p>Develop mindsets and dispositions of our students with 21st CC and cyber
-wellness principles</p>
-</li>
-</ul>
-<p>The importance of digital literacy will be emphasised through authentic
-learning contexts anchoring on the theme Smart Nation - Transforming Spaces
-for Innovation wherein students solve challenges with digital technologies.
-With the focus on making connected learning to the real world of design,
-an Applied Learning Model (Figure 1) is conceptualised and developed based
-on Kolb’s Experiential Learning Cycle to strengthen our learners’ Digital
-Literacy with 21st Century Skills and Competencies and Cyber Wellness Principles.
-Our learners will be involved in all the bases of Concrete Experience,
-Reflective Observation, Abstract Conceptualisation and Active Experimentation
-in the four-sage learning cycle of the Kolb’s Experiential Learning Cycle.
-Alignment is also made to MOE’s curriculum on National Digital Literacy
-Programme1 with its four components in the&nbsp;<strong>Find, Think, Apply and Create</strong>&nbsp;framework.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:95%" height="auto" width="100%" src="/images/GDLP4.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Figure 1 - Applied Learning Model: Adopting Kolb’s Experiential Learning Theory to Strengthen Learners’ Digital Literacy with 21st Century Skills and Competencies</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gdlp1.png">
 </div>
 <p></p>
