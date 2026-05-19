@@ -123,36 +123,47 @@ meaningfully to a rapidly evolving digital world.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_GEN_Engineering_Creative_Solutions_with_Boson_Kits.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/5_GEN_Engineering_Creative_Solutions_with_Boson_Kits.jpg">
 </div>
-<p></p>
+<p>5GEN Engineering Creative Solutions with Boson Kits</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SIY_Collaborating_and_Prototyping_Like_Young_Engineers.jpg">
 </div>
-<p></p>
+<p>5SIY Collaborating and Prototyping Like Young Engineers</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SEL_LEGO_Builds__Big_Ideas__Bright_Futures.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/5_SEL_LEGO_Builds__Big_Ideas__Bright_Futures.jpg">
 </div>
-<p></p>
+<p><strong>5SEL LEGO Builds, Big Ideas, Bright Futures</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_PER_Iterate__Improve__and_Innovate___Gabrielite_Style_.jpg">
 </div>
-<p></p>
+<p><strong>5PER Iterate, Improve, and Innovate - Gabrielite Style!</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
 </div>
+<p><strong>5LOY Future-Ready Skills Built Brick by Brick</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,6 +173,9 @@ meaningfully to a rapidly evolving digital world.</p>
 </tbody>
 </table>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OEQDi5Wk7gg?si=aFGGZmTOYEKr1Uw7"></iframe>
+</div>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
 </div>
