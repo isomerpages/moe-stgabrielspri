@@ -23,10 +23,6 @@ citizens.</p>
 <p>Ms Chua Suting, SH InfoComm Technology (Internal)
 <br>
 </p>
-<p><strong>Member</strong> 
-<br>Mr Jimmy Tong, HOD Physical &amp; Health Education and CCA</p>
-<p>Mr Sean de Zilva, SH Physical &amp; Health Education and CCA</p>
-<p>Ms Nur Halimah, SH Student Leadership (Internal)</p>
 <p>At St. Gabriel’s Primary School, we are committed to preparing our students
 to thrive in a fast-changing world. In 2025, our Gabrielite Digital Literacy
 Programme (GDLP) will continue to anchor students on a strong foundation
@@ -53,13 +49,13 @@ to our interconnected world.</p>
 <p>Click on the ‘ALP-GDLP Montage’ to capture the spirit of our young Gabrielites
 as they explored and accomplished the GDLP project goals together.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rvIY_jRw3tM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Ysx6LBnGw4?si=OlN25Cs-2dMzHl0E"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Ysx6LBnGw4?si=OlN25Cs-2dMzHl0E"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rvIY_jRw3tM"></iframe>
 </div>
 <p><strong>Introduction</strong>
 </p>
