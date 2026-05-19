@@ -54,6 +54,10 @@ a brighter future for all Gabrielites.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Friendship_Blooming_Beyond_Language.jpg">
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5znB08KSbNY?si=re_T2-gngc7WsTSs"></iframe>
+</div>
+<p></p>
 <p><strong>Connecting Cultures, Creating Friendship Abroad</strong>
 <br>Trip for International Experience (TIE 2024)</p>
 <p>On 11–14 November 2024, 24 of our Primary 6 student leaders embarked on
@@ -73,16 +77,24 @@ Gabrielites.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_Singapore_to_Bangkok___Journey_Begins_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sportsmanship_Shines_on_the_Field_Abroad.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Memories_Made__Bonds_That_Will_Last.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Discovering_Culture_Through_Hands_On_Experience.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_Journey_of_Learning_and_Friendship.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Dzvzlfp98jk?si=U2BdANwdpP2JlBbX"></iframe>
 </div>
 <p></p>
