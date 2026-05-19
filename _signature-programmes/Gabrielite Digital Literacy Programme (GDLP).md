@@ -20,21 +20,26 @@ citizens.</p>
 </p>
 <p><strong>Key Drivers</strong> 
 <br>Mrs Catherine Low, HOD Aesthetics and Applied Learning</p>
-<p>Ms Chua Suting, SH InfoComm Technology (Internal)
-<br>
-</p>
+<p>Ms Chua Suting, SH InfoComm Technology (Internal)</p>
+<p></p>
 <p><strong>Inventive Minds, Big Tech Dreams</strong>
 </p>
-<p>The <strong>Gabrielite Digital Literacy Programme (GDLP) programme</strong> introduced
-Primary 3 students to block-based coding with Scratch and Micro:bits, empowering
-them to bring ideas to life by controlling lights, sounds, and robotic
-components. Over a series of engaging lessons, students worked collaboratively
-to solve real-world problems through design thinking, enhancing their critical
-and inventive thinking skills. This Applied Learning Programme (ALP) built
-digital confidence, creativity, and communication skills – key 21CC domains.
-By integrating coding with hands-on tinkering, students become future-ready
-Gabrielites who are innovative, resourceful, and ready to leverage technology
-to make a positive impact on the world.</p>
+<p>The <strong>Gabrielite Digital Literacy Programme (GDLP)</strong> empowers
+our Primary 3 Gabrielites to become confident digital learners and creative
+problem-solvers in an increasingly connected world. Through hands-on experiences
+with Scratch coding and Micro:bits, students explored block-based programming
+while bringing their ideas to life through lights, sounds, sensors, and
+robotic components.</p>
+<p>Working collaboratively in teams, students applied design thinking to
+solve real-world challenges, strengthening important 21st-century competencies
+such as critical thinking, communication, creativity, and collaboration.
+The engaging lessons also nurtured resilience and adaptability as students
+experimented, refined ideas, and learned from one another.</p>
+<p>Anchored on the theme “Smart and Sustainable Nation – Homes and Schools”,
+the programme inspires students to harness technology responsibly and innovatively
+to improve everyday living. Through GDLP, our Gabrielites are growing into
+future-ready learners who are digitally confident, inventive, and ready
+to make meaningful contributions to a smart and sustainable future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
@@ -58,16 +63,23 @@ to make a positive impact on the world.</p>
 <p></p>
 <p><strong>Design, Build and Innovate Together</strong>
 </p>
-<p>In the <strong>Primary 5 Gabrielite Digital Literacy Programme (GDLP)</strong>,
-students took a deeper dive into physical computing using Boson kits and
-LEGO components. They designed, prototyped, and coded functional solutions
-that respond to real-world challenges, applying design thinking at every
-step. This hands-on process developed collaboration, resilience, and systems
-thinking, encouraging students to iterate and improve their ideas. Through
-this Applied Learning Programme (ALP), students strengthened key 21CC skills
-– critical thinking, communication, and adaptability – becoming future-ready
-Gabrielites who can work in teams, embrace challenges, and use technology
-creatively to solve problems in a rapidly evolving world.</p>
+<p>In the Primary 5 <strong>Gabrielite Digital Literacy Programme (GDLP)</strong>,
+our Gabrielites deepened their digital literacy skills through exciting
+hands-on experiences in physical computing and innovation. Using Boson
+kits, LEGO components, and coding platforms, students designed, prototyped,
+and programmed functional solutions to address real-world community challenges.</p>
+<p>Guided by the design thinking process, students collaborated in teams
+to brainstorm ideas, test prototypes, and refine their creations. Through
+this iterative learning journey, they developed resilience, systems thinking,
+and adaptability while learning to communicate ideas effectively and work
+collaboratively with others.</p>
+<p>Anchored on the theme “Smart and Sustainable Nation – Community”, the
+programme encourages students to harness technology creatively and responsibly
+to improve the lives of others. Through this <strong>Applied Learning Programme (ALP)</strong>,
+our Gabrielites strengthened key 21st-century competencies such as critical
+thinking, communication, collaboration, and inventive thinking, growing
+into future-ready learners who are prepared to navigate and contribute
+meaningfully to a rapidly evolving digital world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_GEN_Engineering_Creative_Solutions_with_Boson_Kits.jpg">
