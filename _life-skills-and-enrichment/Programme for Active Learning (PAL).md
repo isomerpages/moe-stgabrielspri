@@ -30,7 +30,11 @@ Ms Siti Nurhayaty<br>
 
 **Active Learners, Curious Minds Together**
 
-The **Primary 1 and 2 Programme for Active Learning (PAL)** exposes students to six diverse modules: Sports &amp; Games, Outdoor Education, Visual Arts, and Performing Arts through Music, Drama, and Dance. Through experiential and play-based learning, students developed confidence, teamwork, and social-emotional skills while discovering their interests and talents. These activities encouraged curiosity, resilience, and respect for others. By providing a safe and joyful space to explore, PAL lays the foundation for future-ready Gabrielites – confident learners and collaborators who are ready to take on challenges with creativity and enthusiasm.
+The Primary 1 and 2 **Programme for Active Learning (PAL)** provides our young Gabrielites with meaningful opportunities to learn through play, exploration, and shared experiences. Through six engaging modules – **Sports &amp; Games, Outdoor Education, Visual Arts, and Performing Arts through Music, Drama, and Dance** – students discover their interests and talents while developing important social-emotional skills.
+
+Through hands-on activities and collaborative learning experiences, students learn to build friendships, manage emotions, communicate respectfully, and work effectively with others. PAL also nurtures important virtues such as respect, resilience, responsibility, and compassion, helping students grow in confidence and character.
+
+In a safe and joyful learning environment, our Gabrielites are encouraged to try new experiences, persevere through challenges, and celebrate one another’s strengths. These rich experiences lay a strong foundation for future-ready Gabrielites who are confident, caring, and resilient learners prepared to contribute positively to the community.
 
 ![](/images/1a_PAL_Drama__laughter__and_lots_of_learning_.jpg)
 
@@ -40,10 +44,13 @@ The **Primary 1 and 2 Programme for Active Learning (PAL)** exposes students to 
 
 ![](/images/1d_Developing_voice__movement__and_imagination.jpg)
 
-
 **Dashing Forward into the Future**
 
-As part of the **Programme for Active Learning (PAL) – Gabrielite Digital Literacy Programme (GDLP)**, Primary 1 and 2 students were introduced to the exciting world of coding and robotics with Dash Robots. In addition to the baseline ICT knowledge, students learned to program robots to move, respond, and complete challenges. This hands-on experience nurtured logical thinking, problem-solving, and creativity, empowering students to see technology as a tool for innovation. By building confidence and collaboration skills, this programme also equips students to become future-ready Gabrielites who are curious, digitally savvy, and eager to embrace new ways of learning.
+As part of the **Programme for Active Learning (PAL) – Gabrielite Digital Literacy Programme (GDLP)**, our Primary 1 and 2 Gabrielites were introduced to the exciting world of coding and robotics through engaging hands-on experiences with Dash Robots. Building on foundational ICT skills, students learned basic coding concepts by programming robots to move, respond to commands, and complete fun challenges.
+
+Through play-based and interactive learning, students developed logical thinking, creativity, and problem-solving skills while discovering how technology can be used meaningfully in everyday life. Working collaboratively with their peers also strengthened communication, teamwork, and confidence as they explored new ideas together.
+
+The programme nurtures curiosity and digital confidence from a young age, empowering students to become responsible and adaptable digital learners. Through these enriching experiences, our Gabrielites are growing into future-ready learners who are innovative, inquisitive, and eager to embrace the possibilities of technology in a rapidly changing world.
 
 ![](/images/2a_Coding__creating__and_controlling_Dash___learning_made_exciting_.jpg)
 
