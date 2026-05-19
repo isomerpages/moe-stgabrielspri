@@ -53,3 +53,4 @@ As part of the **Programme for Active Learning (PAL) – Gabrielite Digital Lite
 
 ![](/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg)
 
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dy-ifLPP580?si=1N5pwW8D0NsZ6kOd" height="315" width="560"></iframe>
