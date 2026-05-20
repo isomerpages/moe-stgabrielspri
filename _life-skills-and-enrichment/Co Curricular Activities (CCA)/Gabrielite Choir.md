@@ -17,7 +17,6 @@ confidence, and perseverance as they honed their craft and led audiences
 through song. Through every rehearsal and performance, they embodied the
 spirit of future-ready Gabrielites – young leaders who shine with passion,
 collaboration, and pride in representing the school community.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,7 +41,6 @@ collaboration, and pride in representing the school community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1c_Where_Talent_Meets_Dedication.jpg">
 </div>
@@ -50,7 +48,6 @@ collaboration, and pride in representing the school community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1d_Celebrating_Faith_and_Friendship_Through_Music.jpg">
 </div>
@@ -60,7 +57,6 @@ collaboration, and pride in representing the school community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1p_Thanksgiving_Mass.jpg">
 </div>
@@ -68,7 +64,6 @@ collaboration, and pride in representing the school community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1n.jpg">
 </div>
@@ -76,13 +71,11 @@ collaboration, and pride in representing the school community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1h_Student_Pianists_Guiding_the_Choir_with_Melody.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1k.jpg">
 </div>
@@ -90,13 +83,11 @@ collaboration, and pride in representing the school community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1m.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1g_Hands_That_Inspire_Harmony.jpg">
 </div>
@@ -136,7 +127,6 @@ of unity among the public. This platform gave our choir boys an authentic
 opportunity to share their musical talents beyond school, nurturing confidence,
 teamwork, and pride in the nation. Such experiences prepare our Gabrielites
 to be future-ready leaders who contribute meaningfully to the community.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -145,14 +135,12 @@ to be future-ready leaders who contribute meaningfully to the community.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a_Young_Voices_With_Patriotic_Pride.jpg">
 </div>
 <p>Young Voices With Patriotic Pride</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b_Striking_The_Right_Note_with_NDP_Songs.jpg">
 </div>
@@ -161,7 +149,6 @@ to be future-ready leaders who contribute meaningfully to the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_Bringing_Joy_Beyond_The_School_Stage.jpg">
 </div>
@@ -169,7 +156,6 @@ to be future-ready leaders who contribute meaningfully to the community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2d_Our_Violinist.jpg">
 </div>
