@@ -148,7 +148,7 @@ of technology in a rapidly changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_PAL_GDLP__Nurturing_digitally_savvy__future_ready_learners.jpg">
 </div>
-<p><strong>PAL–GDLP_ Nurturing digitally savvy, future-ready learners</strong>
+<p><strong>Nurturing digitally savvy, future-ready learners</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
