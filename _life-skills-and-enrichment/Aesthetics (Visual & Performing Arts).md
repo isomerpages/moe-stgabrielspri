@@ -72,34 +72,42 @@ diverse perspectives through art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1c_Expressing_Values_Through_LSA.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1d_Young_Artists_Finding_Inspiration.jpg">
+</div>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1e_Imagination_Meets_Observation.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1f_Lee_Boon_Ngan_s_Flower_Series.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1f_Lee_Boon_Ngan_s_Flower_Series.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1g_Roving_Art_Studio_at_SGPS.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1h_Every_Tile_Tells_A_Story.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1h_Every_Tile_Tells_A_Story.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -111,7 +119,7 @@ diverse perspectives through art.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1l_Artist_Sharman_Raaoul.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1l_Artist_Sharman_Raaoul.jpg">
 </div>
 <p></p>
 </td>
@@ -119,18 +127,20 @@ diverse perspectives through art.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1d_Young_Artists_Finding_Inspiration.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1c_Expressing_Values_Through_LSA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1j_Fostering_Confidence_And_Creativity.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1j_Fostering_Confidence_And_Creativity.jpg">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
