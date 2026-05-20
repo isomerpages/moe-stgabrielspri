@@ -42,6 +42,10 @@ the experience strengthened the enduring Gabrielite spirit of brotherhood
 and global-mindedness, while nurturing confident and compassionate future-ready
 leaders.</p>
 <h4>St. Gabriel's College Visit to St. Gabriel's Primary School</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dBFAte5mTnI?si=rP_9ufGtAbsKdGhb"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -107,9 +111,6 @@ leaders.</p>
 </tbody>
 </table>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dBFAte5mTnI?si=rP_9ufGtAbsKdGhb"></iframe>
-</div>
 <p></p>
 <p><strong>Building Global Connections, Growing Future Leaders</strong>
 </p>
@@ -138,6 +139,10 @@ who are prepared to thrive and contribute meaningfully in an interconnected
 world. <strong><em>Labor Omnia Vincit!</em></strong>
 </p>
 <h4>Gabrielite Overseas Leadership Programme to St. Gabriel's College</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7LxyO-PBoAM?si=50P-NK78O4V8RP17"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -249,9 +254,6 @@ world. <strong><em>Labor Omnia Vincit!</em></strong>
 </tbody>
 </table>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7LxyO-PBoAM?si=50P-NK78O4V8RP17"></iframe>
-</div>
 <p></p>
 <p><strong>One Brotherhood, Two Nations, Infinite Possibilities</strong>
 </p>
