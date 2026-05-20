@@ -6,16 +6,14 @@ variant: tiptap
 ---
 <p><strong>Department Goals</strong>
 </p>
-<p>To develop every Gabrielite to be an empathetic listener, a critical reader,
-an effective communicator, and an active change agent who empowers self
-and others to serve the community.</p>
+<p>To develop every Gabrielite to be an empathetic listener, a critical reader,&nbsp;an
+effective communicator, and an active change agent who empowers self and
+others to serve the community.</p>
 <p><strong>Key Personnel</strong>
-</p>
-<p>Head of Department: Mrs Michelle Tan</p>
-<p>Level Head: Mrs Tan Siew Mei</p>
-<p>Lead Teacher: Mrs Cecilia Koh</p>
-<p>Senior Teacher : Mrs Wendy Chee</p>
-<p></p>
+<br>Head of Department : Mrs Michelle Tan
+<br>Level Head (Internal) : Mrs Tan Siew Mei
+<br>Lead Teacher :&nbsp;Mrs Cecilia Koh
+<br>Senior Teacher : Mrs Wendy Chee</p>
 <p><strong>National Curricula</strong>
 </p>
 <p><strong>ST</strong>rategies for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning
@@ -41,9 +39,10 @@ Discerning Readers and Creative Inquirers.</p>
 play an active role in their classrooms to share the joy of reading. This
 is achieved through their termly book talks to their peers, which include
 book recommendations as well as short excerpts of the books being read
-aloud. P4 to P6 LMM EL Monitors also promote interesting news articles
-in the Little Red Dot publications by giving presentations to the school
-on a weekly basis.</p>
+aloud. P4 to P6 EL Monitors also promote interesting news articles in the
+Little Red Dot publications by giving presentations to their classmates
+on a termly basis.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,21 +62,30 @@ on a weekly basis.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English Language/Image_2.jpg">
-</div>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_A.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_B.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong><u>EL Fiesta</u></strong>
 </p>
-<p>Recognising that stories are powerful communication tools to create meaning
-and connect people, a key feature in our EL programme is the use of stories
-to ignite the students’ passion for the English language through termly
-activities.&nbsp;</p>
+<p>We believe that stories are powerful tools for meaning-making and connection.
+Our English Language (EL) programme leverages the joy of storytelling to
+ignite students’ passion for reading and language. Beyond engaging classroom
+experiences, signature events such as our EL Book Fairs and the much-anticipated
+Book Character Day—where students come dressed as their favourite literary
+characters—bring stories to life and foster a vibrant reading culture.&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -87,13 +95,12 @@ activities.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_C.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_6.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -101,6 +108,7 @@ activities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_7.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
