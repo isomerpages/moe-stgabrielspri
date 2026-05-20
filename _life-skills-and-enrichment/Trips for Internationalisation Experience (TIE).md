@@ -351,6 +351,10 @@ grew as adaptable and culturally aware leaders, strengthening important
 21st-century competencies such as collaboration, communication, and intercultural
 understanding – qualities that will empower them to thrive as future-ready
 Gabrielites.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Dzvzlfp98jk?si=U2BdANwdpP2JlBbX"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -359,6 +363,7 @@ Gabrielites.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/From_Singapore_to_Bangkok___Journey_Begins_.jpg">
 </div>
@@ -408,7 +413,4 @@ Gabrielites.</p>
 </tbody>
 </table>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Dzvzlfp98jk?si=U2BdANwdpP2JlBbX"></iframe>
-</div>
 <p></p>
