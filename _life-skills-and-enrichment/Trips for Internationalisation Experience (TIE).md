@@ -275,6 +275,9 @@ spirit of brotherhood, respect, and lifelong learning. As we continue to
 build meaningful global connections, our students grow into confident,
 compassionate, and future-ready Gabrielites who are prepared to thrive
 in an interconnected world.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5znB08KSbNY?si=re_T2-gngc7WsTSs"></iframe>
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -327,9 +330,6 @@ in an interconnected world.</p>
 </tbody>
 </table>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5znB08KSbNY?si=re_T2-gngc7WsTSs"></iframe>
-</div>
 <p></p>
 <p><strong>Connecting Cultures, Creating Friendship Abroad</strong>
 </p>
