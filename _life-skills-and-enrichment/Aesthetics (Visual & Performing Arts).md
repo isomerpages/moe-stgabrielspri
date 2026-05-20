@@ -35,6 +35,13 @@ groups and ensembles</p>
 <p><strong>Achiever</strong>&nbsp;– To strengthen critical thought and creative
 expression with knowledge and competency, and to excel in artistic and
 musical mastery as an inventive and confident individual</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/if6sMusJDcY?si=eVZFkkjmkNkNjdjo"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5UqAg2XKmHM?si=DiAPRPRc-Ua9c4HN"></iframe>
+</div>
 <p></p>
 <p><strong>Creative Journeys Through Visual Arts @SGPS</strong>
 </p>
@@ -296,11 +303,4 @@ world.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/if6sMusJDcY?si=eVZFkkjmkNkNjdjo"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5UqAg2XKmHM?si=DiAPRPRc-Ua9c4HN"></iframe>
-</div>
 <p></p>
