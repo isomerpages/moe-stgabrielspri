@@ -185,7 +185,7 @@ world. <strong><em>Labor Omnia Vincit!</em></strong>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_6.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/TIE_GOLP_to_SGC_6.jpg">
 </div>
 <p></p>
 </td>
