@@ -68,14 +68,14 @@ to make meaningful contributions to a smart and sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 83%;" height="auto" width="100%" alt="" src="/images/3_SIY___Teamwork_in_Action___Problem_Solving_Together.jpg">
 </div>
-<p><strong>3 SIY - Teamwork in Action - Problem-Solving Together</strong>
+<p><strong>Teamwork in Action - Problem-Solving Together</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3_PER___Design_Thinking_at_Work___Plan__Build__Test_.jpg">
 </div>
-<p><strong>3 PER - Design Thinking at Work - Plan, Build, Test!</strong>
+<p><strong>Design Thinking at Work - Plan, Build, Test!</strong>
 </p>
 </td>
 </tr>
@@ -84,8 +84,7 @@ to make meaningful contributions to a smart and sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
 </div>
-<p></p>
-<p><strong>3 GEN - Excitement as Robots Respond to Our Code</strong>
+<p><strong>Excitement as Robots Respond to Our Code</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,13 +132,13 @@ meaningfully to a rapidly evolving digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 63%;" height="auto" width="100%" alt="" src="/images/5_GEN_Engineering_Creative_Solutions_with_Boson_Kits.jpg">
 </div>
-<p>5GEN Engineering Creative Solutions with Boson Kits</p>
+<p>Engineering Creative Solutions with Boson Kits</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SIY_Collaborating_and_Prototyping_Like_Young_Engineers.jpg">
 </div>
-<p>5SIY Collaborating and Prototyping Like Young Engineers</p>
+<p>Collaborating and Prototyping Like Young Engineers</p>
 </th>
 </tr>
 <tr>
@@ -147,14 +146,14 @@ meaningfully to a rapidly evolving digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 63%;" height="auto" width="100%" alt="" src="/images/5_SEL_LEGO_Builds__Big_Ideas__Bright_Futures.jpg">
 </div>
-<p><strong>5SEL LEGO Builds, Big Ideas, Bright Futures</strong>
+<p><strong>LEGO Builds, Big Ideas, Bright Futures</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_PER_Iterate__Improve__and_Innovate___Gabrielite_Style_.jpg">
 </div>
-<p><strong>5PER Iterate, Improve, and Innovate - Gabrielite Style!</strong>
+<p><strong>Iterate, Improve, and Innovate - Gabrielite Style!</strong>
 </p>
 </td>
 </tr>
@@ -163,7 +162,7 @@ meaningfully to a rapidly evolving digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
 </div>
-<p><strong>5LOY Future-Ready Skills Built Brick by Brick</strong>
+<p><strong>Future-Ready Skills Built Brick by Brick</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
