@@ -82,7 +82,7 @@ to make meaningful contributions to a smart and sustainable future.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
 </div>
 <p></p>
 <p><strong>3 GEN - Excitement as Robots Respond to Our Code</strong>
