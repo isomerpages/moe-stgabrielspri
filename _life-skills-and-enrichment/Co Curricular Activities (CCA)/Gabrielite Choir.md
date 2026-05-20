@@ -42,7 +42,7 @@ collaboration, and pride in representing the school community.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1c_Where_Talent_Meets_Dedication.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1c_Where_Talent_Meets_Dedication.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,17 +137,29 @@ to be future-ready leaders who contribute meaningfully to the community.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a_Young_Voices_With_Patriotic_Pride.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b_Striking_The_Right_Note_with_NDP_Songs.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_Bringing_Joy_Beyond_The_School_Stage.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2d_Our_Violinist.jpg">
+</div>
 </td>
 </tr>
 <tr>
