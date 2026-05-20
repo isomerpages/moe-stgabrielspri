@@ -56,7 +56,7 @@ leaders.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_2.jpg">
 </div>
 </th>
 </tr>
@@ -68,7 +68,7 @@ leaders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_4.jpg">
 </div>
 </td>
 </tr>
@@ -80,7 +80,7 @@ leaders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_6.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_6.jpg">
 </div>
 </td>
 </tr>
@@ -92,7 +92,7 @@ leaders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_8.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SGC_Visit_to_SGPS_8.jpg">
 </div>
 </td>
 </tr>
