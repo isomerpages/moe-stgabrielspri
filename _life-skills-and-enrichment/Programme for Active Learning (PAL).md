@@ -58,7 +58,7 @@ prepared to contribute positively to the community.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1c_Building_confidence_and_creativity_through_PAL_experiences.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/1c_Building_confidence_and_creativity_through_PAL_experiences.jpg">
 </div>
 <p>Building confidence and creativity through PAL experiences</p>
 </th>
@@ -66,7 +66,7 @@ prepared to contribute positively to the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1a_PAL_Drama__laughter__and_lots_of_learning_.jpg">
 </div>
-<p>PAL-Drama_ laughter, and lots of learning!</p>
+<p>Laughter, and lots of learning!</p>
 </th>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ of technology in a rapidly changing world.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b_Exploring_technology_with_creativity__collaboration__and_critical_thinking___the_21CC_way_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2b_Exploring_technology_with_creativity__collaboration__and_critical_thinking___the_21CC_way_.jpg">
 </div>
 <p>Exploring technology with creativity, collaboration, and critical thinking
 - the 21CC way!</p>
@@ -153,7 +153,7 @@ of technology in a rapidly changing world.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg">
 </div>
 <p><strong>Preparing students to think critically and communicate effectively</strong>
 </p>
