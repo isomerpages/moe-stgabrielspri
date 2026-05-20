@@ -41,7 +41,7 @@ engaged with peers beyond their usual environments. More than just a visit,
 the experience strengthened the enduring Gabrielite spirit of brotherhood
 and global-mindedness, while nurturing confident and compassionate future-ready
 leaders.</p>
-<p></p>
+<h4>St. Gabriel's College Visit to St. Gabriel's Primary School</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -137,7 +137,7 @@ and respect for others.</p>
 who are prepared to thrive and contribute meaningfully in an interconnected
 world. <strong><em>Labor Omnia Vincit!</em></strong>
 </p>
-<p></p>
+<h4>Gabrielite Overseas Leadership Programme to St. Gabriel's College</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -356,14 +356,11 @@ Gabrielites.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_Singapore_to_Bangkok___Journey_Begins_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/From_Singapore_to_Bangkok___Journey_Begins_.jpg">
 </div>
 <p>From Singapore to Bangkok, - Journey Begins!</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -385,7 +382,7 @@ Gabrielites.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Discovering_Culture_Through_Hands_On_Experience.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Discovering_Culture_Through_Hands_On_Experience.jpg">
 </div>
 <p><strong>Discovering Culture Through Hands-On Experience</strong>
 </p>
