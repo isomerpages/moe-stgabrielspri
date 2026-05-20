@@ -161,7 +161,7 @@ meaningfully to a rapidly evolving digital world.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 63%;" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
 </div>
 <p><strong>5LOY Future-Ready Skills Built Brick by Brick</strong>
 </p>
