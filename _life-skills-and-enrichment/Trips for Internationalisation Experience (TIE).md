@@ -41,7 +41,6 @@ engaged with peers beyond their usual environments. More than just a visit,
 the experience strengthened the enduring Gabrielite spirit of brotherhood
 and global-mindedness, while nurturing confident and compassionate future-ready
 leaders.</p>
-<h4>St. Gabriel's College Visit to St. Gabriel's Primary School</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dBFAte5mTnI?si=rP_9ufGtAbsKdGhb"></iframe>
 </div>
@@ -138,7 +137,6 @@ and respect for others.</p>
 who are prepared to thrive and contribute meaningfully in an interconnected
 world. <strong><em>Labor Omnia Vincit!</em></strong>
 </p>
-<h4>Gabrielite Overseas Leadership Programme to St. Gabriel's College</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7LxyO-PBoAM?si=50P-NK78O4V8RP17"></iframe>
 </div>
@@ -327,9 +325,16 @@ in an interconnected world.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p><strong>Connecting Cultures, Creating Friendship Abroad</strong>
 </p>
