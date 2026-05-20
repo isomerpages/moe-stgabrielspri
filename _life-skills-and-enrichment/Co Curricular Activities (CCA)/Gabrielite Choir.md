@@ -42,7 +42,7 @@ collaboration, and pride in representing the school community.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1c_Where_Talent_Meets_Dedication.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1c_Where_Talent_Meets_Dedication.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ collaboration, and pride in representing the school community.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1h_Student_Pianists_Guiding_the_Choir_with_Melody.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1h_Student_Pianists_Guiding_the_Choir_with_Melody.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,13 +84,13 @@ collaboration, and pride in representing the school community.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1m.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1m.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/1g_Hands_That_Inspire_Harmony.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1g_Hands_That_Inspire_Harmony.jpg">
 </div>
 <p></p>
 </td>
