@@ -84,7 +84,9 @@ language</p>
 <br><a href="http://ezhishi.com" rel="noopener noreferrer nofollow" target="_blank">http://ezhishi.com </a>
 <br>A learning portal for students to learn Chinese Language so as to enhance
 their four skills, which are listening, speaking, reading and writing.</p>
-<p>2. Dudu Town
-<br><a href="http://go.dudu.town" rel="noopener noreferrer nofollow" target="_blank">http://go.dudu.town </a>
-<br>An interesting portal to encourage the students in reading Chinese Language
-story books</p>
+<p>2. WaWaYaYa JoyReader Pro
+<br><a href="https://joyreader.wawayaya.com/en/" rel="noopener nofollow" target="_blank">https://joyreader.wawayaya.com/en/</a>
+<br>It is an interactive digital library and levelled reading app designed
+specifically for children. It provides engaging reading materials tailored
+to their proficiency levels, supporting vocabulary development and helping
+students build confidence in reading.</p>
