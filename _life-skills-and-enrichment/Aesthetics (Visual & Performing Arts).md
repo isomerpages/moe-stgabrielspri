@@ -65,7 +65,7 @@ diverse perspectives through art.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1b_Gabrielite_Spirit_Through_Their_Drawings.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1b_Gabrielite_Spirit_Through_Their_Drawings.jpg">
 </div>
 <p>Gabrielite Spirit Through Their Drawings</p>
 </th>
@@ -80,7 +80,7 @@ diverse perspectives through art.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1d_Young_Artists_Finding_Inspiration.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1d_Young_Artists_Finding_Inspiration.jpg">
 </div>
 <p><strong>Young Artists Finding Inspiration</strong>
 </p>
@@ -96,7 +96,7 @@ diverse perspectives through art.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1f_Lee_Boon_Ngan_s_Flower_Series.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1f_Lee_Boon_Ngan_s_Flower_Series.jpg">
 </div>
 <p><strong>Lee Boon Ngan's Flower Series</strong>
 </p>
@@ -112,7 +112,7 @@ diverse perspectives through art.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1h_Every_Tile_Tells_A_Story.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1h_Every_Tile_Tells_A_Story.jpg">
 </div>
 <p><strong>Every Tile Tells A Story</strong>
 </p>
@@ -128,7 +128,7 @@ diverse perspectives through art.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1l_Artist_Sharman_Raaoul.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1l_Artist_Sharman_Raaoul.jpg">
 </div>
 <p><strong>Artist Sharman Raaoul</strong>
 </p>
