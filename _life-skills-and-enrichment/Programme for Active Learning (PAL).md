@@ -28,9 +28,12 @@ through PAL-Social and Emotional Learning (SEL).</p>
 <br>Mdm Rohaya
 <br>Mrs Shelena Lim
 <br>Mrs Kareen Wong
-<br>Ms Siti Nurhayaty
-<br>
-</p>
+<br>Ms Siti Nurhayaty</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dy-ifLPP580?si=1N5pwW8D0NsZ6kOd"></iframe>
+</div>
+<p></p>
 <p><strong>Active Learners, Curious Minds Together</strong>
 </p>
 <p>The Primary 1 and 2 <strong>Programme for Active Learning (PAL)</strong> provides
@@ -169,8 +172,5 @@ of technology in a rapidly changing world.</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dy-ifLPP580?si=1N5pwW8D0NsZ6kOd"></iframe>
-</div>
 <p></p>
 <p></p>
