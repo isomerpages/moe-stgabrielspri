@@ -2,57 +2,305 @@
 title: Aesthetics (Visual & Performing Arts)
 permalink: /life-skills-and-enrichment/aesthetics/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Vision** <br> Developing Gabrielites to be creative and discerning individuals who embrace cultural diversity.
-
-**Department Goal**   
-Every Gabrielite will develop his artistic and creative capabilities with 21st-century skills and competencies as future-ready citizen.
-
-**Key Personnel**   
-Mrs Catherine Low (HOD Aesthetics &amp; Applied Learning Programme)
-
-
-**Aesthetics Committee** <br>
-Mrs Cecilia Wong<br>
-Mr Ng Chiong Hoe<br>
-Ms Glenda Ng<br>
-Ms Lytessia Soh<br>
-Ms Yang Xiaoqing<br>
-
-**Department Programmes**
-<p align="justify">At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader, sportsman and an achiever. Our Arts Education serves to develop our students into creative and discerning individuals who embrace cultural diversity with a deep appreciation for the aesthetics vision: </p>
-
-<p align="justify">
-	<b>Leader</b>&nbsp;– To cultivate a passion for the Arts and to foster a sense of cultural awareness for artistic development and excellence as a respectful and ethical individual</p>
-
-
-<p align="justify">
-	<b>Sportsman</b> – To develop social and life skills as an effective and resilient team player through diverse arts experiences, ethnic music groups and ensembles</p>
-
-<p align="justify">
-	<b>Achiever</b>&nbsp;– To strengthen critical thought and creative expression with knowledge and competency, and to excel in artistic and musical mastery as an inventive and confident individual</p>
-
-![](/images/aesthetics1.png)
-![](/images/aesthetics2.png)
-
-<p align="justify">
-Our visual and performing arts programmes are designed to extend the arts experiences beyond the learning of skills and techniques. Students are also provided with opportunities to enhance their skills and level of proficiency with professional instructors (AISS and AMIS) on curriculum modules such as Oil Pastel and Watercolour Art, Batik Art, Angklung, Percussion Ensembles and Creative Dance, which are grounded in cultural values.&nbsp;</p>
-
-<p align="justify">
-The three aesthetics CCAs namely Brass Band, Performing Arts and Art Club provide avenues for students to further pursue their interest in performing and creative expression. With a wide spectrum of enriched arts experiences and showcase platforms, we hope our Gabrielites will be empowered by the arts as they discover their interests and aspirations to develop their artistic and creative capabilities in potential fields which enrich and expand their experience of life.&nbsp;
-	</p>
-
-
-**Our Aesthetics Journey**
-
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/if6sMusJDcY?si=W4EwmC4lsAOtsxVw" height="315" width="560"></iframe></center>
-
-![](/images/aes3.png)
-![](/images/aes4.png)
-![](/images/aes5.png)
-![](/images/aes6.png)
-
-**2019 Aesthetics Fest**
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5UqAg2XKmHM" title="2019 Aesthetics Fest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<p><strong>Vision</strong> 
+<br>Developing Gabrielites to be creative and discerning individuals who embrace
+cultural diversity.</p>
+<p><strong>Department Goal</strong>
+<br>Every Gabrielite will develop his artistic and creative capabilities with
+21st-century skills and competencies as future-ready citizen.</p>
+<p><strong>Key Personnel</strong>
+<br>Mrs Catherine Low (HOD Aesthetics &amp; Applied Learning Programme)</p>
+<p><strong>Aesthetics Committee</strong> 
+<br>Mrs Cecilia Wong
+<br>Mr Ng Chiong Hoe
+<br>Ms Glenda Ng
+<br>Ms Lytessia Soh
+<br>Ms Yang Xiaoqing
+<br>
+</p>
+<p><strong>Department Programmes</strong>
+</p>
+<p>At St. Gabriel’s Primary School, we nurture every Gabrielite to be a leader,
+sportsman and an achiever. Our Arts Education serves to develop our students
+into creative and discerning individuals who embrace cultural diversity
+with a deep appreciation for the aesthetics vision:</p>
+<p><strong>Leader</strong>&nbsp;– To cultivate a passion for the Arts and
+to foster a sense of cultural awareness for artistic development and excellence
+as a respectful and ethical individual</p>
+<p><strong>Sportsman</strong> – To develop social and life skills as an effective
+and resilient team player through diverse arts experiences, ethnic music
+groups and ensembles</p>
+<p><strong>Achiever</strong>&nbsp;– To strengthen critical thought and creative
+expression with knowledge and competency, and to excel in artistic and
+musical mastery as an inventive and confident individual</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/if6sMusJDcY?si=eVZFkkjmkNkNjdjo"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5UqAg2XKmHM?si=DiAPRPRc-Ua9c4HN"></iframe>
+</div>
+<p></p>
+<p><strong>Creative Journeys Through Visual Arts @SGPS</strong>
+</p>
+<p>Through a rich variety of visual arts experiences, our Gabrielites explored
+creativity, self-expression, and art appreciation in meaningful and engaging
+ways. From illustrating the values of <strong>Leaders, Sportsmen, and Achievers</strong> through
+drawings, to crafting mosaic coasters with creativity and precision, students
+developed confidence, perseverance, and artistic expression. <strong>Museum visits</strong> and
+the <strong>National Gallery’s Roving Art Studio</strong> further enriched
+their learning as they experienced artworks firsthand and gained a deeper
+appreciation of Singapore’s artistic heritage. These experiences nurtured
+imagination, collaboration, and aesthetic awareness, empowering students
+to become future-ready Gabrielites who express ideas creatively and appreciate
+diverse perspectives through art.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1a_Creative_Artists.jpg">
+</div>
+<p>Creative Artists</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1b_Gabrielite_Spirit_Through_Their_Drawings.jpg">
+</div>
+<p>Gabrielite Spirit Through Their Drawings</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1c_Expressing_Values_Through_LSA.jpg">
+</div>
+<p><strong>Expressing Values Through LSA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1d_Young_Artists_Finding_Inspiration.jpg">
+</div>
+<p><strong>Young Artists Finding Inspiration</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1e_Imagination_Meets_Observation.jpg">
+</div>
+<p><strong>Imagination Meets Observation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1f_Lee_Boon_Ngan_s_Flower_Series.jpg">
+</div>
+<p><strong>Lee Boon Ngan's Flower Series</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1g_Roving_Art_Studio_at_SGPS.jpg">
+</div>
+<p><strong>Roving Art Studio at SGPS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1h_Every_Tile_Tells_A_Story.jpg">
+</div>
+<p><strong>Every Tile Tells A Story</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1k_Artist_Richard_Wang.jpg">
+</div>
+<p><strong>Artist Richard Wang</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1l_Artist_Sharman_Raaoul.jpg">
+</div>
+<p><strong>Artist Sharman Raaoul</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1j_Fostering_Confidence_And_Creativity.jpg">
+</div>
+<p><strong>Fostering Confidence And Creativity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Patterns of Heritage, Colours of Life</strong>
+</p>
+<p>Through the <strong>Primary 2 Peranakan Art and Primary 5 Batik Art programmes</strong>,
+students explored Singapore’s rich cultural heritage through vibrant colours,
+traditional motifs, and hands-on artistic experiences. From Peranakan-inspired
+patterns to batik painting techniques, students developed creativity, patience,
+precision, and artistic expression while gaining a deeper appreciation
+for multicultural traditions. By connecting heritage with modern creativity,
+these meaningful art experiences nurtured culturally aware and future-ready
+Gabrielites who value inclusivity, innovation, and respect for diverse
+identities.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a_Little_Artisans_At_Work.jpg">
+</div>
+<p>Little Artisans At Work</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b_Tradition_With_A_Modern_Touch.jpg">
+</div>
+<p>Tradition With A Modern Touch</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2c_Celebrating_Creativity_and_Culture.jpg">
+</div>
+<p><strong>Celebrating Creativity and Culture</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d_Hands_On_Artistry.jpg">
+</div>
+<p><strong>Hands-On Artistry</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2e.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2f.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Digital Creativity, Boundless Imagination Unleashed</strong>
+</p>
+<p>Primary 3 to 6 students explored <strong>Tayasui Sketches App</strong> with
+creativity, self-expression, and innovation while developing confidence
+in using technology as a creative tool. From imaginative digital designs
+to nature-inspired artworks, students experimented with colours, textures,
+layering, and digital techniques on iPads to bring their ideas to life.
+These hands-on experiences nurtured artistic expression, digital literacy,
+adaptability, and collaboration, empowering students to become future-ready
+Gabrielites who embrace creativity and innovation in a technology-driven
+world.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5a_Creativity_Meets_Technology.jpg">
+</div>
+<p>Creativity Meets Technology</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5b_Blossoms_and_Pixels.jpg">
+</div>
+<p>Blossoms and Pixels</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5c_Digital_Creativity_Blooms.jpg">
+</div>
+<p><strong>Digital Creativity Blooms</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5d_Blending_Artistry_And_Technology.jpg">
+</div>
+<p><strong>Blending Artistry And Technology</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
