@@ -105,6 +105,7 @@ variant: markdown
     <label for="accordion8">Visual and Performing Arts</label>
     <div>
 			<ul>
+				<li><a href="/life-skills-and-enrichment/co-curricular-activities/gabrielite-choir/">Gabrielite Choir</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/brass-band/">Brass Band</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/performing-arts/">Performing Arts Club</a></li>
 				<li><a href="/life-skills-and-enrichment/co-curricular-activities/art-club/">Art Club</a></li>
