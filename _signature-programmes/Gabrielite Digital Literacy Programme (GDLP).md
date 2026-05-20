@@ -22,6 +22,21 @@ citizens.</p>
 <br>Mrs Catherine Low, HOD Aesthetics and Applied Learning</p>
 <p>Ms Chua Suting, SH InfoComm Technology (Internal)</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OEQDi5Wk7gg?si=aFGGZmTOYEKr1Uw7"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Ysx6LBnGw4?si=OlN25Cs-2dMzHl0E"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rvIY_jRw3tM"></iframe>
+</div>
 <p><strong>Inventive Minds, Big Tech Dreams</strong>
 </p>
 <p>The <strong>Gabrielite Digital Literacy Programme (GDLP)</strong> empowers
@@ -179,17 +194,4 @@ meaningfully to a rapidly evolving digital world.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OEQDi5Wk7gg?si=aFGGZmTOYEKr1Uw7"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdpyCiVXrDc?si=DWrXR2TlAJTcjLnq"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Ysx6LBnGw4?si=OlN25Cs-2dMzHl0E"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rvIY_jRw3tM"></iframe>
-</div>
 <p></p>
