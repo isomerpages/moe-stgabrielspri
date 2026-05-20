@@ -30,12 +30,14 @@ collaboration, and pride in representing the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1a_Dedication_of_the_School_Year_Mass.jpg">
 </div>
+<p>Dedication of the School Year Mass</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1b_Voices_United__Gabrielite_Spirit_Soars.jpg">
 </div>
+<p>Voices United, Gabrielite Spirit Soars</p>
 </th>
 </tr>
 <tr>
@@ -44,12 +46,16 @@ collaboration, and pride in representing the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1c_Where_Talent_Meets_Dedication.jpg">
 </div>
+<p><strong>Where Talent Meets Dedication</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1d_Celebrating_Faith_and_Friendship_Through_Music.jpg">
 </div>
+<p><strong>Celebrating Faith and Friendship Through Music</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,6 +64,8 @@ collaboration, and pride in representing the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1p_Thanksgiving_Mass.jpg">
 </div>
+<p><strong>Thanksgiving Mass</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,7 +108,8 @@ collaboration, and pride in representing the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1f_Gabrielite_Choir__Reap_the_Laurels.jpg">
 </div>
-<p></p>
+<p><strong>Gabrielite Choir @ Reap the Laurels</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -140,12 +149,14 @@ to be future-ready leaders who contribute meaningfully to the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a_Young_Voices_With_Patriotic_Pride.jpg">
 </div>
+<p>Young Voices With Patriotic Pride</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b_Striking_The_Right_Note_with_NDP_Songs.jpg">
 </div>
+<p>Striking The Right Note with NDP Songs</p>
 </th>
 </tr>
 <tr>
@@ -154,12 +165,16 @@ to be future-ready leaders who contribute meaningfully to the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_Bringing_Joy_Beyond_The_School_Stage.jpg">
 </div>
+<p><strong>Bringing Joy Beyond The School Stage</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2d_Our_Violinist.jpg">
 </div>
+<p><strong>Our Violinist</strong>
+</p>
 </td>
 </tr>
 <tr>
