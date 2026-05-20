@@ -100,7 +100,9 @@ characters—bring stories to life and foster a vibrant reading culture.&nbsp;</
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_D.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -119,7 +121,8 @@ characters—bring stories to life and foster a vibrant reading culture.&nbsp;</
 the school through the provision of reading resources and activities. Every
 year, we continue to participate in the NLB Read for Books event, a charity
 book drive aimed at raising awareness of reading and sharing the gift of
-reading with the less privileged.&nbsp;</p>
+reading with the less privileged.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -155,6 +158,7 @@ Mythos Junior Orators (a storytelling competition), NewsMaker Awards (Digital
 Video News competition, Creative Writing Programme (CWP) and The Queen's
 Commonwealth Essay Competition. Such competitions allow our students to
 hone their speaking and writing skills while realising their full potential.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -164,7 +168,7 @@ hone their speaking and writing skills while realising their full potential.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_12.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English Language/Image_12.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -175,9 +179,25 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_13.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/EL_E.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -213,8 +233,8 @@ hone their speaking and writing skills while realising their full potential.</p>
 <p>Little Red Dot - Lost in Time Writing Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Top Prize</u> 
-<br>Mitchell Chan (5 Sel)</p>
+<p><u>Golde</u>
+<br>Rafael Deng (3 Sel)</p>
 </td>
 </tr>
 <tr>
@@ -257,6 +277,7 @@ hone their speaking and writing skills while realising their full potential.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
