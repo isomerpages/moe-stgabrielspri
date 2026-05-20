@@ -4,11 +4,10 @@ permalink: /academic-learning/english-language/
 description: ""
 variant: markdown
 ---
-<p><strong>Department Goals</strong>
-</p>
-<p>To develop every Gabrielite to be an empathetic listener, a critical reader,&nbsp;an
+<strong>Department Goals</strong><br>
+To develop every Gabrielite to be an empathetic listener, a critical reader,&nbsp;an
 effective communicator, and an active change agent who empowers self and
-others to serve the community.</p>
+others to serve the community.
 <p><strong>Key Personnel</strong>
 <br>Head of Department : Mrs Michelle Tan
 <br>Level Head (Internal) : Mrs Tan Siew Mei
@@ -230,35 +229,35 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
+<p>P3 Vactors Reading Stars Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Golde</u>
-<br>Rafael Deng (3 Sel)</p>
+<p><u>Gold</u>
+<br>Rafael Deng (3 Sel)
+<br> Matin (3 Gen)
+<br> Benjamin Ang (3 Per)
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Queen's Commonwealth Essay Competition 2023</p>
+<p>Mythos Juniors Orators 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>4th Best Performer</u> 
+<br>Leonard Chan (5 Sel)
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Bronze</u> 
-<br>Rayhan (4 Loy)
-<br>Mitchell Chan (5 Sel)
-<br>Lucas Leow (5 Sel)
-<br>Gordon Chia (5 Sel)
-<br>Keshav Kumar (5 Gen)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 Moo-O Awards 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Merit</u> 
-<br>Winston Meng (3 Loy)
-<br>Lucas Cordeiro (3 Per)
-<br>Xanthus Quek (3 Gen)</p>
+<br>Jasper Goh (2 Dil)
+<br>Azriel Chai (4 Loy)
+<br>Riaan Parveen (4 Loy)</p>
 </td>
 </tr>
 <tr>
@@ -274,10 +273,11 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>Top Prize</u>
+<br>Mitchell Chan (5 Sel)</p>
 <p></p>
 </td>
 </tr>
