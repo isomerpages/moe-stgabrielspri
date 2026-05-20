@@ -2,12 +2,12 @@
 title: English Language
 permalink: /academic-learning/english-language/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<strong>Department Goals</strong><br>
-To develop every Gabrielite to be an empathetic listener, a critical reader,&nbsp;an
+<p><strong>Department Goals</strong>
+<br>To develop every Gabrielite to be an empathetic listener, a critical reader,&nbsp;an
 effective communicator, and an active change agent who empowers self and
-others to serve the community.
+others to serve the community.</p>
 <p><strong>Key Personnel</strong>
 <br>Head of Department : Mrs Michelle Tan
 <br>Level Head (Internal) : Mrs Tan Siew Mei
@@ -62,13 +62,11 @@ on a termly basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_A.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_B.jpg">
 </div>
@@ -178,7 +176,6 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_13.jpg">
 </div>
@@ -186,7 +183,6 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/EL_E.jpg">
 </div>
@@ -202,6 +198,7 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Some of our achievements are listed below:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -234,9 +231,8 @@ hone their speaking and writing skills while realising their full potential.</p>
 <td rowspan="1" colspan="1">
 <p><u>Gold</u>
 <br>Rafael Deng (3 Sel)
-<br> Matin (3 Gen)
-<br> Benjamin Ang (3 Per)
-</p>
+<br>Matin (3 Gen)
+<br>Benjamin Ang (3 Per)</p>
 </td>
 </tr>
 <tr>
@@ -245,8 +241,7 @@ hone their speaking and writing skills while realising their full potential.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>4th Best Performer</u> 
-<br>Leonard Chan (5 Sel)
-</p>
+<br>Leonard Chan (5 Sel)</p>
 </td>
 </tr>
 <tr>
@@ -278,6 +273,13 @@ hone their speaking and writing skills while realising their full potential.</p>
 <td rowspan="1" colspan="1">
 <p><u>Top Prize</u>
 <br>Mitchell Chan (5 Sel)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
