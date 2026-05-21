@@ -1,6 +1,6 @@
 ---
 title: Gabrielite Choir
-permalink: /gabrielite-choir/
+permalink: /life-skills-and-enrichment/co-curricular-activities/gabrielite-choir/
 variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)

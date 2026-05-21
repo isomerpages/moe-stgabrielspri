@@ -5,17 +5,14 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Department Goals</strong>
-</p>
-<p>To develop every Gabrielite to be an empathetic listener, a critical reader,
-an effective communicator, and an active change agent who empowers self
-and others to serve the community.</p>
+<br>To develop every Gabrielite to be an empathetic listener, a critical reader,&nbsp;an
+effective communicator, and an active change agent who empowers self and
+others to serve the community.</p>
 <p><strong>Key Personnel</strong>
-</p>
-<p>Head of Department: Mrs Michelle Tan</p>
-<p>Level Head: Mrs Tan Siew Mei</p>
-<p>Lead Teacher: Mrs Cecilia Koh</p>
-<p>Senior Teacher : Mrs Wendy Chee</p>
-<p></p>
+<br>Head of Department : Mrs Michelle Tan
+<br>Level Head (Internal) : Mrs Tan Siew Mei
+<br>Lead Teacher :&nbsp;Mrs Cecilia Koh
+<br>Senior Teacher : Mrs Wendy Chee</p>
 <p><strong>National Curricula</strong>
 </p>
 <p><strong>ST</strong>rategies for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning
@@ -41,9 +38,10 @@ Discerning Readers and Creative Inquirers.</p>
 play an active role in their classrooms to share the joy of reading. This
 is achieved through their termly book talks to their peers, which include
 book recommendations as well as short excerpts of the books being read
-aloud. P4 to P6 LMM EL Monitors also promote interesting news articles
-in the Little Red Dot publications by giving presentations to the school
-on a weekly basis.</p>
+aloud. P4 to P6 EL Monitors also promote interesting news articles in the
+Little Red Dot publications by giving presentations to their classmates
+on a termly basis.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,21 +61,28 @@ on a weekly basis.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English Language/Image_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_A.jpg">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_B.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong><u>EL Fiesta</u></strong>
 </p>
-<p>Recognising that stories are powerful communication tools to create meaning
-and connect people, a key feature in our EL programme is the use of stories
-to ignite the students’ passion for the English language through termly
-activities.&nbsp;</p>
+<p>We believe that stories are powerful tools for meaning-making and connection.
+Our English Language (EL) programme leverages the joy of storytelling to
+ignite students’ passion for reading and language. Beyond engaging classroom
+experiences, signature events such as our EL Book Fairs and the much-anticipated
+Book Character Day—where students come dressed as their favourite literary
+characters—bring stories to life and foster a vibrant reading culture.&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -87,12 +92,13 @@ activities.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_C.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_D.jpg">
 </div>
 </th>
 </tr>
@@ -101,6 +107,7 @@ activities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_7.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -111,7 +118,8 @@ activities.&nbsp;</p>
 the school through the provision of reading resources and activities. Every
 year, we continue to participate in the NLB Read for Books event, a charity
 book drive aimed at raising awareness of reading and sharing the gift of
-reading with the less privileged.&nbsp;</p>
+reading with the less privileged.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -147,6 +155,7 @@ Mythos Junior Orators (a storytelling competition), NewsMaker Awards (Digital
 Video News competition, Creative Writing Programme (CWP) and The Queen's
 Commonwealth Essay Competition. Such competitions allow our students to
 hone their speaking and writing skills while realising their full potential.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -156,7 +165,7 @@ hone their speaking and writing skills while realising their full potential.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_12.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English Language/Image_12.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -170,11 +179,18 @@ hone their speaking and writing skills while realising their full potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language/Image_13.jpg">
 </div>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/EL_E.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Some of our achievements are listed below:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -202,35 +218,33 @@ hone their speaking and writing skills while realising their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
+<p>P3 Vactors Reading Stars Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Top Prize</u> 
-<br>Mitchell Chan (5 Sel)</p>
+<p><u>Gold</u>
+<br>Rafael Deng (3 Sel)
+<br>Matin (3 Gen)
+<br>Benjamin Ang (3 Per)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Queen's Commonwealth Essay Competition 2023</p>
+<p>Mythos Juniors Orators 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>4th Best Performer</u> 
+<br>Leonard Chan (5 Sel)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Bronze</u> 
-<br>Rayhan (4 Loy)
-<br>Mitchell Chan (5 Sel)
-<br>Lucas Leow (5 Sel)
-<br>Gordon Chia (5 Sel)
-<br>Keshav Kumar (5 Gen)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 Moo-O Awards 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Merit</u> 
-<br>Winston Meng (3 Loy)
-<br>Lucas Cordeiro (3 Per)
-<br>Xanthus Quek (3 Gen)</p>
+<br>Jasper Goh (2 Dil)
+<br>Azriel Chai (4 Loy)
+<br>Riaan Parveen (4 Loy)</p>
 </td>
 </tr>
 <tr>
@@ -242,6 +256,15 @@ hone their speaking and writing skills while realising their full potential.</p>
 <br>Leonard Chan (4 Loy)
 <br>Gavrail Ranggau (4 Ord)
 <br>Aiyar Rayan Prabhu (4 Res)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Little Red Dot - Lost in Time Writing Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Top Prize</u>
+<br>Mitchell Chan (5 Sel)</p>
 </td>
 </tr>
 <tr>
