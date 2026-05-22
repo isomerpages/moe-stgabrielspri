@@ -23,8 +23,8 @@ interest and love for the language.</p>
 <br>Primary 2: Masala Tea
 <br>Primary 3: Clay Pot Painting - Pongal Pot
 <br>Primary 4: Clay Pot Painting – Pongal Pot
-<br>Primary 5: Silambattam</p>
-<p>Primary 6: Silambattam</p>
+<br>Primary 5: Silambattam
+<br>Primary 6: Silambattam</p>
 <p></p>
 <p>3. Primary 1 to 6 Traditional Games Day To build students’ vocabulary
 through exposure to local and traditional games</p>
