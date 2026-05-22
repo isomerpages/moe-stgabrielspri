@@ -56,7 +56,7 @@ language through customized reading and oratorical resources.</p>
 <p><strong>Tamil Language Book Fair</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamilbookfair.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/tamilbookfair.jpg">
 </div>
 <p><strong>Internal Competitions</strong>
 </p>
