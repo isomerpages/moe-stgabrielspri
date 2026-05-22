@@ -45,10 +45,11 @@ work play through Malay Folk songs</p>
 </ol>
 <p><strong>School Level</strong>
 </p>
-<p><strong>Reading/Oral Support Programmes (P2 to P6)</strong>
-</p>
 <ol data-tight="true" class="tight">
 <li>
+<p><strong>Reading/Oral Support Programmes (P2 to P6)</strong>
+</p>
+<p></p>
 <p>Objective: To develop students’ as effective communicators in the Malay
 language through customized reading and oratorical resources.</p>
 <ul data-tight="true" class="tight">
@@ -81,7 +82,7 @@ through the reading of Malay books / articles.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malaybookfair1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/malaybookfair1.jpg">
 </div>
 </th>
 </tr>
@@ -97,7 +98,7 @@ through the reading of Malay books / articles.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Internal/External Competitions</strong>
+<p><strong>Internal Competitions</strong>
 </p>
 <p>Providing students with the opportunity to use the Malay Language at various
 platforms in various creative forms to build their confidence in public
