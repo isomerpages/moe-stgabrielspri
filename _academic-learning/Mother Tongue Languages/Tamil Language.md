@@ -18,12 +18,12 @@ engaging activities which enthuse and enrich our students' learning</p>
 <p>2. Mother Tongue Fortnight Activities:
 <br>A week of fun-filled activities to expose students to the Tamil Culture
 through the introduction of Indian food and art forms so as to arouse students’
-interest and love for the language.</p>
+interest and love for the language</p>
 <p>Primary 1: Indian Food
 <br>Primary 2: Masala Tea
 <br>Primary 3: Clay Pot Painting - Pongal Pot
 <br>Primary 4: Clay Pot Painting – Pongal Pot
-<br>Primary 5: Silambattam
+<br>Primary 5: Villupattu
 <br>Primary 6: Silambattam</p>
 <p></p>
 <p>3. Primary 1 to 6 Traditional Games Day To build students’ vocabulary
@@ -35,11 +35,8 @@ through exposure to local and traditional games</p>
 <p><strong>Reading /Oral Support Programme (P2 to P6)</strong>
 </p>
 <p>Objective: To develop students’ as effective communicators in the Tamil
-language through customized reading and oratorical resources.</p>
+language through customized reading and oratorical resources</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Graded Reading Programme (P2 - P3)</p>
-</li>
 <li>
 <p>Internal Reading Support Programme (P2 - P4)</p>
 </li>
@@ -60,9 +57,8 @@ language through customized reading and oratorical resources.</p>
 </div>
 <p><strong>Internal Competitions</strong>
 </p>
-<p>Providing students with the opportunity to use the Tamil Language at Various
-platforms in various creative forms to build their confidence in public
-speaking</p>
+<p>Providing students with the opportunity to use the Tamil Language in various
+creative forms to build their confidence in public speaking</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nursery Rhyme Recitation (P1)</p>
@@ -126,7 +122,7 @@ speaking</p>
 <p><strong>Learning Journey</strong>
 </p>
 <p>Learning of Tamil through authentic learning experiences such as learning
-journeys and watching of theatrical performances.</p>
+journeys and watching of theatrical performances</p>
 <p><strong>P4 Learning Journey to Pongal Fair</strong>
 </p>
 <table style="minWidth: 50px">
@@ -151,6 +147,8 @@ journeys and watching of theatrical performances.</p>
 </table>
 <p><strong>Deepavali Celebrations</strong>
 </p>
+<p>An inclusive school which respects and embraces all races, religions and
+customs</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
