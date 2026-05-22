@@ -100,9 +100,8 @@ through the reading of Malay books / articles.</p>
 <li>
 <p><strong>Internal Competitions</strong>
 </p>
-<p>Providing students with the opportunity to use the Malay Language at various
-platforms in various creative forms to build their confidence in public
-speaking.</p>
+<p>Providing students with the opportunity to use the Malay Language in various
+creative forms to build their confidence in public speaking.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nursery Rhyme Recitation (P1)</p>
@@ -168,7 +167,7 @@ speaking.</p>
 <li>
 <p><strong>Hari Raya Celebrations</strong>
 </p>
-<p>An inclusive school which respects and embrace all races, religion and
+<p>An inclusive school which respects and embraces all races, religion and
 customs.</p>
 </li>
 </ol>
