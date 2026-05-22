@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>Department Goal</strong>
 </p>
 <p>Develop engaged learners, effective communicators, through authentic and
-engaging activities which enthuse and enrich our students' learning.</p>
+engaging activities which enthuse and enrich our students' learning</p>
 <p><strong>Key Personnel</strong> 
 <br>Ms Palaniammal Murugiah (Subject Head Mother Tongue Languages)</p>
 <p>Mr&nbsp;Muhamad Hamzah Rohi (Malay Language Coordinator)</p>
@@ -19,7 +19,7 @@ engaging activities which enthuse and enrich our students' learning.</p>
 <p>2. Mother Tongue Fortnight Activities:</p>
 <p>A week of fun-filled activities to expose students to the Malay Culture
 through the introduction of Malay food and art forms so as to arouse students’
-interest and love for the language.</p>
+interest and love for the language</p>
 <p>Primary 1: Local Foods</p>
 <p>Primary 2: Animals in Malay Folklore</p>
 <p>Primary 3: Weaving</p>
@@ -51,7 +51,7 @@ work play through Malay Folk songs</p>
 </p>
 <p></p>
 <p>Objective: To develop students’ as effective communicators in the Malay
-language through customized reading and oratorical resources.</p>
+language through customized reading and oratorical resources</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MOE Phonetics and Reading Programme at Primary 1</p>
@@ -70,7 +70,7 @@ language through customized reading and oratorical resources.</p>
 </li>
 </ul>
 <p>Objective: To build students’ vocabulary and competency in the language
-through the reading of Malay books / articles.</p>
+through the reading of Malay books / articles</p>
 <p></p>
 <p><strong>Malay Language Book Fair</strong>
 </p>
@@ -101,7 +101,7 @@ through the reading of Malay books / articles.</p>
 <p><strong>Internal Competitions</strong>
 </p>
 <p>Providing students with the opportunity to use the Malay Language in various
-creative forms to build their confidence in public speaking.</p>
+creative forms to build their confidence in public speaking</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nursery Rhyme Recitation (P1)</p>
@@ -168,7 +168,7 @@ creative forms to build their confidence in public speaking.</p>
 <p><strong>Hari Raya Celebrations</strong>
 </p>
 <p>An inclusive school which respects and embraces all races, religion and
-customs.</p>
+customs</p>
 </li>
 </ol>
 <table style="minWidth: 50px">
