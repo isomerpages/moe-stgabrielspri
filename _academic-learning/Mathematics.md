@@ -117,14 +117,13 @@ for every topic.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/maths4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maths4.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maths6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maths5.png">
 </div>
-<p></p>
 </th>
 </tr>
 </tbody>
@@ -160,13 +159,11 @@ of numbers through collaborative games and play-based activities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maths5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maths6.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/maths7.jpg">
 </div>
