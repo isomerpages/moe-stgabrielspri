@@ -2,13 +2,13 @@
 title: Mathematics
 permalink: /academic-learning/mathematics/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong><u>Mathematics</u></strong>
 </p>
-<p><strong>Head of Department: </strong>Mr Andy Kong</p>
-<p><strong>Level Head (Internal): </strong>Mrs Elsa Ong</p>
-<p><strong>Senior Teacher (Mathematics): </strong>Mrs Shelena Lim</p>
+<p><strong>Head of Department: </strong>Mr Andy Kong
+<br><strong>Level Head (Internal): </strong>Mrs Elsa Ong
+<br><strong>Senior Teacher (Mathematics): </strong>Mrs Shelena Lim</p>
 <p><strong><u>Department Vision</u></strong>
 </p>
 <p>At St. Gabriel’s Primary School, we shape our young Gabrielites into confident,
