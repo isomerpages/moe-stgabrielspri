@@ -2,7 +2,6 @@
 title: Coding Enrichment Programme
 permalink: /signature-programmes/louis-marie-de-montfort/coding-enrichment-programme/
 description: ""
-third_nav_title: Louis Marie de Montfort (LMM)
 variant: tiptap
 ---
 <p align="justify">

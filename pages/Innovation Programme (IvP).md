@@ -2,7 +2,6 @@
 title: Innovation Programme (IvP)
 permalink: /signature-programmes/louis-marie-de-montfort/ivp/
 description: ""
-third_nav_title: Louis Marie de Montfort (LMM)
 variant: tiptap
 ---
 <p>The Innovation Programme (IvP), an initiative from MOE Gifted Education
