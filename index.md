@@ -20,7 +20,7 @@ sections:
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/louis-marie-de-montfort/lmm/
-      background: /images/SGPS_Banner_2026.gif
+      background: /images/LSA.png
   - infopic:
       title: Gabrielite 2028 Strategic Plan
       id: infopic
