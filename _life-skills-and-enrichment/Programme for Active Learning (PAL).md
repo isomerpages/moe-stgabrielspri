@@ -136,38 +136,43 @@ of technology in a rapidly changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a_Coding__creating__and_controlling_Dash___learning_made_exciting_.jpg">
 </div>
-<p>Coding, creating, and controlling Dash - learning made exciting!</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2b_Exploring_technology_with_creativity__collaboration__and_critical_thinking___the_21CC_way_.jpg">
 </div>
-<p>Exploring technology with creativity, collaboration, and critical thinking
-- the 21CC way!</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coding, creating, and controlling Dash - learning made exciting!</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Exploring technology with creativity, collaboration, and critical thinking - the 21CC way!</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_PAL_GDLP__Nurturing_digitally_savvy__future_ready_learners.jpg">
 </div>
-<p><strong>Nurturing digitally savvy, future-ready learners</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2d_Preparing_students_to_think_critically_and_communicate_effectively.jpg">
 </div>
-<p><strong>Preparing students to think critically and communicate effectively</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Nurturing digitally savvy, future-ready learners</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Preparing students to think critically and communicate effectively</strong>
+</p>
 </td>
 </tr>
 </tbody>
