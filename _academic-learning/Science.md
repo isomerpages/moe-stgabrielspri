@@ -468,7 +468,7 @@ limited natural resources, and switching the lights off when not in use</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci46.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sci46.png">
 </div>
 </th>
 </tr>
@@ -480,7 +480,7 @@ limited natural resources, and switching the lights off when not in use</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci48.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sci48.png">
 </div>
 </td>
 </tr>
@@ -498,7 +498,7 @@ limited natural resources, and switching the lights off when not in use</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci50.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/sci50.png">
 </div>
 </td>
 </tr>
@@ -533,7 +533,7 @@ limited natural resources, and switching the lights off when not in use</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci54.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/sci54.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -610,7 +610,7 @@ and inventive thinking as well as effective communication skills.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci60.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/sci60.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -640,7 +640,7 @@ and inventive thinking as well as effective communication skills.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci64.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/sci64.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -652,7 +652,7 @@ and inventive thinking as well as effective communication skills.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci66.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/sci66.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
