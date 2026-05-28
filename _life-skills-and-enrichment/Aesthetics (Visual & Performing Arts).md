@@ -68,27 +68,41 @@ diverse perspectives through art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1a_Creative_Artists.jpg">
 </div>
-<p>Creative Artists</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1b_Gabrielite_Spirit_Through_Their_Drawings.jpg">
 </div>
-<p>Gabrielite Spirit Through Their Drawings</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Creative Artists</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gabrielite Spirit Through Their Drawings</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1c_Expressing_Values_Through_LSA.jpg">
 </div>
-<p><strong>Expressing Values Through LSA</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1d_Young_Artists_Finding_Inspiration.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Expressing Values Through LSA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Young Artists Finding Inspiration</strong>
 </p>
 </td>
@@ -98,13 +112,19 @@ diverse perspectives through art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1e_Imagination_Meets_Observation.jpg">
 </div>
-<p><strong>Imagination Meets Observation</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1f_Lee_Boon_Ngan_s_Flower_Series.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Imagination Meets Observation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Lee Boon Ngan's Flower Series</strong>
 </p>
 </td>
@@ -114,13 +134,19 @@ diverse perspectives through art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1g_Roving_Art_Studio_at_SGPS.jpg">
 </div>
-<p><strong>Roving Art Studio at SGPS</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1h_Every_Tile_Tells_A_Story.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Roving Art Studio at SGPS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Every Tile Tells A Story</strong>
 </p>
 </td>
@@ -130,13 +156,19 @@ diverse perspectives through art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1k_Artist_Richard_Wang.jpg">
 </div>
-<p><strong>Artist Richard Wang</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1l_Artist_Sharman_Raaoul.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Artist Richard Wang</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Artist Sharman Raaoul</strong>
 </p>
 </td>
@@ -146,8 +178,6 @@ diverse perspectives through art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1j_Fostering_Confidence_And_Creativity.jpg">
 </div>
-<p><strong>Fostering Confidence And Creativity</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -155,7 +185,8 @@ diverse perspectives through art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fostering Confidence And Creativity</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -188,15 +219,24 @@ identities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a_Little_Artisans_At_Work.jpg">
 </div>
-<p>Little Artisans At Work</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b_Tradition_With_A_Modern_Touch.jpg">
 </div>
-<p>Tradition With A Modern Touch</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Little Artisans At Work</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tradition With A Modern Touch</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -204,14 +244,20 @@ identities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2c_Celebrating_Creativity_and_Culture.jpg">
 </div>
-<p><strong>Celebrating Creativity and Culture</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d_Hands_On_Artistry.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Celebrating Creativity and Culture</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Hands-On Artistry</strong>
 </p>
 </td>
@@ -265,40 +311,44 @@ world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5a_Creativity_Meets_Technology.jpg">
 </div>
-<p>Creativity Meets Technology</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5b_Blossoms_and_Pixels.jpg">
 </div>
-<p>Blossoms and Pixels</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5c_Digital_Creativity_Blooms.jpg">
-</div>
-<p><strong>Digital Creativity Blooms</strong>
+<p><strong>Creativity Meets Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5d_Blending_Artistry_And_Technology.jpg">
-</div>
-<p><strong>Blending Artistry And Technology</strong>
+<p><strong>Blossoms and Pixels</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5c_Digital_Creativity_Blooms.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5d_Blending_Artistry_And_Technology.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Digital Creativity Blooms</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Blending Artistry And Technology</strong>
+</p>
 </td>
 </tr>
 </tbody>
