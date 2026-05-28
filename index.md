@@ -20,7 +20,7 @@ sections:
         - title: SIGNATURE PROGRAMMES
           description: ""
           url: /signature-programmes/louis-marie-de-montfort/lmm/
-      background: /images/mock-up website gif (3).gif
+      background: /images/SGPS_Banner_2026.gif
   - infopic:
       title: Gabrielite 2028 Strategic Plan
       id: infopic
@@ -60,7 +60,7 @@ sections:
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
       alt: Image alt text
-      image: /images/900x240cm_lsa_fa.jpg
+      image: /images/LSA.png
   - infopic:
       title: 2025 School Magazine
       id: infopic

@@ -288,27 +288,41 @@ in an interconnected world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Friendship_Blooming_Beyond_Language.jpg">
 </div>
-<p>Friendship Blooming Beyond Language</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Leaders_In_Conversation.jpg">
 </div>
-<p>Young Leaders In Conversation</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Friendship Blooming Beyond Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Young Leaders In Conversation</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Gabrielite_family__two_schools__countless_memories___united_for_the_future_.jpg">
 </div>
-<p><strong>One Gabrielite family, two schools, countless memories – united for the future</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Game_On__Building_camaraderie_and_resilience_through_friendly_competition_.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>One Gabrielite family, two schools, countless memories – united for the future</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Game On! Building camaraderie and resilience through friendly competition</strong>
 </p>
 </td>
@@ -318,8 +332,6 @@ in an interconnected world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_shared_legacy__a_united_future___Gabrielites_today__leaders_tomorrow_.jpg">
 </div>
-<p><strong>A shared legacy, a united future – Gabrielites today, leaders tomorrow</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -327,7 +339,8 @@ in an interconnected world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>A shared legacy, a united future – Gabrielites today, leaders tomorrow</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -368,25 +381,35 @@ Gabrielites.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/From_Singapore_to_Bangkok___Journey_Begins_.jpg">
 </div>
-<p>From Singapore to Bangkok, - Journey Begins!</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>From Singapore to Bangkok, - Journey Begins!</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Memories_Made__Bonds_That_Will_Last.jpg">
 </div>
-<p><strong>Memories Made, Bonds That Will Last</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sportsmanship_Shines_on_the_Field_Abroad.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Memories Made, Bonds That Will Last</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Sportsmanship Shines on the Field Abroad</strong>
 </p>
 </td>
@@ -396,23 +419,21 @@ Gabrielites.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Discovering_Culture_Through_Hands_On_Experience.jpg">
 </div>
-<p><strong>Discovering Culture Through Hands-On Experience</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_Journey_of_Learning_and_Friendship.jpg">
 </div>
-<p><strong>A Journey of Learning and Friendship</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Discovering Culture Through Hands-On Experience</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>A Journey of Learning and Friendship</strong>
+</p>
 </td>
 </tr>
 </tbody>

@@ -67,29 +67,41 @@ to make meaningful contributions to a smart and sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 63%;" height="auto" width="100%" alt="" src="/images/Hands_On_Learning_that_Sparks_Curiosity.jpg">
 </div>
-<p><strong>Hands-On Learning that Sparks Curiosity</strong>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Innovative_Minds_Creating_Real_World_Solutions.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hands-On Learning that Sparks Curiosity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Innovative Minds Creating Real-World Solutions</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 83%;" height="auto" width="100%" alt="" src="/images/3_SIY___Teamwork_in_Action___Problem_Solving_Together.jpg">
 </div>
-<p><strong>Teamwork in Action - Problem-Solving Together</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3_PER___Design_Thinking_at_Work___Plan__Build__Test_.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teamwork in Action - Problem-Solving Together</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Design Thinking at Work - Plan, Build, Test!</strong>
 </p>
 </td>
@@ -99,8 +111,6 @@ to make meaningful contributions to a smart and sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/3_GEN___Excitement_as_Robots_Respond_to_Our_Code.jpg">
 </div>
-<p><strong>Excitement as Robots Respond to Our Code</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -108,7 +118,8 @@ to make meaningful contributions to a smart and sustainable future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Excitement as Robots Respond to Our Code</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -147,27 +158,41 @@ meaningfully to a rapidly evolving digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 63%;" height="auto" width="100%" alt="" src="/images/5_GEN_Engineering_Creative_Solutions_with_Boson_Kits.jpg">
 </div>
-<p>Engineering Creative Solutions with Boson Kits</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_SIY_Collaborating_and_Prototyping_Like_Young_Engineers.jpg">
 </div>
-<p>Collaborating and Prototyping Like Young Engineers</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Engineering Creative Solutions with Boson Kits</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Collaborating and Prototyping Like Young Engineers</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 63%;" height="auto" width="100%" alt="" src="/images/5_SEL_LEGO_Builds__Big_Ideas__Bright_Futures.jpg">
 </div>
-<p><strong>LEGO Builds, Big Ideas, Bright Futures</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_PER_Iterate__Improve__and_Innovate___Gabrielite_Style_.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LEGO Builds, Big Ideas, Bright Futures</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Iterate, Improve, and Innovate - Gabrielite Style!</strong>
 </p>
 </td>
@@ -177,8 +202,6 @@ meaningfully to a rapidly evolving digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5_LOY_Future_Ready_Skills_Built_Brick_by_Brick.jpg">
 </div>
-<p><strong>Future-Ready Skills Built Brick by Brick</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -186,7 +209,8 @@ meaningfully to a rapidly evolving digital world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Future-Ready Skills Built Brick by Brick</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
