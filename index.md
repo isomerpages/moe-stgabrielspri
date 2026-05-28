@@ -60,7 +60,7 @@ sections:
       button: Follow us
       url: https://www.facebook.com/StGabrielsPrimarySchool
       alt: Image alt text
-      image: /images/900x240cm_lsa_fa.jpg
+      image: /images/LSA.png
   - infopic:
       title: 2025 School Magazine
       id: infopic
