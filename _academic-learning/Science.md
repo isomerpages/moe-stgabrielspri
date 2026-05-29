@@ -123,7 +123,7 @@ the world around them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Construction Science understanding through hands-on activities</em>
+<p><em>Constructing Science understanding through hands-on activities</em>
 </p>
 </td>
 </tr>
