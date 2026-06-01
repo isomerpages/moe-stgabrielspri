@@ -4,9 +4,9 @@ permalink: /e-open-house/webinar-recording/
 description: ""
 variant: tiptap
 ---
-<h4>Watch the SGPS e-Open House 2024 Webinar</h4>
+<h4>Watch the SGPS e-Open House 2026 Webinar</h4>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="405" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-kHbXouVEcc?si=tsuwUPmN1cO-Krik"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nc8pvpBSVWU?si=V1dD0Xnt0qJbU5md"></iframe>
 </div>
 <p></p>
