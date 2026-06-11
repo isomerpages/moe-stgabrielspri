@@ -1,5 +1,5 @@
 ---
-title: Phase 1 Registration for 2026 P1 Registration
+title: Phase 1 Registration for 2026 P1 Registration Exercise
 permalink: /2026p1registration/
 description: ""
 variant: tiptap
