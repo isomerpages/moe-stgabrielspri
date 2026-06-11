@@ -25,8 +25,9 @@ sections:
       title: Phase 1 Registration for 2026 P1 Registration
       id: infopic
       description: 30 June 2026 - 02 July 2026
-      button: Button Text
+      button: Click Here
       alt: Image alt text
+      url: /2026p1registration/
   - infopic:
       title: Gabrielite 2028 Strategic Plan
       id: infopic
