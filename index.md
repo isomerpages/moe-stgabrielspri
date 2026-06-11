@@ -28,6 +28,7 @@ sections:
       button: Click Here
       alt: Image alt text
       url: /2026p1registration/
+      image: /images/p1registration.png
   - infopic:
       title: Gabrielite 2028 Strategic Plan
       id: infopic
