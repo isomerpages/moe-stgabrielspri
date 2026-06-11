@@ -22,6 +22,12 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/SGPS_Banner_2026.gif
   - infopic:
+      title: Phase 1 Registration for 2026 P1 Registration
+      id: infopic
+      description: 30 June 2026 - 02 July 2026
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Gabrielite 2028 Strategic Plan
       id: infopic
       button: Learn More
