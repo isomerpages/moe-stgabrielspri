@@ -20,8 +20,6 @@ variant: markdown
 [July 2026](https://drive.google.com/file/d/1RI9PU_F8dtxTd-U-SicDp6BhGtSamVVn/view?usp=drive_link)
 <br>
 <br>
-[2026 e-Open House Brochure 2026](https://drive.google.com/file/d/16Ch2ZakXeT0nhjFavrJcdMhXcYzgCxCG/view?usp=sharing)
-<br>
 [15 schools to host advanced modules as Singapore discontinues Gifted Education Programme](https://www.channelnewsasia.com/singapore/gifted-education-programme-gep-discontinued-gep-schools-advanced-modules-5963381)
 <br>
 [Advisory For Parents on Vaping](https://drive.google.com/file/d/1yQOVWzTTfDj_FluzAJ968Bj80kwvIsdY/view?usp=sharing)
@@ -37,17 +35,17 @@ variant: markdown
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Primary 1](https://drive.google.com/file/d/1QdUMQUqWujqTAfxUMMN0tGx9S8jYhl04/view?usp=drive_link) | [Primary 2](https://drive.google.com/file/d/1vVw6ujXnZ9n9IC11X4AxVM9Zxg2HWRen/view?usp=drive_link) | [Primary 3](https://drive.google.com/file/d/14iyrY2CriM_9mbVPGD2Yq-0cC_dNrVs1/view?usp=drive_link) | [Primary 4](https://drive.google.com/file/d/1CxVcojV5IfNufM6IwIHJENn5RKIQE6Nv/view?usp=drive_link) |
-| [Primary 5 Foundation](https://drive.google.com/file/d/1fqKxkmMySZa109DfYQkjn6DOTJoUImrE/view?usp=drive_link) | [Primary 5 Standard](https://drive.google.com/file/d/1OxHarNxhlgECSyQkys6hEDXnKLSb3Dbv/view?usp=drive_link) | [Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1_Yf69SX0JgRoMIhOZKV00UpnLx2qRHTU/view?usp=drive_link) |  
-[Primary 6 Foundation](https://drive.google.com/file/d/1SN2RxGA85zlBp_LSYYuTMS6Xf3zf4o7p/view?usp=drive_link) | [Primary 6 Standard](https://drive.google.com/file/d/1LeXlKPgbfZrb8VmeJZiPSztF--_w4VF0/view?usp=drive_link) | [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/1bkXHVVx1ZxQu-hNS6Il-R0ky2PXrvOhN/view?usp=drive_link) | 
+| [Primary 1](https://drive.google.com/file/d/1AwmUOUqBYearyPNHnDx21SNZoryPAN0_/view?usp=sharing) | [Primary 2](https://drive.google.com/file/d/1_owJ9DHqr4lBUC3gbS94Jc_Bk9eIdygd/view?usp=sharing) | [Primary 3](https://drive.google.com/file/d/1dJzvD7bxf9cV2Z5OZoTu9zE1J_nJvgZ2/view?usp=sharing) | [Primary 4](https://drive.google.com/file/d/1oLol9tMTyx8JCC7loUb9XIhcuXerruOM/view?usp=sharing) |
+| [Primary 5 Foundation](https://drive.google.com/file/d/1pjCMY6os7H65ezvpMHIJi2lRvE2QbeaL/view?usp=sharing) | [Primary 5 Standard](https://drive.google.com/file/d/10kkE4URu8V-IGepokAdhZBXWsgfgFzmw/view?usp=sharing) | [Primary 5 Higher Mother Tongue](https://drive.google.com/file/d/1UClE1N8YS8RSzgmLr7px-z3TjcWvXPoN/view?usp=sharing) |  
+[Primary 6 Foundation](https://drive.google.com/file/d/1YYkzLmmjftpB_ZBKMWZiYTJTZYDpPMYR/view?usp=sharing) | [Primary 6 Standard](https://drive.google.com/file/d/1NTqlPo4YsWZijWqTHP09TIbOp5_zX-8L/view?usp=sharing) | [Primary 6 Higher Mother Tongue](https://drive.google.com/file/d/16UYMWkjHMt-McEw9fn2lVxnB1orgllVo/view?usp=sharing) | 
 
 
-**Year End Assessment Timetable (2025)**  
+**Year End Assessment Timetable (2026)**  
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Primary 3](https://drive.google.com/file/d/1-q0nMTx8iaLQ5FATt6ihr7TDkWMVUm6b/view?usp=drive_link) | [Primary 4](https://drive.google.com/file/d/1qdk5DxdmORbIYH8_40vmBQdq93RQFXiu/view?usp=sharing) | [Primary 5 Foundation](https://drive.google.com/file/d/1Q290y0gFEWB8jKENf0kYYf753TOaVzgE/view?usp=sharing) | [Primary 5 Standard](https://drive.google.com/file/d/1vTA9dxzO0KkSaHGdO2axOaF3uo3ffqw9/view?usp=drive_link) |
-| [Primary 6 Foundation](https://drive.google.com/file/d/11-bLgSw4JlcmykHiyoWqtCw2-Y-GYo3L/view?usp=sharing) | [Primary 6 Standard](https://drive.google.com/file/d/1KOCTLBLmZsuigExFLrzwcj29M80y_GYT/view?usp=sharing) |
+| Primary 3 | Primary 4 | Primary 5 Foundation | Primary 5 Standard |
+| [Primary 6 Foundation](https://drive.google.com/file/d/10rLoaPRBwvPwnWhiGJUKxCGFV4yrYWGn/view?usp=sharing) | [Primary 6 Standard](https://drive.google.com/file/d/1ig_WaO1hfOAitIs65eOX-Fn8BLIJW4XO/view?usp=sharing) |
 
 
 [School-Based Assessment Policy](https://drive.google.com/file/d/1fCvz3jOLVLG62hxcFqnCkXCAGTzworS7/view?usp=sharing)
