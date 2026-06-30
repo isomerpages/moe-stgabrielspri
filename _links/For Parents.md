@@ -17,6 +17,8 @@ variant: markdown
 <br>
 [May &amp; June 2026](https://drive.google.com/file/d/18VmFaSbvRn26C6x2PbFaPoVg_QIAncCb/view?usp=drive_link)
 <br>
+[July 2026](https://drive.google.com/file/d/1RI9PU_F8dtxTd-U-SicDp6BhGtSamVVn/view?usp=drive_link)
+<br>
 <br>
 [2026 e-Open House Brochure 2026](https://drive.google.com/file/d/16Ch2ZakXeT0nhjFavrJcdMhXcYzgCxCG/view?usp=sharing)
 <br>
