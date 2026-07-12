@@ -176,11 +176,6 @@ variant: markdown
     <td class="tg-brl1"> lin_aizhu@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-brl1">Operations Manager</td>
-    <td class="tg-brl1">Mr Leow Lip Huat Pius</td>
-    <td class="tg-brl1"> leow_lip_huat_pius@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-brl1">Operations Manager<br></td>
     <td class="tg-brl1">Mr Lau Meng Fei Tommy<br></td>
     <td class="tg-brl1">lau_meng_fei_tommy@schools.gov.sg</td>
