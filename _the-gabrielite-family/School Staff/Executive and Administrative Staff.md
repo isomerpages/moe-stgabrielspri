@@ -50,17 +50,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leow Lip Huat Pius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leow_lip_huat_pius@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lau Meng Fei Tommy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,6 +59,17 @@ variant: tiptap
 <p>lau_meng_fei_tommy@schools.gov.sg
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Sadiq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohammad_sadiq_zainal_abidin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
