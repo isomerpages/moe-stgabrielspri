@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: Read More
       url: /grit-turns-into-gold-for-sgps-athletics-team/
-      image: /images/Screenshot_2026_07_13_085411.png
+      image: /images/athletics3.png
   - infopic:
       title: Gabrielite 2028 Strategic Plan
       id: infopic
