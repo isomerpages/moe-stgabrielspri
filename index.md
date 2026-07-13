@@ -22,6 +22,12 @@ sections:
           url: /signature-programmes/louis-marie-de-montfort/lmm/
       background: /images/SGPS_Banner_2026.gif
   - infopic:
+      title: Grit Turns into Gold for SGPS Athletics Team
+      id: infopic
+      button: Read More
+      url: /grit-turns-into-gold-for-sgps-athletics-team/
+      image: /images/Screenshot_2026_07_13_085411.png
+  - infopic:
       title: Gabrielite 2028 Strategic Plan
       id: infopic
       button: Learn More
