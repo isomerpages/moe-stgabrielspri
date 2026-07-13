@@ -2,7 +2,6 @@ collections:
   the-gabrielite-family:
     output: true
     order:
-      - Support the School.md
       - Principal's Message.md
       - School Educational Philosophy.md
       - School History & Traditions.md
@@ -15,10 +14,11 @@ collections:
       - School Staff/Allied Educators.md
       - School Staff/Executive and Administrative Staff.md
       - Student Outcomes.md
+      - Student Achievements/.keep
       - Student Achievements/2025.md
       - Student Achievements/2024.md
-      - Student Achievements/.keep
       - Student Achievements/2023.md
       - School Rules.md
       - School Safety & Security.md
       - Privacy Policies.md
+      - Support the School.md
