@@ -180,5 +180,10 @@ variant: markdown
     <td class="tg-brl1">Mr Lau Meng Fei Tommy<br></td>
     <td class="tg-brl1">lau_meng_fei_tommy@schools.gov.sg</td>
   </tr>
+	  <tr>
+    <td class="tg-brl1">Operations Manager<br></td>
+    <td class="tg-brl1">Mr Mohammad Sadiq<br></td>
+    <td class="tg-brl1">mohammad_sadiq_zainal_abidin@schools.gov.sg</td>
+  </tr>
 </tbody>
 </table>
