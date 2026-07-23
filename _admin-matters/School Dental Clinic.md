@@ -9,8 +9,7 @@ variant: tiptap
 </p>
 <p><strong><u>St. Gabriel’s Primary School</u></strong>
 </p>
-<p>220 Lorong Chuan</p>
-<p>Singapore 556742</p>
+<p>220 Lorong Chuan, Singapore 556742</p>
 <p>Tel: 97831761</p>
 <p></p>
 <p><strong><u>BUDDY CLINICS</u></strong>
@@ -28,8 +27,7 @@ shown below:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Maris Stella High Primary School</u></strong>
 </p>
-<p>25 Mount Vernon Rd</p>
-<p>Singapore 368051</p>
+<p>25 Mount Vernon Rd, Singapore 368051</p>
 <p>Tel: 8764 8516</p>
 </td>
 </tr>
@@ -37,8 +35,7 @@ shown below:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>St. Andrew's School Junior</u></strong>
 </p>
-<p>2 Francis Thomas Drive</p>
-<p>Singapore 359337</p>
+<p>2 Francis Thomas Drive, Singapore 359337</p>
 <p>Tel: 8909 7867</p>
 </td>
 </tr>
