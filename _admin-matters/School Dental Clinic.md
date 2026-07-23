@@ -4,6 +4,15 @@ permalink: /admin-matters/school-dental/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>SCHOOL DENTAL CLINIC</u></strong>
+<br>
+</p>
+<p><strong><u>St. Gabriel’s Primary School</u></strong>
+</p>
+<p>220 Lorong Chuan</p>
+<p>Singapore 556742</p>
+<p>Tel: 97831761</p>
+<p></p>
 <p><strong><u>BUDDY CLINICS</u></strong>
 </p>
 <p>If the Dental Clinic is closed, the alternate clinics to contact are as
