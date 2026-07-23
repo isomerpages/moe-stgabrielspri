@@ -10,7 +10,8 @@ variant: markdown
 | Class | Form Teachers | |
 |---|---|---|
 | 1 Self-Discipline    |**Mrs Karen Tan**<br>loo_xinyi_karen@schools.gov.sg  |**Mrs Ong Elsa**<br>teng_hui_khim_elsa@schools.gov.sg |
-| 1 Generosity |  **Mrs Sheryl Toh**<br>siew_sheryl@schools.gov.sg | **Mr Muhammad Andry**<br>muhammad_andry_hrithik_nur@schools.gov.sg  |
+| 1 Generosity |  **Mrs Sheryl Toh**<br>siew_sheryl@schools.gov.sg | **Mr Kiang Yeow Yong**<br>kiang_yeow_yong@schools.gov.sg |
+| | **Mr Charles**<br>oth_charles_ang_soon_chye@schools.gov.sg ||
 | 1 Perseverance | **Ms Siti Nurhayaty**<br>siti_nurhayaty_saptu@schools.gov.sg | **Ms Lin Bei Jin**<br>lin_bei_jin@schools.gov.sg |
 | | **Mdm Milahwati**<br>milahwati_hussain_a@schools.gov.sg | |
 | 1 Sincerity | **Mr Yung Keng Sing**<br>yung_keng_sing@schools.gov.sg | **Mr Quek Guan Hui**<br>quek_guan_hui@schools.gov.sg |
@@ -28,7 +29,8 @@ variant: markdown
 | | **Mdm Goh Gek Cher**<br>goh_gek_cher@schools.gov.sg | |
 | 2 Respect | **Mdm Nur Afiqa**<br>nur_afiqa_suaidi@schools.gov.sg | **Mrs Kareen Wong**<br>teoh_kareen@schools.gov.sg | |
 | | **Mr Felix Hector Gomez**<br>felix_hector_gomez@schools.gov.sg | |
-| 2 Diligence | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg | **Mrs Wee Yip Peng**<br>wee_yip_peng_nee@schools.gov.sg | 
+| 2 Diligence | **Mdm Lim Jia Shyuan**<br>lim_jia_shyuan@schools.gov.sg | **Mrs Wee Yip Peng**<br>wee_yip_peng_nee@schools.gov.sg |
+| | **Mr Zhou Yuntao**<br>zhou_yuntao@schools.gov.sg | |
 | 2 Self-Discipline | **Ms Nur Halimah**<br>nur_halimah_mohamed_ramlee@schools.gov.sg | **Ms Evelyn Wu**<br>evelyn_wu_ing_geok@schools.gov.sg | |
 | | **Mr Ng Chiong Hoe**<br>ng_chiong_hoe@schools.gov.sg | | 
 |
@@ -54,6 +56,7 @@ variant: markdown
 | 4 Loyalty | **Ms Ng Xin Ping**<br>ng_xin_ping@schools.gov.sg | **Mr Tan Yew Heng**<br>tan_yew_heng@schools.gov.sg |
 | | **Mrs Tan Siew Mei**<br>tan_siew_mei@schools.gov.sg | 
 | 4 Orderliness | **Mrs Shelena Lim**<br>tan_li_ing_shelena@schools.gov.sg | **Ms Annie Lim**<br>lim_annie@schools.gov.sg |
+| | **Ms Ng Hui Ting**<br>ng_hui_ting_a@schools.gov.sg | |
 | 4 Respect | **Mrs Jessica Hoon**<br>li_xin_hui@schools.gov.sg  | **Mrs Shankar**<br>krishnaveni_ramasamy@schools.gov.sg |
 | | **Ms M Sharmila**<br>m_sharmila@schools.gov.sg | |
 | 4 Diligence | **Mrs Jo-Marie Matthews**<br>jo-marie_malathi_alagu@schools.gov.sg | **Ms Wan Chui Ting**<br>wan_chui_ting@schools.gov.sg |
